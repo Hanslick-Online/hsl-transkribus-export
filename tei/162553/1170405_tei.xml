@@ -1,1 +1,863 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title type="main">1897.09.10</title><principal>alexander.wilfing@oeaw.ac.at</principal></titleStmt><publicationStmt><publisher>tranScriptorium</publisher></publicationStmt><seriesStmt><title>Eduard Hanslick, Neue Freie Presse</title></seriesStmt><sourceDesc><p>TRP document creator: alexander.wilfing@oeaw.ac.at</p></sourceDesc></fileDesc></teiHeader><facsimile><surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_1"><graphic url="%2Ffiles.09.10-0001.jpg" width="2479px" height="3508px"/></surface><surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_2"><graphic url="%2Ffiles.09.10-0002.jpg" width="2479px" height="3508px"/></surface><surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_3"><graphic url="%2Ffiles.09.10-0003.jpg" width="2479px" height="3508px"/></surface><surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_4"><graphic url="%2Ffiles.09.10-0004.jpg" width="2479px" height="3508px"/></surface></facsimile><text><body><div><pb facs="#facs_1" n="1" xml:id="img_0001"/><pb facs="#facs_2" n="2" xml:id="img_0002"/><pb facs="#facs_3" n="3" xml:id="img_0003"/><pb facs="#facs_4" n="4" xml:id="img_0004"/></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title type="main">1897.09.10</title><principal>alexander.wilfing@oeaw.ac.at</principal></titleStmt><publicationStmt><publisher>tranScriptorium</publisher></publicationStmt><seriesStmt><title>Eduard Hanslick, Neue Freie Presse</title></seriesStmt><sourceDesc><p>TRP document creator: alexander.wilfing@oeaw.ac.at</p></sourceDesc></fileDesc></teiHeader><facsimile><surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_1"><graphic url="%2Ffiles.jpg" width="2479px" height="3508px"/><zone points="701,2327 0,2327 0,3383 701,3383" rendition="TextRegion" xml:id="facs_1_region_1684567152388_1434">
+        <zone points="86,2362 593,2373 593,2346 467,2327 135,2329 109,2311 84,2324" rendition="Line" xml:id="facs_1_region_1684567152388_1434_tl_1"/>
+        <zone points="44,2418 658,2429 672,2390 351,2403 42,2383" rendition="Line" xml:id="facs_1_region_1684567152388_1434_tl_2"/>
+        <zone points="2,2450 676,2459 676,2427 2,2413" rendition="Line" xml:id="facs_1_region_1684567152388_1434_tl_3"/>
+        <zone points="4,2476 672,2489 672,2459 621,2452 4,2448" rendition="Line" xml:id="facs_1_region_1684567152388_1434_tl_4"/>
+        <zone points="7,2504 676,2513 676,2485 7,2476" rendition="Line" xml:id="facs_1_region_1684567152388_1434_tl_5"/>
+        <zone points="56,2534 672,2541 672,2518 623,2506 56,2508" rendition="Line" xml:id="facs_1_region_1684567152388_1434_tl_6"/>
+        <zone points="56,2568 677,2571 677,2539 56,2534" rendition="Line" xml:id="facs_1_region_1684567152388_1434_tl_7"/>
+        <zone points="4,2594 674,2599 672,2569 618,2562 4,2564" rendition="Line" xml:id="facs_1_region_1684567152388_1434_tl_8"/>
+        <zone points="2,2618 672,2627 670,2599 628,2594 2,2594" rendition="Line" xml:id="facs_1_region_1684567152388_1434_tl_9"/>
+        <zone points="5,2650 672,2655 670,2627 637,2625 4,2618" rendition="Line" xml:id="facs_1_region_1684567152388_1434_tl_10"/>
+        <zone points="0,2676 667,2682 667,2661 579,2648 0,2648" rendition="Line" xml:id="facs_1_region_1684567152388_1434_tl_11"/>
+        <zone points="0,2708 672,2715 672,2683 625,2676 0,2675" rendition="Line" xml:id="facs_1_region_1684567152388_1434_tl_12"/>
+        <zone points="0,2731 672,2741 672,2715 621,2711 0,2708" rendition="Line" xml:id="facs_1_region_1684567152388_1434_tl_13"/>
+        <zone points="0,2761 670,2769 670,2741 632,2734 0,2731" rendition="Line" xml:id="facs_1_region_1684567152388_1434_tl_14"/>
+        <zone points="2,2789 672,2796 672,2771 642,2764 2,2762" rendition="Line" xml:id="facs_1_region_1684567152388_1434_tl_15"/>
+        <zone points="0,2819 669,2829 667,2797 569,2789 0,2789" rendition="Line" xml:id="facs_1_region_1684567152388_1434_tl_16"/>
+        <zone points="0,2848 667,2854 667,2829 627,2822 0,2819" rendition="Line" xml:id="facs_1_region_1684567152388_1434_tl_17"/>
+        <zone points="0,2875 670,2883 670,2852 0,2847" rendition="Line" xml:id="facs_1_region_1684567152388_1434_tl_18"/>
+        <zone points="0,2903 667,2915 667,2883 635,2880 0,2875" rendition="Line" xml:id="facs_1_region_1684567152388_1434_tl_19"/>
+        <zone points="0,2934 670,2940 669,2915 618,2908 0,2903" rendition="Line" xml:id="facs_1_region_1684567152388_1434_tl_20"/>
+        <zone points="0,2964 667,2971 667,2940 590,2934 0,2931" rendition="Line" xml:id="facs_1_region_1684567152388_1434_tl_21"/>
+        <zone points="0,2991 670,2994 670,2971 521,2957 0,2964" rendition="Line" xml:id="facs_1_region_1684567152388_1434_tl_22"/>
+        <zone points="2,3019 672,3026 672,2994 539,2987 2,2991" rendition="Line" xml:id="facs_1_region_1684567152388_1434_tl_23"/>
+        <zone points="0,3045 672,3054 672,3026 600,3020 0,3019" rendition="Line" xml:id="facs_1_region_1684567152388_1434_tl_24"/>
+        <zone points="0,3073 667,3082 667,3050 0,3045" rendition="Line" xml:id="facs_1_region_1684567152388_1434_tl_25"/>
+        <zone points="2,3101 667,3110 667,3082 623,3073 2,3071" rendition="Line" xml:id="facs_1_region_1684567152388_1434_tl_26"/>
+        <zone points="2,3129 672,3140 670,3108 0,3101" rendition="Line" xml:id="facs_1_region_1684567152388_1434_tl_27"/>
+        <zone points="0,3157 663,3164 663,3136 0,3129" rendition="Line" xml:id="facs_1_region_1684567152388_1434_tl_28"/>
+        <zone points="2,3187 667,3196 651,3163 2,3157" rendition="Line" xml:id="facs_1_region_1684567152388_1434_tl_29"/>
+        <zone points="0,3215 660,3224 644,3187 0,3187" rendition="Line" xml:id="facs_1_region_1684567152388_1434_tl_30"/>
+        <zone points="2,3243 662,3250 639,3219 2,3215" rendition="Line" xml:id="facs_1_region_1684567152388_1434_tl_31"/>
+        <zone points="0,3271 656,3284 656,3252 574,3241 0,3247" rendition="Line" xml:id="facs_1_region_1684567152388_1434_tl_32"/>
+        <zone points="2,3299 653,3306 653,3282 579,3273 2,3275" rendition="Line" xml:id="facs_1_region_1684567152388_1434_tl_33"/>
+        <zone points="0,3336 660,3340 658,3306 0,3306" rendition="Line" xml:id="facs_1_region_1684567152388_1434_tl_34"/>
+        <zone points="35,3370 534,3380 534,3340 335,3349 319,3334 235,3349 35,3331" rendition="Line" xml:id="facs_1_region_1684567152388_1434_tl_35"/>
+      </zone><zone points="481,56 1675,56 1675,397 481,397" rendition="TextRegion" xml:id="facs_1_region_1684567110678_1413">
+        <zone points="888,133 911,146 949,137 985,147 1000,128 1021,147 1060,140 1076,156 1104,147 1114,158 1162,137 1176,149 1223,142 1221,91 1179,88 1153,105 1135,88 1041,84 965,63 951,75 916,72 888,93" rendition="Line" xml:id="facs_1_region_1684567110678_1413_tl_1"/>
+        <zone points="605,374 691,379 711,363 742,388 795,377 946,388 981,358 1037,360 1037,346 974,347 946,321 848,339 777,316 751,339 728,325 700,339 607,335" rendition="Line" xml:id="facs_1_region_1684567110678_1413_tl_2"/>
+        <zone points="474,377 493,381 516,376 532,388 562,377 583,379 586,333 570,333 556,323 549,330 544,325 537,332 534,330 523,340 504,326 477,335" rendition="Line" xml:id="facs_1_region_1684567110678_1413_tl_3"/>
+        <zone points="1067,388 1109,397 1160,372 1236,395 1271,374 1306,397 1404,397 1536,372 1564,395 1664,393 1664,335 1606,325 1462,346 1355,326 1307,344 1067,333" rendition="Line" xml:id="facs_1_region_1684567110678_1413_tl_4"/>
+      </zone><zone points="893,425 1229,425 1229,507 893,507" rendition="TextRegion" xml:id="facs_1_region_1684567116132_1416">
+        <zone points="897,479 990,483 1016,500 1223,491 1223,448 1199,433 1148,439 1137,428 1086,428 1074,442 1016,433 976,442 934,432 897,453" rendition="Line" xml:id="facs_1_region_1684567116132_1416_tl_1"/>
+      </zone><zone points="58,498 2092,498 2092,596 58,596" rendition="TextRegion" xml:id="facs_1_region_1684567130763_1425">
+        <zone points="53,560 358,562 356,530 330,516 186,512 153,514 140,526 111,514 51,516" rendition="Line" xml:id="facs_1_region_1684567130763_1425_tl_1"/>
+        <zone points="755,572 1393,579 1392,532 753,523" rendition="Line" xml:id="facs_1_region_1684567130763_1425_tl_2"/>
+        <zone points="1894,577 1916,588 1967,588 1983,581 2015,588 2024,579 2031,586 2078,588 2076,542 2057,535 1930,534 1892,546" rendition="Line" xml:id="facs_1_region_1684567130763_1425_tl_3"/>
+        <zone points="718,630 1402,644 1402,607 718,598" rendition="Line" xml:id="facs_1_region_1684567130763_1425_tl_4"/>
+      </zone><zone points="692,2252 1390,2252 1390,3400 692,3400" rendition="TextRegion" xml:id="facs_1_region_1684567143644_1431">
+        <zone points="704,2299 1395,2310 1395,2273 1360,2269 981,2262 925,2280 732,2260 704,2280" rendition="Line" xml:id="facs_1_region_1684567143644_1431_tl_1"/>
+        <zone points="700,2320 1386,2336 1386,2306 1362,2303 700,2296" rendition="Line" xml:id="facs_1_region_1684567143644_1431_tl_2"/>
+        <zone points="700,2355 1358,2373 1386,2362 1386,2334 698,2327" rendition="Line" xml:id="facs_1_region_1684567143644_1431_tl_3"/>
+        <zone points="695,2382 818,2389 834,2380 895,2394 1009,2387 1007,2355 900,2353 883,2364 849,2350 830,2362 799,2353 767,2360 751,2348 693,2362" rendition="Line" xml:id="facs_1_region_1684567143644_1431_tl_4"/>
+        <zone points="758,2411 863,2417 895,2408 941,2420 978,2411 1048,2420 1060,2415 1060,2387 983,2382 895,2394 885,2385 830,2380 818,2389 756,2378" rendition="Line" xml:id="facs_1_region_1684567143644_1431_tl_5"/>
+        <zone points="1055,2417 1386,2420 1386,2382 1253,2383 1243,2373 1232,2383 1190,2378 1176,2387 1164,2376 1144,2387 1109,2373 1078,2385 1055,2375" rendition="Line" xml:id="facs_1_region_1684567143644_1431_tl_6"/>
+        <zone points="713,2441 1062,2443 1062,2418 1037,2413 853,2417 732,2399 713,2410" rendition="Line" xml:id="facs_1_region_1684567143644_1431_tl_7"/>
+        <zone points="1055,2436 1139,2439 1153,2452 1188,2441 1329,2452 1341,2439 1362,2452 1378,2450 1376,2417 1174,2413 1160,2425 1053,2415" rendition="Line" xml:id="facs_1_region_1684567143644_1431_tl_8"/>
+        <zone points="700,2466 1386,2476 1386,2452 1307,2441 700,2439" rendition="Line" xml:id="facs_1_region_1684567143644_1431_tl_9"/>
+        <zone points="704,2499 1388,2508 1386,2475 1286,2469 1239,2485 704,2468" rendition="Line" xml:id="facs_1_region_1684567143644_1431_tl_10"/>
+        <zone points="704,2524 718,2522 725,2531 744,2531 748,2527 753,2532 769,2524 793,2524 795,2501 786,2501 781,2496 769,2501 760,2490 753,2490 746,2496 732,2496 727,2501 723,2497 706,2496" rendition="Line" xml:id="facs_1_region_1684567143644_1431_tl_11"/>
+        <zone points="755,2554 1385,2562 1385,2524 1344,2515 1295,2515 1272,2538 1199,2515 755,2531" rendition="Line" xml:id="facs_1_region_1684567143644_1431_tl_12"/>
+        <zone points="700,2582 1383,2589 1383,2562 1336,2557 700,2555" rendition="Line" xml:id="facs_1_region_1684567143644_1431_tl_13"/>
+        <zone points="704,2638 1381,2648 1381,2617 1329,2610 704,2608" rendition="Line" xml:id="facs_1_region_1684567143644_1431_tl_14"/>
+        <zone points="700,2669 1374,2673 1374,2643 700,2636" rendition="Line" xml:id="facs_1_region_1684567143644_1431_tl_15"/>
+        <zone points="695,2699 1381,2703 1381,2673 1346,2671 695,2666" rendition="Line" xml:id="facs_1_region_1684567143644_1431_tl_16"/>
+        <zone points="695,2724 1381,2731 1381,2704 1329,2699 695,2699" rendition="Line" xml:id="facs_1_region_1684567143644_1431_tl_17"/>
+        <zone points="697,2782 1381,2787 1358,2757 697,2752" rendition="Line" xml:id="facs_1_region_1684567143644_1431_tl_18"/>
+        <zone points="695,2810 1383,2813 1383,2787 695,2785" rendition="Line" xml:id="facs_1_region_1684567143644_1431_tl_19"/>
+        <zone points="697,2840 1300,2850 1379,2843 1378,2815 695,2808" rendition="Line" xml:id="facs_1_region_1684567143644_1431_tl_20"/>
+        <zone points="695,2871 1378,2878 1378,2843 1346,2840 695,2836" rendition="Line" xml:id="facs_1_region_1684567143644_1431_tl_21"/>
+        <zone points="697,2898 1374,2903 1374,2876 1334,2871 697,2871" rendition="Line" xml:id="facs_1_region_1684567143644_1431_tl_22"/>
+        <zone points="697,2924 1374,2931 1374,2903 1262,2894 697,2896" rendition="Line" xml:id="facs_1_region_1684567143644_1431_tl_23"/>
+        <zone points="697,2950 1379,2957 1379,2931 1295,2922 697,2924" rendition="Line" xml:id="facs_1_region_1684567143644_1431_tl_24"/>
+        <zone points="695,2976 1378,2987 1378,2957 695,2948" rendition="Line" xml:id="facs_1_region_1684567143644_1431_tl_25"/>
+        <zone points="697,3005 1374,3015 1374,2987 697,2976" rendition="Line" xml:id="facs_1_region_1684567143644_1431_tl_26"/>
+        <zone points="695,3036 1381,3041 1381,3013 695,3006" rendition="Line" xml:id="facs_1_region_1684567143644_1431_tl_27"/>
+        <zone points="698,3066 1378,3075 1376,3041 697,3034" rendition="Line" xml:id="facs_1_region_1684567143644_1431_tl_28"/>
+        <zone points="697,3096 2088,3112 1915,3073 697,3068" rendition="Line" xml:id="facs_1_region_1684567143644_1431_tl_29"/>
+        <zone points="697,3122 1376,3133 1374,3099 1267,3092 697,3094" rendition="Line" xml:id="facs_1_region_1684567143644_1431_tl_30"/>
+        <zone points="697,3150 1379,3155 1379,3133 1327,3120 697,3122" rendition="Line" xml:id="facs_1_region_1684567143644_1431_tl_31"/>
+        <zone points="695,3175 1362,3184 1362,3155 1307,3150 695,3150" rendition="Line" xml:id="facs_1_region_1684567143644_1431_tl_32"/>
+        <zone points="700,3203 1374,3212 1360,3182 700,3177" rendition="Line" xml:id="facs_1_region_1684567143644_1431_tl_33"/>
+        <zone points="697,3236 1323,3245 1379,3241 1378,3212 695,3205" rendition="Line" xml:id="facs_1_region_1684567143644_1431_tl_34"/>
+        <zone points="697,3266 1371,3273 1371,3241 1276,3234 697,3236" rendition="Line" xml:id="facs_1_region_1684567143644_1431_tl_35"/>
+        <zone points="698,3294 1376,3298 1374,3275 1262,3261 697,3266" rendition="Line" xml:id="facs_1_region_1684567143644_1431_tl_36"/>
+        <zone points="697,3319 1374,3331 1374,3299 1314,3291 697,3294" rendition="Line" xml:id="facs_1_region_1684567143644_1431_tl_37"/>
+        <zone points="688,3345 1285,3361 1374,3359 1374,3331 686,3313" rendition="Line" xml:id="facs_1_region_1684567143644_1431_tl_38"/>
+        <zone points="676,3380 2088,3394 2087,3361 1959,3356 676,3354" rendition="Line" xml:id="facs_1_region_1684567143644_1431_tl_39"/>
+      </zone><zone points="1412,2252 2104,2252 2104,3395 1412,3395" rendition="TextRegion" xml:id="facs_1_region_1684567139721_1428">
+        <zone points="1416,2306 2099,2315 2097,2283 2045,2273 1415,2273" rendition="Line" xml:id="facs_1_region_1684567139721_1428_tl_1"/>
+        <zone points="1415,2332 2102,2341 2085,2311 1964,2304 1415,2306" rendition="Line" xml:id="facs_1_region_1684567139721_1428_tl_2"/>
+        <zone points="1411,2362 1987,2371 1985,2339 1411,2331" rendition="Line" xml:id="facs_1_region_1684567139721_1428_tl_3"/>
+        <zone points="1981,2383 1990,2383 2008,2371 2031,2375 2036,2371 2048,2375 2076,2367 2092,2371 2095,2343 2052,2341 2046,2345 2031,2338 2006,2341 1995,2329 1987,2329" rendition="Line" xml:id="facs_1_region_1684567139721_1428_tl_4"/>
+        <zone points="1415,2390 1987,2396 1987,2357 1885,2375 1415,2366" rendition="Line" xml:id="facs_1_region_1684567139721_1428_tl_5"/>
+        <zone points="1985,2389 1999,2387 2018,2403 2025,2403 2032,2396 2046,2397 2053,2404 2062,2403 2067,2397 2076,2401 2080,2397 2090,2403 2095,2401 2092,2369 2083,2371 2076,2367 2025,2375 2020,2371 2013,2373 1988,2355 1980,2355" rendition="Line" xml:id="facs_1_region_1684567139721_1428_tl_6"/>
+        <zone points="1415,2420 2097,2425 2097,2397 1990,2390 1415,2390" rendition="Line" xml:id="facs_1_region_1684567139721_1428_tl_7"/>
+        <zone points="1411,2450 2094,2453 2094,2425 2060,2418 1411,2418" rendition="Line" xml:id="facs_1_region_1684567139721_1428_tl_8"/>
+        <zone points="1411,2476 2097,2489 2081,2453 1411,2450" rendition="Line" xml:id="facs_1_region_1684567139721_1428_tl_9"/>
+        <zone points="1415,2503 1888,2510 1888,2480 1843,2475 1776,2487 1653,2471 1560,2487 1415,2475" rendition="Line" xml:id="facs_1_region_1684567139721_1428_tl_10"/>
+        <zone points="1883,2515 1913,2515 1934,2504 1945,2515 1988,2504 1999,2515 2097,2513 2097,2489 2081,2483 2036,2482 2020,2489 1978,2480 1945,2483 1936,2492 1918,2480 1883,2476" rendition="Line" xml:id="facs_1_region_1684567139721_1428_tl_11"/>
+        <zone points="1415,2532 1888,2539 1878,2504 1732,2517 1627,2501 1583,2517 1560,2503 1415,2504" rendition="Line" xml:id="facs_1_region_1684567139721_1428_tl_12"/>
+        <zone points="1883,2517 1892,2515 1922,2539 1952,2534 1999,2543 2081,2532 2080,2515 2062,2520 2048,2510 2001,2515 1988,2504 1960,2510 1955,2518 1934,2504 1883,2517" rendition="Line" xml:id="facs_1_region_1684567139721_1428_tl_13"/>
+        <zone points="1406,2559 2083,2571 2083,2536 1959,2545 1895,2522 1808,2545 1406,2531" rendition="Line" xml:id="facs_1_region_1684567139721_1428_tl_14"/>
+        <zone points="1411,2589 2090,2596 2088,2571 2027,2566 1409,2561" rendition="Line" xml:id="facs_1_region_1684567139721_1428_tl_15"/>
+        <zone points="709,2611 2090,2627 2015,2592 709,2583" rendition="Line" xml:id="facs_1_region_1684567139721_1428_tl_16"/>
+        <zone points="1406,2648 2080,2657 2080,2625 1406,2617" rendition="Line" xml:id="facs_1_region_1684567139721_1428_tl_17"/>
+        <zone points="1408,2673 2083,2682 2083,2655 1988,2647 1408,2645" rendition="Line" xml:id="facs_1_region_1684567139721_1428_tl_18"/>
+        <zone points="1408,2703 2085,2715 2085,2683 2027,2678 1408,2673" rendition="Line" xml:id="facs_1_region_1684567139721_1428_tl_19"/>
+        <zone points="1415,2731 2090,2738 2090,2710 1415,2701" rendition="Line" xml:id="facs_1_region_1684567139721_1428_tl_20"/>
+        <zone points="697,2750 2092,2766 2052,2734 697,2726" rendition="Line" xml:id="facs_1_region_1684567139721_1428_tl_21"/>
+        <zone points="1406,2787 2076,2794 2076,2766 1406,2762" rendition="Line" xml:id="facs_1_region_1684567139721_1428_tl_22"/>
+        <zone points="1406,2817 2076,2827 2076,2796 2043,2792 1406,2787" rendition="Line" xml:id="facs_1_region_1684567139721_1428_tl_23"/>
+        <zone points="1408,2852 2073,2852 2071,2824 1946,2815 1406,2819" rendition="Line" xml:id="facs_1_region_1684567139721_1428_tl_24"/>
+        <zone points="1406,2876 2076,2880 2076,2852 2050,2847 1406,2857" rendition="Line" xml:id="facs_1_region_1684567139721_1428_tl_25"/>
+        <zone points="1402,2901 2097,2910 2087,2875 1402,2880" rendition="Line" xml:id="facs_1_region_1684567139721_1428_tl_26"/>
+        <zone points="1408,2933 2081,2940 2081,2910 1408,2899" rendition="Line" xml:id="facs_1_region_1684567139721_1428_tl_27"/>
+        <zone points="1399,2955 2083,2964 2081,2938 1987,2931 1399,2933" rendition="Line" xml:id="facs_1_region_1684567139721_1428_tl_28"/>
+        <zone points="1408,2992 2085,2992 2085,2964 1408,2957" rendition="Line" xml:id="facs_1_region_1684567139721_1428_tl_29"/>
+        <zone points="1406,3015 2039,3022 2025,2992 1946,2987 1406,2994" rendition="Line" xml:id="facs_1_region_1684567139721_1428_tl_30"/>
+        <zone points="1411,3048 2041,3052 2041,3020 1411,3017" rendition="Line" xml:id="facs_1_region_1684567139721_1428_tl_31"/>
+        <zone points="1399,3069 2090,3082 2074,3020 1992,3055 1399,3043" rendition="Line" xml:id="facs_1_region_1684567139721_1428_tl_32"/>
+        <zone points="1399,3129 2090,3140 2078,3106 1399,3099" rendition="Line" xml:id="facs_1_region_1684567139721_1428_tl_33"/>
+        <zone points="1402,3164 2078,3163 2078,3136 1402,3127" rendition="Line" xml:id="facs_1_region_1684567139721_1428_tl_34"/>
+        <zone points="1399,3189 2081,3198 2080,3164 1457,3152 1397,3170" rendition="Line" xml:id="facs_1_region_1684567139721_1428_tl_35"/>
+        <zone points="1399,3210 2067,3226 2080,3198 1397,3192" rendition="Line" xml:id="facs_1_region_1684567139721_1428_tl_36"/>
+        <zone points="1402,3241 2078,3249 2078,3226 2041,3219 1402,3212" rendition="Line" xml:id="facs_1_region_1684567139721_1428_tl_37"/>
+        <zone points="1399,3268 2055,3284 2090,3282 2090,3252 1397,3238" rendition="Line" xml:id="facs_1_region_1684567139721_1428_tl_38"/>
+        <zone points="1399,3299 2085,3306 2083,3278 1397,3268" rendition="Line" xml:id="facs_1_region_1684567139721_1428_tl_39"/>
+        <zone points="1406,3331 2081,3338 2081,3305 1987,3299 1941,3315 1406,3299" rendition="Line" xml:id="facs_1_region_1684567139721_1428_tl_40"/>
+        <zone points="1400,3356 2078,3363 2076,3340 2006,3331 1399,3331" rendition="Line" xml:id="facs_1_region_1684567139721_1428_tl_41"/>
+      </zone></surface><surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_2"><graphic url="%2Ffiles.jpg" width="2479px" height="3508px"/><zone points="138,2266 858,2266 858,3375 138,3375" rendition="TextRegion" xml:id="facs_2_region_1684567167403_1440">
+        <zone points="185,2318 1510,2305 1538,2264 187,2253" rendition="Line" xml:id="facs_2_region_1684567167403_1440_tl_1"/>
+        <zone points="190,2341 826,2341 826,2310 702,2302 296,2323 231,2300 190,2318" rendition="Line" xml:id="facs_2_region_1684567167403_1440_tl_2"/>
+        <zone points="172,2375 832,2365 832,2339 795,2328 283,2349 172,2334" rendition="Line" xml:id="facs_2_region_1684567167403_1440_tl_3"/>
+        <zone points="172,2404 821,2399 821,2367 699,2362 172,2375" rendition="Line" xml:id="facs_2_region_1684567167403_1440_tl_4"/>
+        <zone points="140,2432 829,2422 829,2396 543,2386 483,2406 140,2404" rendition="Line" xml:id="facs_2_region_1684567167403_1440_tl_5"/>
+        <zone points="242,2458 826,2453 826,2422 793,2414 242,2430" rendition="Line" xml:id="facs_2_region_1684567167403_1440_tl_6"/>
+        <zone points="161,2461 174,2461 177,2458 198,2461 200,2458 208,2458 216,2466 229,2456 249,2456 252,2438 229,2438 226,2435 218,2438 210,2430 164,2432" rendition="Line" xml:id="facs_2_region_1684567167403_1440_tl_7"/>
+        <zone points="164,2492 826,2482 826,2456 728,2448 164,2458" rendition="Line" xml:id="facs_2_region_1684567167403_1440_tl_8"/>
+        <zone points="377,2516 829,2510 829,2482 777,2474 696,2487 637,2474 598,2487 561,2471 533,2487 377,2484" rendition="Line" xml:id="facs_2_region_1684567167403_1440_tl_9"/>
+        <zone points="143,2513 203,2518 213,2526 234,2526 249,2513 262,2521 301,2513 314,2518 325,2510 335,2516 369,2513 369,2487 247,2490 234,2482 226,2490 179,2490 159,2469 143,2469" rendition="Line" xml:id="facs_2_region_1684567167403_1440_tl_10"/>
+        <zone points="140,2544 218,2539 236,2555 390,2529 442,2547 546,2531 572,2547 665,2542 665,2513 140,2510" rendition="Line" xml:id="facs_2_region_1684567167403_1440_tl_11"/>
+        <zone points="140,2575 829,2568 829,2539 774,2531 140,2547" rendition="Line" xml:id="facs_2_region_1684567167403_1440_tl_12"/>
+        <zone points="166,2607 832,2596 832,2568 722,2562 166,2573" rendition="Line" xml:id="facs_2_region_1684567167403_1440_tl_13"/>
+        <zone points="169,2630 829,2625 829,2596 790,2588 169,2607" rendition="Line" xml:id="facs_2_region_1684567167403_1440_tl_14"/>
+        <zone points="172,2659 832,2653 832,2625 782,2620 172,2630" rendition="Line" xml:id="facs_2_region_1684567167403_1440_tl_15"/>
+        <zone points="200,2690 834,2682 834,2653 761,2646 200,2659" rendition="Line" xml:id="facs_2_region_1684567167403_1440_tl_16"/>
+        <zone points="200,2713 829,2710 829,2682 798,2677 260,2687 200,2664" rendition="Line" xml:id="facs_2_region_1684567167403_1440_tl_17"/>
+        <zone points="182,2747 832,2736 832,2708 182,2713" rendition="Line" xml:id="facs_2_region_1684567167403_1440_tl_18"/>
+        <zone points="146,2778 832,2762 832,2736 670,2731 146,2744" rendition="Line" xml:id="facs_2_region_1684567167403_1440_tl_19"/>
+        <zone points="151,2807 837,2794 821,2760 151,2775" rendition="Line" xml:id="facs_2_region_1684567167403_1440_tl_20"/>
+        <zone points="172,2833 832,2822 832,2794 769,2788 172,2801" rendition="Line" xml:id="facs_2_region_1684567167403_1440_tl_21"/>
+        <zone points="166,2859 832,2851 834,2820 689,2814 169,2825" rendition="Line" xml:id="facs_2_region_1684567167403_1440_tl_22"/>
+        <zone points="146,2885 832,2877 832,2851 772,2840 146,2859" rendition="Line" xml:id="facs_2_region_1684567167403_1440_tl_23"/>
+        <zone points="166,2916 839,2908 821,2874 166,2887" rendition="Line" xml:id="facs_2_region_1684567167403_1440_tl_24"/>
+        <zone points="166,2944 832,2937 832,2905 774,2900 166,2913" rendition="Line" xml:id="facs_2_region_1684567167403_1440_tl_25"/>
+        <zone points="372,2970 837,2963 837,2934 795,2929 372,2939" rendition="Line" xml:id="facs_2_region_1684567167403_1440_tl_26"/>
+        <zone points="164,2973 218,2968 283,2973 304,2965 317,2970 327,2963 351,2965 353,2942 320,2942 304,2934 286,2942 166,2944" rendition="Line" xml:id="facs_2_region_1684567167403_1440_tl_27"/>
+        <zone points="166,3002 385,2981 548,3004 832,2991 832,2963 764,2957 166,2973" rendition="Line" xml:id="facs_2_region_1684567167403_1440_tl_28"/>
+        <zone points="172,3025 837,3020 837,2991 790,2986 385,2981 172,3002" rendition="Line" xml:id="facs_2_region_1684567167403_1440_tl_29"/>
+        <zone points="177,3054 837,3048 837,3020 800,3017 177,3020" rendition="Line" xml:id="facs_2_region_1684567167403_1440_tl_30"/>
+        <zone points="164,3082 837,3077 837,3048 816,3046 164,3059" rendition="Line" xml:id="facs_2_region_1684567167403_1440_tl_31"/>
+        <zone points="159,3111 834,3106 834,3077 790,3072 159,3085" rendition="Line" xml:id="facs_2_region_1684567167403_1440_tl_32"/>
+        <zone points="174,3142 834,3131 834,3106 759,3100 174,3113" rendition="Line" xml:id="facs_2_region_1684567167403_1440_tl_33"/>
+        <zone points="177,3165 837,3160 837,3131 720,3126 177,3142" rendition="Line" xml:id="facs_2_region_1684567167403_1440_tl_34"/>
+        <zone points="179,3199 839,3189 839,3163 790,3155 179,3168" rendition="Line" xml:id="facs_2_region_1684567167403_1440_tl_35"/>
+        <zone points="153,3222 839,3220 839,3189 738,3183 153,3199" rendition="Line" xml:id="facs_2_region_1684567167403_1440_tl_36"/>
+        <zone points="156,3251 834,3248 821,3217 156,3225" rendition="Line" xml:id="facs_2_region_1684567167403_1440_tl_37"/>
+        <zone points="159,3285 839,3274 839,3243 795,3238 159,3251" rendition="Line" xml:id="facs_2_region_1684567167403_1440_tl_38"/>
+        <zone points="159,3308 839,3300 839,3274 808,3267 159,3282" rendition="Line" xml:id="facs_2_region_1684567167403_1440_tl_39"/>
+        <zone points="153,3334 803,3334 845,3326 847,3300 153,3311" rendition="Line" xml:id="facs_2_region_1684567167403_1440_tl_40"/>
+      </zone><zone points="847,2266 1561,2266 1561,3361 847,3361" rendition="TextRegion" xml:id="facs_2_region_1684567171168_1443">
+        <zone points="847,2339 1533,2328 1533,2300 1432,2297 847,2310" rendition="Line" xml:id="facs_2_region_1684567171168_1443_tl_1"/>
+        <zone points="845,2365 1536,2360 1536,2328 1460,2323 845,2339" rendition="Line" xml:id="facs_2_region_1684567171168_1443_tl_2"/>
+        <zone points="850,2393 998,2409 1021,2388 1536,2386 1536,2357 1515,2354 850,2365" rendition="Line" xml:id="facs_2_region_1684567171168_1443_tl_3"/>
+        <zone points="855,2422 1533,2414 1533,2386 1414,2378 855,2393" rendition="Line" xml:id="facs_2_region_1684567171168_1443_tl_4"/>
+        <zone points="858,2451 1533,2445 1533,2417 1497,2409 860,2425" rendition="Line" xml:id="facs_2_region_1684567171168_1443_tl_5"/>
+        <zone points="855,2479 1536,2471 1536,2443 1481,2440 855,2451" rendition="Line" xml:id="facs_2_region_1684567171168_1443_tl_6"/>
+        <zone points="855,2508 1541,2518 1541,2471 1499,2466 855,2479" rendition="Line" xml:id="facs_2_region_1684567171168_1443_tl_7"/>
+        <zone points="657,2536 884,2549 943,2531 1245,2531 1245,2505 1177,2500 657,2510" rendition="Line" xml:id="facs_2_region_1684567171168_1443_tl_8"/>
+        <zone points="904,2562 1512,2562 1512,2521 1484,2505 1375,2531 1331,2505 1273,2531 904,2539" rendition="Line" xml:id="facs_2_region_1684567171168_1443_tl_9"/>
+        <zone points="850,2599 1538,2588 1541,2531 1486,2560 852,2560" rendition="Line" xml:id="facs_2_region_1684567171168_1443_tl_10"/>
+        <zone points="850,2622 1463,2620 1538,2614 1541,2586 850,2599" rendition="Line" xml:id="facs_2_region_1684567171168_1443_tl_11"/>
+        <zone points="855,2651 1541,2643 1544,2614 855,2625" rendition="Line" xml:id="facs_2_region_1684567171168_1443_tl_12"/>
+        <zone points="850,2682 1536,2672 1538,2643 852,2651" rendition="Line" xml:id="facs_2_region_1684567171168_1443_tl_13"/>
+        <zone points="847,2705 1536,2698 1518,2669 850,2677" rendition="Line" xml:id="facs_2_region_1684567171168_1443_tl_14"/>
+        <zone points="850,2731 1536,2726 1518,2695 850,2705" rendition="Line" xml:id="facs_2_region_1684567171168_1443_tl_15"/>
+        <zone points="850,2760 1538,2752 1538,2726 1497,2718 850,2734" rendition="Line" xml:id="facs_2_region_1684567171168_1443_tl_16"/>
+        <zone points="858,2794 1538,2781 1538,2755 1411,2747 858,2762" rendition="Line" xml:id="facs_2_region_1684567171168_1443_tl_17"/>
+        <zone points="858,2820 1541,2812 1541,2781 1450,2775 858,2791" rendition="Line" xml:id="facs_2_region_1684567171168_1443_tl_18"/>
+        <zone points="860,2848 1536,2838 1538,2812 1486,2807 863,2817" rendition="Line" xml:id="facs_2_region_1684567171168_1443_tl_19"/>
+        <zone points="860,2877 1549,2866 1549,2840 1460,2833 860,2848" rendition="Line" xml:id="facs_2_region_1684567171168_1443_tl_20"/>
+        <zone points="858,2903 1544,2913 1544,2869 1484,2861 858,2877" rendition="Line" xml:id="facs_2_region_1684567171168_1443_tl_21"/>
+        <zone points="858,2942 907,2942 936,2929 967,2934 975,2926 1011,2934 1076,2931 1076,2903 858,2903" rendition="Line" xml:id="facs_2_region_1684567171168_1443_tl_22"/>
+        <zone points="915,2957 1536,2957 1536,2921 1401,2903 1229,2921 1143,2900 1091,2931 915,2931" rendition="Line" xml:id="facs_2_region_1684567171168_1443_tl_23"/>
+        <zone points="860,2989 1538,2981 1538,2952 1512,2950 936,2963 860,2947" rendition="Line" xml:id="facs_2_region_1684567171168_1443_tl_24"/>
+        <zone points="860,3017 1546,3009 1546,2981 1489,2973 860,2989" rendition="Line" xml:id="facs_2_region_1684567171168_1443_tl_25"/>
+        <zone points="860,3046 1546,3041 1546,3012 1442,3002 860,3017" rendition="Line" xml:id="facs_2_region_1684567171168_1443_tl_26"/>
+        <zone points="858,3072 1544,3061 1544,3038 1494,3030 858,3046" rendition="Line" xml:id="facs_2_region_1684567171168_1443_tl_27"/>
+        <zone points="863,3103 1538,3090 1538,3064 1445,3056 863,3072" rendition="Line" xml:id="facs_2_region_1684567171168_1443_tl_28"/>
+        <zone points="860,3129 1546,3124 1546,3093 1518,3090 860,3100" rendition="Line" xml:id="facs_2_region_1684567171168_1443_tl_29"/>
+        <zone points="860,3160 1468,3155 1546,3150 1549,3121 863,3129" rendition="Line" xml:id="facs_2_region_1684567171168_1443_tl_30"/>
+        <zone points="858,3186 1544,3178 1523,3147 858,3157" rendition="Line" xml:id="facs_2_region_1684567171168_1443_tl_31"/>
+        <zone points="863,3220 1549,3207 1549,3178 1473,3173 863,3189" rendition="Line" xml:id="facs_2_region_1684567171168_1443_tl_32"/>
+        <zone points="865,3241 1551,3230 1551,3204 1507,3196 865,3220" rendition="Line" xml:id="facs_2_region_1684567171168_1443_tl_33"/>
+        <zone points="865,3272 1544,3261 1544,3233 1499,3230 865,3241" rendition="Line" xml:id="facs_2_region_1684567171168_1443_tl_34"/>
+        <zone points="865,3308 1544,3293 1544,3264 1481,3259 865,3272" rendition="Line" xml:id="facs_2_region_1684567171168_1443_tl_35"/>
+        <zone points="868,3332 1541,3321 1541,3293 1481,3287 868,3303" rendition="Line" xml:id="facs_2_region_1684567171168_1443_tl_36"/>
+        <zone points="161,3376 1435,3381 1616,3347 1705,3381 1772,3345 2251,3342 2199,3303 161,3334" rendition="Line" xml:id="facs_2_region_1684567171168_1443_tl_37"/>
+      </zone><zone points="1550,2252 2267,2252 2267,3347 1550,3347" rendition="TextRegion" xml:id="facs_2_region_1684567175056_1446">
+        <zone points="1559,2302 2245,2287 2245,2253 2183,2251 1559,2266" rendition="Line" xml:id="facs_2_region_1684567175056_1446_tl_1"/>
+        <zone points="1564,2326 2243,2321 2238,2287 1564,2300" rendition="Line" xml:id="facs_2_region_1684567175056_1446_tl_2"/>
+        <zone points="1554,2357 2232,2349 2232,2318 2162,2313 1557,2323" rendition="Line" xml:id="facs_2_region_1684567175056_1446_tl_3"/>
+        <zone points="1564,2393 2092,2367 2191,2383 2230,2375 2232,2347 1564,2360" rendition="Line" xml:id="facs_2_region_1684567175056_1446_tl_4"/>
+        <zone points="1562,2414 2238,2401 2238,2375 2095,2370 1562,2380" rendition="Line" xml:id="facs_2_region_1684567175056_1446_tl_5"/>
+        <zone points="1559,2443 2245,2430 2245,2404 2105,2396 1559,2412" rendition="Line" xml:id="facs_2_region_1684567175056_1446_tl_6"/>
+        <zone points="1557,2469 2238,2461 2238,2430 2193,2427 1557,2440" rendition="Line" xml:id="facs_2_region_1684567175056_1446_tl_7"/>
+        <zone points="1557,2500 2219,2492 2238,2461 1559,2469" rendition="Line" xml:id="facs_2_region_1684567175056_1446_tl_8"/>
+        <zone points="1562,2529 2235,2516 2235,2490 2113,2482 1562,2505" rendition="Line" xml:id="facs_2_region_1684567175056_1446_tl_9"/>
+        <zone points="1564,2552 2238,2544 2214,2508 1564,2526" rendition="Line" xml:id="facs_2_region_1684567175056_1446_tl_10"/>
+        <zone points="1567,2588 2235,2575 2235,2547 2048,2536 1567,2555" rendition="Line" xml:id="facs_2_region_1684567175056_1446_tl_11"/>
+        <zone points="1567,2612 2245,2601 2245,2573 2193,2570 1567,2586" rendition="Line" xml:id="facs_2_region_1684567175056_1446_tl_12"/>
+        <zone points="1562,2643 2243,2633 2227,2599 1562,2609" rendition="Line" xml:id="facs_2_region_1684567175056_1446_tl_13"/>
+        <zone points="1562,2672 2235,2656 2204,2622 1562,2646" rendition="Line" xml:id="facs_2_region_1684567175056_1446_tl_14"/>
+        <zone points="1564,2700 2232,2687 2235,2656 1567,2672" rendition="Line" xml:id="facs_2_region_1684567175056_1446_tl_15"/>
+        <zone points="1564,2723 2238,2716 2238,2685 2128,2682 1564,2700" rendition="Line" xml:id="facs_2_region_1684567175056_1446_tl_16"/>
+        <zone points="1564,2755 2232,2744 2235,2716 1567,2723" rendition="Line" xml:id="facs_2_region_1684567175056_1446_tl_17"/>
+        <zone points="1564,2781 2245,2770 2245,2744 2214,2739 1564,2755" rendition="Line" xml:id="facs_2_region_1684567175056_1446_tl_18"/>
+        <zone points="1564,2809 2238,2801 2238,2768 2097,2762 1564,2778" rendition="Line" xml:id="facs_2_region_1684567175056_1446_tl_19"/>
+        <zone points="1564,2840 2243,2830 2243,2801 2131,2794 1564,2809" rendition="Line" xml:id="facs_2_region_1684567175056_1446_tl_20"/>
+        <zone points="1562,2866 2235,2856 2235,2825 2173,2822 1562,2838" rendition="Line" xml:id="facs_2_region_1684567175056_1446_tl_21"/>
+        <zone points="1564,2892 2243,2890 2243,2856 2193,2853 1564,2864" rendition="Line" xml:id="facs_2_region_1684567175056_1446_tl_22"/>
+        <zone points="1562,2921 2235,2911 2235,2885 2113,2877 1562,2890" rendition="Line" xml:id="facs_2_region_1684567175056_1446_tl_23"/>
+        <zone points="1562,2950 2238,2942 2238,2911 1562,2921" rendition="Line" xml:id="facs_2_region_1684567175056_1446_tl_24"/>
+        <zone points="1564,2978 2232,2970 2232,2939 2209,2931 1564,2950" rendition="Line" xml:id="facs_2_region_1684567175056_1446_tl_25"/>
+        <zone points="1570,3012 2243,2999 2243,2968 1570,2981" rendition="Line" xml:id="facs_2_region_1684567175056_1446_tl_26"/>
+        <zone points="1562,3033 2219,3030 2245,2999 1562,3009" rendition="Line" xml:id="facs_2_region_1684567175056_1446_tl_27"/>
+        <zone points="1564,3067 2230,3046 2230,3028 2118,3020 1564,3033" rendition="Line" xml:id="facs_2_region_1684567175056_1446_tl_28"/>
+        <zone points="1564,3090 2245,3082 2245,3056 2219,3051 1564,3064" rendition="Line" xml:id="facs_2_region_1684567175056_1446_tl_29"/>
+        <zone points="1562,3124 2243,3111 2243,3080 1564,3090" rendition="Line" xml:id="facs_2_region_1684567175056_1446_tl_30"/>
+        <zone points="1570,3147 2243,3139 2243,3111 2214,3106 1570,3124" rendition="Line" xml:id="facs_2_region_1684567175056_1446_tl_31"/>
+        <zone points="1562,3173 2243,3165 2243,3142 2095,3131 1562,3142" rendition="Line" xml:id="facs_2_region_1684567175056_1446_tl_32"/>
+        <zone points="1570,3207 2243,3196 2243,3165 2076,3160 1570,3178" rendition="Line" xml:id="facs_2_region_1684567175056_1446_tl_33"/>
+        <zone points="1567,3230 1632,3246 2245,3222 2245,3196 2191,3189 1567,3207" rendition="Line" xml:id="facs_2_region_1684567175056_1446_tl_34"/>
+        <zone points="1567,3261 2243,3248 2243,3222 2154,3217 1567,3233" rendition="Line" xml:id="facs_2_region_1684567175056_1446_tl_35"/>
+        <zone points="1567,3290 2227,3280 2206,3246 1567,3259" rendition="Line" xml:id="facs_2_region_1684567175056_1446_tl_36"/>
+        <zone points="1567,3319 2240,3311 2225,3277 1567,3293" rendition="Line" xml:id="facs_2_region_1684567175056_1446_tl_37"/>
+      </zone></surface><surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_3"><graphic url="%2Ffiles.jpg" width="2479px" height="3508px"/><zone points="676,2252 0,2252 0,3361 676,3361" rendition="TextRegion" xml:id="facs_3_region_1684567218302_1467">
+        <zone points="13,2292 652,2307 649,2266 10,2256" rendition="Line" xml:id="facs_3_region_1684567218302_1467_tl_1"/>
+        <zone points="13,2328 225,2315 577,2340 649,2333 649,2305 10,2292" rendition="Line" xml:id="facs_3_region_1684567218302_1467_tl_2"/>
+        <zone points="15,2348 654,2361 652,2333 524,2325 15,2322" rendition="Line" xml:id="facs_3_region_1684567218302_1467_tl_3"/>
+        <zone points="0,2379 644,2391 644,2366 572,2353 0,2348" rendition="Line" xml:id="facs_3_region_1684567218302_1467_tl_4"/>
+        <zone points="0,2407 649,2420 649,2391 616,2381 0,2379" rendition="Line" xml:id="facs_3_region_1684567218302_1467_tl_5"/>
+        <zone points="0,2463 644,2476 641,2443 608,2440 0,2435" rendition="Line" xml:id="facs_3_region_1684567218302_1467_tl_6"/>
+        <zone points="0,2491 644,2504 644,2476 478,2460 0,2463" rendition="Line" xml:id="facs_3_region_1684567218302_1467_tl_7"/>
+        <zone points="0,2519 641,2529 639,2504 501,2494 0,2491" rendition="Line" xml:id="facs_3_region_1684567218302_1467_tl_8"/>
+        <zone points="0,2547 646,2558 646,2532 618,2524 0,2517" rendition="Line" xml:id="facs_3_region_1684567218302_1467_tl_9"/>
+        <zone points="0,2575 646,2591 646,2560 593,2555 0,2545" rendition="Line" xml:id="facs_3_region_1684567218302_1467_tl_10"/>
+        <zone points="0,2601 644,2616 641,2588 595,2583 0,2575" rendition="Line" xml:id="facs_3_region_1684567218302_1467_tl_11"/>
+        <zone points="0,2634 641,2642 641,2614 485,2601 0,2604" rendition="Line" xml:id="facs_3_region_1684567218302_1467_tl_12"/>
+        <zone points="0,2716 641,2739 639,2701 608,2696 0,2690" rendition="Line" xml:id="facs_3_region_1684567218302_1467_tl_13"/>
+        <zone points="3,2765 639,2785 639,2744 342,2749 220,2721 189,2744 3,2747" rendition="Line" xml:id="facs_3_region_1684567218302_1467_tl_14"/>
+        <zone points="0,2810 641,2813 639,2785 562,2777 0,2770" rendition="Line" xml:id="facs_3_region_1684567218302_1467_tl_15"/>
+        <zone points="3,2833 639,2841 639,2816 427,2800 3,2805" rendition="Line" xml:id="facs_3_region_1684567218302_1467_tl_16"/>
+        <zone points="0,2864 138,2851 312,2874 634,2872 634,2841 554,2833 0,2833" rendition="Line" xml:id="facs_3_region_1684567218302_1467_tl_17"/>
+        <zone points="0,2890 636,2900 636,2872 583,2859 0,2864" rendition="Line" xml:id="facs_3_region_1684567218302_1467_tl_18"/>
+        <zone points="0,2918 613,2925 613,2902 567,2895 0,2885" rendition="Line" xml:id="facs_3_region_1684567218302_1467_tl_19"/>
+        <zone points="0,2943 611,2956 595,2923 0,2918" rendition="Line" xml:id="facs_3_region_1684567218302_1467_tl_20"/>
+        <zone points="0,2982 631,2984 631,2959 521,2948 0,2943" rendition="Line" xml:id="facs_3_region_1684567218302_1467_tl_21"/>
+        <zone points="0,3002 531,3010 531,2987 501,2977 0,2979" rendition="Line" xml:id="facs_3_region_1684567218302_1467_tl_22"/>
+        <zone points="64,3030 529,3038 529,3010 158,3005 130,2989 97,3007 61,3000" rendition="Line" xml:id="facs_3_region_1684567218302_1467_tl_23"/>
+        <zone points="0,3028 18,3030 20,3033 28,3028 46,3030 49,3033 56,3025 61,3030 74,3030 74,3002 61,3002 59,3005 38,3002 36,3005 18,3007 15,3002 0,2997" rendition="Line" xml:id="facs_3_region_1684567218302_1467_tl_24"/>
+        <zone points="521,3033 534,3033 542,3040 560,3033 570,3043 583,3038 634,3038 634,3012 613,3012 603,3002 588,3007 580,3015 572,3012 560,3015 544,3012 534,3005 521,3005" rendition="Line" xml:id="facs_3_region_1684567218302_1467_tl_25"/>
+        <zone points="0,3058 92,3063 105,3048 120,3063 322,3061 322,3030 0,3028" rendition="Line" xml:id="facs_3_region_1684567218302_1467_tl_26"/>
+        <zone points="314,3053 376,3069 386,3061 634,3069 634,3040 572,3043 560,3030 501,3040 314,3035" rendition="Line" xml:id="facs_3_region_1684567218302_1467_tl_27"/>
+        <zone points="0,3084 634,3097 634,3066 0,3058" rendition="Line" xml:id="facs_3_region_1684567218302_1467_tl_28"/>
+        <zone points="0,3117 631,3125 631,3097 611,3094 0,3084" rendition="Line" xml:id="facs_3_region_1684567218302_1467_tl_29"/>
+        <zone points="59,3143 634,3153 634,3122 590,3117 59,3115" rendition="Line" xml:id="facs_3_region_1684567218302_1467_tl_30"/>
+        <zone points="59,3166 634,3184 631,3153 603,3145 59,3143" rendition="Line" xml:id="facs_3_region_1684567218302_1467_tl_31"/>
+        <zone points="0,3204 631,3212 631,3181 544,3173 0,3171" rendition="Line" xml:id="facs_3_region_1684567218302_1467_tl_32"/>
+        <zone points="0,3230 64,3227 82,3235 105,3227 120,3237 141,3227 215,3230 215,3204 187,3204 174,3196 125,3196 112,3204 0,3199" rendition="Line" xml:id="facs_3_region_1684567218302_1467_tl_33"/>
+        <zone points="3,3253 626,3268 626,3237 595,3224 3,3230" rendition="Line" xml:id="facs_3_region_1684567218302_1467_tl_34"/>
+        <zone points="0,3286 626,3293 626,3265 537,3255 0,3247" rendition="Line" xml:id="facs_3_region_1684567218302_1467_tl_35"/>
+        <zone points="0,3314 631,3324 631,3296 590,3291 0,3286" rendition="Line" xml:id="facs_3_region_1684567218302_1467_tl_36"/>
+      </zone><zone points="1382,2268 662,2268 662,3361 1382,3361" rendition="TextRegion" xml:id="facs_3_region_1684567210393_1464">
+        <zone points="672,2305 1354,2320 1354,2284 1331,2282 672,2269" rendition="Line" xml:id="facs_3_region_1684567210393_1464_tl_1"/>
+        <zone points="677,2333 1352,2348 1349,2320 1313,2315 675,2307" rendition="Line" xml:id="facs_3_region_1684567210393_1464_tl_2"/>
+        <zone points="675,2361 1362,2376 1362,2351 1283,2340 675,2333" rendition="Line" xml:id="facs_3_region_1684567210393_1464_tl_3"/>
+        <zone points="677,2389 1357,2404 1357,2376 1270,2366 677,2361" rendition="Line" xml:id="facs_3_region_1684567210393_1464_tl_4"/>
+        <zone points="669,2417 1352,2435 1352,2404 1247,2394 669,2389" rendition="Line" xml:id="facs_3_region_1684567210393_1464_tl_5"/>
+        <zone points="0,2435 1352,2460 1290,2422 0,2404" rendition="Line" xml:id="facs_3_region_1684567210393_1464_tl_6"/>
+        <zone points="672,2473 1349,2486 1349,2460 672,2445" rendition="Line" xml:id="facs_3_region_1684567210393_1464_tl_7"/>
+        <zone points="669,2501 1357,2517 1357,2486 1336,2483 669,2473" rendition="Line" xml:id="facs_3_region_1684567210393_1464_tl_8"/>
+        <zone points="669,2532 1357,2542 1357,2517 1265,2506 669,2501" rendition="Line" xml:id="facs_3_region_1684567210393_1464_tl_9"/>
+        <zone points="667,2560 1334,2575 1354,2545 664,2532" rendition="Line" xml:id="facs_3_region_1684567210393_1464_tl_10"/>
+        <zone points="669,2586 1349,2604 1349,2573 1308,2568 669,2563" rendition="Line" xml:id="facs_3_region_1684567210393_1464_tl_11"/>
+        <zone points="669,2611 1357,2629 1357,2601 1260,2593 669,2586" rendition="Line" xml:id="facs_3_region_1684567210393_1464_tl_12"/>
+        <zone points="664,2642 1316,2660 1341,2657 1341,2629 662,2614" rendition="Line" xml:id="facs_3_region_1684567210393_1464_tl_13"/>
+        <zone points="0,2665 1341,2685 0,2634" rendition="Line" xml:id="facs_3_region_1684567210393_1464_tl_14"/>
+        <zone points="0,2690 1349,2716 1318,2680 0,2665" rendition="Line" xml:id="facs_3_region_1684567210393_1464_tl_15"/>
+        <zone points="659,2729 1349,2742 1349,2713 659,2706" rendition="Line" xml:id="facs_3_region_1684567210393_1464_tl_16"/>
+        <zone points="664,2754 1352,2772 1352,2742 662,2726" rendition="Line" xml:id="facs_3_region_1684567210393_1464_tl_17"/>
+        <zone points="662,2780 1331,2800 1352,2798 1352,2772 659,2754" rendition="Line" xml:id="facs_3_region_1684567210393_1464_tl_18"/>
+        <zone points="659,2813 1278,2831 1341,2828 1341,2800 657,2780" rendition="Line" xml:id="facs_3_region_1684567210393_1464_tl_19"/>
+        <zone points="662,2839 1270,2862 1341,2854 1341,2828 659,2813" rendition="Line" xml:id="facs_3_region_1684567210393_1464_tl_20"/>
+        <zone points="662,2872 1341,2885 1341,2856 659,2841" rendition="Line" xml:id="facs_3_region_1684567210393_1464_tl_21"/>
+        <zone points="662,2897 1352,2913 1349,2882 662,2872" rendition="Line" xml:id="facs_3_region_1684567210393_1464_tl_22"/>
+        <zone points="659,2925 1346,2941 1346,2913 1316,2905 659,2897" rendition="Line" xml:id="facs_3_region_1684567210393_1464_tl_23"/>
+        <zone points="657,2956 1326,2974 1344,2941 654,2920" rendition="Line" xml:id="facs_3_region_1684567210393_1464_tl_24"/>
+        <zone points="654,2987 1339,2997 1336,2969 1232,2959 654,2954" rendition="Line" xml:id="facs_3_region_1684567210393_1464_tl_25"/>
+        <zone points="524,3025 603,3005 1334,3028 1334,3000 521,2979" rendition="Line" xml:id="facs_3_region_1684567210393_1464_tl_26"/>
+        <zone points="657,3040 2057,3071 2008,3035 657,3012" rendition="Line" xml:id="facs_3_region_1684567210393_1464_tl_27"/>
+        <zone points="654,3071 1346,3081 1346,3051 1283,3043 654,3038" rendition="Line" xml:id="facs_3_region_1684567210393_1464_tl_28"/>
+        <zone points="659,3099 1339,3112 1339,3084 1313,3076 659,3071" rendition="Line" xml:id="facs_3_region_1684567210393_1464_tl_29"/>
+        <zone points="659,3125 1341,3135 1323,3107 657,3099" rendition="Line" xml:id="facs_3_region_1684567210393_1464_tl_30"/>
+        <zone points="654,3155 1336,3166 1336,3140 1306,3135 654,3122" rendition="Line" xml:id="facs_3_region_1684567210393_1464_tl_31"/>
+        <zone points="657,3181 1339,3196 1339,3166 657,3155" rendition="Line" xml:id="facs_3_region_1684567210393_1464_tl_32"/>
+        <zone points="657,3209 1267,3227 1334,3224 1331,3191 654,3178" rendition="Line" xml:id="facs_3_region_1684567210393_1464_tl_33"/>
+        <zone points="654,3237 1341,3253 1326,3209 654,3207" rendition="Line" xml:id="facs_3_region_1684567210393_1464_tl_34"/>
+        <zone points="654,3265 1339,3281 1336,3250 1267,3245 654,3237" rendition="Line" xml:id="facs_3_region_1684567210393_1464_tl_35"/>
+        <zone points="654,3296 1336,3306 1336,3281 1198,3270 654,3265" rendition="Line" xml:id="facs_3_region_1684567210393_1464_tl_36"/>
+        <zone points="657,3324 2008,3362 2052,3329 654,3296" rendition="Line" xml:id="facs_3_region_1684567210393_1464_tl_37"/>
+        <zone points="0,3350 2054,3388 2054,3355 1924,3344 0,3314" rendition="Line" xml:id="facs_3_region_1684567210393_1464_tl_38"/>
+      </zone><zone points="2099,2277 1362,2277 1362,3392 2099,3392" rendition="TextRegion" xml:id="facs_3_region_1684567206111_1461">
+        <zone points="1382,2320 1995,2338 2057,2333 2054,2269 1891,2256 1653,2261 1630,2289 1380,2282" rendition="Line" xml:id="facs_3_region_1684567206111_1461_tl_1"/>
+        <zone points="1382,2345 2057,2363 2057,2333 2034,2330 1382,2320" rendition="Line" xml:id="facs_3_region_1684567206111_1461_tl_2"/>
+        <zone points="1382,2376 2072,2389 2070,2366 1983,2353 1382,2345" rendition="Line" xml:id="facs_3_region_1684567206111_1461_tl_3"/>
+        <zone points="1377,2404 2070,2422 2070,2391 1998,2384 1377,2374" rendition="Line" xml:id="facs_3_region_1684567206111_1461_tl_4"/>
+        <zone points="1377,2440 1479,2432 1592,2445 1630,2432 1766,2445 1766,2412 1375,2404" rendition="Line" xml:id="facs_3_region_1684567206111_1461_tl_5"/>
+        <zone points="1431,2455 2070,2478 2044,2432 1431,2435" rendition="Line" xml:id="facs_3_region_1684567206111_1461_tl_6"/>
+        <zone points="1380,2499 2067,2504 2067,2478 2031,2471 1380,2455" rendition="Line" xml:id="facs_3_region_1684567206111_1461_tl_7"/>
+        <zone points="1377,2517 2067,2535 2052,2504 1377,2489" rendition="Line" xml:id="facs_3_region_1684567206111_1461_tl_8"/>
+        <zone points="1380,2547 2075,2560 2075,2535 2036,2529 1380,2517" rendition="Line" xml:id="facs_3_region_1684567206111_1461_tl_9"/>
+        <zone points="1380,2575 2075,2596 2075,2560 2024,2555 1380,2547" rendition="Line" xml:id="facs_3_region_1684567206111_1461_tl_10"/>
+        <zone points="1375,2604 2021,2629 2075,2619 2075,2593 1372,2578" rendition="Line" xml:id="facs_3_region_1684567206111_1461_tl_11"/>
+        <zone points="1377,2634 1760,2632 1873,2652 1873,2614 1855,2611 1377,2604" rendition="Line" xml:id="facs_3_region_1684567206111_1461_tl_12"/>
+        <zone points="1865,2634 1893,2632 1916,2644 1947,2644 1962,2634 1978,2647 2008,2639 2018,2650 2072,2644 2070,2619 1965,2614 1929,2619 1891,2606 1865,2614" rendition="Line" xml:id="facs_3_region_1684567206111_1461_tl_13"/>
+        <zone points="1375,2662 2067,2673 2067,2644 1893,2629 1375,2634" rendition="Line" xml:id="facs_3_region_1684567206111_1461_tl_14"/>
+        <zone points="1375,2685 2057,2703 2057,2670 2011,2667 1375,2662" rendition="Line" xml:id="facs_3_region_1684567206111_1461_tl_15"/>
+        <zone points="1372,2713 1990,2731 1990,2703 1960,2698 1372,2683" rendition="Line" xml:id="facs_3_region_1684567206111_1461_tl_16"/>
+        <zone points="1372,2742 1990,2757 1990,2729 1898,2721 1372,2713" rendition="Line" xml:id="facs_3_region_1684567206111_1461_tl_17"/>
+        <zone points="1983,2757 2011,2754 2016,2749 2029,2759 2070,2759 2067,2731 2018,2731 2011,2729 1995,2713 1980,2713" rendition="Line" xml:id="facs_3_region_1684567206111_1461_tl_18"/>
+        <zone points="1372,2777 2062,2793 2062,2757 2016,2749 1372,2744" rendition="Line" xml:id="facs_3_region_1684567206111_1461_tl_19"/>
+        <zone points="1375,2803 1546,2813 1587,2793 1988,2823 2057,2818 2057,2790 1372,2775" rendition="Line" xml:id="facs_3_region_1684567206111_1461_tl_20"/>
+        <zone points="1377,2831 2057,2846 2057,2818 1921,2805 1377,2803" rendition="Line" xml:id="facs_3_region_1684567206111_1461_tl_21"/>
+        <zone points="1364,2851 1995,2879 2059,2874 2059,2846 1362,2831" rendition="Line" xml:id="facs_3_region_1684567206111_1461_tl_22"/>
+        <zone points="1364,2885 2064,2902 2064,2874 2024,2869 1364,2859" rendition="Line" xml:id="facs_3_region_1684567206111_1461_tl_23"/>
+        <zone points="1364,2908 2059,2933 2059,2902 1988,2892 1364,2882" rendition="Line" xml:id="facs_3_region_1684567206111_1461_tl_24"/>
+        <zone points="1372,2941 2029,2959 2052,2956 2052,2928 1369,2910" rendition="Line" xml:id="facs_3_region_1684567206111_1461_tl_25"/>
+        <zone points="1364,2964 2052,2984 2034,2954 1364,2941" rendition="Line" xml:id="facs_3_region_1684567206111_1461_tl_26"/>
+        <zone points="1364,2997 2064,3012 2041,2984 1364,2966" rendition="Line" xml:id="facs_3_region_1684567206111_1461_tl_27"/>
+        <zone points="1369,3028 2052,3046 2049,3015 1985,3007 1367,2997" rendition="Line" xml:id="facs_3_region_1684567206111_1461_tl_28"/>
+        <zone points="1364,3084 2059,3099 2059,3069 2003,3058 1364,3053" rendition="Line" xml:id="facs_3_region_1684567206111_1461_tl_29"/>
+        <zone points="1364,3112 2054,3125 2054,3099 1993,3094 1364,3084" rendition="Line" xml:id="facs_3_region_1684567206111_1461_tl_30"/>
+        <zone points="1372,3138 2059,3158 2059,3127 1955,3120 1372,3117" rendition="Line" xml:id="facs_3_region_1684567206111_1461_tl_31"/>
+        <zone points="1364,3166 2044,3186 2021,3145 1364,3138" rendition="Line" xml:id="facs_3_region_1684567206111_1461_tl_32"/>
+        <zone points="1362,3194 2057,3212 2054,3184 2021,3181 1362,3163" rendition="Line" xml:id="facs_3_region_1684567206111_1461_tl_33"/>
+        <zone points="1359,3222 2049,3242 2047,3214 1998,3207 1359,3194" rendition="Line" xml:id="facs_3_region_1684567206111_1461_tl_34"/>
+        <zone points="1362,3253 2044,3270 2044,3242 1359,3222" rendition="Line" xml:id="facs_3_region_1684567206111_1461_tl_35"/>
+        <zone points="1364,3283 2049,3299 2047,3268 1944,3260 1364,3253" rendition="Line" xml:id="facs_3_region_1684567206111_1461_tl_36"/>
+        <zone points="1359,3309 2052,3327 2052,3296 1909,3286 1359,3283" rendition="Line" xml:id="facs_3_region_1684567206111_1461_tl_37"/>
+      </zone></surface><surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_4"><graphic url="%2Ffiles.jpg" width="2479px" height="3508px"/><zone points="133,2269 861,2269 861,3398 133,3398" rendition="TextRegion" xml:id="facs_4_region_1684567187058_1452">
+        <zone points="164,2316 1470,2297 1530,2290 1532,2235 164,2260" rendition="Line" xml:id="facs_4_region_1684567187058_1452_tl_1"/>
+        <zone points="162,2344 820,2334 821,2304 654,2297 164,2316" rendition="Line" xml:id="facs_4_region_1684567187058_1452_tl_2"/>
+        <zone points="146,2373 821,2364 809,2332 232,2348 148,2322" rendition="Line" xml:id="facs_4_region_1684567187058_1452_tl_3"/>
+        <zone points="134,2392 827,2388 827,2362 786,2357 134,2378" rendition="Line" xml:id="facs_4_region_1684567187058_1452_tl_4"/>
+        <zone points="142,2429 821,2424 821,2397 783,2388 142,2402" rendition="Line" xml:id="facs_4_region_1684567187058_1452_tl_5"/>
+        <zone points="142,2459 827,2450 827,2422 675,2411 142,2429" rendition="Line" xml:id="facs_4_region_1684567187058_1452_tl_6"/>
+        <zone points="142,2483 821,2476 800,2443 142,2459" rendition="Line" xml:id="facs_4_region_1684567187058_1452_tl_7"/>
+        <zone points="142,2519 1405,2501 1532,2460 142,2483" rendition="Line" xml:id="facs_4_region_1684567187058_1452_tl_8"/>
+        <zone points="121,2547 1532,2520 1477,2483 123,2508" rendition="Line" xml:id="facs_4_region_1684567187058_1452_tl_9"/>
+        <zone points="127,2564 151,2580 227,2566 510,2571 524,2570 526,2540 128,2547" rendition="Line" xml:id="facs_4_region_1684567187058_1452_tl_10"/>
+        <zone points="193,2599 828,2594 816,2540 770,2564 195,2573" rendition="Line" xml:id="facs_4_region_1684567187058_1452_tl_11"/>
+        <zone points="178,2633 809,2622 825,2594 179,2594" rendition="Line" xml:id="facs_4_region_1684567187058_1452_tl_12"/>
+        <zone points="160,2663 827,2652 827,2619 772,2615 160,2635" rendition="Line" xml:id="facs_4_region_1684567187058_1452_tl_13"/>
+        <zone points="160,2691 828,2675 828,2650 732,2643 160,2663" rendition="Line" xml:id="facs_4_region_1684567187058_1452_tl_14"/>
+        <zone points="148,2745 828,2733 827,2705 661,2696 612,2717 148,2719" rendition="Line" xml:id="facs_4_region_1684567187058_1452_tl_15"/>
+        <zone points="148,2774 832,2761 832,2733 763,2730 148,2747" rendition="Line" xml:id="facs_4_region_1684567187058_1452_tl_16"/>
+        <zone points="144,2807 830,2789 830,2759 645,2752 146,2775" rendition="Line" xml:id="facs_4_region_1684567187058_1452_tl_17"/>
+        <zone points="148,2828 825,2816 825,2788 148,2805" rendition="Line" xml:id="facs_4_region_1684567187058_1452_tl_18"/>
+        <zone points="146,2860 830,2846 830,2818 804,2812 146,2826" rendition="Line" xml:id="facs_4_region_1684567187058_1452_tl_19"/>
+        <zone points="171,2884 830,2874 830,2846 786,2842 172,2860" rendition="Line" xml:id="facs_4_region_1684567187058_1452_tl_20"/>
+        <zone points="172,2918 830,2904 830,2877 798,2869 172,2884" rendition="Line" xml:id="facs_4_region_1684567187058_1452_tl_21"/>
+        <zone points="146,2939 753,2942 834,2928 835,2904 146,2921" rendition="Line" xml:id="facs_4_region_1684567187058_1452_tl_22"/>
+        <zone points="171,2981 415,2949 447,2969 830,2960 830,2932 804,2928 171,2948" rendition="Line" xml:id="facs_4_region_1684567187058_1452_tl_23"/>
+        <zone points="171,3000 839,2990 841,2956 239,2974 172,2946" rendition="Line" xml:id="facs_4_region_1684567187058_1452_tl_24"/>
+        <zone points="148,3029 834,3014 834,2988 696,2981 148,2999" rendition="Line" xml:id="facs_4_region_1684567187058_1452_tl_25"/>
+        <zone points="157,3058 837,3043 837,3018 753,3013 157,3032" rendition="Line" xml:id="facs_4_region_1684567187058_1452_tl_26"/>
+        <zone points="146,3085 825,3076 837,3043 146,3060" rendition="Line" xml:id="facs_4_region_1684567187058_1452_tl_27"/>
+        <zone points="148,3106 827,3097 827,3073 681,3067 148,3083" rendition="Line" xml:id="facs_4_region_1684567187058_1452_tl_28"/>
+        <zone points="151,3139 828,3131 828,3099 800,3095 151,3106" rendition="Line" xml:id="facs_4_region_1684567187058_1452_tl_29"/>
+        <zone points="151,3166 830,3155 806,3127 151,3138" rendition="Line" xml:id="facs_4_region_1684567187058_1452_tl_30"/>
+        <zone points="155,3222 839,3213 827,3182 155,3201" rendition="Line" xml:id="facs_4_region_1684567187058_1452_tl_31"/>
+        <zone points="151,3255 811,3240 811,3208 153,3219" rendition="Line" xml:id="facs_4_region_1684567187058_1452_tl_32"/>
+        <zone points="216,3280 839,3275 841,3231 218,3252" rendition="Line" xml:id="facs_4_region_1684567187058_1452_tl_33"/>
+        <zone points="155,3308 848,3299 848,3275 800,3270 380,3289 200,3262 155,3280" rendition="Line" xml:id="facs_4_region_1684567187058_1452_tl_34"/>
+        <zone points="160,3338 825,3333 846,3331 848,3299 160,3312" rendition="Line" xml:id="facs_4_region_1684567187058_1452_tl_35"/>
+        <zone points="158,3370 844,3361 844,3331 804,3328 160,3338" rendition="Line" xml:id="facs_4_region_1684567187058_1452_tl_36"/>
+        <zone points="160,3396 1412,3379 160,3370" rendition="Line" xml:id="facs_4_region_1684567187058_1452_tl_37"/>
+      </zone><zone points="833,2269 1578,2269 1578,3392 833,3392" rendition="TextRegion" xml:id="facs_4_region_1684567190157_1455">
+        <zone points="853,2332 1530,2322 1532,2290 853,2306" rendition="Line" xml:id="facs_4_region_1684567190157_1455_tl_1"/>
+        <zone points="853,2360 1467,2353 1523,2346 1525,2318 853,2332" rendition="Line" xml:id="facs_4_region_1684567190157_1455_tl_2"/>
+        <zone points="849,2387 1530,2378 1530,2350 1490,2344 849,2362" rendition="Line" xml:id="facs_4_region_1684567190157_1455_tl_3"/>
+        <zone points="853,2417 1516,2408 1541,2380 853,2387" rendition="Line" xml:id="facs_4_region_1684567190157_1455_tl_4"/>
+        <zone points="849,2443 1535,2431 1535,2402 849,2420" rendition="Line" xml:id="facs_4_region_1684567190157_1455_tl_5"/>
+        <zone points="849,2473 1539,2460 1539,2431 849,2443" rendition="Line" xml:id="facs_4_region_1684567190157_1455_tl_6"/>
+        <zone points="849,2559 1534,2547 1534,2520 1467,2513 849,2529" rendition="Line" xml:id="facs_4_region_1684567190157_1455_tl_7"/>
+        <zone points="913,2589 1532,2573 1532,2545 1497,2543 913,2561" rendition="Line" xml:id="facs_4_region_1684567190157_1455_tl_8"/>
+        <zone points="908,2614 1535,2603 1535,2573 1444,2570 908,2587" rendition="Line" xml:id="facs_4_region_1684567190157_1455_tl_9"/>
+        <zone points="853,2643 1532,2635 1532,2603 1495,2599 853,2619" rendition="Line" xml:id="facs_4_region_1684567190157_1455_tl_10"/>
+        <zone points="858,2673 1511,2665 1532,2635 858,2643" rendition="Line" xml:id="facs_4_region_1684567190157_1455_tl_11"/>
+        <zone points="146,2719 1539,2687 1377,2656 148,2686" rendition="Line" xml:id="facs_4_region_1684567190157_1455_tl_12"/>
+        <zone points="858,2726 1544,2716 1544,2686 858,2698" rendition="Line" xml:id="facs_4_region_1684567190157_1455_tl_13"/>
+        <zone points="855,2754 1544,2747 1544,2716 1513,2714 855,2726" rendition="Line" xml:id="facs_4_region_1684567190157_1455_tl_14"/>
+        <zone points="858,2781 1539,2768 1539,2744 1500,2737 858,2754" rendition="Line" xml:id="facs_4_region_1684567190157_1455_tl_15"/>
+        <zone points="855,2812 1535,2802 1535,2770 855,2782" rendition="Line" xml:id="facs_4_region_1684567190157_1455_tl_16"/>
+        <zone points="862,2840 1542,2833 1542,2800 1467,2795 864,2810" rendition="Line" xml:id="facs_4_region_1684567190157_1455_tl_17"/>
+        <zone points="862,2869 1539,2856 1539,2833 1504,2826 864,2840" rendition="Line" xml:id="facs_4_region_1684567190157_1455_tl_18"/>
+        <zone points="855,2898 1541,2886 1541,2856 857,2867" rendition="Line" xml:id="facs_4_region_1684567190157_1455_tl_19"/>
+        <zone points="862,2927 1542,2914 1521,2881 862,2895" rendition="Line" xml:id="facs_4_region_1684567190157_1455_tl_20"/>
+        <zone points="864,2953 1319,2956 1356,2937 1418,2955 1542,2944 1544,2914 864,2928" rendition="Line" xml:id="facs_4_region_1684567190157_1455_tl_21"/>
+        <zone points="865,2986 1544,2969 1544,2944 1477,2939 867,2956" rendition="Line" xml:id="facs_4_region_1684567190157_1455_tl_22"/>
+        <zone points="860,3013 1542,2997 1542,2972 1511,2967 862,2986" rendition="Line" xml:id="facs_4_region_1684567190157_1455_tl_23"/>
+        <zone points="862,3039 1546,3023 1546,2997 1389,2993 862,3013" rendition="Line" xml:id="facs_4_region_1684567190157_1455_tl_24"/>
+        <zone points="864,3071 1551,3073 1539,3023 864,3037" rendition="Line" xml:id="facs_4_region_1684567190157_1455_tl_25"/>
+        <zone points="862,3099 1015,3088 1043,3101 1089,3085 1266,3094 1266,3060 1252,3057 864,3071" rendition="Line" xml:id="facs_4_region_1684567190157_1455_tl_26"/>
+        <zone points="918,3118 1534,3117 1551,3081 918,3090" rendition="Line" xml:id="facs_4_region_1684567190157_1455_tl_27"/>
+        <zone points="864,3150 1379,3155 1405,3134 1542,3139 1544,3115 865,3113" rendition="Line" xml:id="facs_4_region_1684567190157_1455_tl_28"/>
+        <zone points="151,3197 1558,3168 1402,3136 153,3164" rendition="Line" xml:id="facs_4_region_1684567190157_1455_tl_29"/>
+        <zone points="867,3210 1544,3197 1544,3173 1497,3162 867,3180" rendition="Line" xml:id="facs_4_region_1684567190157_1455_tl_30"/>
+        <zone points="862,3236 1546,3227 1548,3199 1509,3192 864,3211" rendition="Line" xml:id="facs_4_region_1684567190157_1455_tl_31"/>
+        <zone points="871,3275 988,3264 1064,3277 1140,3255 1282,3268 1272,3227 871,3236" rendition="Line" xml:id="facs_4_region_1684567190157_1455_tl_32"/>
+        <zone points="1270,3310 1291,3310 1296,3305 1301,3310 1312,3312 1317,3308 1347,3310 1349,3278 1323,3273 1316,3275 1312,3271 1301,3277 1293,3275 1287,3280 1272,3278" rendition="Line" xml:id="facs_4_region_1684567190157_1455_tl_33"/>
+        <zone points="1103,3333 1115,3331 1120,3336 1145,3338 1155,3333 1173,3336 1180,3329 1189,3335 1215,3333 1217,3271 1208,3270 1191,3284 1148,3282 1136,3275 1122,3282 1113,3273 1104,3273" rendition="Line" xml:id="facs_4_region_1684567190157_1455_tl_34"/>
+        <zone points="918,3312 927,3310 944,3324 969,3324 980,3315 1055,3315 1052,3280 1038,3280 1025,3268 976,3266 951,3271 929,3264 916,3268" rendition="Line" xml:id="facs_4_region_1684567190157_1455_tl_35"/>
+        <zone points="1272,3333 1289,3331 1293,3335 1310,3328 1326,3331 1333,3338 1349,3338 1347,3310 1309,3310 1298,3303 1293,3305 1282,3299 1270,3301" rendition="Line" xml:id="facs_4_region_1684567190157_1455_tl_36"/>
+        <zone points="1249,3357 1294,3357 1301,3352 1324,3359 1333,3352 1340,3356 1349,3352 1374,3354 1372,3328 1349,3331 1344,3336 1330,3336 1310,3328 1298,3333 1277,3312 1247,3312" rendition="Line" xml:id="facs_4_region_1684567190157_1455_tl_37"/>
+        <zone points="988,3359 1038,3363 1057,3357 1068,3364 1080,3357 1136,3359 1133,3312 1112,3317 1099,3306 1087,3317 985,3315" rendition="Line" xml:id="facs_4_region_1684567190157_1455_tl_38"/>
+      </zone></surface></facsimile><text><body><div><pb facs="#facs_1" n="1" xml:id="img_0001"/><ab facs="#facs_1_region_1684567152388_1434" type="">
+      <lb facs="#facs_1_region_1684567152388_1434_tl_1" n="N001"/>Zur Donizetti=Feier in Bergamo.
+      <lb facs="#facs_1_region_1684567152388_1434_tl_2" n="N002"/>Ed. H. Die Auswahl eines Kleeblattes aus der
+      <lb facs="#facs_1_region_1684567152388_1434_tl_3" n="N003"/>64 Opern Domizett's für die Festtage in Bergamo war
+      <lb facs="#facs_1_region_1684567152388_1434_tl_4" n="N004"/>nicht allzu schwierig; jedenfalls viel leichter, als sie vor
+      <lb facs="#facs_1_region_1684567152388_1434_tl_5" n="N005"/>20 Jahren gewesen wäre. Denn damals lebte oder vege¬
+      <lb facs="#facs_1_region_1684567152388_1434_tl_6" n="N006"/>noch eine Menge Donizettischer Opern, welche seither
+      <lb facs="#facs_1_region_1684567152388_1434_tl_7" n="N007"/>Zeitstrom unwiederbringlich weggeschwemmt und heute
+      <lb facs="#facs_1_region_1684567152388_1434_tl_8" n="N008"/>uns nur dem Namen nach gegenwärtig sind. Ich selbst habe
+      <lb facs="#facs_1_region_1684567152388_1434_tl_9" n="N009"/>noch den letzten Schimmer der italienischen Opernherrschaft
+      <lb facs="#facs_1_region_1684567152388_1434_tl_10" n="N010"/>in Wien miterlebt. Das Kärntnerthor=Theater war die letzt
+      <lb facs="#facs_1_region_1684567152388_1434_tl_11" n="N011"/>deutsche Bühne, welche die Sitte einer dreimonatlichen aus
+      <lb facs="#facs_1_region_1684567152388_1434_tl_12" n="N012"/>schließlich italienischen Opernsaison bis zum März 1848
+      <lb facs="#facs_1_region_1684567152388_1434_tl_13" n="N013"/>aufrecht erhalten hat. Als Bellini verstummt war und
+      <lb facs="#facs_1_region_1684567152388_1434_tl_14" n="N014"/>Verdi eben erst flügge geworden, beherrschte Donizett
+      <lb facs="#facs_1_region_1684567152388_1434_tl_15" n="N015"/>den größten Theil des italienischen Repertoires in Wien
+      <lb facs="#facs_1_region_1684567152388_1434_tl_16" n="N016"/>Daß man hier neben seinen besten Opern auch manche rech
+      <lb facs="#facs_1_region_1684567152388_1434_tl_17" n="N017"/>mittelmäßige gab, erklärt sich aus denselben Verhältnissen
+      <lb facs="#facs_1_region_1684567152388_1434_tl_18" n="N018"/>welche seine ungeheure Productivität begreiflich machen. Die
+      <lb facs="#facs_1_region_1684567152388_1434_tl_19" n="N019"/>italienischen Sänger mit ihren bezaubernden Stimmen und
+      <lb facs="#facs_1_region_1684567152388_1434_tl_20" n="N020"/>ihrer ausgebildeten Gesangskunst waren der stärkste Magne
+      <lb facs="#facs_1_region_1684567152388_1434_tl_21" n="N021"/>für das Publicum. Trotzdem wollte dieses die Tadolin
+      <lb facs="#facs_1_region_1684567152388_1434_tl_22" n="N022"/>und Medori, den Moriani und Debassini doch nicht immer
+      <lb facs="#facs_1_region_1684567152388_1434_tl_23" n="N023"/>und immer wieder in denselben drei bis vier Rollen hören
+      <lb facs="#facs_1_region_1684567152388_1434_tl_24" n="N024"/>man nahm dann vorlieb mit schwächeren Donizetti=Opern
+      <lb facs="#facs_1_region_1684567152388_1434_tl_25" n="N025"/>mochten auch ihre Melodien aus anderen Werken der
+      <lb facs="#facs_1_region_1684567152388_1434_tl_26" n="N026"/>Meisters schon bekannt und gleichsam nur neu costümir
+      <lb facs="#facs_1_region_1684567152388_1434_tl_27" n="N027"/>ein. Nur so war es möglich, daß Opern wie „Roberte
+      <lb facs="#facs_1_region_1684567152388_1434_tl_28" n="N028"/>Oevereux und andere noch Mitte der Vierziger Jahre
+      <lb facs="#facs_1_region_1684567152388_1434_tl_29" n="N029"/>Wien erscheinen und gefallen konnten. Auch in Jtalien is
+      <lb facs="#facs_1_region_1684567152388_1434_tl_30" n="N030"/>eit der Vorherrschaft Verdis die weitaus größte Zahl de
+      <lb facs="#facs_1_region_1684567152388_1434_tl_31" n="N031"/>Donizetti=Opern von den Bühnen verschwunden. Als di
+      <lb facs="#facs_1_region_1684567152388_1434_tl_32" n="N032"/>noch lebenden und lebensfähigen darf man wol nenner
+      <lb facs="#facs_1_region_1684567152388_1434_tl_33" n="N033"/>den „Liebestrank“, „Don Pasquale“, „Die Regimentstochter
+      <lb facs="#facs_1_region_1684567152388_1434_tl_34" n="N034"/>Lindau, „Lucia", „Lucrezia Borgia“, „Die Favoritin
+      <lb facs="#facs_1_region_1684567152388_1434_tl_35" n="N035"/>*) Siehe Nr. 11870 der „Neuen Freien Presse".</ab><ab facs="#facs_1_region_1684567110678_1413" type="">
+      <lb facs="#facs_1_region_1684567110678_1413_tl_1" n="N001"/>Neue
+      <lb facs="#facs_1_region_1684567110678_1413_tl_2" n="N002"/>101
+      <lb facs="#facs_1_region_1684567110678_1413_tl_3" n="N003"/>E
+      <lb facs="#facs_1_region_1684567110678_1413_tl_4" n="N004"/>Presse.</ab><ab facs="#facs_1_region_1684567116132_1416" type="">
+      <lb facs="#facs_1_region_1684567116132_1416_tl_1" n="N001"/>Morgenblatt.</ab><ab facs="#facs_1_region_1684567130763_1425" type="">
+      <lb facs="#facs_1_region_1684567130763_1425_tl_1" n="N001"/>Nr. 11872.
+      <lb facs="#facs_1_region_1684567130763_1425_tl_2" n="N002"/>Wien, Freitag, den 10. September
+      <lb facs="#facs_1_region_1684567130763_1425_tl_3" n="N003"/>1897.
+      <lb facs="#facs_1_region_1684567130763_1425_tl_4" n="N004"/>Elsaß-Lothringen bewährt hatte und trotz seiner sechsund</ab><ab facs="#facs_1_region_1684567143644_1431" type="">
+      <lb facs="#facs_1_region_1684567143644_1431_tl_1" n="N001"/>„Dom Sebastian", „Belisar". Es will nicht wenig bedeuten,
+      <lb facs="#facs_1_region_1684567143644_1431_tl_2" n="N002"/>daß neun Opern von überwiegend melodischem Charakte¬
+      <lb facs="#facs_1_region_1684567143644_1431_tl_3" n="N003"/>ein halbes Jahrhundert nach dem Tode ihres Schöpfer¬
+      <lb facs="#facs_1_region_1684567143644_1431_tl_4" n="N004"/>noch leben und fortwirken.
+      <lb facs="#facs_1_region_1684567143644_1431_tl_5" n="N005"/>Aus diesen neun Musen
+      <lb facs="#facs_1_region_1684567143644_1431_tl_6" n="N006"/>hat das Festcomité die Trias
+      <lb facs="#facs_1_region_1684567143644_1431_tl_7" n="N007"/>„Liebestrank“, „Lucia
+      <lb facs="#facs_1_region_1684567143644_1431_tl_8" n="N008"/>" und „Favoritin“ zu
+      <lb facs="#facs_1_region_1684567143644_1431_tl_9" n="N009"/>Aufführung in Bergamo bestimmt, eine Wahl, die, von
+      <lb facs="#facs_1_region_1684567143644_1431_tl_10" n="N010"/>den besten Erwägungen geleitet, allgemeine Zustimmung
+      <lb facs="#facs_1_region_1684567143644_1431_tl_11" n="N011"/>erfährt.
+      <lb facs="#facs_1_region_1684567143644_1431_tl_12" n="N012"/>Im Bereiche der Opera buffa konnte die Wahl
+      <lb facs="#facs_1_region_1684567143644_1431_tl_13" n="N013"/>nur schwanken zwischen dem „Liebestrank“, „Don Pas¬
+      <lb facs="#facs_1_region_1684567143644_1431_tl_14" n="N014"/>Privatvergnügen hätte ich am liebsten sie alle drei gehört
+      <lb facs="#facs_1_region_1684567143644_1431_tl_15" n="N015"/>sie gellen mir als das Reizendste und in sich Vollkommenst
+      <lb facs="#facs_1_region_1684567143644_1431_tl_16" n="N016"/>was Donizetti geschaffen hat. Seine besseren lyrischen Tra¬
+      <lb facs="#facs_1_region_1684567143644_1431_tl_17" n="N017"/>gödien glänzen jede durch schöne, mitunter bezaubernd
+      <lb facs="#facs_1_region_1684567143644_1431_tl_18" n="N018"/>gegen das Gute verschwindet, sind wol nur die drei komischen
+      <lb facs="#facs_1_region_1684567143644_1431_tl_19" n="N019"/>Opern. Zweifellos neigte Donizettis Temperament und
+      <lb facs="#facs_1_region_1684567143644_1431_tl_20" n="N020"/>Talent (wie Rossini's) stärker zum Heiteren, Komischen, al¬
+      <lb facs="#facs_1_region_1684567143644_1431_tl_21" n="N021"/>zur Tragik. Wie erklärt sich trotzdem die so überaus gering
+      <lb facs="#facs_1_region_1684567143644_1431_tl_22" n="N022"/>Zahl komischer Opern von Donizetti? Zunächst gewiß an
+      <lb facs="#facs_1_region_1684567143644_1431_tl_23" n="N023"/>äußeren Umständen. Die Opera buffa nahm in Italie¬
+      <lb facs="#facs_1_region_1684567143644_1431_tl_24" n="N024"/>von jeher den zweiten Rang ein; sie verfügte nicht über
+      <lb facs="#facs_1_region_1684567143644_1431_tl_25" n="N025"/>die allerersten Gesangskräfte und war schlechter bezahlt, als
+      <lb facs="#facs_1_region_1684567143644_1431_tl_26" n="N026"/>die ernste Oper. Für den echteren Kunstwerth jener heiteren
+      <lb facs="#facs_1_region_1684567143644_1431_tl_27" n="N027"/>Werke Donizetti's spricht auch ihre ungleich stärkere Lebens¬
+      <lb facs="#facs_1_region_1684567143644_1431_tl_28" n="N028"/>dauer; die drei komischen Opern ragen heute noch wie
+      <lb facs="#facs_1_region_1684567143644_1431_tl_29" n="N029"/>gerettete Inseln aus einem Meere durchgefallener Tragödien in dem wir das beneidenswertheste Pathengeschenk erkennen.
+      <lb facs="#facs_1_region_1684567143644_1431_tl_30" n="N030"/>Donizettis hervor. „L’Elisir d'amore", zuerst 1832 auf
+      <lb facs="#facs_1_region_1684567143644_1431_tl_31" n="N031"/>geführt, ist heute 65 Jahre alt, für eine leichte heitere
+      <lb facs="#facs_1_region_1684567143644_1431_tl_32" n="N032"/>Oper eine ziemliche Unsterblichkeit. In diesem „Liebestran¬
+      <lb facs="#facs_1_region_1684567143644_1431_tl_33" n="N033"/>tritt Alles, was an der italienischen Musik eigenthümlich
+      <lb facs="#facs_1_region_1684567143644_1431_tl_34" n="N034"/>und liebenswerth ist, uns unbeirrt entgegen. Wie süß,
+      <lb facs="#facs_1_region_1684567143644_1431_tl_35" n="N035"/>gesangvoll und in der Hauptsache auch immer dramatis¬
+      <lb facs="#facs_1_region_1684567143644_1431_tl_36" n="N036"/>sind diese Melodien, diese Scenen! Ein natürliches Eben¬
+      <lb facs="#facs_1_region_1684567143644_1431_tl_37" n="N037"/>maß, wie es nur der italienischen Musik eigen, verbinde
+      <lb facs="#facs_1_region_1684567143644_1431_tl_38" n="N038"/>sich hier mit reizender Frische und einer fast genial zu
+      <lb facs="#facs_1_region_1684567143644_1431_tl_39" n="N039"/>nennenden Leichtigkeit. Ungemein hübsch contrastirt das Flusses, maßvollen Ausdrucks, abgerundeter Form, glück¬</ab><ab facs="#facs_1_region_1684567139721_1428" type="">
+      <lb facs="#facs_1_region_1684567139721_1428_tl_1" n="N001"/>idyllische Element im „Liebestrank“ mit dem soldatschen,
+      <lb facs="#facs_1_region_1684567139721_1428_tl_2" n="N002"/>und diese beiden wieder gegen ihre gemeinsame köstliche
+      <lb facs="#facs_1_region_1684567139721_1428_tl_3" n="N003"/>Folie, den alten Charlatan! Ohne Frage den
+      <lb facs="#facs_1_region_1684567139721_1428_tl_4" n="N004"/>Höhepunkt
+      <lb facs="#facs_1_region_1684567139721_1428_tl_5" n="N005"/>von Donizettis Schaffen, bezeichnet „L’Elisir
+      <lb facs="#facs_1_region_1684567139721_1428_tl_6" n="N006"/>gemein
+      <lb facs="#facs_1_region_1684567139721_1428_tl_7" n="N007"/>schaftlich mit „Don Pasquale“ zugleich den Höhepunkt der
+      <lb facs="#facs_1_region_1684567139721_1428_tl_8" n="N008"/>Nach=Rossini'schen Opera buffa. Im „Liebestrank“ ist Alle¬
+      <lb facs="#facs_1_region_1684567139721_1428_tl_9" n="N009"/>natürlich, genügsam, lebensfroh. Die Lebendigkeit steigert sich
+      <lb facs="#facs_1_region_1684567139721_1428_tl_10" n="N010"/>nicht selten zum Glänzenden, die Weich
+      <lb facs="#facs_1_region_1684567139721_1428_tl_11" n="N011"/>heit zur herzlichen
+      <lb facs="#facs_1_region_1684567139721_1428_tl_12" n="N012"/>Empfindung; selbst das „Gewöhnliche“
+      <lb facs="#facs_1_region_1684567139721_1428_tl_13" n="N013"/>so lähmend
+      <lb facs="#facs_1_region_1684567139721_1428_tl_14" n="N014"/>heroischen und tragischen Opern, erscheint hier „freundlich
+      <lb facs="#facs_1_region_1684567139721_1428_tl_15" n="N015"/>in der milderen Beleuchtung des Alltagslebens. Ein Freun¬
+      <lb facs="#facs_1_region_1684567139721_1428_tl_16" n="N016"/>quale“ und der „Regimentstochter“. Für mein Felix Mendelssohn's, Chorley, erzählte einmal im Musica
+      <lb facs="#facs_1_region_1684567139721_1428_tl_17" n="N017"/>World, wie eines Tages in London ein Kreis von „
+      <lb facs="#facs_1_region_1684567139721_1428_tl_18" n="N018"/>lehrten Componisten und Musikkennern den „Liebestrank
+      <lb facs="#facs_1_region_1684567139721_1428_tl_19" n="N019"/>in gründlicher Entrüstung verurtheilte, wie Mendelssohn an
+      <lb facs="#facs_1_region_1684567139721_1428_tl_20" n="N020"/>fangs stumm und unruhig sich auf seinem Sessel hin und
+      <lb facs="#facs_1_region_1684567139721_1428_tl_21" n="N021"/>Einzelheiten; einheitliche Werke jedoch, in denen das Schwache her bewegte und schließlich, um sein Votum gedrängt, aus
+      <lb facs="#facs_1_region_1684567139721_1428_tl_22" n="N022"/>rief: „Ich weiß nur, meine gelehrten Herren, daß ich sei
+      <lb facs="#facs_1_region_1684567139721_1428_tl_23" n="N023"/>froh wäre, hätte ich den „Liebestrank“ componirt
+      <lb facs="#facs_1_region_1684567139721_1428_tl_24" n="N024"/>Wer gedenkt nicht gerne der Wiener Aufführungen d.
+      <lb facs="#facs_1_region_1684567139721_1428_tl_25" n="N025"/>„Liebestrank“, „Don Pasquale“ und der „Regimentstochter
+      <lb facs="#facs_1_region_1684567139721_1428_tl_26" n="N026"/>durch das unvergleichliche Gesangsquartett: Desirée Artôt. Cal¬
+      <lb facs="#facs_1_region_1684567139721_1428_tl_27" n="N027"/>zolari, Everardi und Zucchini, dann der Adelina Patti al
+      <lb facs="#facs_1_region_1684567139721_1428_tl_28" n="N028"/>Norina in „Don Pasquale“! In Wien ist „Don Pasquale
+      <lb facs="#facs_1_region_1684567139721_1428_tl_29" n="N029"/>(1843) vom Publicum viel tiefer gestellt worden, al¬
+      <lb facs="#facs_1_region_1684567139721_1428_tl_30" n="N030"/>„Linda"; in Paris geschah das Gegentheil. Ich glaube
+      <lb facs="#facs_1_region_1684567139721_1428_tl_31" n="N031"/>Pariser hatten Recht. Die Musik zu „Don Pasquale
+      <lb facs="#facs_1_region_1684567139721_1428_tl_32" n="N032"/>durchzogen von jenem hellen heitern Strom des Wohllautes,
+      <lb facs="#facs_1_region_1684567139721_1428_tl_33" n="N033"/>das die Natur den Italienern mitgegeben. Donizetti schlägt
+      <lb facs="#facs_1_region_1684567139721_1428_tl_34" n="N034"/>hier noch einmal die süßen Töne an, mit welchen sei
+      <lb facs="#facs_1_region_1684567139721_1428_tl_35" n="N035"/>„Liebestrank“ bezaubernd zwei Welten durchzog. Obwol die
+      <lb facs="#facs_1_region_1684567139721_1428_tl_36" n="N036"/>Italiener durch ihr bewegliches, frisches Temperament zu
+      <lb facs="#facs_1_region_1684567139721_1428_tl_37" n="N037"/>komischen Oper nachdrücklicher berufen erscheinen, als unser
+      <lb facs="#facs_1_region_1684567139721_1428_tl_38" n="N038"/>bedächtigeren Landsleute, so leiden sie an hervorragenden
+      <lb facs="#facs_1_region_1684567139721_1428_tl_39" n="N039"/>Werken dieser Gattung kaum geringeren Mangel. An rein
+      <lb facs="#facs_1_region_1684567139721_1428_tl_40" n="N040"/>musikalischem Werth steht „Don Pasquale“ dem „Liebestrank
+      <lb facs="#facs_1_region_1684567139721_1428_tl_41" n="N041"/>nicht nach, er theilt mit ihm die Vorzüge melodischen</ab><pb facs="#facs_2" n="2" xml:id="img_0002"/><ab facs="#facs_2_region_1684567167403_1440" type="">
+      <lb facs="#facs_2_region_1684567167403_1440_tl_1" n="N001"/>der Charakterit. Einzelnes, wie die Tenorte komischen Opern mest einen Ausdruck von Wahrheit
+      <lb facs="#facs_2_region_1684567167403_1440_tl_2" n="N002"/>Anfang des zweiten Actes und die Serenade in
+      <lb facs="#facs_2_region_1684567167403_1440_tl_3" n="N003"/>ritten Acte, ist von reizender Schönheit. Nur durch
+      <lb facs="#facs_2_region_1684567167403_1440_tl_4" n="N004"/>as Libretto, dessen an sich dürftige Handlung sie
+      <lb facs="#facs_2_region_1684567167403_1440_tl_5" n="N005"/>obendrein im Frack und innerhalb vier Wänden ab
+      <lb facs="#facs_2_region_1684567167403_1440_tl_6" n="N006"/>ist „Don Pasquale“, entschieden im Nachthei¬
+      <lb facs="#facs_2_region_1684567167403_1440_tl_7" n="N007"/>pielt,
+      <lb facs="#facs_2_region_1684567167403_1440_tl_8" n="N008"/>Die Regimentstochter" steht, in einiger En¬
+      <lb facs="#facs_2_region_1684567167403_1440_tl_9" n="N009"/>en den zwei besten Opern Domizettis
+      <lb facs="#facs_2_region_1684567167403_1440_tl_10" n="N010"/>fernung zwar, ne¬
+      <lb facs="#facs_2_region_1684567167403_1440_tl_11" n="N011"/>dem „Liebestrank“ und „Don Pasquale
+      <lb facs="#facs_2_region_1684567167403_1440_tl_12" n="N012"/>Augen leuchtet Frohsinn und Witz; wie lustiger Vogelsan
+      <lb facs="#facs_2_region_1684567167403_1440_tl_13" n="N013"/>schmettern ihre Melodien, ein wenig keck die Haltung, doch
+      <lb facs="#facs_2_region_1684567167403_1440_tl_14" n="N014"/>zumuthig. Schade nur, daß Regimentstochter und Um
+      <lb facs="#facs_2_region_1684567167403_1440_tl_15" n="N015"/>ebung fast ebensoviel sprechen als singen. In der ganzen
+      <lb facs="#facs_2_region_1684567167403_1440_tl_16" n="N016"/>er zeigt sich nicht nur Donizett's eigenstes liebens
+      <lb facs="#facs_2_region_1684567167403_1440_tl_17" n="N017"/>diges Talent, sondern überdies die merkwürdige Bieg
+      <lb facs="#facs_2_region_1684567167403_1440_tl_18" n="N018"/>mkeit und Assimilirungskraft dieses Talents. Der Componis
+      <lb facs="#facs_2_region_1684567167403_1440_tl_19" n="N019"/>schrieb die „Regimentstochter" nicht blos für die Bretter
+      <lb facs="#facs_2_region_1684567167403_1440_tl_20" n="N020"/>sondern wirklich auch im Geiste der französischen Oper¬
+      <lb facs="#facs_2_region_1684567167403_1440_tl_21" n="N021"/>omnique. Die eigenthümliche Breite und Schwere de
+      <lb facs="#facs_2_region_1684567167403_1440_tl_22" n="N022"/>italienischen Cantilenen ist beinahe abgestreift und weich
+      <lb facs="#facs_2_region_1684567167403_1440_tl_23" n="N023"/>der schärferen Rhythmik, der feineren, lebhafteren Declama
+      <lb facs="#facs_2_region_1684567167403_1440_tl_24" n="N024"/>tion französischer Musik. In einigen Situationen, welche
+      <lb facs="#facs_2_region_1684567167403_1440_tl_25" n="N025"/>das schwere Geschütz der italienischen Phraseologie förmlic
+      <lb facs="#facs_2_region_1684567167403_1440_tl_26" n="N026"/>wie das Terzett im zweiten Act: „Tou¬
+      <lb facs="#facs_2_region_1684567167403_1440_tl_27" n="N027"/>herausfordern —
+      <lb facs="#facs_2_region_1684567167403_1440_tl_28" n="N028"/>les trois réunis“ — weiß sich der Italiener so gan
+      <lb facs="#facs_2_region_1684567167403_1440_tl_29" n="N029"/>und gar zu verleugnen, daß er uns mit einer graziösen
+      <lb facs="#facs_2_region_1684567167403_1440_tl_30" n="N030"/>Clauderei, deren Worte die drei Stimmen sich halb athema¬
+      <lb facs="#facs_2_region_1684567167403_1440_tl_31" n="N031"/>abfangen, überrascht. An Alltäglichkeit mit etwas trivialen
+      <lb facs="#facs_2_region_1684567167403_1440_tl_32" n="N032"/>Beischmack fehlt es natürlich auch nicht. Die ganze Tenor
+      <lb facs="#facs_2_region_1684567167403_1440_tl_33" n="N033"/>partie ist auffallend dürftig, dafür erfreut Marie fast imme
+      <lb facs="#facs_2_region_1684567167403_1440_tl_34" n="N034"/>durch ihren ungeschminkten, soldatisch frischen Muth. Da
+      <lb facs="#facs_2_region_1684567167403_1440_tl_35" n="N035"/>Mädchen hat aber auch Gemüth. Ihre Romanze im ersten
+      <lb facs="#facs_2_region_1684567167403_1440_tl_36" n="N036"/>Act („So lebet wohl!"), mit dem wie sanftes Tageslich
+      <lb facs="#facs_2_region_1684567167403_1440_tl_37" n="N037"/>in die Molltonart einfallenden F-dur und ihrem in zw
+      <lb facs="#facs_2_region_1684567167403_1440_tl_38" n="N038"/>seingeschwungenen Bogen sich herabsenkenden Schluß, ist ein
+      <lb facs="#facs_2_region_1684567167403_1440_tl_39" n="N039"/>Stück nicht blos von echt südlicher Formschönheit, sonder
+      <lb facs="#facs_2_region_1684567167403_1440_tl_40" n="N040"/>überdies von echter herzlicher Empfindung. Seltsam, daß die</ab><ab facs="#facs_2_region_1684567171168_1443" type="">
+      <lb facs="#facs_2_region_1684567171168_1443_tl_1" n="N001"/>von schlichter Empfindung tragen, wie wir ihn in seine
+      <lb facs="#facs_2_region_1684567171168_1443_tl_2" n="N002"/>Tragödien nur selten antreffen. Man denke an die Moment
+      <lb facs="#facs_2_region_1684567171168_1443_tl_3" n="N003"/>der Sehnsucht oder Zärtlichkeit im „Liebestrank“ und „Do¬
+      <lb facs="#facs_2_region_1684567171168_1443_tl_4" n="N004"/>Pasquale“. Das ist das Werk eines wohlthätigen Rüd
+      <lb facs="#facs_2_region_1684567171168_1443_tl_5" n="N005"/>schlages: wahr und natürlich im Heiteren, im Komischen
+      <lb facs="#facs_2_region_1684567171168_1443_tl_6" n="N006"/>bleibt Donizetti es unwillkürlich auch im Ausdruck ernstere
+      <lb facs="#facs_2_region_1684567171168_1443_tl_7" n="N007"/>Empfindungen, sobald diese gleichsam nur die Staffage einer
+      <lb facs="#facs_2_region_1684567171168_1443_tl_8" n="N008"/>". Aus ihren großen heiteren Landschaft bilden.
+      <lb facs="#facs_2_region_1684567171168_1443_tl_9" n="N009"/>Ueberblickt man Donizettis Gesammtthätigkeit
+      <lb facs="#facs_2_region_1684567171168_1443_tl_10" n="N010"/>l'oeuvre, wie die Franzosen kurz und bündig sagen — si
+      <lb facs="#facs_2_region_1684567171168_1443_tl_11" n="N011"/>glaubt man vor einem überschwemmten Gefilde zu stehen, aus
+      <lb facs="#facs_2_region_1684567171168_1443_tl_12" n="N012"/>welchem nur noch ein halb Dutzend hoher Bäume hervor¬
+      <lb facs="#facs_2_region_1684567171168_1443_tl_13" n="N013"/>ragt. Alles Uebrige hat der unerbittliche Zeitstrom nieder
+      <lb facs="#facs_2_region_1684567171168_1443_tl_14" n="N014"/>gelegt und fortgeschwemmt. Dies gilt insbesondere von
+      <lb facs="#facs_2_region_1684567171168_1443_tl_15" n="N015"/>Donizetti's tragischen und heroischen Opern, welche de
+      <lb facs="#facs_2_region_1684567171168_1443_tl_16" n="N016"/>weitaus größten Raum in seiner Thätigkeit einnehmen
+      <lb facs="#facs_2_region_1684567171168_1443_tl_17" n="N017"/>Angesichts der Centenarfeier gönnte ich mir das vielleich
+      <lb facs="#facs_2_region_1684567171168_1443_tl_18" n="N018"/>etwas pedantische Vergnügen, eine Anzahl von Donizetti¬
+      <lb facs="#facs_2_region_1684567171168_1443_tl_19" n="N019"/>älteren Opern tragischen Inhalts durchzublättern — Opern
+      <lb facs="#facs_2_region_1684567171168_1443_tl_20" n="N020"/>welche sämmtlich mit mehr oder weniger Beifall in Wien
+      <lb facs="#facs_2_region_1684567171168_1443_tl_21" n="N021"/>aufgeführt worden sind und uns heute wie tausendjährig
+      <lb facs="#facs_2_region_1684567171168_1443_tl_22" n="N022"/>Mumien anstarren
+      <lb facs="#facs_2_region_1684567171168_1443_tl_23" n="N023"/>Da haben wir zum Beispiel „Roberto Devereux
+      <lb facs="#facs_2_region_1684567171168_1443_tl_24" n="N024"/>die bekannte Esser=Geschichte, mit Elisabeth und Lad
+      <lb facs="#facs_2_region_1684567171168_1443_tl_25" n="N025"/>Nottingham als weiblichen Hauptrollen. Wie lustig kling
+      <lb facs="#facs_2_region_1684567171168_1443_tl_26" n="N026"/>die A-dur-Arie des Essex, mit der er in den Tod geht
+      <lb facs="#facs_2_region_1684567171168_1443_tl_27" n="N027"/>worauf Elisabeth ihre Verzweiflung in einem ähnlichen
+      <lb facs="#facs_2_region_1684567171168_1443_tl_28" n="N028"/>Feuerwerk äußert. „L'assedio di Calais spielt 134
+      <lb facs="#facs_2_region_1684567171168_1443_tl_29" n="N029"/>im englischen Lager; die Rolle König Eduard III. war für
+      <lb facs="#facs_2_region_1684567171168_1443_tl_30" n="N030"/>Lablache geschrieben und von fürchterlichen Kriegerchörer
+      <lb facs="#facs_2_region_1684567171168_1443_tl_31" n="N031"/>eingerahmt. Die Oper „Fausta“ spielt in Rom zur Kaiser
+      <lb facs="#facs_2_region_1684567171168_1443_tl_32" n="N032"/>zeit. Die Titelheldin, zweite Gemalin Konstantin's des
+      <lb facs="#facs_2_region_1684567171168_1443_tl_33" n="N033"/>Großen, enthusiasmirte das Publicum mit einer Walzer¬
+      <lb facs="#facs_2_region_1684567171168_1443_tl_34" n="N034"/>Arie in Es-dur „Fuggi!“ und Konstantin der Groß
+      <lb facs="#facs_2_region_1684567171168_1443_tl_35" n="N035"/>rührte es mit sehr unheroischen Klagen über seinen Sohn
+      <lb facs="#facs_2_region_1684567171168_1443_tl_36" n="N036"/>„Der Wahnsinnige auf der Insel Domingo
+      <lb facs="#facs_2_region_1684567171168_1443_tl_37" n="N037"/>Momente des Ernstes und der Wehmuth in Donizatis mit Ronconi in der Hauptrolle des wahnsinnigen Cardenio einen Augenblick überrascht und wirft sich hierauf beher</ab><ab facs="#facs_2_region_1684567175056_1446" type="">
+      <lb facs="#facs_2_region_1684567175056_1446_tl_1" n="N001"/>steckt wie alle bisher genannten Opern ganz im coloratur
+      <lb facs="#facs_2_region_1684567175056_1446_tl_2" n="N002"/>überladenen Rossini-Styl. Größere Verbreitung und Belieb¬
+      <lb facs="#facs_2_region_1684567175056_1446_tl_3" n="N003"/>heit genossen seinerzeit die Opern „Gemma di Verg¬
+      <lb facs="#facs_2_region_1684567175056_1446_tl_4" n="N004"/>(spielt 1428 unter Karl VII. in Berry und Bergh), da¬
+      <lb facs="#facs_2_region_1684567175056_1446_tl_5" n="N005"/>Ugo, conte di Parigi“ (altfranzösisches Sujet an
+      <lb facs="#facs_2_region_1684567175056_1446_tl_6" n="N006"/>dem neunten Jahrhundert), worin die Pasta mi
+      <lb facs="#facs_2_region_1684567175056_1446_tl_7" n="N007"/>einer hübschen Allegretto=Cavaline „La, nel nat:
+      <lb facs="#facs_2_region_1684567175056_1446_tl_8" n="N008"/>mio suolo“ für alle sonstige Langweile entschädigt
+      <lb facs="#facs_2_region_1684567175056_1446_tl_9" n="N009"/>„Parisina“ verdankte ihre vorübergehenden Erfolge d
+      <lb facs="#facs_2_region_1684567175056_1446_tl_10" n="N010"/>Caroline Ungher in der Titelrolle; das Sujet (nach Lo¬
+      <lb facs="#facs_2_region_1684567175056_1446_tl_11" n="N011"/>Byron) spielt in Ferrara im vierzehnten Jahrhunder
+      <lb facs="#facs_2_region_1684567175056_1446_tl_12" n="N012"/>Anna Bolena", war eine der ersten Donizetti=Opern
+      <lb facs="#facs_2_region_1684567175056_1446_tl_13" n="N013"/>die auch auf deutschen Bühnen Eingang gefunden. In
+      <lb facs="#facs_2_region_1684567175056_1446_tl_14" n="N014"/>„Poliuto“ und „L’esule di Roma griff Don
+      <lb facs="#facs_2_region_1684567175056_1446_tl_15" n="N015"/>zeiti wieder nach dem alten Rom zurück. „Der Verwiese
+      <lb facs="#facs_2_region_1684567175056_1446_tl_16" n="N016"/>aus Rom", ist niemand Anderer als der ehemalige Tribu
+      <lb facs="#facs_2_region_1684567175056_1446_tl_17" n="N017"/>Septimius; als Verbannter hat er einem Löwen den Do¬
+      <lb facs="#facs_2_region_1684567175056_1446_tl_18" n="N018"/>aus der Tatze gezogen, dafür verschont ihn das dankbar
+      <lb facs="#facs_2_region_1684567175056_1446_tl_19" n="N019"/>Thier, als es in der Arena gegen Septimius losgelasse
+      <lb facs="#facs_2_region_1684567175056_1446_tl_20" n="N020"/>wird. Eines gewissen Ansehens erfreute sich die ander
+      <lb facs="#facs_2_region_1684567175056_1446_tl_21" n="N021"/>römische Oper, „Poliuto“, welche unter dem Titel: „L
+      <lb facs="#facs_2_region_1684567175056_1446_tl_22" n="N022"/>Martyrs“ in Paris, als „Römer in Melitone“ auch deuts¬
+      <lb facs="#facs_2_region_1684567175056_1446_tl_23" n="N023"/>im Kärntnerthor=Theater gegeben ward, ohne starken, na¬
+      <lb facs="#facs_2_region_1684567175056_1446_tl_24" n="N024"/>haltigen Erfolg in einer dieser drei Gestalten. Eine A
+      <lb facs="#facs_2_region_1684567175056_1446_tl_25" n="N025"/>Uebergang von der unverfälscht Rossini'schen Epoche Do¬
+      <lb facs="#facs_2_region_1684567175056_1446_tl_26" n="N026"/>jettis zu seiner von französischen, auch deutschen Elemente
+      <lb facs="#facs_2_region_1684567175056_1446_tl_27" n="N027"/>berührten letzten Periode bildet seine Oper: „Marin
+      <lb facs="#facs_2_region_1684567175056_1446_tl_28" n="N028"/>Falier" (Text nach dem Drama von Delavigne),
+      <lb facs="#facs_2_region_1684567175056_1446_tl_29" n="N029"/>wir noch in einer der letzten italienischen Stagiones i
+      <lb facs="#facs_2_region_1684567175056_1446_tl_30" n="N030"/>Wien zu hören bekamen. Es ist schwer, wol auch in
+      <lb facs="#facs_2_region_1684567175056_1446_tl_31" n="N031"/>nöthig, diese Opern dem Leser schärfer zu charakterisire
+      <lb facs="#facs_2_region_1684567175056_1446_tl_32" n="N032"/>Wer eine davon kennt, der kennt sie alle Erscheinen do
+      <lb facs="#facs_2_region_1684567175056_1446_tl_33" n="N033"/>alle Personen mit langsamen, breiten Cantilenen, weld
+      <lb facs="#facs_2_region_1684567175056_1446_tl_34" n="N034"/>von gebrochenen Dreiklangen begleitet sind und sich von
+      <lb facs="#facs_2_region_1684567175056_1446_tl_35" n="N035"/>der Tonica zur Dominante bewegen. Nachdem die
+      <lb facs="#facs_2_region_1684567175056_1446_tl_36" n="N036"/>Andante ruhig bis auf den letzten Tropfen abgeflossen
+      <lb facs="#facs_2_region_1684567175056_1446_tl_37" n="N037"/>erdröhnen einige Trompeten=Accorde; der Sänger stu</ab><pb facs="#facs_3" n="3" xml:id="img_0003"/><ab facs="#facs_3_region_1684567218302_1467" type="">
+      <lb facs="#facs_3_region_1684567218302_1467_tl_1" n="N001"/>ein lustiges Allegro, dessen jederzeit renommistischer An
+      <lb facs="#facs_3_region_1684567218302_1467_tl_2" n="N002"/>ich durch einen wohlbekannten Hackmesser=Rhythmu¬
+      <lb facs="#facs_3_region_1684567218302_1467_tl_3" n="N003"/>Orchester glänzend gehoben wird. In Terzen
+      <lb facs="#facs_3_region_1684567218302_1467_tl_4" n="N004"/>id Sexten wird geliebt, verachtet, getanzt und ge
+      <lb facs="#facs_3_region_1684567218302_1467_tl_5" n="N005"/>Erben — Alles ein blaues, laues Meer von Dreiklangen; feli¬
+      <lb facs="#facs_3_region_1684567218302_1467_tl_6" n="N006"/>feile, dann ertrinkt er. Und doch sind diese unsägli¬
+      <lb facs="#facs_3_region_1684567218302_1467_tl_7" n="N007"/>rftigen, physiognomielosen Arien einst mit Entzücken ge¬
+      <lb facs="#facs_3_region_1684567218302_1467_tl_8" n="N008"/>rt und da capo verlangt worden. Um das heute zu be¬
+      <lb facs="#facs_3_region_1684567218302_1467_tl_9" n="N009"/>eifen, müssen wir uns die hinreißenden italienischen
+      <lb facs="#facs_3_region_1684567218302_1467_tl_10" n="N010"/>timmen und Talente vergegenwärtigen, welche all dies
+      <lb facs="#facs_3_region_1684567218302_1467_tl_11" n="N011"/>pern aus der Taufe gehoben haben. In „Marin
+      <lb facs="#facs_3_region_1684567218302_1467_tl_12" n="N012"/>liero" sangen die Hauptrollen die Grisi (später Carolin
+      <lb facs="#facs_3_region_1684567218302_1467_tl_13" n="N013"/>nehmen, um es vornehm und liebenswürdig erscheinen
+      <lb facs="#facs_3_region_1684567218302_1467_tl_14" n="N014"/>Aus der langen Reihe der rein italienischen ernste
+      <lb facs="#facs_3_region_1684567218302_1467_tl_15" n="N015"/>sern Donizettis hat das Festcomité, wie vorauszusehen
+      <lb facs="#facs_3_region_1684567218302_1467_tl_16" n="N016"/>„Lucia di Lammermoor“ herausgehoben. Gewiß die cor
+      <lb facs="#facs_3_region_1684567218302_1467_tl_17" n="N017"/>teste Wahl, obwol unsere persönliche Sympathie mehr
+      <lb facs="#facs_3_region_1684567218302_1467_tl_18" n="N018"/>„Lucrezia Borgia" neigt. Von allen tragischen Oper
+      <lb facs="#facs_3_region_1684567218302_1467_tl_19" n="N019"/>miettis hat „Lucia“ in allen Sprachen die größten
+      <lb facs="#facs_3_region_1684567218302_1467_tl_20" n="N020"/>faltendsten Triumphe gefeiert. In Wien erreichte sie die grö=
+      <lb facs="#facs_3_region_1684567218302_1467_tl_21" n="N021"/>hl der Wiederholungen, nämlich gegen 300. Daran reit
+      <lb facs="#facs_3_region_1684567218302_1467_tl_22" n="N022"/>„Lucrezia“ mit mehr als 200 Aufführungen,
+      <lb facs="#facs_3_region_1684567218302_1467_tl_23" n="N023"/>Vorstellungen erlebten „Linda“, „Belisar
+      <lb facs="#facs_3_region_1684567218302_1467_tl_24" n="N024"/>de
+      <lb facs="#facs_3_region_1684567218302_1467_tl_25" n="N025"/>" „Don
+      <lb facs="#facs_3_region_1684567218302_1467_tl_26" n="N026"/>bastian", „Der Liebestrank
+      <lb facs="#facs_3_region_1684567218302_1467_tl_27" n="N027"/>", „Die Regimentstochter“
+      <lb facs="#facs_3_region_1684567218302_1467_tl_28" n="N028"/>neminentem Interesse für Wien sind zwei ernste Opern
+      <lb facs="#facs_3_region_1684567218302_1467_tl_29" n="N029"/>che Donizetti als k. k. Kammer=Compositeur für das
+      <lb facs="#facs_3_region_1684567218302_1467_tl_30" n="N030"/>thor=Theater geschrieben hatte: „Maria
+      <lb facs="#facs_3_region_1684567218302_1467_tl_31" n="N031"/>" und „Linda di Chamounix“. Beide per
+      <lb facs="#facs_3_region_1684567218302_1467_tl_32" n="N032"/>sen Donizetti's Achtung vor der traditionellen Gediegen
+      <lb facs="#facs_3_region_1684567218302_1467_tl_33" n="N033"/>deutscher Zuhörer.
+      <lb facs="#facs_3_region_1684567218302_1467_tl_34" n="N034"/>Sichtlich bestrebte sich der Masstro, die bequem
+      <lb facs="#facs_3_region_1684567218302_1467_tl_35" n="N035"/>ablonen=Manier etwas zu vertiefen; die üblichsten un
+      <lb facs="#facs_3_region_1684567218302_1467_tl_36" n="N036"/>notonsten Begleitungsfiguren sind seltener gebracht oder</ab><ab facs="#facs_3_region_1684567210393_1464" type="">
+      <lb facs="#facs_3_region_1684567210393_1464_tl_1" n="N001"/>wahrt, die Instrumentation fleißiger. In „Maria di Rohan
+      <lb facs="#facs_3_region_1684567210393_1464_tl_2" n="N002"/>versucht schon die effectvolle Ouvertüre einen höheren Flug
+      <lb facs="#facs_3_region_1684567210393_1464_tl_3" n="N003"/>die erste Arie Maria's und einige Cantilenen Enrico¬
+      <lb facs="#facs_3_region_1684567210393_1464_tl_4" n="N004"/>bringen glücklich erfundene, dabei charaktervolle Melodien
+      <lb facs="#facs_3_region_1684567210393_1464_tl_5" n="N005"/>Allein diese Aufwallungen haben einen sehr kurze
+      <lb facs="#facs_3_region_1684567210393_1464_tl_6" n="N006"/>wimmt der Jtaliener oben auf; der Deutsche zappelt eine Athem; den schönen Anfängen oder sorgfältigen Einzelheit
+      <lb facs="#facs_3_region_1684567210393_1464_tl_7" n="N007"/>folgt alsbald der alte Hackbrettgeist, der ewig lauern,
+      <lb facs="#facs_3_region_1684567210393_1464_tl_8" n="N008"/>Dämon der Terzen, Sexten und Unisono=Gänge, Musika
+      <lb facs="#facs_3_region_1684567210393_1464_tl_9" n="N009"/>lisch ist diese „Maria" so monoton, daß sie durchaus vor
+      <lb facs="#facs_3_region_1684567210393_1464_tl_10" n="N010"/>ganz ungemeinen Kräften getragen sein muß, um nich
+      <lb facs="#facs_3_region_1684567210393_1464_tl_11" n="N011"/>langweilig zu werden. Der an sich sehr dankbare Stoff
+      <lb facs="#facs_3_region_1684567210393_1464_tl_12" n="N012"/>Dumas Drama „Un duel sous Richelieu entnommen.
+      <lb facs="#facs_3_region_1684567210393_1464_tl_13" n="N013"/>Aber wie ungeschickt ist hier das effectvolle Material dram
+      <lb facs="#facs_3_region_1684567210393_1464_tl_14" n="N014"/>iger), Rubin, Tamburini und Lablache — solch ein tisirt. Bei aller Dürftigkeit ist die Intrigue dennoch zu
+      <lb facs="#facs_3_region_1684567210393_1464_tl_15" n="N015"/>interverein braucht sich des Erträglichen nur warm an¬ kar; der Autor reiht in ermüdender Folge Arie an Ari
+      <lb facs="#facs_3_region_1684567210393_1464_tl_16" n="N016"/>und läßt uns nach einem Chorsatz schmachten. Im zweiter
+      <lb facs="#facs_3_region_1684567210393_1464_tl_17" n="N017"/>Acte steigert sich zwar die dramatische Bewegung, allein ihr
+      <lb facs="#facs_3_region_1684567210393_1464_tl_18" n="N018"/>Culminationspunkt mahnt an die Situation des Schlußduetts
+      <lb facs="#facs_3_region_1684567210393_1464_tl_19" n="N019"/>um vierten Acte der „Hugenotten" mit einer Handgreiflichkei
+      <lb facs="#facs_3_region_1684567210393_1464_tl_20" n="N020"/>welche Dichter und Componist um jeden Preis zu vermeiden hatten
+      <lb facs="#facs_3_region_1684567210393_1464_tl_21" n="N021"/>Die 1842 zum erstenmale mit Jubel aufgenommene „Linda
+      <lb facs="#facs_3_region_1684567210393_1464_tl_22" n="N022"/>erlebte in Wien dreißig Jahre später (1872) noch ein
+      <lb facs="#facs_3_region_1684567210393_1464_tl_23" n="N023"/>flüchtiges glänzendes Aufflackern durch Adelina Patti in der
+      <lb facs="#facs_3_region_1684567210393_1464_tl_24" n="N024"/>Titelrolle. Die Oper hat niemals zu unseren Lieblinger
+      <lb facs="#facs_3_region_1684567210393_1464_tl_25" n="N025"/>gezählt. Der Gedanke, für ein deutsches Publicum zu schreibet
+      <lb facs="#facs_3_region_1684567210393_1464_tl_26" n="N026"/>Mehr als eiferte den Componisten allerdings zu größerer Sorgfalt an
+      <lb facs="#facs_3_region_1684567210393_1464_tl_27" n="N027"/>schon die Ouvertüre (wie jene zu „Maria di Rohan, hebt nur eine kühle Aufnahme. Ueberhaupt hat außer Don
+      <lb facs="#facs_3_region_1684567210393_1464_tl_28" n="N028"/>sich ansehnlich über die italienische Schablone empor. An
+      <lb facs="#facs_3_region_1684567210393_1464_tl_29" n="N029"/>vielen Stellen dieser Oper ist das Orchester seiner behandel
+      <lb facs="#facs_3_region_1684567210393_1464_tl_30" n="N030"/>als gewöhnlich, desgleichen der dramatische Ausdruck, welche
+      <lb facs="#facs_3_region_1684567210393_1464_tl_31" n="N031"/>in Einzelnen, z. B. dem Anfang des Dueits zwischen Lind
+      <lb facs="#facs_3_region_1684567210393_1464_tl_32" n="N032"/>und ihrem Vater (zweiter Act), eine bemerkenswerth
+      <lb facs="#facs_3_region_1684567210393_1464_tl_33" n="N033"/>Prägnanz erreicht. Ueberall hingegen, wo melodisse In
+      <lb facs="#facs_3_region_1684567210393_1464_tl_34" n="N034"/>spiration schöpferisch eintreten soll, namentlich in den Liebes¬
+      <lb facs="#facs_3_region_1684567210393_1464_tl_35" n="N035"/>scenen, wird die Musik platt und geistlos. Es ist nicht Ein
+      <lb facs="#facs_3_region_1684567210393_1464_tl_36" n="N036"/>Nummer in der „Linda", welche an das Sextett oder
+      <lb facs="#facs_3_region_1684567210393_1464_tl_37" n="N037"/>Engars Sterbesene in „Lucia, an das Terzeit oder Schluß vinzbühnen mit glänzendem Erfolg gegeben, fand a
+      <lb facs="#facs_3_region_1684567210393_1464_tl_38" n="N038"/>est, nisi se ei se ole an esse an die</ab><ab facs="#facs_3_region_1684567206111_1461" type="">
+      <lb facs="#facs_3_region_1684567206111_1461_tl_1" n="N001"/>Mühe und Sorgfalt entscheidet eben nicht allein. Doniet
+      <lb facs="#facs_3_region_1684567206111_1461_tl_2" n="N002"/>melodisse Erfindung war offenbar mit der „Linda (184
+      <lb facs="#facs_3_region_1684567206111_1461_tl_3" n="N003"/>schon in das Stadium der Erschöpfung getreten; noch einmal
+      <lb facs="#facs_3_region_1684567206111_1461_tl_4" n="N004"/>danach folgte ein glänzendes Aufflackern („Don Pasquale
+      <lb facs="#facs_3_region_1684567206111_1461_tl_5" n="N005"/>1843), dann erlosch die Flamme
+      <lb facs="#facs_3_region_1684567206111_1461_tl_6" n="N006"/>Es war ein naheliegender glücklicher Gedanke, für das
+      <lb facs="#facs_3_region_1684567206111_1461_tl_7" n="N007"/>Jubiläums=Repertoire auch eine von den auf französischen
+      <lb facs="#facs_3_region_1684567206111_1461_tl_8" n="N008"/>Text componirten Opern Donizett's zu wählen. Man ha
+      <lb facs="#facs_3_region_1684567206111_1461_tl_9" n="N009"/>den Maestro ein musikalisches Chamäleon genannt, das
+      <lb facs="#facs_3_region_1684567206111_1461_tl_10" n="N010"/>wechselnd die Farbe des Landes annimmt, auf dem es sich
+      <lb facs="#facs_3_region_1684567206111_1461_tl_11" n="N011"/>eben befindet. Von dem starken und günstigen Einfluß fran¬
+      <lb facs="#facs_3_region_1684567206111_1461_tl_12" n="N012"/>zösischen Musikgeistes auf „Don Pasquale
+      <lb facs="#facs_3_region_1684567206111_1461_tl_13" n="N013"/>und die Re=
+      <lb facs="#facs_3_region_1684567206111_1461_tl_14" n="N014"/>gimentstochter", war bereits die Rede. Unter Donizettis
+      <lb facs="#facs_3_region_1684567206111_1461_tl_15" n="N015"/>ernsten Opern französischer Herkunft konnte nur I.
+      <lb facs="#facs_3_region_1684567206111_1461_tl_16" n="N016"/>Favorite und „Dom Sebastian" in Frage kommen
+      <lb facs="#facs_3_region_1684567206111_1461_tl_17" n="N017"/>hat sich in Bergamo mit Recht für die „Favorite
+      <lb facs="#facs_3_region_1684567206111_1461_tl_18" n="N018"/>ent¬
+      <lb facs="#facs_3_region_1684567206111_1461_tl_19" n="N019"/>schieden. „Dom Sebastian", der einzige consequent durch
+      <lb facs="#facs_3_region_1684567206111_1461_tl_20" n="N020"/>geführte Versuch Donizett's im Styl der französischen
+      <lb facs="#facs_3_region_1684567206111_1461_tl_21" n="N021"/>Großen Oper, bedarf einer sehr großen Bühne und prunk
+      <lb facs="#facs_3_region_1684567206111_1461_tl_22" n="N022"/>vollen Ausstattung zur scenischen Entfaltung des imposanten
+      <lb facs="#facs_3_region_1684567206111_1461_tl_23" n="N023"/>Leichenzuges. Hat man doch, boshaft genug, den „Dom
+      <lb facs="#facs_3_region_1684567206111_1461_tl_24" n="N024"/>Sebastian" eine prachtvolle Begräbnisfeier mit angehängten
+      <lb facs="#facs_3_region_1684567206111_1461_tl_25" n="N025"/>Oper genannt. So entschied man sich denn mit Recht für I.
+      <lb facs="#facs_3_region_1684567206111_1461_tl_26" n="N026"/>Favoriten, trotz der Geringfügigkeit mehrerer ihrer Musikstücke
+      <lb facs="#facs_3_region_1684567206111_1461_tl_27" n="N027"/>Obwol Donizetti diese Oper weit mehr im französischen als im
+      <lb facs="#facs_3_region_1684567206111_1461_tl_28" n="N028"/>italienischen Geschmack componirt hatte, so fand sie das
+      <lb facs="#facs_3_region_1684567206111_1461_tl_29" n="N029"/>Pasquale“, seltsam genug, keine von Donizett's für Paris
+      <lb facs="#facs_3_region_1684567206111_1461_tl_30" n="N030"/>geschriebenen Opern dort einen entschiedenen und unwider¬
+      <lb facs="#facs_3_region_1684567206111_1461_tl_31" n="N031"/>sprochenen Erfolg errungen. Mit Unrecht erklärte die
+      <lb facs="#facs_3_region_1684567206111_1461_tl_32" n="N032"/>Pariser Kritik die „Favorite“ für eine der mittelmäßigste
+      <lb facs="#facs_3_region_1684567206111_1461_tl_33" n="N033"/>Arbeiten des berühmten Mastro, der sogar für seine Par¬
+      <lb facs="#facs_3_region_1684567206111_1461_tl_34" n="N034"/>tur nur schwer und unter ungünstigen Bedingungen einen
+      <lb facs="#facs_3_region_1684567206111_1461_tl_35" n="N035"/>Verleger fand. Diesmal ereignete sich der in der fran
+      <lb facs="#facs_3_region_1684567206111_1461_tl_36" n="N036"/>zösischen Theatergeschichte überaus seltene Fall, daß die Pro¬
+      <lb facs="#facs_3_region_1684567206111_1461_tl_37" n="N037"/>vinz das Urtheil der Hauptstadt cassirte. Auf allen Pro¬</ab><pb facs="#facs_4" n="4" xml:id="img_0004"/><ab facs="#facs_4_region_1684567187058_1452" type="">
+      <lb facs="#facs_4_region_1684567187058_1452_tl_1" n="N001"/>sen er sie doch eine de leiche einen nennungen
+      <lb facs="#facs_4_region_1684567187058_1452_tl_2" n="N002"/>Lepertoirestücke bildet. Die beiden ersten Acte enthalten die
+      <lb facs="#facs_4_region_1684567187058_1452_tl_3" n="N003"/>Mittelmäßiges und Langweiliges, obgleich auch hier die ein
+      <lb facs="#facs_4_region_1684567187058_1452_tl_4" n="N004"/>leitende Scene zwischen Fernando und dem Großcomthur
+      <lb facs="#facs_4_region_1684567187058_1452_tl_5" n="N005"/>(dramatisch eine der besten Expositionen, die wir kennen
+      <lb facs="#facs_4_region_1684567187058_1452_tl_6" n="N006"/>der Frauenchor und die hübsche Balletmusik günstig hervor¬
+      <lb facs="#facs_4_region_1684567187058_1452_tl_7" n="N007"/>stechen. Der dritte Act hebt sich schon zu bedeutenderer Höhe
+      <lb facs="#facs_4_region_1684567187058_1452_tl_8" n="N008"/>die Romanze des Königs, noch mehr die Arie Leonorens endlich durch die Publication der Doniget Briefe sich groß
+      <lb facs="#facs_4_region_1684567187058_1452_tl_9" n="N009"/>seine der hübschesten von Donigetii) und das sehr effectvolle Verdienste um die Jubiläumsfeier gesammelt. Die Brief
+      <lb facs="#facs_4_region_1684567187058_1452_tl_10" n="N010"/>Finale sind von bester Wirkung.
+      <lb facs="#facs_4_region_1684567187058_1452_tl_11" n="N011"/>Der vierte Act ist unseres Erachtens geradezu das
+      <lb facs="#facs_4_region_1684567187058_1452_tl_12" n="N012"/>este, was Donizetti je auf dem Gebiet der ernsten Ope
+      <lb facs="#facs_4_region_1684567187058_1452_tl_13" n="N013"/>geleistet hat. Mit bemerkenswerther Mäßigung, Weichhei
+      <lb facs="#facs_4_region_1684567187058_1452_tl_14" n="N014"/>und Empfindung schmiegt sich hier die Musik an die er
+      <lb facs="#facs_4_region_1684567187058_1452_tl_15" n="N015"/>vorfindliches eigenthümliches Helldunkel, eine Ahnung mittel
+      <lb facs="#facs_4_region_1684567187058_1452_tl_16" n="N016"/>alteriger Kloster=Romantik schimmert mild und wohlthuen
+      <lb facs="#facs_4_region_1684567187058_1452_tl_17" n="N017"/>aus diesen Klängen. Seltsamerweise ist dieser vierte Ac
+      <lb facs="#facs_4_region_1684567187058_1452_tl_18" n="N018"/>eine nachträgliche Ergänzung, gleich manchem anderen be
+      <lb facs="#facs_4_region_1684567187058_1452_tl_19" n="N019"/>wunderten Musikstück, das man mit innerer Nothwendigkei
+      <lb facs="#facs_4_region_1684567187058_1452_tl_20" n="N020"/>us der Grundidee entsprossen glaubt. Wie Rossini da
+      <lb facs="#facs_4_region_1684567187058_1452_tl_21" n="N021"/>Schlußgebet des „Moses" erst für die zweite Vorstellung
+      <lb facs="#facs_4_region_1684567187058_1452_tl_22" n="N022"/>nachcomponirte, wie Meyerbeer erst während der Probe¬
+      <lb facs="#facs_4_region_1684567187058_1452_tl_23" n="N023"/>zu den „Hugenotten" auf die Idee eines großen Liebes
+      <lb facs="#facs_4_region_1684567187058_1452_tl_24" n="N024"/>netts nach der Waffenweihe verfiel, so hat auch Don¬
+      <lb facs="#facs_4_region_1684567187058_1452_tl_25" n="N025"/>zetti diesen vierten Art zu einer dem Renaissance=Theate
+      <lb facs="#facs_4_region_1684567187058_1452_tl_26" n="N026"/>zugedachten Oper: „Lange de Nisida“, rasch hinzucom
+      <lb facs="#facs_4_region_1684567187058_1452_tl_27" n="N027"/>ponirt, um letztere in passender Umgestaltung für die Pariser
+      <lb facs="#facs_4_region_1684567187058_1452_tl_28" n="N028"/>Große Oper tauglich zu machen. Den Darstellern die
+      <lb facs="#facs_4_region_1684567187058_1452_tl_29" n="N029"/>Leonore und des Fernando bietet „Die Favoritin
+      <lb facs="#facs_4_region_1684567187058_1452_tl_30" n="N030"/>bedeutende dramatische Aufgaben; ein Grund mehr, wer
+      <lb facs="#facs_4_region_1684567187058_1452_tl_31" n="N031"/>auch in Deutschland gerne wieder hervorsucht, wenn ein
+      <lb facs="#facs_4_region_1684567187058_1452_tl_32" n="N032"/>geniale Künstlerin wie Pauline Lucca sich dafür findet.
+      <lb facs="#facs_4_region_1684567187058_1452_tl_33" n="N033"/>Donzettis Persönlichkeit denken wir uns sympathis
+      <lb facs="#facs_4_region_1684567187058_1452_tl_34" n="N034"/>und liebenswürdig, überaus heiter und anregend im Verkehr.
+      <lb facs="#facs_4_region_1684567187058_1452_tl_35" n="N035"/>So wird er uns übereinstimmend von seinen Zeitgenossen
+      <lb facs="#facs_4_region_1684567187058_1452_tl_36" n="N036"/>geschildert. Voll Ehrfurcht sprach er von den großen Meistern
+      <lb facs="#facs_4_region_1684567187058_1452_tl_37" n="N037"/>mit herzlicher Anerkennung von fremden Leistungen, mit tutto quel che pub servir ! Questo à proprio tutto di¬</ab><ab facs="#facs_4_region_1684567190157_1455" type="">
+      <lb facs="#facs_4_region_1684567190157_1455_tl_1" n="N001"/>den Beitrag zur Charakteristik des Menschen Donizetti vielen
+      <lb facs="#facs_4_region_1684567190157_1455_tl_2" n="N002"/>uns mehrere von Herrn v. Eisner zum erstenmal be¬
+      <lb facs="#facs_4_region_1684567190157_1455_tl_3" n="N003"/>öffentlichte Briefe. Herr Angelo v. Eisner=Eisenhof
+      <lb facs="#facs_4_region_1684567190157_1455_tl_4" n="N004"/>in unseren besten musikalischen Kreisen als vortrefflicher
+      <lb facs="#facs_4_region_1684567190157_1455_tl_5" n="N005"/>Sänger bekannt, hat durch die Veranstaltung der Wiener
+      <lb facs="#facs_4_region_1684567190157_1455_tl_6" n="N006"/>Donizetti=Ausstellung, durch seine Thätigkeit im Festcomite,
+      <lb facs="#facs_4_region_1684567190157_1455_tl_7" n="N007"/>dürften vornehmlich in Wien interessiren, denn sie sind
+      <lb facs="#facs_4_region_1684567190157_1455_tl_8" n="N008"/>zwei Wiener Freunde des Componisten gerichtet
+      <lb facs="#facs_4_region_1684567190157_1455_tl_9" n="N009"/>Mittheilungen an den Ober=Regisseur des Kärntner
+      <lb facs="#facs_4_region_1684567190157_1455_tl_10" n="N010"/>thor=Theaters, Leo Herz, beschränken sich auf kurz
+      <lb facs="#facs_4_region_1684567190157_1455_tl_11" n="N011"/>sachliche Nachrichten und bühnentechnische Bemerkungen
+      <lb facs="#facs_4_region_1684567190157_1455_tl_12" n="N012"/>greifende Situation. Ja ein bei Donzeit nirgends sonst insbesondere für die Aufführungen von Kind“, „Mark¬
+      <lb facs="#facs_4_region_1684567190157_1455_tl_13" n="N013"/>di Rohan“, „Dom Sebastian". Anziehender, persönlicher sind
+      <lb facs="#facs_4_region_1684567190157_1455_tl_14" n="N014"/>die Briefe an August Thomas, den Procuraführer des
+      <lb facs="#facs_4_region_1684567190157_1455_tl_15" n="N015"/>Bankhauses Arnstein &amp; Eskeles, wo Donizetti den größerer
+      <lb facs="#facs_4_region_1684567190157_1455_tl_16" n="N016"/>Theil seines Vermögens angelegt hatte. Bedeutende Kunst
+      <lb facs="#facs_4_region_1684567190157_1455_tl_17" n="N017"/>urtheile möge man da freilich nicht erwarten, auch nicht
+      <lb facs="#facs_4_region_1684567190157_1455_tl_18" n="N018"/>längere zusammenhängende Erzählungen oder Betrachtungen
+      <lb facs="#facs_4_region_1684567190157_1455_tl_19" n="N019"/>Dazu hatte Donizetti niemals Zeit noch Lust. Alles ist in
+      <lb facs="#facs_4_region_1684567190157_1455_tl_20" n="N020"/>fliegender Hast niedergeschrieben. Doch dringen die Ton¬
+      <lb facs="#facs_4_region_1684567190157_1455_tl_21" n="N021"/>herzlicher Freundschaft und naiver, sich an Scherzworten er¬
+      <lb facs="#facs_4_region_1684567190157_1455_tl_22" n="N022"/>lustigender Heiterkeit allerwärts hervor. Häufig schreibt der
+      <lb facs="#facs_4_region_1684567190157_1455_tl_23" n="N023"/>gutgelannte Masstro in gereimten Versen, ohne die fort
+      <lb facs="#facs_4_region_1684567190157_1455_tl_24" n="N024"/>laufenden Prosazeilen zu unterbrechen. *) Mitunter purzeln
+      <lb facs="#facs_4_region_1684567190157_1455_tl_25" n="N025"/>französische und italienische Sätze bunt durcheinander, sogar
+      <lb facs="#facs_4_region_1684567190157_1455_tl_26" n="N026"/>recht drollig etliche deutsche Worte.
+      <lb facs="#facs_4_region_1684567190157_1455_tl_27" n="N027"/>Noch eine zweite literarische Spende wird den Gästen
+      <lb facs="#facs_4_region_1684567190157_1455_tl_28" n="N028"/>in Bergamo geboten: eine mit zahlreichen Abbildungen
+      <lb facs="#facs_4_region_1684567190157_1455_tl_29" n="N029"/>halb man dese in Frankreich ununterbrochen gepflegte Oper Autographen, biographischen Aussagen und ihrischen Bei¬
+      <lb facs="#facs_4_region_1684567190157_1455_tl_30" n="N030"/>trägen geschmückte Festschrift, deren Reichhaltigkeit um
+      <lb facs="#facs_4_region_1684567190157_1455_tl_31" n="N031"/>vornehme typographische Ausstattung allen ähnlichen Veran¬
+      <lb facs="#facs_4_region_1684567190157_1455_tl_32" n="N032"/>staltungen zum Muster dienen darf.
+      <lb facs="#facs_4_region_1684567190157_1455_tl_33" n="N033"/>vo mio,
+      <lb facs="#facs_4_region_1684567190157_1455_tl_34" n="N034"/>et
+      <lb facs="#facs_4_region_1684567190157_1455_tl_35" n="N035"/>Zum Bei¬
+      <lb facs="#facs_4_region_1684567190157_1455_tl_36" n="N036"/>che fort
+      <lb facs="#facs_4_region_1684567190157_1455_tl_37" n="N037"/>chetti, sui
+      <lb facs="#facs_4_region_1684567190157_1455_tl_38" n="N038"/>tui, non</ab></div></body></text></TEI>
