@@ -26,11 +26,10 @@ jobs:
     steps:
     - name: Perform Checkout
       uses: actions/checkout@v4
-    - name: Directory Setup an Saxon Download
+    - name: Directory Setup and Page2Tei Download
       run: |
         mkdir -p mets
         mkdir -p tei
-        wget https://sourceforge.net/projects/saxon/files/Saxon-HE/9.9/SaxonHE9-9-1-7J.zip/download && unzip download -d saxon && rm -rf download
         git clone --depth=1 --branch skurzinz-patch-1 --single-branch https://github.com/skurzinz/page2tei.git
     - name: Setup Python
       uses: actions/setup-python@v5
@@ -45,6 +44,10 @@ jobs:
       with:
         distribution: 'zulu'
         java-version: '11'
+    - name: Install Ant
+      run: |
+        apt-get update && apt-get install ant -y --no-install-recommend
+        wget https://sourceforge.net/projects/saxon/files/Saxon-HE/9.9/SaxonHE9-9-1-7J.zip/download && unzip download -d saxon && rm -rf download
     - name: Transform to TEI
       run: |
         ant -DCOL_ID=${COL_ID} -DCOL_ID2=${COL_ID2} -f ./build_tei.xml
