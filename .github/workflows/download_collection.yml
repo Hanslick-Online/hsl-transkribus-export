@@ -26,11 +26,7 @@ jobs:
     steps:
     - name: Perform Checkout
       uses: actions/checkout@v4
-    - uses: actions/setup-java@v4
-      with:
-        distribution: 'zulu'
-        java-version: '11'
-    - name: Install Saxon and Ant
+    - name: Directory Setup an Saxon Download
       run: |
         mkdir -p mets
         mkdir -p tei
@@ -44,6 +40,11 @@ jobs:
       run: |
         pip install acdh-transkribus-utils
         python ./scripts/fetch_mets.py
+    - name: Setup Java / Ant
+      uses: actions/setup-java@v4
+      with:
+        distribution: 'zulu'
+        java-version: '11'
     - name: Transform to TEI
       run: |
         ant -DCOL_ID=${COL_ID} -DCOL_ID2=${COL_ID2} -f ./build_tei.xml
