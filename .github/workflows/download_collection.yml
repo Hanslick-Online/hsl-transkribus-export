@@ -25,17 +25,24 @@ jobs:
       COL_ID2: ${{ github.event.inputs.colId2 }}
     steps:
     - name: Perform Checkout
-      uses: actions/checkout@v2
+      uses: actions/checkout@v4
+    - uses: actions/setup-java@v4
+      with:
+        distribution: 'zulu'
+        java-version: '11'
     - name: Install Saxon and Ant
       run: |
         mkdir -p mets
         mkdir -p tei
-        apt-get update && apt-get install openjdk-11-jre-headless ant -y --no-install-recommend
-        pip install acdh-transkribus-utils
         wget https://sourceforge.net/projects/saxon/files/Saxon-HE/9.9/SaxonHE9-9-1-7J.zip/download && unzip download -d saxon && rm -rf download
         git clone --depth=1 --branch skurzinz-patch-1 --single-branch https://github.com/skurzinz/page2tei.git
+    - name: Setup Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
     - name: Download METS Files
       run: |
+        pip install acdh-transkribus-utils
         python ./scripts/fetch_mets.py
     - name: Transform to TEI
       run: |
