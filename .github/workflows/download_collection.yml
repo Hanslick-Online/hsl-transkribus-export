@@ -24,7 +24,9 @@ jobs:
     env:
       ANT_OPTS: -Xmx5g
       TR_USER: ${{ secrets.TR_USER }}
-      TR_PW: ${{ secrets.TR_PW}}
+      TR_PW: ${{ secrets.TR_PW }}
+      TR_USER_B: ${{ secrets.TR_USER_B }}
+      TR_PW_B: ${{ secrets.TR_PW_B }}
       COL_ID: ${{ github.event.inputs.colId }}
       COL_ID2: ${{ github.event.inputs.colId2 }}
       COL_ID3: ${{ github.event.inputs.colId3 }}

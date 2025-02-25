@@ -7,8 +7,8 @@ ids = ['COL_ID', 'COL_ID2', 'COL_ID3']
 
 for cid in ids:
     if cid == 'COL_ID3':
-        user = os.environ.get('TR_USER_2')
-        pw = os.environ.get('TR_PW_2')
+        user = os.environ.get('TR_USER_B')
+        pw = os.environ.get('TR_PW_B')
     col_id = os.environ.get(cid)
     transkribus_client = ACDHTranskribusUtils(
         user=user,
