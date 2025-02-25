@@ -4,13 +4,17 @@ on:
   workflow_dispatch:
     inputs:
       colId:
-        description: 'Collection ID'     
+        description: 'Critics'     
         required: true
         default: '162553'
       colId2:
-        description: 'Collection ID 2'     
+        description: 'VMS'     
         required: true
         default: '284592'
+      colId3:
+        description: 'Documents about VMS'
+        required: true
+        default: '1944511'
 
 
 jobs:
@@ -50,7 +54,7 @@ jobs:
         wget https://sourceforge.net/projects/saxon/files/Saxon-HE/9.9/SaxonHE9-9-1-7J.zip/download && unzip download -d saxon && rm -rf download
     - name: Transform to TEI
       run: |
-        ant -DCOL_ID=${COL_ID} -DCOL_ID2=${COL_ID2} -f ./build_tei.xml
+        ant -DCOL_ID=${COL_ID} -DCOL_ID2=${COL_ID2} -DCOL_ID3=${COL_ID3} -f ./build_tei.xml
     - uses: stefanzweifel/git-auto-commit-action@v4
       with:
-        commit_message: Exported and Transformed ColId ${{ github.event.inputs.colId }}
+        commit_message: Exported and Transformed ColId ${{ github.event.inputs.colId }}, ${{ github.event.inputs.colId2 }}, ${{ github.event.inputs.colId3 }}
