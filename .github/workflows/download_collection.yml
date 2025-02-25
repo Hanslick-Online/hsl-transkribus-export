@@ -27,6 +27,7 @@ jobs:
       TR_PW: ${{ secrets.TR_PW}}
       COL_ID: ${{ github.event.inputs.colId }}
       COL_ID2: ${{ github.event.inputs.colId2 }}
+      COL_ID3: ${{ github.event.inputs.colId3 }}
     steps:
     - name: Perform Checkout
       uses: actions/checkout@v4
