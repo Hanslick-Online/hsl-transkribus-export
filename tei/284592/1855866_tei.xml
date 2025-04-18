@@ -3,7 +3,9 @@
       </zone><zone points="818,1036 1370,1036 1370,1139 818,1139" rendition="TextRegion" xml:id="facs_1_region_1709373710747_894">
         <zone points="830,1044 1358,1044 1358,1129 830,1129" rendition="Line" xml:id="facs_1_line_1709373787739_924"/>
       </zone><zone points="175,387 2049,387 2049,960 175,960" rendition="TextRegion" xml:id="facs_1_region_1709373709019_891">
-        <zone points="391,412 1782,412 1989,799 1989,926 188,926 188,799" rendition="Line" xml:id="facs_1_line_1709373795251_933"/>
+        <zone points="385,393 1860,393 1860,601 385,601" rendition="Line" xml:id="facs_1_line_1744231498815_629"/>
+        <zone points="924,636 1282,636 1282,745 924,745" rendition="Line" xml:id="facs_1_line_1744231500112_632"/>
+        <zone points="191,807 2031,807 2031,944 191,944" rendition="Line" xml:id="facs_1_line_1744231502500_635"/>
       </zone></surface><surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_2"><graphic url="%2Ffiles.jpeg" width="2479px" height="3508px"/></surface><surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_3"><graphic url="%2Ffiles.jpeg" width="2479px" height="3508px"/><zone points="161,1072 1976,1072 1976,3302 161,3302" rendition="TextRegion" xml:id="facs_3_region_1709373739787_903">
         <zone points="732,1166 1108,1164 1159,1141 1376,1155 1358,1083 732,1087" rendition="Line" xml:id="facs_3_region_1709373739787_903_tl_1"/>
         <zone points="160,1238 1961,1249 1961,1202 1882,1184 160,1193" rendition="Line" xml:id="facs_3_line_1709373843772_951"/>
@@ -86,16 +88,18 @@
         <zone points="246,2808 462,2788 889,2806 975,2797 973,2738 243,2740" rendition="Line" xml:id="facs_4_region_1709373751471_909_tl_46"/>
         <zone points="1692,2860 1730,2854 1767,2869 1812,2847 1855,2844 1867,2856 1951,2854 1946,2740 1905,2749 1885,2735 1855,2749 1803,2735 1783,2747 1767,2735 1737,2754 1719,2740 1687,2749" rendition="Line" xml:id="facs_4_region_1709373751471_909_tl_47"/>
       </zone></surface></facsimile><text><body><div><pb facs="#facs_1" n="1" xml:id="img_0001"/><ab facs="#facs_1_region_1733832523677_1429" type="">
-      <lb facs="#facs_1_line_1733832527714_1432" n="N001"/></ab><ab facs="#facs_1_region_1709373710747_894" type="">
+      <lb facs="#facs_1_line_1733832527714_1432" n="N001"/>No. 46. Leipzig, November. 1854</ab><ab facs="#facs_1_region_1709373710747_894" type="">
       <lb facs="#facs_1_line_1709373787739_924" n="N001"/>Zwölfter Jahrgang</ab><ab facs="#facs_1_region_1709373709019_891" type="">
-      <lb facs="#facs_1_line_1709373795251_933" n="N001"/>Signale für die Musikalische Welt</ab><pb facs="#facs_2" n="2" xml:id="img_0002"/><pb facs="#facs_3" n="3" xml:id="img_0003"/><ab facs="#facs_3_region_1709373739787_903" type="">
+      <lb facs="#facs_1_line_1744231498815_629" n="N001"/>SIGNALE
+      <lb facs="#facs_1_line_1744231500112_632" n="N002"/>für die
+      <lb facs="#facs_1_line_1744231502500_635" n="N003"/>Musikalische Welt</ab><pb facs="#facs_2" n="2" xml:id="img_0002"/><pb facs="#facs_3" n="3" xml:id="img_0003"/><ab facs="#facs_3_region_1709373739787_903" type="">
       <lb facs="#facs_3_region_1709373739787_903_tl_1" n="N001"/>Signale aus Wien.
-      <lb facs="#facs_3_line_1709373843772_951" n="N002"/>Das neue Buch von Hanslick. — Der Männergesangverein. — Die Oper. — Fräulein La Grua
-      <lb facs="#facs_3_region_1709373739787_903_tl_5" n="N003"/>als Gast. — Eine Explication hinter den Coulissen. — Plötzliche Concerte der Frau Hasselt¬
-      <lb facs="#facs_3_region_1709373739787_903_tl_6" n="N004"/>Barth. — Dolores Monterito, Tänzerin der Zukunft.
+      <lb facs="#facs_3_line_1709373843772_951" n="N002"/>Das neue Buch von <rs type="person">Hanslick</rs>. — Der Männergesangverein. — Die Oper. — Fräulein <rs type="person">La Grua</rs>
+      <lb facs="#facs_3_region_1709373739787_903_tl_5" n="N003"/>als Gast. — Eine Explication hinter den Coulissen. — Plötzliche Concerte der Frau <rs type="person" continued="true">Hasselt-</rs>
+      <lb facs="#facs_3_region_1709373739787_903_tl_6" n="N004"/><rs type="person" continued="true">Barth</rs>. — Dolores <rs type="person">Monterito</rs>, Tänzerin der Zukunft.
       <lb facs="#facs_3_region_1709373739787_903_tl_8" n="N005"/>Mitte November.
-      <lb facs="#facs_3_region_1709373739787_903_tl_9" n="N006"/>„Vom musikalisch Schönen" heißt ein Buch, welches kürzlich in Leipzig erschien und
-      <lb facs="#facs_3_region_1709373739787_903_tl_10" n="N007"/>einen unserer hiesigen musikalischen Kritiker, Herrn Dr. Ed. Hanslick zum Verfasser
+      <lb facs="#facs_3_region_1709373739787_903_tl_9" n="N006"/>„<work>Vom musikalisch Schönen</work>“ heißt ein Buch, welches kürzlich in <rs type="place">Leipzig</rs> erschien und
+      <lb facs="#facs_3_region_1709373739787_903_tl_10" n="N007"/>einen unserer hiesigen musikalischen Kritiker, Herrn Dr. <italic>Ed. <rs type="person">Hanslick</rs></italic> zum Verfasser
       <lb facs="#facs_3_region_1709373739787_903_tl_11" n="N008"/>hat. Letzterer erklärt gleich im Eingange, daß er nicht das Wagniß vorhabe, eine
       <lb facs="#facs_3_region_1709373739787_903_tl_12" n="N009"/>Aesthetik der Tonkunst zu schreiben, sondern daß er nur Bausteine zu einem solchen
       <lb facs="#facs_3_region_1709373739787_903_tl_13" n="N010"/>Werke der Zukunft zusammentragen wolle. Die Hauptbestrebung scheint dahin gerichtet,
@@ -104,7 +108,7 @@
       <lb facs="#facs_3_region_1709373739787_903_tl_16" n="N013"/>einen möglichst natürlichen Standpunkt der Beurtheilung einzunehmen. Manches früher
       <lb facs="#facs_3_region_1709373739787_903_tl_17" n="N014"/>Gültige fällt durch eine solche Zurückführung der Anschauung auf nüchterne, auch dem
       <lb facs="#facs_3_region_1709373739787_903_tl_18" n="N015"/>Verstande faßbare Begriffe über den Haufen und alle phantastischen Nebel müssen zer¬
-      <lb facs="#facs_3_region_1709373739787_903_tl_19" n="N016"/>rinnen; aber es dürfte weder Herrn Hanslick noch einem andern noch geistreicheren
+      <lb facs="#facs_3_region_1709373739787_903_tl_19" n="N016"/>rinnen; aber es dürfte weder Herrn <rs type="person">Hanslick</rs> noch einem andern noch geistreicheren
       <lb facs="#facs_3_region_1709373739787_903_tl_20" n="N017"/>Kritiker gelingen, das Vage der musikalischen Aesthetik durch neue Satzungen zu prä¬
       <lb facs="#facs_3_region_1709373739787_903_tl_21" n="N018"/>cisiren und unter den eisernen Ring von bestimmten Gesetzen das zu zwingen, was so
       <lb facs="#facs_3_region_1709373739787_903_tl_23" n="N019"/>unendlich dehnbar und direct an das Gemüth appellirend ist.
@@ -115,27 +119,27 @@
       <lb facs="#facs_3_region_1709373739787_903_tl_28" n="N024"/>sein; aber sie weist der Frau Musica einen ganz andern, mehr nach abwärts gelegenen
       <lb facs="#facs_3_region_1709373739787_903_tl_29" n="N025"/>Rang an als der ist, den sie seit ihrer größeren Entwickelung eingenommen hat.
       <lb facs="#facs_3_region_1709373739787_903_tl_30" n="N026"/>Uebrigens gebe ich Ihnen einen Auszug aus dem Buche, um Ihnen mit einigen
-      <lb facs="#facs_3_region_1709373739787_903_tl_31" n="N027"/>Zügen die Hanslick'sche Anschauung klar zu machen. Er sagt: „Jeder von uns hat
-      <lb facs="#facs_3_region_1709373739787_903_tl_32" n="N028"/>als Kind sich wohl an dem wechselnden Farbenspiele eines Kaleidoscops ergötzt.
+      <lb facs="#facs_3_region_1709373739787_903_tl_31" n="N027"/>Zügen die <rs type="person">Hanslick</rs>’sche Anschauung klar zu machen. Er sagt: „Jeder von uns hat
+      <lb facs="#facs_3_region_1709373739787_903_tl_32" n="N028"/>als Kind sich wohl an dem wechselnden Farbenspiele eines <italic>Kaleidoscops</italic> ergötzt.
       <lb facs="#facs_3_region_1709373739787_903_tl_33" n="N029"/>Ein solches Kaleidoscop auf incommensurabel höherer Erscheinungsstufe ist Musik. Sie
       <lb facs="#facs_3_region_1709373739787_903_tl_34" n="N030"/>bringt in stets sich entwickelnder Abwechselung schöne Formen und Farben, sanft über¬
       <lb facs="#facs_3_region_1709373739787_903_tl_35" n="N031"/>gehend, scharf contrastirend, immer symmetrisch und in sich erfüllt. Der Hauptunterschied
-      <lb facs="#facs_3_region_1709373739787_903_tl_36" n="N032"/>ist, daß solch unserm Ohr vorgeführtes Ton=Kaleidoscop sich als unmittelbare Emana¬
+      <lb facs="#facs_3_region_1709373739787_903_tl_36" n="N032"/>ist, daß solch unserm Ohr vorgeführtes <italic>Ton</italic>-Kaleidoscop sich als unmittelbare Emana¬
       <lb facs="#facs_3_region_1709373739787_903_tl_37" n="N033"/>tion eines künstlerisch schaffenden Geistes giebt, jenes sichtbare aber als ein sinnreich
       <lb facs="#facs_3_region_1709373739787_903_tl_38" n="N034"/>mechanisches Spielzeug. Will man nicht blos im Gedanken, sondern in Wirklichkeit die
       <lb facs="#facs_3_region_1709373739787_903_tl_39" n="N035"/>Erhebung der Farbe zur Musik vollziehen und die Mittel der einen Kunst in die Wir¬
       <lb facs="#facs_3_region_1709373739787_903_tl_40" n="N036"/>kungen der andern einbetteln, so geräth man auf die abgeschmackte Spielerei des „Farben¬</ab><pb facs="#facs_4" n="4" xml:id="img_0004"/><ab facs="#facs_4_region_1709373751471_909" type="">
-      <lb facs="#facs_4_region_1709373751471_909_tl_1" n="N001"/>claviers“ oder der „Augenorgel," deren Erfindung jedoch beweist, wie die formelle Seite
-      <lb facs="#facs_4_region_1709373751471_909_tl_2" n="N002"/>beider Erscheinungen auf gleicher Basis ruhe."
-      <lb facs="#facs_4_region_1709373751471_909_tl_3" n="N003"/>Herr Hauslick ist der Musik=Rezensent der Wiener Zeitung, als solcher sehr gerne
-      <lb facs="#facs_4_region_1709373751471_909_tl_4" n="N004"/>gelesen und vielfach in Wien bekannt und als Autorität betrachtet. Sein Buch nach
+      <lb facs="#facs_4_region_1709373751471_909_tl_1" n="N001"/>claviers“ oder der „Augenorgel,“ deren Erfindung jedoch beweist, wie die formelle Seite
+      <lb facs="#facs_4_region_1709373751471_909_tl_2" n="N002"/>beider Erscheinungen auf gleicher Basis ruhe.“
+      <lb facs="#facs_4_region_1709373751471_909_tl_3" n="N003"/>Herr <rs type="person">Hauslick</rs> ist der Musik-Rezensent der <work>Wiener Zeitung</work>, als solcher sehr gerne
+      <lb facs="#facs_4_region_1709373751471_909_tl_4" n="N004"/>gelesen und vielfach in <rs type="place">Wien</rs> bekannt und als Autorität betrachtet. Sein Buch macht
       <lb facs="#facs_4_region_1709373751471_909_tl_5" n="N005"/>schon aus diesem Grunde hier entschiedenes Glück. Man findet es in den Händen aller
       <lb facs="#facs_4_region_1709373751471_909_tl_6" n="N006"/>Leute, die sich für Musik interessiren, und es hat nicht versäumt in den betreffenden
       <lb facs="#facs_4_region_1709373751471_909_tl_7" n="N007"/>Kreisen große Sensation zu erregen, um so mehr, als es klar, wenn auch nicht ohne
       <lb facs="#facs_4_region_1709373751471_909_tl_8" n="N008"/>einen gewissen Beigeschmack philosophischer Gelehrsamkeit, für jeden Gebildeten verständ¬
       <lb facs="#facs_4_region_1709373751471_909_tl_9" n="N009"/>lich und keineswegs für Fachmänner allein berechnet ist.
       <lb facs="#facs_4_region_1709373751471_909_tl_10" n="N010"/>Bei der kürzlich abgehaltenen Stiftungsfeier des Männergesangvereins hörten wir
-      <lb facs="#facs_4_region_1709373751471_909_tl_11" n="N011"/>eine neue Vokalmesse von Esser. Sie ist sanglich, aber trotz scheinbarer Einfachheit sehr
+      <lb facs="#facs_4_region_1709373751471_909_tl_11" n="N011"/>eine neue <work>Vokalmesse</work> von <rs type="person">Esser</rs>. Sie ist sanglich, aber trotz scheinbarer Einfachheit sehr
       <lb facs="#facs_4_region_1709373751471_909_tl_12" n="N012"/>schwierig. Bei dem Mangel an Vokalmessen für vier Männerstimmen müssen wir jeden
       <lb facs="#facs_4_region_1709373751471_909_tl_13" n="N013"/>neuen Zuwachs mit Freude begrüßen, besonders im Hinblick darauf, welche große
       <lb facs="#facs_4_region_1709373751471_909_tl_14" n="N014"/>Schwierigkeit es bietet, für den so begrenzten Spielraum der Männerstimme ohne Be¬
@@ -145,26 +149,26 @@
       <lb facs="#facs_4_region_1709373751471_909_tl_18" n="N018"/>Die vom Verein veranstaltete Liedertafel war in dieser traurigen Zeit des Kriegs
       <lb facs="#facs_4_region_1709373751471_909_tl_19" n="N019"/>und der Krankheit frostig und unerquicklich. Man konnte sich für die Vorträge, unter
       <lb facs="#facs_4_region_1709373751471_909_tl_20" n="N020"/>welchen einige sonderbar genug waren, nicht erwärmen.
-      <lb facs="#facs_4_region_1709373751471_909_tl_22" n="N021"/>In der Oper genießen wir jetzt Fräulein La Grua als Gast nachdem ihre En¬
-      <lb facs="#facs_4_region_1709373751471_909_tl_23" n="N022"/>gagementszeit abgelaufen ist. Sie trat schon in Robert als Alice, in Don Juan als
-      <lb facs="#facs_4_region_1709373751471_909_tl_24" n="N023"/>Donna Anna und in Ferdinand Cortez auf. Ihre Beliebtheit scheint sich zu steigern,
+      <lb facs="#facs_4_region_1709373751471_909_tl_22" n="N021"/>In der Oper genießen wir jetzt Fräulein <italic><rs type="person">La Grua</rs></italic> als Gast nachdem ihre En¬
+      <lb facs="#facs_4_region_1709373751471_909_tl_23" n="N022"/>gagementszeit abgelaufen ist. Sie trat schon in <work>Robert</work> als <person_fictional>Alice</person_fictional>, in <work>Don Juan</work> als
+      <lb facs="#facs_4_region_1709373751471_909_tl_24" n="N023"/><person_fictional>Donna Anna</person_fictional> und in <work>Ferdinand Cortez</work> auf. Ihre Beliebtheit scheint sich zu steigern,
       <lb facs="#facs_4_region_1709373751471_909_tl_25" n="N024"/>nachdem sie im Begriffe steht von uns zu scheiden. Jedenfalls ist sie eine der bedeu¬
-      <lb facs="#facs_4_region_1709373751471_909_tl_26" n="N025"/>tendsten Erscheinungen und gewiß die erste aller jetzt lebenden deutschen Primadonnen.
+      <lb facs="#facs_4_region_1709373751471_909_tl_26" n="N025"/>tendsten Erscheinungen und gewiß die erste aller jetzt lebenden <rs type="place">deutsch</rs>en Primadonnen.
       <lb facs="#facs_4_region_1709373751471_909_tl_27" n="N026"/>Die Damen, welche sich hierdurch zurückgesetzt fühlen, mögen sich beruhigen, da Fräulein
-      <lb facs="#facs_4_region_1709373751471_909_tl_28" n="N027"/>La Grua bald nach dem Süden in das Land des musikalischen Wahnsinns zieht. Schade
-      <lb facs="#facs_4_region_1709373751471_909_tl_29" n="N028"/>um das schöne Talent! Wenn ich eine große deutsche Sängerin wäre, brächten mich
+      <lb facs="#facs_4_region_1709373751471_909_tl_28" n="N027"/><rs type="person">La Grua</rs> bald nach dem Süden in das Land des musikalischen Wahnsinns zieht. Schade
+      <lb facs="#facs_4_region_1709373751471_909_tl_29" n="N028"/>um das schöne Talent! Wenn ich eine große <rs type="place">deutsch</rs>e Sängerin wäre, brächten mich
       <lb facs="#facs_4_region_1709373751471_909_tl_30" n="N029"/>alle Lorbeerkränze des welschen Opernpublikums, alle Goldberge der Impresari nicht
-      <lb facs="#facs_4_region_1709373751471_909_tl_32" n="N030"/>nach Italien!
-      <lb facs="#facs_4_region_1709373751471_909_tl_35" n="N031"/>Herr Cornet soll neulich mit Herrn Steger eine sehr energische Explication hinter
-      <lb facs="#facs_4_region_1709373751471_909_tl_36" n="N032"/>den Coulissen gehabt haben; deren Springfluth sich später in einer Abbitte, welche die
+      <lb facs="#facs_4_region_1709373751471_909_tl_32" n="N030"/>nach <rs type="place">Italien</rs>!
+      <lb facs="#facs_4_region_1709373751471_909_tl_35" n="N031"/>Herr <rs type="person">Cornet</rs> soll neulich mit Herrn <rs type="person">Steger</rs> eine sehr energische Explication hinter
+      <lb facs="#facs_4_region_1709373751471_909_tl_36" n="N032"/>den Coulissen gehabt haben, deren Springfluth sich später in einer Abbitte, welche die
       <lb facs="#facs_4_region_1709373751471_909_tl_37" n="N033"/>Zuhörenden mit Ehrfurcht erfüllte, ebnete. Unser Repertoire macht sich zwar nicht übel,
-      <lb facs="#facs_4_region_1709373751471_909_tl_38" n="N034"/>denn der italienische Singsang ist fast durchaus verschwunden, aber es scheint sehr klein
+      <lb facs="#facs_4_region_1709373751471_909_tl_38" n="N034"/>denn der <rs type="place">italienisch</rs>e Singsang ist fast durchaus verschwunden, aber es scheint sehr klein
       <lb facs="#facs_4_region_1709373751471_909_tl_39" n="N035"/>und sich bedeutend auf das lückenbüsende Ballet zu stützen.
-      <lb facs="#facs_4_region_1709373751471_909_tl_40" n="N036"/>Frau Hasselt-Barth kündigt plötzlich Concerte an und wird im Theater an der
-      <lb facs="#facs_4_region_1709373751471_909_tl_41" n="N037"/>Wien große Arien aus Oberon, Belisar und Norma im Costume singen, während in
-      <lb facs="#facs_4_region_1709373751471_909_tl_42" n="N038"/>den Zwischenakten die jugendlich reizende spanische Tänzerin Dolores Monterito
+      <lb facs="#facs_4_region_1709373751471_909_tl_40" n="N036"/>Frau <italic><rs type="person">Hasselt-Barth</rs></italic> kündigt plötzlich Concerte an und wird im Theater an der
+      <lb facs="#facs_4_region_1709373751471_909_tl_41" n="N037"/>Wien große Arien aus <work>Oberon</work>, <work>Belisar</work> und <work>Norma</work> im Costume singen, während in
+      <lb facs="#facs_4_region_1709373751471_909_tl_42" n="N038"/>den Zwischenacten die jugendlich reizende <rs type="place">spanisch</rs>e Tänzerin <italic>Dolores <rs type="person">Monterito</rs></italic>
       <lb facs="#facs_4_region_1709373751471_909_tl_43" n="N039"/>dem Publikum die Hölle heiß macht. Eine Sängerin mit großer Vergangenheit und
       <lb facs="#facs_4_region_1709373751471_909_tl_44" n="N040"/>eine Tänzerin der Zukunft, die kalte Nordin und die glühende Südländerin in dem
-      <lb facs="#facs_4_region_1709373751471_909_tl_45" n="N041"/>brillanten Rahmen des neu restaurirten Wien=Theaters vereinigt — das muß wohl
+      <lb facs="#facs_4_region_1709373751471_909_tl_45" n="N041"/>brillanten Rahmen des neu restaurirten Wien-Theaters vereinigt — das muß wohl
       <lb facs="#facs_4_region_1709373751471_909_tl_46" n="N042"/>ziehen, schon der Contraste wegen!
-      <lb facs="#facs_4_region_1709373751471_909_tl_47" n="N043"/>Modestus.</ab></div></body></text></TEI>
+      <lb facs="#facs_4_region_1709373751471_909_tl_47" n="N043"/><rs type="person">Modestus</rs>.</ab></div></body></text></TEI>
