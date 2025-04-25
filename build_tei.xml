@@ -7,9 +7,9 @@
     <property name="collection.id2" value="${COL_ID2}"/>
     <property name="tei.dir2" value="./tei/${collection.id2}"/>
     <property name="source.dir2" value="./mets/${collection.id2}"/>
-    <property name="collection.id2" value="${COL_ID3}"/>
-    <property name="tei.dir2" value="./tei/${collection.id3}"/>
-    <property name="source.dir2" value="./mets/${collection.id3}"/>
+    <property name="collection.id3" value="${COL_ID3}"/>
+    <property name="tei.dir3" value="./tei/${collection.id3}"/>
+    <property name="source.dir3" value="./mets/${collection.id3}"/>
     <property name="stylesheet" value="./page2tei/page2tei-0.xsl"/>
     <property name="lib.dir" value="lib"/>
     <target name="make-tei">
