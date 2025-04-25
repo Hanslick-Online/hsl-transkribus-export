@@ -7,6 +7,9 @@
     <property name="collection.id2" value="${COL_ID2}"/>
     <property name="tei.dir2" value="./tei/${collection.id2}"/>
     <property name="source.dir2" value="./mets/${collection.id2}"/>
+    <property name="collection.id2" value="${COL_ID3}"/>
+    <property name="tei.dir2" value="./tei/${collection.id3}"/>
+    <property name="source.dir2" value="./mets/${collection.id3}"/>
     <property name="stylesheet" value="./page2tei/page2tei-0.xsl"/>
     <property name="lib.dir" value="lib"/>
     <target name="make-tei">
@@ -24,6 +27,15 @@
             <classpath location="./saxon/saxon9he.jar"/>
             <param name="col-id"  expression="${collection.id2}"/>
             <fileset dir="${source.dir2}">
+                <include name="*.xml"/>
+            </fileset>
+            <mapper type="glob" from="*_mets.xml" to="*_tei.xml"/>
+        </xslt>
+        <xslt style="${stylesheet}" destdir="${tei.dir3}" basedir="${source.dir3}">
+            <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+            <classpath location="./saxon/saxon9he.jar"/>
+            <param name="col-id"  expression="${collection.id3}"/>
+            <fileset dir="${source.dir3}">
                 <include name="*.xml"/>
             </fileset>
             <mapper type="glob" from="*_mets.xml" to="*_tei.xml"/>
