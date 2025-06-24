@@ -37,7 +37,7 @@ jobs:
       run: |
         mkdir -p mets
         mkdir -p tei
-        git clone --depth=1 --branch skurzinz-patch-1 --single-branch https://github.com/skurzinz/page2tei.git
+        git clone --depth=1 --branch master --single-branch https://github.com/skurzinz/page2tei.git
     - name: Setup Python
       uses: actions/setup-python@v5
       with:
