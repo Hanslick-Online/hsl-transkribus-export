@@ -1,592 +1,667 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title type="main">1877.04.06</title><principal>alexander.wilfing85@gmail.com</principal></titleStmt><publicationStmt><publisher>tranScriptorium</publisher></publicationStmt><seriesStmt><title>Eduard Hanslick, Neue Freie Presse</title></seriesStmt><sourceDesc><p>TRP document creator: alexander.wilfing85@gmail.com</p></sourceDesc></fileDesc></teiHeader><facsimile><surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_1"><graphic url="%2Ffiles.jpg" width="2479px" height="3508px"/><zone points="17,2426 754,2426 754,3446 17,3446" rendition="TextRegion" xml:id="facs_1_region_1684676900680_582">
-        <zone points="190,2475 213,2492 344,2475 385,2484 405,2466 450,2481 565,2475 565,2443 529,2434 507,2445 461,2431 414,2447 296,2436 190,2447" rendition="Line" xml:id="facs_1_region_1684676900680_582_tl_1"/>
-        <zone points="255,2515 296,2510 319,2517 328,2508 369,2504 393,2513 509,2504 509,2477 491,2475 255,2484" rendition="Line" xml:id="facs_1_region_1684676900680_582_tl_2"/>
-        <zone points="82,2538 726,2535 726,2499 704,2497 194,2520 82,2504" rendition="Line" xml:id="facs_1_region_1684676900680_582_tl_3"/>
-        <zone points="30,2567 728,2567 728,2533 30,2540" rendition="Line" xml:id="facs_1_region_1684676900680_582_tl_4"/>
-        <zone points="30,2601 721,2594 721,2569 692,2561 233,2583 30,2567" rendition="Line" xml:id="facs_1_region_1684676900680_582_tl_5"/>
-        <zone points="34,2622 726,2628 726,2594 34,2597" rendition="Line" xml:id="facs_1_region_1684676900680_582_tl_6"/>
-        <zone points="34,2651 592,2662 724,2651 726,2628 36,2622" rendition="Line" xml:id="facs_1_region_1684676900680_582_tl_7"/>
-        <zone points="39,2687 733,2683 733,2651 39,2656" rendition="Line" xml:id="facs_1_region_1684676900680_582_tl_8"/>
-        <zone points="38,2708 730,2710 730,2682 706,2680 38,2687" rendition="Line" xml:id="facs_1_region_1684676900680_582_tl_9"/>
-        <zone points="34,2739 731,2739 731,2710 701,2708 34,2708" rendition="Line" xml:id="facs_1_region_1684676900680_582_tl_10"/>
-        <zone points="34,2766 731,2768 710,2737 34,2735" rendition="Line" xml:id="facs_1_region_1684676900680_582_tl_11"/>
-        <zone points="34,2798 731,2796 719,2766 34,2766" rendition="Line" xml:id="facs_1_region_1684676900680_582_tl_12"/>
-        <zone points="38,2821 143,2843 730,2829 730,2800 676,2793 38,2798" rendition="Line" xml:id="facs_1_region_1684676900680_582_tl_13"/>
-        <zone points="39,2852 733,2854 733,2829 699,2823 134,2839 39,2821" rendition="Line" xml:id="facs_1_region_1684676900680_582_tl_14"/>
-        <zone points="38,2881 726,2882 726,2855 676,2850 256,2868 38,2850" rendition="Line" xml:id="facs_1_region_1684676900680_582_tl_15"/>
-        <zone points="43,2911 690,2918 731,2909 733,2886 45,2879" rendition="Line" xml:id="facs_1_region_1684676900680_582_tl_16"/>
-        <zone points="34,2938 731,2941 731,2909 197,2927 34,2906" rendition="Line" xml:id="facs_1_region_1684676900680_582_tl_17"/>
-        <zone points="36,2963 106,2981 724,2972 726,2940 692,2933 38,2938" rendition="Line" xml:id="facs_1_region_1684676900680_582_tl_18"/>
-        <zone points="38,2995 726,2997 726,2970 685,2963 366,2983 38,2965" rendition="Line" xml:id="facs_1_region_1684676900680_582_tl_19"/>
-        <zone points="43,3024 733,3028 733,2997 676,2990 437,3010 43,2993" rendition="Line" xml:id="facs_1_region_1684676900680_582_tl_20"/>
-        <zone points="39,3047 333,3069 730,3054 731,3026 595,3017 231,3042 41,3022" rendition="Line" xml:id="facs_1_region_1684676900680_582_tl_21"/>
-        <zone points="38,3080 419,3099 730,3081 730,3056 685,3049 328,3067 38,3047" rendition="Line" xml:id="facs_1_region_1684676900680_582_tl_22"/>
-        <zone points="39,3106 290,3126 728,3110 728,3081 699,3072 445,3096 39,3080" rendition="Line" xml:id="facs_1_region_1684676900680_582_tl_23"/>
-        <zone points="38,3137 726,3139 726,3110 667,3106 369,3126 38,3106" rendition="Line" xml:id="facs_1_region_1684676900680_582_tl_24"/>
-        <zone points="34,3160 204,3182 731,3171 731,3140 678,3137 317,3155 34,3137" rendition="Line" xml:id="facs_1_region_1684676900680_582_tl_25"/>
-        <zone points="30,3191 167,3210 733,3194 733,3171 697,3162 30,3175" rendition="Line" xml:id="facs_1_region_1684676900680_582_tl_26"/>
-        <zone points="38,3221 307,3239 735,3225 735,3194 168,3210 38,3192" rendition="Line" xml:id="facs_1_region_1684676900680_582_tl_27"/>
-        <zone points="34,3244 73,3264 724,3252 724,3226 694,3223 34,3225" rendition="Line" xml:id="facs_1_region_1684676900680_582_tl_28"/>
-        <zone points="43,3280 733,3284 719,3250 228,3268 43,3250" rendition="Line" xml:id="facs_1_region_1684676900680_582_tl_29"/>
-        <zone points="43,3307 733,3311 713,3280 242,3296 88,3291 43,3266" rendition="Line" xml:id="facs_1_region_1684676900680_582_tl_30"/>
-        <zone points="39,3334 186,3352 733,3338 710,3307 120,3325 39,3305" rendition="Line" xml:id="facs_1_region_1684676900680_582_tl_31"/>
-        <zone points="34,3365 366,3388 740,3372 740,3338 697,3330 136,3356 34,3334" rendition="Line" xml:id="facs_1_region_1684676900680_582_tl_32"/>
-        <zone points="90,3409 100,3406 120,3415 127,3411 142,3418 160,3415 172,3422 177,3417 192,3417 185,3377 168,3379 163,3375 161,3379 134,3368 125,3375 82,3377" rendition="Line" xml:id="facs_1_region_1684676900680_582_tl_33"/>
-        <zone points="197,3445 287,3420 357,3436 403,3417 726,3415 726,3379 669,3373 197,3384" rendition="Line" xml:id="facs_1_region_1684676900680_582_tl_34"/>
-        <zone points="23,3456 56,3458 68,3443 81,3451 108,3443 125,3452 140,3442 197,3442 195,3417 168,3422 151,3415 131,3417 113,3406 99,3406 84,3391 72,3399 45,3382 20,3384" rendition="Line" xml:id="facs_1_region_1684676900680_582_tl_35"/>
-      </zone><zone points="476,47 1694,47 1694,392 476,392" rendition="TextRegion" xml:id="facs_1_region_1684676888173_572">
-        <zone points="887,125 911,140 989,140 1002,127 1041,142 1072,129 1104,142 1228,136 1228,70 1197,68 1183,82 1013,75 972,57 887,77" rendition="Line" xml:id="facs_1_region_1684676888173_572_tl_1"/>
-        <zone points="644,394 954,396 998,357 1076,396 1620,387 1678,378 1680,321 1029,346 952,315 887,346 783,315 644,350" rendition="Line" xml:id="facs_1_region_1684676888173_572_tl_2"/>
-      </zone><zone points="907,431 1252,431 1252,492 907,492" rendition="TextRegion" xml:id="facs_1_region_1684676889915_575">
-        <zone points="912,486 937,500 1031,509 1101,497 1242,500 1242,446 1226,439 1167,450 1110,437 1097,450 1018,454 982,436 912,445" rendition="Line" xml:id="facs_1_region_1684676889915_575_tl_1"/>
-      </zone><zone points="39,526 2112,526 2112,593 39,593" rendition="TextRegion" xml:id="facs_1_region_1684676893048_578">
-        <zone points="1932,588 2103,586 2099,505 2063,511 2056,505 2049,514 2027,509 1929,513" rendition="Line" xml:id="facs_1_region_1684676893048_578_tl_1"/>
-        <zone points="801,593 923,613 1355,597 1355,547 1188,566 1126,550 1101,574 1027,552 801,570" rendition="Line" xml:id="facs_1_region_1684676893048_578_tl_2"/>
-        <zone points="61,620 143,620 154,609 170,620 346,611 344,538 59,543" rendition="Line" xml:id="facs_1_region_1684676893048_578_tl_3"/>
-      </zone><zone points="742,2348 1465,2348 1465,3440 742,3440" rendition="TextRegion" xml:id="facs_1_region_1684676903561_585">
-        <zone points="751,2395 1448,2388 1448,2352 751,2363" rendition="Line" xml:id="facs_1_region_1684676903561_585_tl_1"/>
-        <zone points="751,2422 1443,2416 1445,2388 1312,2379 753,2395" rendition="Line" xml:id="facs_1_region_1684676903561_585_tl_2"/>
-        <zone points="751,2449 1443,2449 1443,2416 1361,2409 751,2420" rendition="Line" xml:id="facs_1_region_1684676903561_585_tl_3"/>
-        <zone points="751,2484 941,2477 995,2483 995,2449 973,2445 891,2445 877,2452 812,2443 789,2456 751,2450" rendition="Line" xml:id="facs_1_region_1684676903561_585_tl_4"/>
-        <zone points="814,2513 1448,2506 1448,2474 1416,2465 814,2479" rendition="Line" xml:id="facs_1_region_1684676903561_585_tl_5"/>
-        <zone points="747,2542 1445,2536 1445,2508 1407,2502 747,2517" rendition="Line" xml:id="facs_1_region_1684676903561_585_tl_6"/>
-        <zone points="756,2572 1369,2569 1445,2561 1447,2535 758,2542" rendition="Line" xml:id="facs_1_region_1684676903561_585_tl_7"/>
-        <zone points="747,2599 1445,2592 1445,2561 1386,2556 747,2570" rendition="Line" xml:id="facs_1_region_1684676903561_585_tl_8"/>
-        <zone points="756,2630 1448,2619 1436,2590 756,2599" rendition="Line" xml:id="facs_1_region_1684676903561_585_tl_9"/>
-        <zone points="747,2658 1429,2653 1450,2619 747,2633" rendition="Line" xml:id="facs_1_region_1684676903561_585_tl_10"/>
-        <zone points="758,2685 1443,2678 1443,2649 1405,2640 760,2655" rendition="Line" xml:id="facs_1_region_1684676903561_585_tl_11"/>
-        <zone points="756,2712 1445,2708 1445,2680 1326,2671 756,2683" rendition="Line" xml:id="facs_1_region_1684676903561_585_tl_12"/>
-        <zone points="755,2743 1445,2735 1445,2708 1309,2700 755,2712" rendition="Line" xml:id="facs_1_region_1684676903561_585_tl_13"/>
-        <zone points="756,2771 1445,2764 1445,2735 1378,2730 756,2743" rendition="Line" xml:id="facs_1_region_1684676903561_585_tl_14"/>
-        <zone points="756,2800 1445,2793 1427,2760 756,2771" rendition="Line" xml:id="facs_1_region_1684676903561_585_tl_15"/>
-        <zone points="760,2827 1445,2820 1445,2793 1334,2787 760,2798" rendition="Line" xml:id="facs_1_region_1684676903561_585_tl_16"/>
-        <zone points="756,2855 1448,2848 1448,2818 1386,2811 1341,2832 756,2825" rendition="Line" xml:id="facs_1_region_1684676903561_585_tl_17"/>
-        <zone points="755,2888 1264,2873 1309,2891 1384,2866 1452,2882 1454,2848 756,2857" rendition="Line" xml:id="facs_1_region_1684676903561_585_tl_18"/>
-        <zone points="760,2915 1452,2904 1452,2882 1404,2873 760,2884" rendition="Line" xml:id="facs_1_region_1684676903561_585_tl_19"/>
-        <zone points="756,2945 1404,2940 1441,2933 1443,2904 758,2915" rendition="Line" xml:id="facs_1_region_1684676903561_585_tl_20"/>
-        <zone points="756,2972 1448,2965 1450,2934 756,2947" rendition="Line" xml:id="facs_1_region_1684676903561_585_tl_21"/>
-        <zone points="755,3004 1448,2992 1427,2956 755,2974" rendition="Line" xml:id="facs_1_region_1684676903561_585_tl_22"/>
-        <zone points="758,3029 1445,3020 1445,2990 1405,2986 760,3002" rendition="Line" xml:id="facs_1_region_1684676903561_585_tl_23"/>
-        <zone points="760,3056 1448,3049 1450,3022 762,3028" rendition="Line" xml:id="facs_1_region_1684676903561_585_tl_24"/>
-        <zone points="760,3090 1445,3078 1445,3047 1409,3042 760,3058" rendition="Line" xml:id="facs_1_region_1684676903561_585_tl_25"/>
-        <zone points="756,3115 1448,3106 1448,3078 1405,3074 756,3088" rendition="Line" xml:id="facs_1_region_1684676903561_585_tl_26"/>
-        <zone points="764,3146 1448,3139 1448,3106 1309,3099 764,3115" rendition="Line" xml:id="facs_1_region_1684676903561_585_tl_27"/>
-        <zone points="755,3175 1445,3162 1445,3139 1384,3130 755,3148" rendition="Line" xml:id="facs_1_region_1684676903561_585_tl_28"/>
-        <zone points="765,3235 884,3223 916,3232 929,3225 948,3232 1002,3226 1002,3200 982,3192 941,3201 911,3192 900,3203 765,3200" rendition="Line" xml:id="facs_1_region_1684676903561_585_tl_29"/>
-        <zone points="819,3255 1448,3252 1450,3209 1405,3207 821,3226" rendition="Line" xml:id="facs_1_region_1684676903561_585_tl_30"/>
-        <zone points="755,3287 1448,3278 1448,3248 1366,3243 755,3261" rendition="Line" xml:id="facs_1_region_1684676903561_585_tl_31"/>
-        <zone points="755,3316 1443,3307 1443,3278 1416,3270 755,3287" rendition="Line" xml:id="facs_1_region_1684676903561_585_tl_32"/>
-        <zone points="764,3345 1452,3336 1452,3307 1384,3302 764,3314" rendition="Line" xml:id="facs_1_region_1684676903561_585_tl_33"/>
-        <zone points="764,3370 1445,3365 1445,3334 1389,3330 764,3345" rendition="Line" xml:id="facs_1_region_1684676903561_585_tl_34"/>
-        <zone points="765,3399 1445,3391 1445,3363 1416,3361 765,3370" rendition="Line" xml:id="facs_1_region_1684676903561_585_tl_35"/>
-      </zone><zone points="1457,2334 2188,2334 2188,3423 1457,3423" rendition="TextRegion" xml:id="facs_1_region_1684676906346_588">
-        <zone points="1473,2397 1558,2375 2156,2375 2140,2343 1473,2352" rendition="Line" xml:id="facs_1_region_1684676906346_588_tl_1"/>
-        <zone points="1473,2411 2165,2404 2160,2373 1473,2380" rendition="Line" xml:id="facs_1_region_1684676906346_588_tl_2"/>
-        <zone points="1464,2436 2162,2438 2162,2406 2083,2402 1464,2418" rendition="Line" xml:id="facs_1_region_1684676906346_588_tl_3"/>
-        <zone points="1464,2470 2169,2463 2169,2434 2133,2425 1466,2447" rendition="Line" xml:id="facs_1_region_1684676906346_588_tl_4"/>
-        <zone points="1470,2501 2171,2492 2171,2461 2106,2458 1470,2474" rendition="Line" xml:id="facs_1_region_1684676906346_588_tl_5"/>
-        <zone points="1473,2526 2162,2518 2162,2488 2070,2484 1473,2499" rendition="Line" xml:id="facs_1_region_1684676906346_588_tl_6"/>
-        <zone points="1473,2560 2165,2547 2165,2520 2131,2513 1473,2526" rendition="Line" xml:id="facs_1_region_1684676906346_588_tl_7"/>
-        <zone points="1473,2583 2162,2578 2149,2545 1473,2560" rendition="Line" xml:id="facs_1_region_1684676906346_588_tl_8"/>
-        <zone points="1473,2612 2165,2606 2165,2578 2034,2570 1473,2583" rendition="Line" xml:id="facs_1_region_1684676906346_588_tl_9"/>
-        <zone points="1470,2642 2162,2635 2162,2608 2086,2599 1470,2613" rendition="Line" xml:id="facs_1_region_1684676906346_588_tl_10"/>
-        <zone points="1473,2669 2171,2665 2147,2635 1936,2626 1884,2646 1473,2644" rendition="Line" xml:id="facs_1_region_1684676906346_588_tl_11"/>
-        <zone points="1473,2700 1966,2689 2171,2708 2171,2665 2149,2662 1473,2669" rendition="Line" xml:id="facs_1_region_1684676906346_588_tl_12"/>
-        <zone points="1473,2732 1957,2730 1986,2723 1988,2696 1473,2701" rendition="Line" xml:id="facs_1_region_1684676906346_588_tl_13"/>
-        <zone points="1531,2760 2169,2753 2169,2721 2074,2703 2042,2726 1898,2734 1531,2728" rendition="Line" xml:id="facs_1_region_1684676906346_588_tl_14"/>
-        <zone points="1473,2789 2165,2786 2165,2753 1473,2753" rendition="Line" xml:id="facs_1_region_1684676906346_588_tl_15"/>
-        <zone points="1470,2816 2129,2816 2169,2814 2171,2787 1470,2789" rendition="Line" xml:id="facs_1_region_1684676906346_588_tl_16"/>
-        <zone points="1477,2854 2165,2843 2164,2811 2074,2807 1477,2820" rendition="Line" xml:id="facs_1_region_1684676906346_588_tl_17"/>
-        <zone points="1477,2879 2171,2870 2171,2841 1477,2850" rendition="Line" xml:id="facs_1_region_1684676906346_588_tl_18"/>
-        <zone points="1477,2904 2165,2898 2165,2868 2129,2866 1477,2879" rendition="Line" xml:id="facs_1_region_1684676906346_588_tl_19"/>
-        <zone points="1470,2931 2169,2929 2169,2902 2076,2893 1470,2902" rendition="Line" xml:id="facs_1_region_1684676906346_588_tl_20"/>
-        <zone points="1470,2963 2169,2958 2169,2927 2138,2925 1470,2933" rendition="Line" xml:id="facs_1_region_1684676906346_588_tl_21"/>
-        <zone points="1473,2992 2173,2986 2174,2959 2095,2950 1475,2963" rendition="Line" xml:id="facs_1_region_1684676906346_588_tl_22"/>
-        <zone points="1470,3019 2169,3015 2171,2985 2061,2977 1472,2993" rendition="Line" xml:id="facs_1_region_1684676906346_588_tl_23"/>
-        <zone points="1470,3049 2167,3042 2167,3015 2128,3010 1470,3022" rendition="Line" xml:id="facs_1_region_1684676906346_588_tl_24"/>
-        <zone points="1477,3078 2169,3071 2169,3044 2056,3029 1477,3049" rendition="Line" xml:id="facs_1_region_1684676906346_588_tl_25"/>
-        <zone points="1470,3101 2162,3099 2151,3074 1931,3063 1470,3083" rendition="Line" xml:id="facs_1_region_1684676906346_588_tl_26"/>
-        <zone points="1479,3133 2169,3131 2169,3097 1479,3103" rendition="Line" xml:id="facs_1_region_1684676906346_588_tl_27"/>
-        <zone points="1470,3164 2169,3158 2169,3131 2104,3121 1470,3131" rendition="Line" xml:id="facs_1_region_1684676906346_588_tl_28"/>
-        <zone points="755,3200 2043,3194 2171,3160 755,3176" rendition="Line" xml:id="facs_1_region_1684676906346_588_tl_29"/>
-        <zone points="1482,3219 2171,3214 2156,3183 1482,3189" rendition="Line" xml:id="facs_1_region_1684676906346_588_tl_30"/>
-        <zone points="1477,3248 2174,3248 2156,3210 1477,3219" rendition="Line" xml:id="facs_1_region_1684676906346_588_tl_31"/>
-        <zone points="1479,3282 1608,3268 1819,3277 1844,3264 1954,3275 1954,3246 1918,3239 1479,3250" rendition="Line" xml:id="facs_1_region_1684676906346_588_tl_32"/>
-        <zone points="1536,3305 2174,3296 2174,3266 2104,3270 2069,3246 2042,3270 2004,3257 1920,3282 1846,3264 1536,3275" rendition="Line" xml:id="facs_1_region_1684676906346_588_tl_33"/>
-        <zone points="1477,3330 2169,3325 2169,3296 1477,3296" rendition="Line" xml:id="facs_1_region_1684676906346_588_tl_34"/>
-        <zone points="1479,3361 2169,3354 2169,3325 2119,3320 1479,3332" rendition="Line" xml:id="facs_1_region_1684676906346_588_tl_35"/>
-        <zone points="1472,3393 2171,3382 2171,3356 2115,3352 1473,3359" rendition="Line" xml:id="facs_1_region_1684676906346_588_tl_36"/>
-        <zone points="742,3443 2180,3427 2180,3382 2074,3377 742,3393" rendition="Line" xml:id="facs_1_region_1684676906346_588_tl_37"/>
-      </zone></surface><surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_2"><graphic url="%2Ffiles.jpg" width="2479px" height="3508px"/><zone points="56,2359 779,2359 779,3429 56,3429" rendition="TextRegion" xml:id="facs_2_region_1684676921590_594">
-        <zone points="64,2400 754,2390 754,2355 643,2334 64,2344" rendition="Line" xml:id="facs_2_region_1684676921590_594_tl_1"/>
-        <zone points="66,2427 741,2419 743,2390 701,2382 69,2397" rendition="Line" xml:id="facs_2_region_1684676921590_594_tl_2"/>
-        <zone points="56,2453 743,2448 743,2416 658,2413 56,2424" rendition="Line" xml:id="facs_2_region_1684676921590_594_tl_3"/>
-        <zone points="58,2482 751,2474 751,2448 680,2440 58,2453" rendition="Line" xml:id="facs_2_region_1684676921590_594_tl_4"/>
-        <zone points="56,2522 1474,2498 1474,2466 56,2482" rendition="Line" xml:id="facs_2_region_1684676921590_594_tl_5"/>
-        <zone points="58,2551 754,2533 754,2504 712,2496 58,2517" rendition="Line" xml:id="facs_2_region_1684676921590_594_tl_6"/>
-        <zone points="77,2599 751,2591 751,2562 658,2554 77,2575" rendition="Line" xml:id="facs_2_region_1684676921590_594_tl_7"/>
-        <zone points="77,2631 754,2618 754,2591 640,2583 80,2597" rendition="Line" xml:id="facs_2_region_1684676921590_594_tl_8"/>
-        <zone points="56,2658 757,2647 741,2615 56,2623" rendition="Line" xml:id="facs_2_region_1684676921590_594_tl_9"/>
-        <zone points="64,2687 754,2679 754,2647 730,2644 64,2660" rendition="Line" xml:id="facs_2_region_1684676921590_594_tl_10"/>
-        <zone points="58,2719 759,2705 759,2676 698,2674 58,2684" rendition="Line" xml:id="facs_2_region_1684676921590_594_tl_11"/>
-        <zone points="64,2743 754,2737 754,2705 690,2697 64,2716" rendition="Line" xml:id="facs_2_region_1684676921590_594_tl_12"/>
-        <zone points="66,2774 757,2764 757,2737 712,2727 66,2745" rendition="Line" xml:id="facs_2_region_1684676921590_594_tl_13"/>
-        <zone points="56,2804 757,2793 757,2764 674,2756 56,2767" rendition="Line" xml:id="facs_2_region_1684676921590_594_tl_14"/>
-        <zone points="64,2833 757,2820 738,2790 64,2798" rendition="Line" xml:id="facs_2_region_1684676921590_594_tl_15"/>
-        <zone points="66,2862 757,2851 757,2822 714,2814 66,2836" rendition="Line" xml:id="facs_2_region_1684676921590_594_tl_16"/>
-        <zone points="82,2915 757,2907 757,2878 730,2875 82,2886" rendition="Line" xml:id="facs_2_region_1684676921590_594_tl_17"/>
-        <zone points="66,2947 712,2942 757,2934 759,2907 66,2918" rendition="Line" xml:id="facs_2_region_1684676921590_594_tl_18"/>
-        <zone points="56,2966 757,2963 757,2934 56,2947" rendition="Line" xml:id="facs_2_region_1684676921590_594_tl_19"/>
-        <zone points="61,3003 765,2990 765,2960 714,2955 64,2974" rendition="Line" xml:id="facs_2_region_1684676921590_594_tl_20"/>
-        <zone points="66,3032 767,3024 767,2990 741,2984 66,3003" rendition="Line" xml:id="facs_2_region_1684676921590_594_tl_21"/>
-        <zone points="74,3061 762,3051 762,3024 720,3013 74,3029" rendition="Line" xml:id="facs_2_region_1684676921590_594_tl_22"/>
-        <zone points="64,3082 754,3077 754,3051 704,3043 64,3061" rendition="Line" xml:id="facs_2_region_1684676921590_594_tl_23"/>
-        <zone points="66,3114 759,3106 759,3080 693,3072 69,3085" rendition="Line" xml:id="facs_2_region_1684676921590_594_tl_24"/>
-        <zone points="66,3146 754,3133 757,3104 733,3101 69,3117" rendition="Line" xml:id="facs_2_region_1684676921590_594_tl_25"/>
-        <zone points="64,3173 759,3162 741,3133 64,3144" rendition="Line" xml:id="facs_2_region_1684676921590_594_tl_26"/>
-        <zone points="69,3202 759,3191 759,3162 717,3159 69,3173" rendition="Line" xml:id="facs_2_region_1684676921590_594_tl_27"/>
-        <zone points="69,3231 757,3218 757,3191 712,3189 69,3202" rendition="Line" xml:id="facs_2_region_1684676921590_594_tl_28"/>
-        <zone points="72,3260 767,3250 767,3218 693,3213 72,3231" rendition="Line" xml:id="facs_2_region_1684676921590_594_tl_29"/>
-        <zone points="69,3290 759,3276 743,3247 69,3260" rendition="Line" xml:id="facs_2_region_1684676921590_594_tl_30"/>
-        <zone points="64,3319 1471,3300 1412,3263 66,3290" rendition="Line" xml:id="facs_2_region_1684676921590_594_tl_31"/>
-        <zone points="64,3345 759,3332 759,3305 611,3300 64,3319" rendition="Line" xml:id="facs_2_region_1684676921590_594_tl_32"/>
-        <zone points="66,3375 759,3364 759,3332 66,3345" rendition="Line" xml:id="facs_2_region_1684676921590_594_tl_33"/>
-        <zone points="74,3401 765,3390 765,3364 682,3351 74,3372" rendition="Line" xml:id="facs_2_region_1684676921590_594_tl_34"/>
-      </zone><zone points="779,2345 1499,2345 1499,3435 779,3435" rendition="TextRegion" xml:id="facs_2_region_1684676924737_597">
-        <zone points="773,2384 1418,2384 1463,2379 1466,2344 1224,2323 775,2331" rendition="Line" xml:id="facs_2_region_1684676924737_597_tl_1"/>
-        <zone points="783,2421 2188,2400 2143,2368 783,2387" rendition="Line" xml:id="facs_2_region_1684676924737_597_tl_2"/>
-        <zone points="773,2448 1474,2437 1474,2411 1439,2405 773,2419" rendition="Line" xml:id="facs_2_region_1684676924737_597_tl_3"/>
-        <zone points="773,2474 1474,2466 1468,2437 773,2445" rendition="Line" xml:id="facs_2_region_1684676924737_597_tl_4"/>
-        <zone points="773,2525 1468,2522 1468,2496 1357,2485 773,2498" rendition="Line" xml:id="facs_2_region_1684676924737_597_tl_5"/>
-        <zone points="66,2573 1296,2565 1474,2525 66,2538" rendition="Line" xml:id="facs_2_region_1684676924737_597_tl_6"/>
-        <zone points="781,2591 2188,2575 2132,2538 781,2562" rendition="Line" xml:id="facs_2_region_1684676924737_597_tl_7"/>
-        <zone points="781,2615 1471,2607 1471,2581 1404,2575 781,2589" rendition="Line" xml:id="facs_2_region_1684676924737_597_tl_8"/>
-        <zone points="781,2644 1471,2639 1474,2607 781,2615" rendition="Line" xml:id="facs_2_region_1684676924737_597_tl_9"/>
-        <zone points="781,2679 1471,2666 1471,2639 1428,2636 781,2644" rendition="Line" xml:id="facs_2_region_1684676924737_597_tl_10"/>
-        <zone points="783,2705 1471,2700 1471,2666 1436,2660 783,2679" rendition="Line" xml:id="facs_2_region_1684676924737_597_tl_11"/>
-        <zone points="781,2732 1471,2724 1463,2695 781,2703" rendition="Line" xml:id="facs_2_region_1684676924737_597_tl_12"/>
-        <zone points="773,2761 1474,2753 1474,2721 1407,2716 773,2727" rendition="Line" xml:id="facs_2_region_1684676924737_597_tl_13"/>
-        <zone points="786,2785 1468,2782 1468,2753 786,2761" rendition="Line" xml:id="facs_2_region_1684676924737_597_tl_14"/>
-        <zone points="783,2820 1386,2820 1471,2812 1474,2780 786,2785" rendition="Line" xml:id="facs_2_region_1684676924737_597_tl_15"/>
-        <zone points="781,2849 1468,2841 1466,2812 1420,2806 781,2822" rendition="Line" xml:id="facs_2_region_1684676924737_597_tl_16"/>
-        <zone points="82,2889 1474,2867 1431,2833 82,2859" rendition="Line" xml:id="facs_2_region_1684676924737_597_tl_17"/>
-        <zone points="781,2905 1471,2899 1471,2867 781,2878" rendition="Line" xml:id="facs_2_region_1684676924737_597_tl_18"/>
-        <zone points="781,2931 1418,2931 1468,2926 1471,2899 781,2902" rendition="Line" xml:id="facs_2_region_1684676924737_597_tl_19"/>
-        <zone points="781,2963 1476,2952 1452,2918 783,2931" rendition="Line" xml:id="facs_2_region_1684676924737_597_tl_20"/>
-        <zone points="783,2987 1474,2984 1455,2952 783,2960" rendition="Line" xml:id="facs_2_region_1684676924737_597_tl_21"/>
-        <zone points="789,3019 1468,3008 1468,2982 1317,2974 789,2990" rendition="Line" xml:id="facs_2_region_1684676924737_597_tl_22"/>
-        <zone points="783,3045 1476,3037 1474,3011 1423,3005 783,3016" rendition="Line" xml:id="facs_2_region_1684676924737_597_tl_23"/>
-        <zone points="783,3074 1471,3069 1471,3037 783,3045" rendition="Line" xml:id="facs_2_region_1684676924737_597_tl_24"/>
-        <zone points="783,3106 1471,3098 1471,3069 1447,3061 783,3074" rendition="Line" xml:id="facs_2_region_1684676924737_597_tl_25"/>
-        <zone points="786,3133 1468,3125 1468,3098 1410,3090 786,3106" rendition="Line" xml:id="facs_2_region_1684676924737_597_tl_26"/>
-        <zone points="791,3162 1404,3159 1479,3154 1481,3128 791,3136" rendition="Line" xml:id="facs_2_region_1684676924737_597_tl_27"/>
-        <zone points="783,3186 1471,3183 1471,3157 1434,3151 783,3159" rendition="Line" xml:id="facs_2_region_1684676924737_597_tl_28"/>
-        <zone points="789,3218 1471,3210 1471,3181 789,3189" rendition="Line" xml:id="facs_2_region_1684676924737_597_tl_29"/>
-        <zone points="789,3247 1471,3242 1471,3210 789,3218" rendition="Line" xml:id="facs_2_region_1684676924737_597_tl_30"/>
-        <zone points="786,3274 1468,3271 1468,3242 1434,3234 786,3244" rendition="Line" xml:id="facs_2_region_1684676924737_597_tl_31"/>
-        <zone points="786,3335 1474,3324 1474,3298 1410,3295 786,3305" rendition="Line" xml:id="facs_2_region_1684676924737_597_tl_32"/>
-        <zone points="789,3361 1471,3356 1471,3324 1431,3321 789,3335" rendition="Line" xml:id="facs_2_region_1684676924737_597_tl_33"/>
-        <zone points="789,3401 1471,3385 1474,3359 791,3359" rendition="Line" xml:id="facs_2_region_1684676924737_597_tl_34"/>
-        <zone points="64,3438 2148,3438 2196,3369 64,3401" rendition="Line" xml:id="facs_2_region_1684676924737_597_tl_35"/>
-      </zone><zone points="1499,2345 2205,2345 2205,3435 1499,3435" rendition="TextRegion" xml:id="facs_2_region_1684676928050_600">
-        <zone points="1497,2368 1569,2387 2188,2374 2185,2315 1497,2320" rendition="Line" xml:id="facs_2_region_1684676928050_600_tl_1"/>
-        <zone points="1489,2435 2185,2429 2185,2400 1489,2411" rendition="Line" xml:id="facs_2_region_1684676928050_600_tl_2"/>
-        <zone points="1492,2464 2185,2461 2185,2429 2153,2427 1492,2435" rendition="Line" xml:id="facs_2_region_1684676928050_600_tl_3"/>
-        <zone points="1495,2493 2196,2482 2196,2456 2127,2453 1495,2464" rendition="Line" xml:id="facs_2_region_1684676928050_600_tl_4"/>
-        <zone points="1489,2517 2159,2520 2159,2496 2074,2482 1489,2496" rendition="Line" xml:id="facs_2_region_1684676928050_600_tl_5"/>
-        <zone points="1489,2554 2164,2546 2164,2512 1489,2520" rendition="Line" xml:id="facs_2_region_1684676928050_600_tl_6"/>
-        <zone points="1489,2607 2193,2602 2193,2573 1489,2575" rendition="Line" xml:id="facs_2_region_1684676928050_600_tl_7"/>
-        <zone points="1497,2634 2188,2631 2188,2602 1497,2607" rendition="Line" xml:id="facs_2_region_1684676928050_600_tl_8"/>
-        <zone points="1497,2666 2188,2660 2188,2631 2132,2628 1497,2634" rendition="Line" xml:id="facs_2_region_1684676928050_600_tl_9"/>
-        <zone points="1489,2690 2190,2687 2190,2658 1489,2655" rendition="Line" xml:id="facs_2_region_1684676928050_600_tl_10"/>
-        <zone points="1489,2721 2190,2716 2190,2687 1489,2684" rendition="Line" xml:id="facs_2_region_1684676928050_600_tl_11"/>
-        <zone points="1497,2753 2188,2759 2188,2716 1497,2724" rendition="Line" xml:id="facs_2_region_1684676928050_600_tl_12"/>
-        <zone points="1495,2777 1535,2780 1537,2785 1561,2777 1585,2777 1596,2785 1628,2782 1628,2751 1590,2753 1582,2748 1574,2756 1558,2756 1545,2751 1495,2748" rendition="Line" xml:id="facs_2_region_1684676928050_600_tl_13"/>
-        <zone points="1551,2806 2190,2804 2190,2761 2172,2756 1551,2782" rendition="Line" xml:id="facs_2_region_1684676928050_600_tl_14"/>
-        <zone points="1495,2838 2190,2830 2190,2801 1495,2796" rendition="Line" xml:id="facs_2_region_1684676928050_600_tl_15"/>
-        <zone points="1497,2865 2066,2875 2193,2857 2193,2828 1497,2838" rendition="Line" xml:id="facs_2_region_1684676928050_600_tl_16"/>
-        <zone points="1497,2897 2127,2889 2127,2867 2023,2859 1497,2865" rendition="Line" xml:id="facs_2_region_1684676928050_600_tl_17"/>
-        <zone points="1495,2936 1699,2918 2124,2926 2127,2886 1497,2897" rendition="Line" xml:id="facs_2_region_1684676928050_600_tl_18"/>
-        <zone points="1497,2955 2161,2950 2161,2915 1497,2928" rendition="Line" xml:id="facs_2_region_1684676928050_600_tl_19"/>
-        <zone points="1495,2982 2124,2984 2174,2974 2177,2950 1495,2952" rendition="Line" xml:id="facs_2_region_1684676928050_600_tl_20"/>
-        <zone points="1495,3013 2177,3019 2180,2974 2159,2968 1497,2984" rendition="Line" xml:id="facs_2_region_1684676928050_600_tl_21"/>
-        <zone points="1495,3037 2172,3029 2172,3008 2050,3000 1495,3011" rendition="Line" xml:id="facs_2_region_1684676928050_600_tl_22"/>
-        <zone points="1497,3067 2188,3059 2169,3019 2036,3043 1497,3037" rendition="Line" xml:id="facs_2_region_1684676928050_600_tl_23"/>
-        <zone points="1495,3093 2169,3085 2169,3064 1495,3067" rendition="Line" xml:id="facs_2_region_1684676928050_600_tl_24"/>
-        <zone points="1497,3125 2166,3117 2166,3082 1497,3096" rendition="Line" xml:id="facs_2_region_1684676928050_600_tl_25"/>
-        <zone points="1495,3154 2164,3146 2164,3117 1495,3125" rendition="Line" xml:id="facs_2_region_1684676928050_600_tl_26"/>
-        <zone points="1495,3181 2164,3178 2164,3146 1495,3154" rendition="Line" xml:id="facs_2_region_1684676928050_600_tl_27"/>
-        <zone points="1495,3215 2188,3197 2188,3173 1495,3181" rendition="Line" xml:id="facs_2_region_1684676928050_600_tl_28"/>
-        <zone points="1500,3242 2188,3228 2188,3199 1500,3215" rendition="Line" xml:id="facs_2_region_1684676928050_600_tl_29"/>
-        <zone points="1495,3266 2071,3271 2185,3255 2188,3226 1497,3239" rendition="Line" xml:id="facs_2_region_1684676928050_600_tl_30"/>
-        <zone points="1495,3303 2196,3284 2196,3255 1495,3268" rendition="Line" xml:id="facs_2_region_1684676928050_600_tl_31"/>
-        <zone points="1495,3327 2185,3316 2185,3287 1495,3303" rendition="Line" xml:id="facs_2_region_1684676928050_600_tl_32"/>
-        <zone points="1495,3359 2058,3359 2190,3337 2190,3311 1495,3327" rendition="Line" xml:id="facs_2_region_1684676928050_600_tl_33"/>
-        <zone points="1497,3385 2193,3369 2193,3337 1497,3359" rendition="Line" xml:id="facs_2_region_1684676928050_600_tl_34"/>
-      </zone></surface><surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_3"><graphic url="%2Ffiles.jpg" width="2479px" height="3508px"/><zone points="14,2289 740,2289 740,3404 14,3404" rendition="TextRegion" xml:id="facs_3_region_1684676937749_606">
-        <zone points="32,2324 722,2325 701,2293 32,2290" rendition="Line" xml:id="facs_3_region_1684676937749_606_tl_1"/>
-        <zone points="28,2348 720,2356 720,2327 28,2325" rendition="Line" xml:id="facs_3_region_1684676937749_606_tl_2"/>
-        <zone points="28,2384 715,2387 717,2356 30,2348" rendition="Line" xml:id="facs_3_region_1684676937749_606_tl_3"/>
-        <zone points="32,2411 722,2411 722,2387 690,2382 32,2384" rendition="Line" xml:id="facs_3_region_1684676937749_606_tl_4"/>
-        <zone points="28,2462 1410,2464 28,2434" rendition="Line" xml:id="facs_3_region_1684676937749_606_tl_5"/>
-        <zone points="41,2439 722,2442 722,2411 41,2411" rendition="Line" xml:id="facs_3_region_1684676937749_606_tl_6"/>
-        <zone points="28,2492 720,2499 706,2467 172,2480 28,2462" rendition="Line" xml:id="facs_3_region_1684676937749_606_tl_7"/>
-        <zone points="25,2515 188,2538 248,2520 720,2526 697,2496 169,2513 25,2494" rendition="Line" xml:id="facs_3_region_1684676937749_606_tl_8"/>
-        <zone points="121,2556 722,2561 722,2526 679,2522 121,2529" rendition="Line" xml:id="facs_3_region_1684676937749_606_tl_9"/>
-        <zone points="25,2551 34,2551 46,2558 53,2554 110,2560 126,2558 126,2529 94,2535 82,2522 76,2528 55,2526 43,2520 25,2522" rendition="Line" xml:id="facs_3_region_1684676937749_606_tl_10"/>
-        <zone points="32,2579 724,2588 724,2561 548,2549 32,2554" rendition="Line" xml:id="facs_3_region_1684676937749_606_tl_11"/>
-        <zone points="25,2607 718,2615 695,2579 25,2581" rendition="Line" xml:id="facs_3_region_1684676937749_606_tl_12"/>
-        <zone points="34,2636 718,2641 706,2611 34,2609" rendition="Line" xml:id="facs_3_region_1684676937749_606_tl_13"/>
-        <zone points="25,2669 669,2677 720,2671 722,2641 181,2655 27,2636" rendition="Line" xml:id="facs_3_region_1684676937749_606_tl_14"/>
-        <zone points="25,2698 720,2700 720,2669 25,2669" rendition="Line" xml:id="facs_3_region_1684676937749_606_tl_15"/>
-        <zone points="34,2723 724,2730 724,2700 665,2691 34,2700" rendition="Line" xml:id="facs_3_region_1684676937749_606_tl_16"/>
-        <zone points="34,2751 718,2755 718,2726 34,2723" rendition="Line" xml:id="facs_3_region_1684676937749_606_tl_17"/>
-        <zone points="37,2783 112,2799 177,2779 360,2795 711,2779 711,2760 660,2755 37,2751" rendition="Line" xml:id="facs_3_region_1684676937749_606_tl_18"/>
-        <zone points="34,2810 724,2818 697,2779 34,2783" rendition="Line" xml:id="facs_3_region_1684676937749_606_tl_19"/>
-        <zone points="34,2838 720,2843 720,2818 610,2806 34,2810" rendition="Line" xml:id="facs_3_region_1684676937749_606_tl_20"/>
-        <zone points="32,2866 718,2872 718,2842 646,2836 32,2838" rendition="Line" xml:id="facs_3_region_1684676937749_606_tl_21"/>
-        <zone points="34,2898 720,2900 699,2870 34,2866" rendition="Line" xml:id="facs_3_region_1684676937749_606_tl_22"/>
-        <zone points="32,2923 724,2930 724,2900 669,2897 32,2898" rendition="Line" xml:id="facs_3_region_1684676937749_606_tl_23"/>
-        <zone points="34,2952 720,2959 720,2932 685,2927 34,2923" rendition="Line" xml:id="facs_3_region_1684676937749_606_tl_24"/>
-        <zone points="28,2985 724,2983 724,2960 633,2955 117,2969 28,2950" rendition="Line" xml:id="facs_3_region_1684676937749_606_tl_25"/>
-        <zone points="34,3010 718,3012 718,2985 614,2980 34,2983" rendition="Line" xml:id="facs_3_region_1684676937749_606_tl_26"/>
-        <zone points="28,3038 720,3044 699,3010 284,3028 28,3010" rendition="Line" xml:id="facs_3_region_1684676937749_606_tl_27"/>
-        <zone points="605,3074 617,3072 624,3065 630,3070 660,3070 672,3077 683,3076 688,3070 699,3076 724,3074 722,3042 708,3042 704,3047 695,3047 686,3040 660,3044 651,3037 642,3046 624,3040 603,3042" rendition="Line" xml:id="facs_3_region_1684676937749_606_tl_28"/>
-        <zone points="32,3125 722,3131 722,3101 550,3099 529,3076 34,3072" rendition="Line" xml:id="facs_3_region_1684676937749_606_tl_29"/>
-        <zone points="30,3154 663,3161 720,3157 722,3131 32,3125" rendition="Line" xml:id="facs_3_region_1684676937749_606_tl_30"/>
-        <zone points="34,3180 724,3184 708,3156 34,3152" rendition="Line" xml:id="facs_3_region_1684676937749_606_tl_31"/>
-        <zone points="28,3209 720,3216 718,3184 683,3180 137,3196 28,3175" rendition="Line" xml:id="facs_3_region_1684676937749_606_tl_32"/>
-        <zone points="28,3242 718,3242 718,3214 640,3210 28,3209" rendition="Line" xml:id="facs_3_region_1684676937749_606_tl_33"/>
-        <zone points="32,3271 718,3271 692,3239 32,3242" rendition="Line" xml:id="facs_3_region_1684676937749_606_tl_34"/>
-        <zone points="34,3301 724,3299 706,3267 34,3271" rendition="Line" xml:id="facs_3_region_1684676937749_606_tl_35"/>
-        <zone points="34,3326 724,3331 724,3303 662,3297 34,3301" rendition="Line" xml:id="facs_3_region_1684676937749_606_tl_36"/>
-        <zone points="28,3351 727,3354 727,3331 615,3322 28,3329" rendition="Line" xml:id="facs_3_region_1684676937749_606_tl_37"/>
-        <zone points="32,3388 576,3397 736,3386 738,3356 34,3351" rendition="Line" xml:id="facs_3_region_1684676937749_606_tl_38"/>
-      </zone><zone points="742,2289 1451,2289 1451,3384 742,3384" rendition="TextRegion" xml:id="facs_3_region_1684676940465_609">
-        <zone points="749,2331 1442,2325 1442,2292 749,2293" rendition="Line" xml:id="facs_3_region_1684676940465_609_tl_1"/>
-        <zone points="741,2350 1442,2354 1442,2324 1385,2315 741,2331" rendition="Line" xml:id="facs_3_region_1684676940465_609_tl_2"/>
-        <zone points="741,2379 2159,2402 2159,2347 2102,2341 741,2357" rendition="Line" xml:id="facs_3_region_1684676940465_609_tl_3"/>
-        <zone points="741,2412 1437,2409 1437,2380 1309,2373 827,2398 741,2380" rendition="Line" xml:id="facs_3_region_1684676940465_609_tl_4"/>
-        <zone points="745,2439 1428,2439 1428,2407 1336,2400 745,2418" rendition="Line" xml:id="facs_3_region_1684676940465_609_tl_5"/>
-        <zone points="745,2499 1435,2497 1437,2464 1337,2458 747,2469" rendition="Line" xml:id="facs_3_region_1684676940465_609_tl_6"/>
-        <zone points="741,2535 1431,2522 1421,2492 741,2503" rendition="Line" xml:id="facs_3_region_1684676940465_609_tl_7"/>
-        <zone points="749,2556 1435,2552 1408,2513 1385,2531 749,2531" rendition="Line" xml:id="facs_3_region_1684676940465_609_tl_8"/>
-        <zone points="741,2586 1435,2581 1435,2552 1380,2545 741,2558" rendition="Line" xml:id="facs_3_region_1684676940465_609_tl_9"/>
-        <zone points="750,2615 1442,2611 1442,2583 1339,2575 752,2586" rendition="Line" xml:id="facs_3_region_1684676940465_609_tl_10"/>
-        <zone points="741,2643 2168,2645 2168,2604 741,2611" rendition="Line" xml:id="facs_3_region_1684676940465_609_tl_11"/>
-        <zone points="749,2669 1431,2668 1419,2634 749,2645" rendition="Line" xml:id="facs_3_region_1684676940465_609_tl_12"/>
-        <zone points="741,2693 1431,2694 1431,2669 1399,2664 741,2666" rendition="Line" xml:id="facs_3_region_1684676940465_609_tl_13"/>
-        <zone points="749,2728 1431,2723 1431,2693 1389,2689 749,2700" rendition="Line" xml:id="facs_3_region_1684676940465_609_tl_14"/>
-        <zone points="741,2758 898,2751 1016,2764 1041,2749 1103,2756 1105,2728 743,2728" rendition="Line" xml:id="facs_3_region_1684676940465_609_tl_15"/>
-        <zone points="832,2783 1435,2779 1435,2742 832,2755" rendition="Line" xml:id="facs_3_region_1684676940465_609_tl_16"/>
-        <zone points="752,2813 1433,2811 1433,2779 752,2776" rendition="Line" xml:id="facs_3_region_1684676940465_609_tl_17"/>
-        <zone points="749,2842 1440,2838 1414,2808 749,2811" rendition="Line" xml:id="facs_3_region_1684676940465_609_tl_18"/>
-        <zone points="741,2866 1435,2866 1435,2838 1360,2831 741,2838" rendition="Line" xml:id="facs_3_region_1684676940465_609_tl_19"/>
-        <zone points="752,2900 1437,2900 1437,2866 752,2870" rendition="Line" xml:id="facs_3_region_1684676940465_609_tl_20"/>
-        <zone points="754,2927 1275,2932 1440,2923 1442,2900 756,2900" rendition="Line" xml:id="facs_3_region_1684676940465_609_tl_21"/>
-        <zone points="752,2957 1442,2952 1442,2923 1380,2918 752,2927" rendition="Line" xml:id="facs_3_region_1684676940465_609_tl_22"/>
-        <zone points="747,2983 1437,2980 1439,2953 1350,2948 749,2960" rendition="Line" xml:id="facs_3_region_1684676940465_609_tl_23"/>
-        <zone points="752,3017 1442,3015 1442,2980 752,2985" rendition="Line" xml:id="facs_3_region_1684676940465_609_tl_24"/>
-        <zone points="752,3044 1428,3038 1428,3012 1391,3005 752,3017" rendition="Line" xml:id="facs_3_region_1684676940465_609_tl_25"/>
-        <zone points="752,3074 1437,3067 1437,3037 752,3046" rendition="Line" xml:id="facs_3_region_1684676940465_609_tl_26"/>
-        <zone points="749,3099 1442,3099 1442,3069 1382,3061 749,3070" rendition="Line" xml:id="facs_3_region_1684676940465_609_tl_27"/>
-        <zone points="749,3127 1439,3124 1439,3099 1345,3093 749,3099" rendition="Line" xml:id="facs_3_region_1684676940465_609_tl_28"/>
-        <zone points="749,3156 1440,3152 1440,3124 1357,3120 749,3127" rendition="Line" xml:id="facs_3_region_1684676940465_609_tl_29"/>
-        <zone points="749,3182 1439,3182 1421,3152 1288,3147 749,3159" rendition="Line" xml:id="facs_3_region_1684676940465_609_tl_30"/>
-        <zone points="752,3216 1437,3210 1437,3182 1382,3177 752,3186" rendition="Line" xml:id="facs_3_region_1684676940465_609_tl_31"/>
-        <zone points="757,3244 1440,3237 1440,3209 1369,3203 757,3218" rendition="Line" xml:id="facs_3_region_1684676940465_609_tl_32"/>
-        <zone points="757,3271 1440,3265 1440,3241 1412,3235 757,3246" rendition="Line" xml:id="facs_3_region_1684676940465_609_tl_33"/>
-        <zone points="754,3299 1437,3297 1437,3265 1320,3260 754,3271" rendition="Line" xml:id="facs_3_region_1684676940465_609_tl_34"/>
-        <zone points="754,3331 1449,3331 1449,3301 1399,3290 754,3299" rendition="Line" xml:id="facs_3_region_1684676940465_609_tl_35"/>
-        <zone points="754,3365 1357,3356 1357,3324 1334,3322 754,3331" rendition="Line" xml:id="facs_3_region_1684676940465_609_tl_36"/>
-      </zone></surface></facsimile><text><body><div><pb facs="#facs_1" n="1" xml:id="img_0001"/><ab facs="#facs_1_region_1684676900680_582" type="">
-      <lb facs="#facs_1_region_1684676900680_582_tl_1" n="N001"/>Friedrich Chopin.
-      <lb facs="#facs_1_region_1684676900680_582_tl_2" n="N002"/>Zweiter und letzter Artikel.)
-      <lb facs="#facs_1_region_1684676900680_582_tl_3" n="N003"/>Ed. H. Als wir jüngst die Lebensgeschichte Chopin
-      <lb facs="#facs_1_region_1684676900680_582_tl_4" n="N004"/>an der Hand seines neuesten Biographen M. Karasowsk
-      <lb facs="#facs_1_region_1684676900680_582_tl_5" n="N005"/>durchwanderten, gelangten wir bis zu seiner Uebersiedlun
-      <lb facs="#facs_1_region_1684676900680_582_tl_6" n="N006"/>nach Paris (1831). Wie kommt es, daß aus den neunzehn
-      <lb facs="#facs_1_region_1684676900680_582_tl_7" n="N007"/>Jahren seines Pariser Aufenthalts, dieser bewegtesten, glän
-      <lb facs="#facs_1_region_1684676900680_582_tl_8" n="N008"/>zendsten Zeit Chopin's, nicht ein einziger von seinen zahl¬
-      <lb facs="#facs_1_region_1684676900680_582_tl_9" n="N009"/>reichen Briefen an seine Familie auf uns gelangt ist? Der
-      <lb facs="#facs_1_region_1684676900680_582_tl_10" n="N010"/>Biograph antwortet auf diese Frage mit der Erzählung eines
-      <lb facs="#facs_1_region_1684676900680_582_tl_11" n="N011"/>wahrhaft barbarischen Vorgangs, der für die damaligen Zu¬
-      <lb facs="#facs_1_region_1684676900680_582_tl_12" n="N012"/>stände Russisch=Polens nur zu charakteristisch ist. Es hatte
-      <lb facs="#facs_1_region_1684676900680_582_tl_13" n="N013"/>nach Chopin's Tode seine Schülerin Miss Stirling der
-      <lb facs="#facs_1_region_1684676900680_582_tl_14" n="N014"/>Nachlaß ihres vergötterten Lehrers angekauft und in ihrer
-      <lb facs="#facs_1_region_1684676900680_582_tl_15" n="N015"/>schottischen Heimat eine Art Chopin-Museum daraus gebildet
-      <lb facs="#facs_1_region_1684676900680_582_tl_16" n="N016"/>In ihrem Testamente vermachte sie diese werthvolle Samm¬
-      <lb facs="#facs_1_region_1684676900680_582_tl_17" n="N017"/>lung, welche Chopin's Salon=Einrichtung, sein Piano und
-      <lb facs="#facs_1_region_1684676900680_582_tl_18" n="N018"/>eine Menge werthvoller Andenken enthielt, der Mutter Ehe
-      <lb facs="#facs_1_region_1684676900680_582_tl_19" n="N019"/>pin's, nach deren Tod sie der Schwester Chopin's, Fra¬
-      <lb facs="#facs_1_region_1684676900680_582_tl_20" n="N020"/>Isabella Borcinska in Warschau, zufiel. Aus dem vierten
-      <lb facs="#facs_1_region_1684676900680_582_tl_21" n="N021"/>Stockwerke des von Letzterer bewohnten Hauses (es war
-      <lb facs="#facs_1_region_1684676900680_582_tl_22" n="N022"/>Eigenthum des Grafen Zamoyski) fiel eines Abends in
-      <lb facs="#facs_1_region_1684676900680_582_tl_23" n="N023"/>September 1863 ein Schuß, als gerade der Statt
-      <lb facs="#facs_1_region_1684676900680_582_tl_24" n="N024"/>halter Graf Berg, von seiner tscherkessischen Leibgard
-      <lb facs="#facs_1_region_1684676900680_582_tl_25" n="N025"/>umgeben, vorüberfuhr. Der Schuß traf glücklicherweise kei
-      <lb facs="#facs_1_region_1684676900680_582_tl_26" n="N026"/>nen Menschen, trotzdem wurde wenige Minuten später das
-      <lb facs="#facs_1_region_1684676900680_582_tl_27" n="N027"/>Haus von Militär umzingelt, und eine wüthende Soldateska
-      <lb facs="#facs_1_region_1684676900680_582_tl_28" n="N028"/>begann von Stockwerk zu Stockwerk Alles, was sich vorfan¬
-      <lb facs="#facs_1_region_1684676900680_582_tl_29" n="N029"/>zu zertrümmern (darunter allein fünfzehn bis zwanzig Cla¬
-      <lb facs="#facs_1_region_1684676900680_582_tl_30" n="N030"/>diere) und aus den Fenstern auf die Straße herabzuwerfen
-      <lb facs="#facs_1_region_1684676900680_582_tl_31" n="N031"/>Unten errichteten die Soldaten einen Holzstoß aus all der
-      <lb facs="#facs_1_region_1684676900680_582_tl_32" n="N032"/>Sachen und verbrannten singend und Branntwein trinkend
-      <lb facs="#facs_1_region_1684676900680_582_tl_33" n="N033"/>Berl.
-      <lb facs="#facs_1_region_1684676900680_582_tl_34" n="N034"/>ich das Feuilleton der „Neuen Freien Presse von
-      <lb facs="#facs_1_region_1684676900680_582_tl_35" n="N035"/>1 Februar d.</ab><ab facs="#facs_1_region_1684676888173_572" type="">
-      <lb facs="#facs_1_region_1684676888173_572_tl_1" n="N001"/>Neue
-      <lb facs="#facs_1_region_1684676888173_572_tl_2" n="N002"/>leie Presse.</ab><ab facs="#facs_1_region_1684676889915_575" type="">
-      <lb facs="#facs_1_region_1684676889915_575_tl_1" n="N001"/>Morgenblatt.</ab><ab facs="#facs_1_region_1684676893048_578" type="">
-      <lb facs="#facs_1_region_1684676893048_578_tl_1" n="N001"/>1873.
-      <lb facs="#facs_1_region_1684676893048_578_tl_2" n="N002"/>Wien, Freitag, den 6. April
-      <lb facs="#facs_1_region_1684676893048_578_tl_3" n="N003"/>Nr. 4529.</ab><ab facs="#facs_1_region_1684676903561_585" type="">
-      <lb facs="#facs_1_region_1684676903561_585_tl_1" n="N001"/>alle Bilder, Bücher und Papiere — darunter jene werth¬
-      <lb facs="#facs_1_region_1684676903561_585_tl_2" n="N002"/>volle Sammlung von Chopin-Reliquien und dessen sämmt
-      <lb facs="#facs_1_region_1684676903561_585_tl_3" n="N003"/>liche Briefe aus Paris an seine Familie. Ein echt russische
-      <lb facs="#facs_1_region_1684676903561_585_tl_4" n="N004"/>Volksbeglückungsbild
-      <lb facs="#facs_1_region_1684676903561_585_tl_5" n="N005"/>Paris entzückte den jungen Ankömmling, aber seine Lage
-      <lb facs="#facs_1_region_1684676903561_585_tl_6" n="N006"/>war dort eine zeitlang recht mißlich und unsicher. Gleich alt
-      <lb facs="#facs_1_region_1684676903561_585_tl_7" n="N007"/>Concertgeber aufzutreten, konnte der noch gänzlich Unbe¬
-      <lb facs="#facs_1_region_1684676903561_585_tl_8" n="N008"/>rühmte in Paris nicht wagen. Er entschloß sich, vorerst noch
-      <lb facs="#facs_1_region_1684676903561_585_tl_9" n="N009"/>zu lernen, und wendete sich an Friedrich Kalkbrenner, der
-      <lb facs="#facs_1_region_1684676903561_585_tl_10" n="N010"/>damals für den ersten Pianisten Europas galt. Als ihm
-      <lb facs="#facs_1_region_1684676903561_585_tl_11" n="N011"/>Chopin vorspielte, mußte Kalkbrenner offenbar das Geni
-      <lb facs="#facs_1_region_1684676903561_585_tl_12" n="N012"/>des jungen Polen erkennen, der von ihm kaum mehr viel zu
-      <lb facs="#facs_1_region_1684676903561_585_tl_13" n="N013"/>lernen hatte. Aber Kalkbrenner's Ruhm als Lehrer konnte
-      <lb facs="#facs_1_region_1684676903561_585_tl_14" n="N014"/>durch einen so außerordentlichen Schüler nur gewinnen, und
-      <lb facs="#facs_1_region_1684676903561_585_tl_15" n="N015"/>er erklärte sich daher Chopin's Wünschen geneigt, unter der
-      <lb facs="#facs_1_region_1684676903561_585_tl_16" n="N016"/>Bedingung, daß dieser sich verpflichte, wenigstens dre
-      <lb facs="#facs_1_region_1684676903561_585_tl_17" n="N017"/>Jahre bei ihm Unterricht zu nehmen. Chopit
-      <lb facs="#facs_1_region_1684676903561_585_tl_18" n="N018"/>konnte auf so lange Lehrzeit nicht eingehen, auch
-      <lb facs="#facs_1_region_1684676903561_585_tl_19" n="N019"/>fühlte er richtig die Gefahr heraus, die hier seiner
-      <lb facs="#facs_1_region_1684676903561_585_tl_20" n="N020"/>künstlerischen Originalität drohte. „Ich würde mich gewi
-      <lb facs="#facs_1_region_1684676903561_585_tl_21" n="N021"/>auch entschließen," schreibt er an seinen Lehrer Elsner in
-      <lb facs="#facs_1_region_1684676903561_585_tl_22" n="N022"/>Warschau, „noch drei Jahre zu studiren, wenn ich die Ge¬
-      <lb facs="#facs_1_region_1684676903561_585_tl_23" n="N023"/>wißheit hätte, das Ziel, welches ich mir selbst gesteckt habe
-      <lb facs="#facs_1_region_1684676903561_585_tl_24" n="N024"/>dann zu erreichen. So viel ist mir klar, daß ich nie ein
-      <lb facs="#facs_1_region_1684676903561_585_tl_25" n="N025"/>Copie von Kalkbrenner werde; er wird nicht im Stande sein
-      <lb facs="#facs_1_region_1684676903561_585_tl_26" n="N026"/>meinen vielleicht kühnen, aber edlen Willen zu brechen
-      <lb facs="#facs_1_region_1684676903561_585_tl_27" n="N027"/>eine neue Kunst=Aera zu schaffen.“ So entsagt
-      <lb facs="#facs_1_region_1684676903561_585_tl_28" n="N028"/>er denn zu seinem Heil der Vormundschaft des prosaische
-      <lb facs="#facs_1_region_1684676903561_585_tl_29" n="N029"/>Concertes besänftigte
-      <lb facs="#facs_1_region_1684676903561_585_tl_30" n="N030"/>Nach vielen mühevollen Vorbereitungen brachte Chopi¬
-      <lb facs="#facs_1_region_1684676903561_585_tl_31" n="N031"/>endlich sein erstes Concert in Paris zu Stande, an
-      <lb facs="#facs_1_region_1684676903561_585_tl_32" n="N032"/>26. Februar 1832 — es deckte nicht einmal die Unkosten
-      <lb facs="#facs_1_region_1684676903561_585_tl_33" n="N033"/>Er hatte keine Aussicht, seine Stellung in Paris zu verbessern,
-      <lb facs="#facs_1_region_1684676903561_585_tl_34" n="N034"/>und trug sich mit dem Plane, nach Amerika zu übersiedeln
-      <lb facs="#facs_1_region_1684676903561_585_tl_35" n="N035"/>Als seine Eltern dieses Vorhaben mißbilligten, entschloße</ab><ab facs="#facs_1_region_1684676906346_588" type="">
-      <lb facs="#facs_1_region_1684676906346_588_tl_1" n="N001"/>Zufall ihm den Fürsten Valentin Radziwill auf der
-      <lb facs="#facs_1_region_1684676906346_588_tl_2" n="N002"/>Straße entgegen, der ihm wenigstens das Versprechen ab¬
-      <lb facs="#facs_1_region_1684676906346_588_tl_3" n="N003"/>nimmt, diesen Abend noch mit ihm zu Rothschild zu
-      <lb facs="#facs_1_region_1684676906346_588_tl_4" n="N004"/>gehen. Die ganze Haute volée von Paris füllt die glän¬
-      <lb facs="#facs_1_region_1684676906346_588_tl_5" n="N005"/>zenden Salons von Madame Rothschild, welche auf die
-      <lb facs="#facs_1_region_1684676906346_588_tl_6" n="N006"/>liebenswürdigste Weise Chopin ersucht, etwas zu spielen. Er
-      <lb facs="#facs_1_region_1684676906346_588_tl_7" n="N007"/>setzt sich an den Flügel und improvisirt in glücklichster Stim¬
-      <lb facs="#facs_1_region_1684676906346_588_tl_8" n="N008"/>mung. Die Zuhörer bewundern entzückt dies neuentdeckt
-      <lb facs="#facs_1_region_1684676906346_588_tl_9" n="N009"/>Meteor, und noch während der Soirée selbst erhält Chopin
-      <lb facs="#facs_1_region_1684676906346_588_tl_10" n="N010"/>die schmeichelhaftesten Einladungen, in den ersten Häuser
-      <lb facs="#facs_1_region_1684676906346_588_tl_11" n="N011"/>von Paris Unterricht zu ertheilen. Wie mit einem Zauber¬
-      <lb facs="#facs_1_region_1684676906346_588_tl_12" n="N012"/>schlag änderte sich von diesem Abend seine Lage, und Chopin
-      <lb facs="#facs_1_region_1684676906346_588_tl_13" n="N013"/>dachte nicht mehr daran, Paris zu verlassen.
-      <lb facs="#facs_1_region_1684676906346_588_tl_14" n="N014"/>Wie der Rothschild'sche Salon an jenem entscheidenden
-      <lb facs="#facs_1_region_1684676906346_588_tl_15" n="N015"/>Abend, so blieb der Salon überhaupt der eigentliche
-      <lb facs="#facs_1_region_1684676906346_588_tl_16" n="N016"/>Boden von Chopin's Triumphen. Einige wenige Concerte
-      <lb facs="#facs_1_region_1684676906346_588_tl_17" n="N017"/>gab Chopin in großen Theater= und Concertsälen; da machte
-      <lb facs="#facs_1_region_1684676906346_588_tl_18" n="N018"/>jedoch sein überaus seines poetisches Spiel nicht entfernt den
-      <lb facs="#facs_1_region_1684676906346_588_tl_19" n="N019"/>tiefen Eindruck wie im Salon. Auch waren ihm die Concert¬
-      <lb facs="#facs_1_region_1684676906346_588_tl_20" n="N020"/>Vorbereitungen höchst peinlich, ja jedes öffentliche Auftreten
-      <lb facs="#facs_1_region_1684676906346_588_tl_21" n="N021"/>unangenehm. „Ich bin nicht geeignet," sagte er eines Tages
-      <lb facs="#facs_1_region_1684676906346_588_tl_22" n="N022"/>zu Liszt. „Concerte zu geben, da ich von dem Publicum
-      <lb facs="#facs_1_region_1684676906346_588_tl_23" n="N023"/>scheu gemacht werde, mich von seinem Athem erstickt, von
-      <lb facs="#facs_1_region_1684676906346_588_tl_24" n="N024"/>seinen neugierigen Blicken mich paralysirt fühle, Sie aber
-      <lb facs="#facs_1_region_1684676906346_588_tl_25" n="N025"/>Sie sind dazu berufen; denn wo Sie des Publicums Liebe
-      <lb facs="#facs_1_region_1684676906346_588_tl_26" n="N026"/>nicht gewinnen, da vermögen Sie wenigstens dasselbe zu er
-      <lb facs="#facs_1_region_1684676906346_588_tl_27" n="N027"/>schüttern und zu betäuben." In den Jahren 1834 bis 1848
-      <lb facs="#facs_1_region_1684676906346_588_tl_28" n="N028"/>hat Chopin in Paris nur Ein öffentliches Concert gegeben;
-      <lb facs="#facs_1_region_1684676906346_588_tl_29" n="N029"/>Kalkbrenner, den er durch die Widmung seines Emollte er fast jedes Jahr im Pleyelschen Clavier¬
-      <lb facs="#facs_1_region_1684676906346_588_tl_30" n="N030"/>salon eine musikalische „Séance“, in welcher er stets allein
-      <lb facs="#facs_1_region_1684676906346_588_tl_31" n="N031"/>spielte, vor seinen näheren Bekannten und Verehrern, welche
-      <lb facs="#facs_1_region_1684676906346_588_tl_32" n="N032"/>das Billet mit zwanzig Francs bezahlten.
-      <lb facs="#facs_1_region_1684676906346_588_tl_33" n="N033"/>Im Mai 1834 machte Chopin zum erstenmale einen
-      <lb facs="#facs_1_region_1684676906346_588_tl_34" n="N034"/>Ausflug aus Paris; er reiste mit Ferdinand Hiller nach
-      <lb facs="#facs_1_region_1684676906346_588_tl_35" n="N035"/>Aachen, wo Mendelssohn (damals Director des Düssel¬
-      <lb facs="#facs_1_region_1684676906346_588_tl_36" n="N036"/>dorfer Orchesters) das niederrheinische Musikfest dirigirte.
-      <lb facs="#facs_1_region_1684676906346_588_tl_37" n="N037"/>sich zur Rückkehr nach der Heimat. Da führt ein glücklicher „Als Clavierspieler, schrieb Mendelssohn damals, „ist</ab><pb facs="#facs_2" n="2" xml:id="img_0002"/><ab facs="#facs_2_region_1684676921590_594" type="">
-      <lb facs="#facs_2_region_1684676921590_594_tl_1" n="N001"/>Chopin jetzt einer der allersten; macht so neu
-      <lb facs="#facs_2_region_1684676921590_594_tl_2" n="N002"/>Sachen wie Paganini auf seiner Geige und bringt Wunde
-      <lb facs="#facs_2_region_1684676921590_594_tl_3" n="N003"/>dinge herbei, die man sich nicht möglich gedacht hätte
-      <lb facs="#facs_2_region_1684676921590_594_tl_4" n="N004"/>Ein zweiter und letzter Aufenthalt Chopin's in Deutschlan
-      <lb facs="#facs_2_region_1684676921590_594_tl_5" n="N005"/>fiel in das Jahr 1836 und hatte zunächst Marienbad zum nur sechs Monate, ihre Beziehung zu Chopin über zehn
-      <lb facs="#facs_2_region_1684676921590_594_tl_6" n="N006"/>Ziele, wohin ihn mehr eine Herzens=Angelegenheit als ärzt
-      <lb facs="#facs_2_region_1684676921590_594_tl_7" n="N007"/>welche die Verheiratung seiner Jugendliebe Constanti
-      <lb facs="#facs_2_region_1684676921590_594_tl_8" n="N008"/>Gladkowska ihm geschlagen, als Chopin in Paris ein reizen
-      <lb facs="#facs_2_region_1684676921590_594_tl_9" n="N009"/>des polnisches Fräulein kennen lernte, Maria Wodzynska
-      <lb facs="#facs_2_region_1684676921590_594_tl_10" n="N010"/>das bald sein ganzes Herz besaß. Er wußte, daß er Mit
-      <lb facs="#facs_2_region_1684676921590_594_tl_11" n="N011"/>Juli die Holde mit ihrer Mutter in Marienbad findet
-      <lb facs="#facs_2_region_1684676921590_594_tl_12" n="N012"/>würde, und reiste voll beseligender Hoffnung hin. Die Be¬
-      <lb facs="#facs_2_region_1684676921590_594_tl_13" n="N013"/>den verlobten sich in Marienbad, und Chopin fühlte sich an
-      <lb facs="#facs_2_region_1684676921590_594_tl_14" n="N014"/>dem Gipfel des Glückes. Er schied — wie er glaubte, nu
-      <lb facs="#facs_2_region_1684676921590_594_tl_15" n="N015"/>für kurze Zeit — von seiner Braut, um über Leipzig (w.
-      <lb facs="#facs_2_region_1684676921590_594_tl_16" n="N016"/>er Schumann's Bekanntschaft machte) nach Paris zu
-      <lb facs="#facs_2_region_1684676921590_594_tl_17" n="N017"/>richt, daß seine Braut Maria es vorgezogen habe, eine
-      <lb facs="#facs_2_region_1684676921590_594_tl_18" n="N018"/>Grafen zu heiraten. Es war dies die zweite schmerzliche Ent
-      <lb facs="#facs_2_region_1684676921590_594_tl_19" n="N019"/>täuschung, die Chopin in der Liebe erfuhr; eine dritte, no¬
-      <lb facs="#facs_2_region_1684676921590_594_tl_20" n="N020"/>härtere sollte bald nachfolgen. Wir meinen das für ihn so
-      <lb facs="#facs_2_region_1684676921590_594_tl_21" n="N021"/>unheilvolle Verhältniß zur George Sand. Dasselbe läßt
-      <lb facs="#facs_2_region_1684676921590_594_tl_22" n="N022"/>sich, wie uns dünkt, erst jetzt vollständig und richtig beur¬
-      <lb facs="#facs_2_region_1684676921590_594_tl_23" n="N023"/>theilen, seit durch die neuesten Publicationen von Pau
-      <lb facs="#facs_2_region_1684676921590_594_tl_24" n="N024"/>de Musset und Paul Lindau die Herzensgeschichte de
-      <lb facs="#facs_2_region_1684676921590_594_tl_25" n="N025"/>Sand mit Alfred de Musset in wahrheitsgetreuer Schild¬
-      <lb facs="#facs_2_region_1684676921590_594_tl_26" n="N026"/>rung uns vorliegt. So verschiedenartig auch die äußeren Um
-      <lb facs="#facs_2_region_1684676921590_594_tl_27" n="N027"/>stände gewesen, das Benehmen der George Sand gegen Chopi¬
-      <lb facs="#facs_2_region_1684676921590_594_tl_28" n="N028"/>findet sehr merkwürdige Analogien in ihrem zehn Jahr
-      <lb facs="#facs_2_region_1684676921590_594_tl_29" n="N029"/>früher mit Musset gespielten Liebesbrama. Kein Zweifel,
-      <lb facs="#facs_2_region_1684676921590_594_tl_30" n="N030"/>daß sowol der leidenschaftliche, maßlose Musset, wie de
-      <lb facs="#facs_2_region_1684676921590_594_tl_31" n="N031"/>überempfindliche, nervöse, kränkliche Chopin als Liebhaber haltung. Anfangs fühlte sich Chopin in der Liebe der Georg
-      <lb facs="#facs_2_region_1684676921590_594_tl_32" n="N032"/>oft schwer zu behandeln, mitunter vielleicht schwer zu er
-      <lb facs="#facs_2_region_1684676921590_594_tl_33" n="N033"/>tragen waren und die Geduld ihrer Geliebten auf manch
-      <lb facs="#facs_2_region_1684676921590_594_tl_34" n="N034"/>Probe setzten. Allein in der rückhaltlosen Ehrlichkeit ihre</ab><ab facs="#facs_2_region_1684676924737_597" type="">
-      <lb facs="#facs_2_region_1684676924737_597_tl_1" n="N001"/>die kühle, überlegende Verständigkeit der Sand, welche, a¬
-      <lb facs="#facs_2_region_1684676924737_597_tl_2" n="N002"/>fangs Feuer und Flamme, die Beiden doch ruhig in den Ab¬ Weit günstiger als dieser durch tausend Unbequemlichkeiten
-      <lb facs="#facs_2_region_1684676924737_597_tl_3" n="N003"/>grund stürzen läßt, nachdem sie ihrer überdrüssig geworden
-      <lb facs="#facs_2_region_1684676924737_597_tl_4" n="N004"/>Der Herzensbund zwischen George Sand und Musset dauert
-      <lb facs="#facs_2_region_1684676924737_597_tl_5" n="N005"/>Jahre — der Hauptunterschied war somit, daß die schmerz
-      <lb facs="#facs_2_region_1684676924737_597_tl_6" n="N006"/>liche Vorschrift trieb. Die Wunde war endlich vernarbt, liche Enttäuschung Musseks mit acuter Heftigkeit auftrat
-      <lb facs="#facs_2_region_1684676924737_597_tl_7" n="N007"/>während sie Chopin als chronisches Leiden langsam unter¬ Sommer verlebte er nun regelmäßig in Nohant, im Winter
-      <lb facs="#facs_2_region_1684676924737_597_tl_8" n="N008"/>grub. Der erste Eindruck, den die berühmte Frau auf unsere
-      <lb facs="#facs_2_region_1684676924737_597_tl_9" n="N009"/>Tondichter machte, war — ganz wie bei Musset — kein
-      <lb facs="#facs_2_region_1684676924737_597_tl_10" n="N010"/>sehr angenehmer. „Ihr Gesicht," schreibt Chopin nach de
-      <lb facs="#facs_2_region_1684676924737_597_tl_11" n="N011"/>ersten Begegnung mit George Sand, „ist mir nicht sympathis
-      <lb facs="#facs_2_region_1684676924737_597_tl_12" n="N012"/>und hat mir gar nicht gefallen; es ist sogar etwas darin
-      <lb facs="#facs_2_region_1684676924737_597_tl_13" n="N013"/>was mich abstößt." Trotzdem währte es nicht lange, daß Chopi¬
-      <lb facs="#facs_2_region_1684676924737_597_tl_14" n="N014"/>— genau wie früher Musset — sich leidenschaftlich von de
-      <lb facs="#facs_2_region_1684676924737_597_tl_15" n="N015"/>genialen Frau angezogen, auch von ihrer Liebe nich
-      <lb facs="#facs_2_region_1684676924737_597_tl_16" n="N016"/>wenig geschmeichelt fühlte. George Sand pflegte in der
-      <lb facs="#facs_2_region_1684676924737_597_tl_17" n="N017"/>geben. Hier erhielt er, bald nach seiner Ankunft, die Nach¬ Maße kühler zu werden, als die Leidenschaft ihrer Anbeten
-      <lb facs="#facs_2_region_1684676924737_597_tl_18" n="N018"/>wuchs; bei Musset kam dies früher, bei Chopin später zu
-      <lb facs="#facs_2_region_1684676924737_597_tl_19" n="N019"/>Tage. „Am meisten," sagt Paul Lindau, „verletzte e
-      <lb facs="#facs_2_region_1684676924737_597_tl_20" n="N020"/>Musset, daß seine Geliebte beständig das Mütterliche und
-      <lb facs="#facs_2_region_1684676924737_597_tl_21" n="N021"/>Schwesterliche ihrer Zuneigung herauskehrte." Dasselbe tha
-      <lb facs="#facs_2_region_1684676924737_597_tl_22" n="N022"/>sie mit Chopin, mit noch größerem Nachdrucke, ab¬
-      <lb facs="#facs_2_region_1684676924737_597_tl_23" n="N023"/>kaum mit größerem Rechte. Die schönen, im Momente des
-      <lb facs="#facs_2_region_1684676924737_597_tl_24" n="N024"/>Niederschreibens gewiß auch empfundenen Worte, welche si
-      <lb facs="#facs_2_region_1684676924737_597_tl_25" n="N025"/>in ihren „Briefen einer Reisenden" für Musset hat, finden
-      <lb facs="#facs_2_region_1684676924737_597_tl_26" n="N026"/>manches Seitenstück in dem 13. Band ihrer Selbstbiogre
-      <lb facs="#facs_2_region_1684676924737_597_tl_27" n="N027"/>phie, wo sie ihr Zusammenleben mit Chopin schilderte.
-      <lb facs="#facs_2_region_1684676924737_597_tl_28" n="N028"/>Was sie hier wie dort von ihrer aufopfernden Hingebung
-      <lb facs="#facs_2_region_1684676924737_597_tl_29" n="N029"/>ihrer „schwesterlichen Liebe und Treue aussagt, stimmt nich
-      <lb facs="#facs_2_region_1684676924737_597_tl_30" n="N030"/>immer mit den beglaubigten Thatsachen, und über ihre Ge¬
-      <lb facs="#facs_2_region_1684676924737_597_tl_31" n="N031"/>fühle führte sie, mit Paul Lindau zu sprechen, doppelte Buch
-      <lb facs="#facs_2_region_1684676924737_597_tl_32" n="N032"/>Sand stolz und glücklich. Als sich im Herbst 1837 zum
-      <lb facs="#facs_2_region_1684676924737_597_tl_33" n="N033"/>erstenmale Anfälle von Brustleiden bei ihm zeigten, reist
-      <lb facs="#facs_2_region_1684676924737_597_tl_34" n="N034"/>Chopin mit der George Sand und deren Kindern nach
-      <lb facs="#facs_2_region_1684676924737_597_tl_35" n="N035"/>Leidenschaft erscheinen sie uns doch Beide sympathischer als Majorca, wo sie den reizbaren, ungeduldigen Kranken ohne gequält wird, bis ihre Liebe für ihn erloschen ist und ein¬</ab><ab facs="#facs_2_region_1684676928050_600" type="">
-      <lb facs="#facs_2_region_1684676928050_600_tl_1" n="N001"/>Zweifel mit liebevoller Ausdauer gehütet und gepflegt hat
-      <lb facs="#facs_2_region_1684676928050_600_tl_2" n="N002"/>verbitterte Aufenthalt im Süden wirkte der folgende Son¬
-      <lb facs="#facs_2_region_1684676928050_600_tl_3" n="N003"/>mer, den Chopin mit der Sand auf deren Ge¬
-      <lb facs="#facs_2_region_1684676928050_600_tl_4" n="N004"/>Nohant zubrachte, auf das Befinden des Leidenden¬
-      <lb facs="#facs_2_region_1684676928050_600_tl_5" n="N005"/>Doch war ihm die größte Ruhe und Schonung geboten,
-      <lb facs="#facs_2_region_1684676928050_600_tl_6" n="N006"/>Vorschrift, der unser Patient sich nur wenig fügte. D
-      <lb facs="#facs_2_region_1684676928050_600_tl_7" n="N007"/>bezog er einen Pavillon von George Sand's Wohnung auf den
-      <lb facs="#facs_2_region_1684676928050_600_tl_8" n="N008"/>Quai d'Orléans. Der Winter verschlimmerte in steigende
-      <lb facs="#facs_2_region_1684676928050_600_tl_9" n="N009"/>Progression, was der Sommer halbwegs gutgemacht; von
-      <lb facs="#facs_2_region_1684676928050_600_tl_10" n="N010"/>Jahre 1840 an nahm Chopin's Lungenleiden stetig zu und
-      <lb facs="#facs_2_region_1684676928050_600_tl_11" n="N011"/>verscheuchte bald jede Hoffnung auf Besserung. Zugleich
-      <lb facs="#facs_2_region_1684676928050_600_tl_12" n="N012"/>wurde seine Stimmung immer düsterer, seine Phantasie imme¬
-      <lb facs="#facs_2_region_1684676928050_600_tl_13" n="N013"/>aufgeregter
-      <lb facs="#facs_2_region_1684676928050_600_tl_14" n="N014"/>Was für bittere Erfahrungen noch hinzutraten? Folge¬
-      <lb facs="#facs_2_region_1684676928050_600_tl_15" n="N015"/>wir dem Berichte seines Biographen in den Hauptumrissen¬
-      <lb facs="#facs_2_region_1684676928050_600_tl_16" n="N016"/>Chopin konnte es sich nicht mehr verhehlen, daß die Fran¬
-      <lb facs="#facs_2_region_1684676928050_600_tl_17" n="N017"/>die ihn durch die Leidenschaftlichkeit ihrer Liebe an
-      <lb facs="#facs_2_region_1684676928050_600_tl_18" n="N018"/>zogen, auf deren Beständigkeit er Felsen gebaut hätt
-      <lb facs="#facs_2_region_1684676928050_600_tl_19" n="N019"/>Tag zu Tag kälter gegen ihn wurde. Er, der sogar lebt
-      <lb facs="#facs_2_region_1684676928050_600_tl_20" n="N020"/>gewünscht hatte, sie zum Altar führen zu können, was
-      <lb facs="#facs_2_region_1684676928050_600_tl_21" n="N021"/>Verhältnisse unmöglich machten, sah jedenfalls seinen Bu¬
-      <lb facs="#facs_2_region_1684676928050_600_tl_22" n="N022"/>mit der Geliebten als einen bleibenden und heiligen an;
-      <lb facs="#facs_2_region_1684676928050_600_tl_23" n="N023"/>hätte sich durch nichts bewegen lassen, sich von ihr zu trennten
-      <lb facs="#facs_2_region_1684676928050_600_tl_24" n="N024"/>Die Sand jedoch fühlte anders; der Kranke war ihr
-      <lb facs="#facs_2_region_1684676928050_600_tl_25" n="N025"/>Last geworden. Sie zeigte es ihm auf mancherlei Weise.
-      <lb facs="#facs_2_region_1684676928050_600_tl_26" n="N026"/>Chopin diese Kränkungen stillschweigend hinnahm, ohne
-      <lb facs="#facs_2_region_1684676928050_600_tl_27" n="N027"/>eine Trennung von George Sand zu denken, griff sie zu ein
-      <lb facs="#facs_2_region_1684676928050_600_tl_28" n="N028"/>drastischen Mittel zu der Veröffentlichung ihres Roma¬
-      <lb facs="#facs_2_region_1684676928050_600_tl_29" n="N029"/>„Lucrezia Floriani. Nach der übereinstimmenden Ansta¬
-      <lb facs="#facs_2_region_1684676928050_600_tl_30" n="N030"/>der Zeitgenossen war unter der Heldin Lucrezia die Be¬
-      <lb facs="#facs_2_region_1684676928050_600_tl_31" n="N031"/>fasserin selbst zu erkennen, in der Figur ihres kränklichen
-      <lb facs="#facs_2_region_1684676928050_600_tl_32" n="N032"/>nervösen Liebhabers, des Fürsten Karl, hingegen unser Che¬
-      <lb facs="#facs_2_region_1684676928050_600_tl_33" n="N033"/>vin, Lucrezia schildert, wie sie nach einigen Jahren ihre
-      <lb facs="#facs_2_region_1684676928050_600_tl_34" n="N034"/>anfangs glücklichen Zusammenlebens von Karl immer meh¬</ab><pb facs="#facs_3" n="3" xml:id="img_0003"/><ab facs="#facs_3_region_1684676937749_606" type="">
-      <lb facs="#facs_3_region_1684676937749_606_tl_1" n="N001"/>schweren Märtyrerthum Platz macht. Lucrezia hat endlich ihre
-      <lb facs="#facs_3_region_1684676937749_606_tl_2" n="N002"/>Kräfte durch unausgesetzte Opfer und Leiden erschöpft und
-      <lb facs="#facs_3_region_1684676937749_606_tl_3" n="N003"/>stirbt. George Sand hat später in der „Histoire de ma vie
-      <lb facs="#facs_3_region_1684676937749_606_tl_4" n="N004"/>allerdings behauptet, sie habe nicht daran gedacht, in dem
-      <lb facs="#facs_3_region_1684676937749_606_tl_5" n="N005"/>Analogien waren doch zu auffallend, und selbst die Kinder ich thun? Wenigstens spare ich etwas zum Winte
-      <lb facs="#facs_3_region_1684676937749_606_tl_6" n="N006"/>genannten Roman sich und Chopin zu schildern, aber die
-      <lb facs="#facs_3_region_1684676937749_606_tl_7" n="N007"/>der George Sand fragten eines Tages, mit dem Roman in
-      <lb facs="#facs_3_region_1684676937749_606_tl_8" n="N008"/>der Hand: „Herr Chopin, wissen Sie, daß Sie mit den
-      <lb facs="#facs_3_region_1684676937749_606_tl_9" n="N009"/>Karl gemeint sind?" Noch immer war Chopin
-      <lb facs="#facs_3_region_1684676937749_606_tl_10" n="N010"/>Fürsten
-      <lb facs="#facs_3_region_1684676937749_606_tl_11" n="N011"/>rücksichtsvoll — so schwach, möchten wir lieber sagen — zu
-      <lb facs="#facs_3_region_1684676937749_606_tl_12" n="N012"/>bleiben. Wenn ich die Frau, die ich verehrte und liebte, jetz
-      <lb facs="#facs_3_region_1684676937749_606_tl_13" n="N013"/>verlasse, dachte er, so mache ich den Roman zur wahren Ge¬
-      <lb facs="#facs_3_region_1684676937749_606_tl_14" n="N014"/>schichte und gebe sie der Verachtung der Besseren preis
-      <lb facs="#facs_3_region_1684676937749_606_tl_15" n="N015"/>Zu Anfang des Jahres 1847 führte die Sand durch
-      <lb facs="#facs_3_region_1684676937749_606_tl_16" n="N016"/>einen heftigen Auftritt den vollständigen Bruch herbei
-      <lb facs="#facs_3_region_1684676937749_606_tl_17" n="N017"/>Auf ihre Vorwürfe erwiderte Chopin nur, er werd
-      <lb facs="#facs_3_region_1684676937749_606_tl_18" n="N018"/>ihr Haus sofort verlassen und wünsche für
-      <lb facs="#facs_3_region_1684676937749_606_tl_19" n="N019"/>nicht mehr zu existiren. Die Sand machte keine Ein¬
-      <lb facs="#facs_3_region_1684676937749_606_tl_20" n="N020"/>wendungen: Chopin verließ sie augenblicklich und für immer
-      <lb facs="#facs_3_region_1684676937749_606_tl_21" n="N021"/>In Folge dieser heftigen Gemüthsaufregungen erlitt Chopin
-      <lb facs="#facs_3_region_1684676937749_606_tl_22" n="N022"/>Gesundheit neuerdings eine gefährliche Verschlimmerung. Ma¬
-      <lb facs="#facs_3_region_1684676937749_606_tl_23" n="N023"/>rieth ihm, im Frühling 1848 nach England zu reisen, wohin
-      <lb facs="#facs_3_region_1684676937749_606_tl_24" n="N024"/>Freunde und Verehrer ihn so oft und dringend eingeladen
-      <lb facs="#facs_3_region_1684676937749_606_tl_25" n="N025"/>hatten. Kurz vor seiner Abreise sollte er noch eine letzte, un
-      <lb facs="#facs_3_region_1684676937749_606_tl_26" n="N026"/>vermuthete Begegnung mit George Sand haben. Es war i
-      <lb facs="#facs_3_region_1684676937749_606_tl_27" n="N027"/>einer Soirée, wo sie, unbemerkt von den Gästen, auf Chopi¬
-      <lb facs="#facs_3_region_1684676937749_606_tl_28" n="N028"/>!“ die Hand
-      <lb facs="#facs_3_region_1684676937749_606_tl_29" n="N029"/>Moment an und verließ schweigend den Salon. Wie frühe
-      <lb facs="#facs_3_region_1684676937749_606_tl_30" n="N030"/>nach ihrem Bruche mit Musset, so fühlte die Sand jetzt aus
-      <lb facs="#facs_3_region_1684676937749_606_tl_31" n="N031"/>hopin gegenüber Neue, aber hier wie dort scheiterten ihr
-      <lb facs="#facs_3_region_1684676937749_606_tl_32" n="N032"/>Versuche einer Wiederversöhnung. In England wird Chopi¬
-      <lb facs="#facs_3_region_1684676937749_606_tl_33" n="N033"/>auf das glänzendste gefeiert, in Schottland genießt er di
-      <lb facs="#facs_3_region_1684676937749_606_tl_34" n="N034"/>zuvorkommendste Gastfreundschaft auf dem Gute der Schwe
-      <lb facs="#facs_3_region_1684676937749_606_tl_35" n="N035"/>stern Stirling. Trotzdem gefällt ihm der Aufenthalt nicht
-      <lb facs="#facs_3_region_1684676937749_606_tl_36" n="N036"/>er klagt über die fortwährenden Nebel und über die uner
-      <lb facs="#facs_3_region_1684676937749_606_tl_37" n="N037"/>trägliche Last, mit welcher die gesellschaftlichen Verpflichtungen
-      <lb facs="#facs_3_region_1684676937749_606_tl_38" n="N038"/>auf ihn, den Müden und Leidenden, drücken. Zum Concert¬</ab><ab facs="#facs_3_region_1684676940465_609" type="">
-      <lb facs="#facs_3_region_1684676940465_609_tl_1" n="N001"/>geben zwingt er sich, um etwas zu verdienen. „Ich fühle
-      <lb facs="#facs_3_region_1684676940465_609_tl_2" n="N002"/>mich schwächer," schreibt er aus Schottland einem polnischen
-      <lb facs="#facs_3_region_1684676940465_609_tl_3" n="N003"/>Freunde, „ich kann nicht componiren, nicht aus Mangel an marcks liefern dürfte. Wie verlautet, soll nämlich der König von
-      <lb facs="#facs_3_region_1684676940465_609_tl_4" n="N004"/>Lust, sondern aus physischen Ursachen, und weil in
-      <lb facs="#facs_3_region_1684676940465_609_tl_5" n="N005"/>mich jede Woche wo anders befinde. Aber was so
-      <lb facs="#facs_3_region_1684676940465_609_tl_6" n="N006"/>Immer häufiger stoßen wir auf Aeußerungen trüber Hoff
-      <lb facs="#facs_3_region_1684676940465_609_tl_7" n="N007"/>nungslosigkeit. „Ich empfinde überhaupt nichts mehr, i¬
-      <lb facs="#facs_3_region_1684676940465_609_tl_8" n="N008"/>vegetire nur noch und warte geduldig auf mein Ende." Aus
-      <lb facs="#facs_3_region_1684676940465_609_tl_9" n="N009"/>die Erinnerungen an die geliebte Frau ließen ihn nicht los
-      <lb facs="#facs_3_region_1684676940465_609_tl_10" n="N010"/>die Geister entschwundenen Glücks und schmerzlicher Kran¬
-      <lb facs="#facs_3_region_1684676940465_609_tl_11" n="N011"/>kungen. „Ich habe niemals Jemanden verflucht," schreibt er lung von so verläßlicher Seite gemacht, daß ich sie Ihnen nicht
-      <lb facs="#facs_3_region_1684676940465_609_tl_12" n="N012"/>einem Freunde, „aber jetzt bin ich des Lebens so überdrüssig
-      <lb facs="#facs_3_region_1684676940465_609_tl_13" n="N013"/>daß ich nahe daran bin, die Lucrezia zu verfluchen. Abe
-      <lb facs="#facs_3_region_1684676940465_609_tl_14" n="N014"/>dort leidet man auch, und leidet deßhalb mehr, weil man
-      <lb facs="#facs_3_region_1684676940465_609_tl_15" n="N015"/>der Bosheit täglich älter wird
-      <lb facs="#facs_3_region_1684676940465_609_tl_16" n="N016"/>endlich kann er Anfangs 1849 das ihm „schrecklich
-      <lb facs="#facs_3_region_1684676940465_609_tl_17" n="N017"/>London verlassen und nach Paris zurückkehren. Hier mach
-      <lb facs="#facs_3_region_1684676940465_609_tl_18" n="N018"/>die Krankheit rapide Fortschritte, seine Verwandten werden
-      <lb facs="#facs_3_region_1684676940465_609_tl_19" n="N019"/>benachrichtigt, und Chopin's Schwester Louise eilt nach Paris
-      <lb facs="#facs_3_region_1684676940465_609_tl_20" n="N020"/>ihm durch ihre Liebe und Pflege die letzten Tage zu erleich
-      <lb facs="#facs_3_region_1684676940465_609_tl_21" n="N021"/>tern. Chopin starb am 17. October 1849. Er hatte, seiner
-      <lb facs="#facs_3_region_1684676940465_609_tl_22" n="N022"/>Verehrung für Mozart getreu, gebeten, man möchte zu seiner
-      <lb facs="#facs_3_region_1684676940465_609_tl_23" n="N023"/>Seelenmesse Mozart's Requiem aufführen. Da bis dahin
-      <lb facs="#facs_3_region_1684676940465_609_tl_24" n="N024"/>die Mitwirkung von Frauen in der Madeleine Kirche nicht
-      <lb facs="#facs_3_region_1684676940465_609_tl_25" n="N025"/>gestattet war, bedurfte es dazu der besonderen Genehmigur
-      <lb facs="#facs_3_region_1684676940465_609_tl_26" n="N026"/>der geistlichen Behörde. Sie wurde ertheilt, und unter Mit
-      <lb facs="#facs_3_region_1684676940465_609_tl_27" n="N027"/>wirkung von Lablache und der Viardot=Garcia er¬
-      <lb facs="#facs_3_region_1684676940465_609_tl_28" n="N028"/>tönte Mozart's Requiem bei der von Meyerbeer ge¬
-      <lb facs="#facs_3_region_1684676940465_609_tl_29" n="N029"/>leiteten Trauerfeierlichkeit. Seinem Wunsche gemäß wurd
-      <lb facs="#facs_3_region_1684676940465_609_tl_30" n="N030"/>Chopin auf dem Père-Lachaise begraben, und zwar neben
-      <lb facs="#facs_3_region_1684676940465_609_tl_31" n="N031"/>Bellini, mit dem er sehr befreundet gewesen. Man streut
-      <lb facs="#facs_3_region_1684676940465_609_tl_32" n="N032"/>polnische Erde auf seinen Sarg. Es war dieselbe Erde, die
-      <lb facs="#facs_3_region_1684676940465_609_tl_33" n="N033"/>sich Chopin vor neunzehn Jahren in dem Dorfe Wola zum
-      <lb facs="#facs_3_region_1684676940465_609_tl_34" n="N034"/>Andenken an sein Vaterland mitgenommen und sorgsam auf
-      <lb facs="#facs_3_region_1684676940465_609_tl_35" n="N035"/>bewahrt hatte, damit sie — sollte er nicht in polnischer Erde
-      <lb facs="#facs_3_region_1684676940465_609_tl_36" n="N036"/>ruhen — ihn wenigstens in fremdem Boden bedecke.</ab></div></body></text></TEI>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">1877.04.06</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Eduard Hanslick, Neue Freie Presse</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+            <title type="main">1877.04.06</title>
+               <idno type="Transkribus">1167807</idno>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_1">
+         <graphic url="47750702.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=HWJFUWMFODDWJWITCVZNCWEX&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="17,2426 754,2426 754,3446 17,3446" rendition="TextRegion" xml:id="facs_1_region_1684676900680_582">
+            <zone points="190,2431 565,2431 565,2492 190,2492" rendition="Line" xml:id="facs_1_region_1684676900680_582_tl_1"/>
+            <zone points="255,2475 509,2475 509,2517 255,2517" rendition="Line" xml:id="facs_1_region_1684676900680_582_tl_2"/>
+            <zone points="82,2497 726,2497 726,2538 82,2538" rendition="Line" xml:id="facs_1_region_1684676900680_582_tl_3"/>
+            <zone points="30,2533 728,2533 728,2567 30,2567" rendition="Line" xml:id="facs_1_region_1684676900680_582_tl_4"/>
+            <zone points="30,2561 721,2561 721,2601 30,2601" rendition="Line" xml:id="facs_1_region_1684676900680_582_tl_5"/>
+            <zone points="34,2594 726,2594 726,2628 34,2628" rendition="Line" xml:id="facs_1_region_1684676900680_582_tl_6"/>
+            <zone points="34,2622 726,2622 726,2662 34,2662" rendition="Line" xml:id="facs_1_region_1684676900680_582_tl_7"/>
+            <zone points="39,2651 733,2651 733,2687 39,2687" rendition="Line" xml:id="facs_1_region_1684676900680_582_tl_8"/>
+            <zone points="38,2680 730,2680 730,2710 38,2710" rendition="Line" xml:id="facs_1_region_1684676900680_582_tl_9"/>
+            <zone points="34,2708 731,2708 731,2739 34,2739" rendition="Line" xml:id="facs_1_region_1684676900680_582_tl_10"/>
+            <zone points="34,2735 731,2735 731,2768 34,2768" rendition="Line" xml:id="facs_1_region_1684676900680_582_tl_11"/>
+            <zone points="34,2766 731,2766 731,2798 34,2798" rendition="Line" xml:id="facs_1_region_1684676900680_582_tl_12"/>
+            <zone points="38,2793 730,2793 730,2843 38,2843" rendition="Line" xml:id="facs_1_region_1684676900680_582_tl_13"/>
+            <zone points="39,2821 733,2821 733,2854 39,2854" rendition="Line" xml:id="facs_1_region_1684676900680_582_tl_14"/>
+            <zone points="38,2850 726,2850 726,2882 38,2882" rendition="Line" xml:id="facs_1_region_1684676900680_582_tl_15"/>
+            <zone points="43,2879 733,2879 733,2918 43,2918" rendition="Line" xml:id="facs_1_region_1684676900680_582_tl_16"/>
+            <zone points="34,2906 731,2906 731,2941 34,2941" rendition="Line" xml:id="facs_1_region_1684676900680_582_tl_17"/>
+            <zone points="36,2933 726,2933 726,2981 36,2981" rendition="Line" xml:id="facs_1_region_1684676900680_582_tl_18"/>
+            <zone points="38,2963 726,2963 726,2997 38,2997" rendition="Line" xml:id="facs_1_region_1684676900680_582_tl_19"/>
+            <zone points="43,2990 733,2990 733,3028 43,3028" rendition="Line" xml:id="facs_1_region_1684676900680_582_tl_20"/>
+            <zone points="39,3017 731,3017 731,3069 39,3069" rendition="Line" xml:id="facs_1_region_1684676900680_582_tl_21"/>
+            <zone points="38,3047 730,3047 730,3099 38,3099" rendition="Line" xml:id="facs_1_region_1684676900680_582_tl_22"/>
+            <zone points="39,3072 728,3072 728,3126 39,3126" rendition="Line" xml:id="facs_1_region_1684676900680_582_tl_23"/>
+            <zone points="38,3106 726,3106 726,3139 38,3139" rendition="Line" xml:id="facs_1_region_1684676900680_582_tl_24"/>
+            <zone points="34,3137 731,3137 731,3182 34,3182" rendition="Line" xml:id="facs_1_region_1684676900680_582_tl_25"/>
+            <zone points="30,3162 733,3162 733,3210 30,3210" rendition="Line" xml:id="facs_1_region_1684676900680_582_tl_26"/>
+            <zone points="38,3192 735,3192 735,3239 38,3239" rendition="Line" xml:id="facs_1_region_1684676900680_582_tl_27"/>
+            <zone points="34,3223 724,3223 724,3264 34,3264" rendition="Line" xml:id="facs_1_region_1684676900680_582_tl_28"/>
+            <zone points="43,3250 733,3250 733,3284 43,3284" rendition="Line" xml:id="facs_1_region_1684676900680_582_tl_29"/>
+            <zone points="43,3266 733,3266 733,3311 43,3311" rendition="Line" xml:id="facs_1_region_1684676900680_582_tl_30"/>
+            <zone points="39,3305 733,3305 733,3352 39,3352" rendition="Line" xml:id="facs_1_region_1684676900680_582_tl_31"/>
+            <zone points="34,3330 740,3330 740,3388 34,3388" rendition="Line" xml:id="facs_1_region_1684676900680_582_tl_32"/>
+            <zone points="82,3368 192,3368 192,3422 82,3422" rendition="Line" xml:id="facs_1_region_1684676900680_582_tl_33"/>
+            <zone points="197,3373 726,3373 726,3445 197,3445" rendition="Line" xml:id="facs_1_region_1684676900680_582_tl_34"/>
+            <zone points="20,3382 197,3382 197,3458 20,3458" rendition="Line" xml:id="facs_1_region_1684676900680_582_tl_35"/>
+         </zone>
+         <zone points="476,47 1694,47 1694,392 476,392" rendition="TextRegion" xml:id="facs_1_region_1684676888173_572">
+            <zone points="887,57 1228,57 1228,142 887,142" rendition="Line" xml:id="facs_1_region_1684676888173_572_tl_1"/>
+            <zone points="644,315 1680,315 1680,396 644,396" rendition="Line" xml:id="facs_1_region_1684676888173_572_tl_2"/>
+         </zone>
+         <zone points="907,431 1252,431 1252,492 907,492" rendition="TextRegion" xml:id="facs_1_region_1684676889915_575">
+            <zone points="912,436 1242,436 1242,509 912,509" rendition="Line" xml:id="facs_1_region_1684676889915_575_tl_1"/>
+         </zone>
+         <zone points="39,526 2112,526 2112,593 39,593" rendition="TextRegion" xml:id="facs_1_region_1684676893048_578">
+            <zone points="1929,505 2103,505 2103,588 1929,588" rendition="Line" xml:id="facs_1_region_1684676893048_578_tl_1"/>
+            <zone points="801,547 1355,547 1355,613 801,613" rendition="Line" xml:id="facs_1_region_1684676893048_578_tl_2"/>
+            <zone points="59,538 346,538 346,620 59,620" rendition="Line" xml:id="facs_1_region_1684676893048_578_tl_3"/>
+         </zone>
+         <zone points="742,2348 1465,2348 1465,3440 742,3440" rendition="TextRegion" xml:id="facs_1_region_1684676903561_585">
+            <zone points="751,2352 1448,2352 1448,2395 751,2395" rendition="Line" xml:id="facs_1_region_1684676903561_585_tl_1"/>
+            <zone points="751,2379 1445,2379 1445,2422 751,2422" rendition="Line" xml:id="facs_1_region_1684676903561_585_tl_2"/>
+            <zone points="751,2409 1443,2409 1443,2449 751,2449" rendition="Line" xml:id="facs_1_region_1684676903561_585_tl_3"/>
+            <zone points="751,2443 995,2443 995,2484 751,2484" rendition="Line" xml:id="facs_1_region_1684676903561_585_tl_4"/>
+            <zone points="814,2465 1448,2465 1448,2513 814,2513" rendition="Line" xml:id="facs_1_region_1684676903561_585_tl_5"/>
+            <zone points="747,2502 1445,2502 1445,2542 747,2542" rendition="Line" xml:id="facs_1_region_1684676903561_585_tl_6"/>
+            <zone points="756,2535 1447,2535 1447,2572 756,2572" rendition="Line" xml:id="facs_1_region_1684676903561_585_tl_7"/>
+            <zone points="747,2556 1445,2556 1445,2599 747,2599" rendition="Line" xml:id="facs_1_region_1684676903561_585_tl_8"/>
+            <zone points="756,2590 1448,2590 1448,2630 756,2630" rendition="Line" xml:id="facs_1_region_1684676903561_585_tl_9"/>
+            <zone points="747,2619 1450,2619 1450,2658 747,2658" rendition="Line" xml:id="facs_1_region_1684676903561_585_tl_10"/>
+            <zone points="758,2640 1443,2640 1443,2685 758,2685" rendition="Line" xml:id="facs_1_region_1684676903561_585_tl_11"/>
+            <zone points="756,2671 1445,2671 1445,2712 756,2712" rendition="Line" xml:id="facs_1_region_1684676903561_585_tl_12"/>
+            <zone points="755,2700 1445,2700 1445,2743 755,2743" rendition="Line" xml:id="facs_1_region_1684676903561_585_tl_13"/>
+            <zone points="756,2730 1445,2730 1445,2771 756,2771" rendition="Line" xml:id="facs_1_region_1684676903561_585_tl_14"/>
+            <zone points="756,2760 1445,2760 1445,2800 756,2800" rendition="Line" xml:id="facs_1_region_1684676903561_585_tl_15"/>
+            <zone points="760,2787 1445,2787 1445,2827 760,2827" rendition="Line" xml:id="facs_1_region_1684676903561_585_tl_16"/>
+            <zone points="756,2811 1448,2811 1448,2855 756,2855" rendition="Line" xml:id="facs_1_region_1684676903561_585_tl_17"/>
+            <zone points="755,2848 1454,2848 1454,2891 755,2891" rendition="Line" xml:id="facs_1_region_1684676903561_585_tl_18"/>
+            <zone points="760,2873 1452,2873 1452,2915 760,2915" rendition="Line" xml:id="facs_1_region_1684676903561_585_tl_19"/>
+            <zone points="756,2904 1443,2904 1443,2945 756,2945" rendition="Line" xml:id="facs_1_region_1684676903561_585_tl_20"/>
+            <zone points="756,2934 1450,2934 1450,2972 756,2972" rendition="Line" xml:id="facs_1_region_1684676903561_585_tl_21"/>
+            <zone points="755,2956 1448,2956 1448,3004 755,3004" rendition="Line" xml:id="facs_1_region_1684676903561_585_tl_22"/>
+            <zone points="758,2986 1445,2986 1445,3029 758,3029" rendition="Line" xml:id="facs_1_region_1684676903561_585_tl_23"/>
+            <zone points="760,3022 1450,3022 1450,3056 760,3056" rendition="Line" xml:id="facs_1_region_1684676903561_585_tl_24"/>
+            <zone points="760,3042 1445,3042 1445,3090 760,3090" rendition="Line" xml:id="facs_1_region_1684676903561_585_tl_25"/>
+            <zone points="756,3074 1448,3074 1448,3115 756,3115" rendition="Line" xml:id="facs_1_region_1684676903561_585_tl_26"/>
+            <zone points="764,3099 1448,3099 1448,3146 764,3146" rendition="Line" xml:id="facs_1_region_1684676903561_585_tl_27"/>
+            <zone points="755,3130 1445,3130 1445,3175 755,3175" rendition="Line" xml:id="facs_1_region_1684676903561_585_tl_28"/>
+            <zone points="765,3192 1002,3192 1002,3235 765,3235" rendition="Line" xml:id="facs_1_region_1684676903561_585_tl_29"/>
+            <zone points="819,3207 1450,3207 1450,3255 819,3255" rendition="Line" xml:id="facs_1_region_1684676903561_585_tl_30"/>
+            <zone points="755,3243 1448,3243 1448,3287 755,3287" rendition="Line" xml:id="facs_1_region_1684676903561_585_tl_31"/>
+            <zone points="755,3270 1443,3270 1443,3316 755,3316" rendition="Line" xml:id="facs_1_region_1684676903561_585_tl_32"/>
+            <zone points="764,3302 1452,3302 1452,3345 764,3345" rendition="Line" xml:id="facs_1_region_1684676903561_585_tl_33"/>
+            <zone points="764,3330 1445,3330 1445,3370 764,3370" rendition="Line" xml:id="facs_1_region_1684676903561_585_tl_34"/>
+            <zone points="765,3361 1445,3361 1445,3399 765,3399" rendition="Line" xml:id="facs_1_region_1684676903561_585_tl_35"/>
+         </zone>
+         <zone points="1457,2334 2188,2334 2188,3423 1457,3423" rendition="TextRegion" xml:id="facs_1_region_1684676906346_588">
+            <zone points="1473,2343 2156,2343 2156,2397 1473,2397" rendition="Line" xml:id="facs_1_region_1684676906346_588_tl_1"/>
+            <zone points="1473,2373 2165,2373 2165,2411 1473,2411" rendition="Line" xml:id="facs_1_region_1684676906346_588_tl_2"/>
+            <zone points="1464,2402 2162,2402 2162,2438 1464,2438" rendition="Line" xml:id="facs_1_region_1684676906346_588_tl_3"/>
+            <zone points="1464,2425 2169,2425 2169,2470 1464,2470" rendition="Line" xml:id="facs_1_region_1684676906346_588_tl_4"/>
+            <zone points="1470,2458 2171,2458 2171,2501 1470,2501" rendition="Line" xml:id="facs_1_region_1684676906346_588_tl_5"/>
+            <zone points="1473,2484 2162,2484 2162,2526 1473,2526" rendition="Line" xml:id="facs_1_region_1684676906346_588_tl_6"/>
+            <zone points="1473,2513 2165,2513 2165,2560 1473,2560" rendition="Line" xml:id="facs_1_region_1684676906346_588_tl_7"/>
+            <zone points="1473,2545 2162,2545 2162,2583 1473,2583" rendition="Line" xml:id="facs_1_region_1684676906346_588_tl_8"/>
+            <zone points="1473,2570 2165,2570 2165,2612 1473,2612" rendition="Line" xml:id="facs_1_region_1684676906346_588_tl_9"/>
+            <zone points="1470,2599 2162,2599 2162,2642 1470,2642" rendition="Line" xml:id="facs_1_region_1684676906346_588_tl_10"/>
+            <zone points="1473,2626 2171,2626 2171,2669 1473,2669" rendition="Line" xml:id="facs_1_region_1684676906346_588_tl_11"/>
+            <zone points="1473,2662 2171,2662 2171,2708 1473,2708" rendition="Line" xml:id="facs_1_region_1684676906346_588_tl_12"/>
+            <zone points="1473,2696 1988,2696 1988,2732 1473,2732" rendition="Line" xml:id="facs_1_region_1684676906346_588_tl_13"/>
+            <zone points="1531,2703 2169,2703 2169,2760 1531,2760" rendition="Line" xml:id="facs_1_region_1684676906346_588_tl_14"/>
+            <zone points="1473,2753 2165,2753 2165,2789 1473,2789" rendition="Line" xml:id="facs_1_region_1684676906346_588_tl_15"/>
+            <zone points="1470,2787 2171,2787 2171,2816 1470,2816" rendition="Line" xml:id="facs_1_region_1684676906346_588_tl_16"/>
+            <zone points="1477,2807 2165,2807 2165,2854 1477,2854" rendition="Line" xml:id="facs_1_region_1684676906346_588_tl_17"/>
+            <zone points="1477,2841 2171,2841 2171,2879 1477,2879" rendition="Line" xml:id="facs_1_region_1684676906346_588_tl_18"/>
+            <zone points="1477,2866 2165,2866 2165,2904 1477,2904" rendition="Line" xml:id="facs_1_region_1684676906346_588_tl_19"/>
+            <zone points="1470,2893 2169,2893 2169,2931 1470,2931" rendition="Line" xml:id="facs_1_region_1684676906346_588_tl_20"/>
+            <zone points="1470,2925 2169,2925 2169,2963 1470,2963" rendition="Line" xml:id="facs_1_region_1684676906346_588_tl_21"/>
+            <zone points="1473,2950 2174,2950 2174,2992 1473,2992" rendition="Line" xml:id="facs_1_region_1684676906346_588_tl_22"/>
+            <zone points="1470,2977 2171,2977 2171,3019 1470,3019" rendition="Line" xml:id="facs_1_region_1684676906346_588_tl_23"/>
+            <zone points="1470,3010 2167,3010 2167,3049 1470,3049" rendition="Line" xml:id="facs_1_region_1684676906346_588_tl_24"/>
+            <zone points="1477,3029 2169,3029 2169,3078 1477,3078" rendition="Line" xml:id="facs_1_region_1684676906346_588_tl_25"/>
+            <zone points="1470,3063 2162,3063 2162,3101 1470,3101" rendition="Line" xml:id="facs_1_region_1684676906346_588_tl_26"/>
+            <zone points="1479,3097 2169,3097 2169,3133 1479,3133" rendition="Line" xml:id="facs_1_region_1684676906346_588_tl_27"/>
+            <zone points="1470,3121 2169,3121 2169,3164 1470,3164" rendition="Line" xml:id="facs_1_region_1684676906346_588_tl_28"/>
+            <zone points="755,3160 2171,3160 2171,3200 755,3200" rendition="Line" xml:id="facs_1_region_1684676906346_588_tl_29"/>
+            <zone points="1482,3183 2171,3183 2171,3219 1482,3219" rendition="Line" xml:id="facs_1_region_1684676906346_588_tl_30"/>
+            <zone points="1477,3210 2174,3210 2174,3248 1477,3248" rendition="Line" xml:id="facs_1_region_1684676906346_588_tl_31"/>
+            <zone points="1479,3239 1954,3239 1954,3282 1479,3282" rendition="Line" xml:id="facs_1_region_1684676906346_588_tl_32"/>
+            <zone points="1536,3246 2174,3246 2174,3305 1536,3305" rendition="Line" xml:id="facs_1_region_1684676906346_588_tl_33"/>
+            <zone points="1477,3296 2169,3296 2169,3330 1477,3330" rendition="Line" xml:id="facs_1_region_1684676906346_588_tl_34"/>
+            <zone points="1479,3320 2169,3320 2169,3361 1479,3361" rendition="Line" xml:id="facs_1_region_1684676906346_588_tl_35"/>
+            <zone points="1472,3352 2171,3352 2171,3393 1472,3393" rendition="Line" xml:id="facs_1_region_1684676906346_588_tl_36"/>
+            <zone points="742,3377 2180,3377 2180,3443 742,3443" rendition="Line" xml:id="facs_1_region_1684676906346_588_tl_37"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_2">
+         <graphic url="47750703.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=RWWHHJLFFPAZWALPPKHDWCVO&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="56,2359 779,2359 779,3429 56,3429" rendition="TextRegion" xml:id="facs_2_region_1684676921590_594">
+            <zone points="64,2334 754,2334 754,2400 64,2400" rendition="Line" xml:id="facs_2_region_1684676921590_594_tl_1"/>
+            <zone points="66,2382 743,2382 743,2427 66,2427" rendition="Line" xml:id="facs_2_region_1684676921590_594_tl_2"/>
+            <zone points="56,2413 743,2413 743,2453 56,2453" rendition="Line" xml:id="facs_2_region_1684676921590_594_tl_3"/>
+            <zone points="58,2440 751,2440 751,2482 58,2482" rendition="Line" xml:id="facs_2_region_1684676921590_594_tl_4"/>
+            <zone points="56,2466 1474,2466 1474,2522 56,2522" rendition="Line" xml:id="facs_2_region_1684676921590_594_tl_5"/>
+            <zone points="58,2496 754,2496 754,2551 58,2551" rendition="Line" xml:id="facs_2_region_1684676921590_594_tl_6"/>
+            <zone points="77,2554 751,2554 751,2599 77,2599" rendition="Line" xml:id="facs_2_region_1684676921590_594_tl_7"/>
+            <zone points="77,2583 754,2583 754,2631 77,2631" rendition="Line" xml:id="facs_2_region_1684676921590_594_tl_8"/>
+            <zone points="56,2615 757,2615 757,2658 56,2658" rendition="Line" xml:id="facs_2_region_1684676921590_594_tl_9"/>
+            <zone points="64,2644 754,2644 754,2687 64,2687" rendition="Line" xml:id="facs_2_region_1684676921590_594_tl_10"/>
+            <zone points="58,2674 759,2674 759,2719 58,2719" rendition="Line" xml:id="facs_2_region_1684676921590_594_tl_11"/>
+            <zone points="64,2697 754,2697 754,2743 64,2743" rendition="Line" xml:id="facs_2_region_1684676921590_594_tl_12"/>
+            <zone points="66,2727 757,2727 757,2774 66,2774" rendition="Line" xml:id="facs_2_region_1684676921590_594_tl_13"/>
+            <zone points="56,2756 757,2756 757,2804 56,2804" rendition="Line" xml:id="facs_2_region_1684676921590_594_tl_14"/>
+            <zone points="64,2790 757,2790 757,2833 64,2833" rendition="Line" xml:id="facs_2_region_1684676921590_594_tl_15"/>
+            <zone points="66,2814 757,2814 757,2862 66,2862" rendition="Line" xml:id="facs_2_region_1684676921590_594_tl_16"/>
+            <zone points="82,2875 757,2875 757,2915 82,2915" rendition="Line" xml:id="facs_2_region_1684676921590_594_tl_17"/>
+            <zone points="66,2907 759,2907 759,2947 66,2947" rendition="Line" xml:id="facs_2_region_1684676921590_594_tl_18"/>
+            <zone points="56,2934 757,2934 757,2966 56,2966" rendition="Line" xml:id="facs_2_region_1684676921590_594_tl_19"/>
+            <zone points="61,2955 765,2955 765,3003 61,3003" rendition="Line" xml:id="facs_2_region_1684676921590_594_tl_20"/>
+            <zone points="66,2984 767,2984 767,3032 66,3032" rendition="Line" xml:id="facs_2_region_1684676921590_594_tl_21"/>
+            <zone points="74,3013 762,3013 762,3061 74,3061" rendition="Line" xml:id="facs_2_region_1684676921590_594_tl_22"/>
+            <zone points="64,3043 754,3043 754,3082 64,3082" rendition="Line" xml:id="facs_2_region_1684676921590_594_tl_23"/>
+            <zone points="66,3072 759,3072 759,3114 66,3114" rendition="Line" xml:id="facs_2_region_1684676921590_594_tl_24"/>
+            <zone points="66,3101 757,3101 757,3146 66,3146" rendition="Line" xml:id="facs_2_region_1684676921590_594_tl_25"/>
+            <zone points="64,3133 759,3133 759,3173 64,3173" rendition="Line" xml:id="facs_2_region_1684676921590_594_tl_26"/>
+            <zone points="69,3159 759,3159 759,3202 69,3202" rendition="Line" xml:id="facs_2_region_1684676921590_594_tl_27"/>
+            <zone points="69,3189 757,3189 757,3231 69,3231" rendition="Line" xml:id="facs_2_region_1684676921590_594_tl_28"/>
+            <zone points="72,3213 767,3213 767,3260 72,3260" rendition="Line" xml:id="facs_2_region_1684676921590_594_tl_29"/>
+            <zone points="69,3247 759,3247 759,3290 69,3290" rendition="Line" xml:id="facs_2_region_1684676921590_594_tl_30"/>
+            <zone points="64,3263 1471,3263 1471,3319 64,3319" rendition="Line" xml:id="facs_2_region_1684676921590_594_tl_31"/>
+            <zone points="64,3300 759,3300 759,3345 64,3345" rendition="Line" xml:id="facs_2_region_1684676921590_594_tl_32"/>
+            <zone points="66,3332 759,3332 759,3375 66,3375" rendition="Line" xml:id="facs_2_region_1684676921590_594_tl_33"/>
+            <zone points="74,3351 765,3351 765,3401 74,3401" rendition="Line" xml:id="facs_2_region_1684676921590_594_tl_34"/>
+         </zone>
+         <zone points="779,2345 1499,2345 1499,3435 779,3435" rendition="TextRegion" xml:id="facs_2_region_1684676924737_597">
+            <zone points="773,2323 1466,2323 1466,2384 773,2384" rendition="Line" xml:id="facs_2_region_1684676924737_597_tl_1"/>
+            <zone points="783,2368 2188,2368 2188,2421 783,2421" rendition="Line" xml:id="facs_2_region_1684676924737_597_tl_2"/>
+            <zone points="773,2405 1474,2405 1474,2448 773,2448" rendition="Line" xml:id="facs_2_region_1684676924737_597_tl_3"/>
+            <zone points="773,2437 1474,2437 1474,2474 773,2474" rendition="Line" xml:id="facs_2_region_1684676924737_597_tl_4"/>
+            <zone points="773,2485 1468,2485 1468,2525 773,2525" rendition="Line" xml:id="facs_2_region_1684676924737_597_tl_5"/>
+            <zone points="66,2525 1474,2525 1474,2573 66,2573" rendition="Line" xml:id="facs_2_region_1684676924737_597_tl_6"/>
+            <zone points="781,2538 2188,2538 2188,2591 781,2591" rendition="Line" xml:id="facs_2_region_1684676924737_597_tl_7"/>
+            <zone points="781,2575 1471,2575 1471,2615 781,2615" rendition="Line" xml:id="facs_2_region_1684676924737_597_tl_8"/>
+            <zone points="781,2607 1474,2607 1474,2644 781,2644" rendition="Line" xml:id="facs_2_region_1684676924737_597_tl_9"/>
+            <zone points="781,2636 1471,2636 1471,2679 781,2679" rendition="Line" xml:id="facs_2_region_1684676924737_597_tl_10"/>
+            <zone points="783,2660 1471,2660 1471,2705 783,2705" rendition="Line" xml:id="facs_2_region_1684676924737_597_tl_11"/>
+            <zone points="781,2695 1471,2695 1471,2732 781,2732" rendition="Line" xml:id="facs_2_region_1684676924737_597_tl_12"/>
+            <zone points="773,2716 1474,2716 1474,2761 773,2761" rendition="Line" xml:id="facs_2_region_1684676924737_597_tl_13"/>
+            <zone points="786,2753 1468,2753 1468,2785 786,2785" rendition="Line" xml:id="facs_2_region_1684676924737_597_tl_14"/>
+            <zone points="783,2780 1474,2780 1474,2820 783,2820" rendition="Line" xml:id="facs_2_region_1684676924737_597_tl_15"/>
+            <zone points="781,2806 1468,2806 1468,2849 781,2849" rendition="Line" xml:id="facs_2_region_1684676924737_597_tl_16"/>
+            <zone points="82,2833 1474,2833 1474,2889 82,2889" rendition="Line" xml:id="facs_2_region_1684676924737_597_tl_17"/>
+            <zone points="781,2867 1471,2867 1471,2905 781,2905" rendition="Line" xml:id="facs_2_region_1684676924737_597_tl_18"/>
+            <zone points="781,2899 1471,2899 1471,2931 781,2931" rendition="Line" xml:id="facs_2_region_1684676924737_597_tl_19"/>
+            <zone points="781,2918 1476,2918 1476,2963 781,2963" rendition="Line" xml:id="facs_2_region_1684676924737_597_tl_20"/>
+            <zone points="783,2952 1474,2952 1474,2987 783,2987" rendition="Line" xml:id="facs_2_region_1684676924737_597_tl_21"/>
+            <zone points="789,2974 1468,2974 1468,3019 789,3019" rendition="Line" xml:id="facs_2_region_1684676924737_597_tl_22"/>
+            <zone points="783,3005 1476,3005 1476,3045 783,3045" rendition="Line" xml:id="facs_2_region_1684676924737_597_tl_23"/>
+            <zone points="783,3037 1471,3037 1471,3074 783,3074" rendition="Line" xml:id="facs_2_region_1684676924737_597_tl_24"/>
+            <zone points="783,3061 1471,3061 1471,3106 783,3106" rendition="Line" xml:id="facs_2_region_1684676924737_597_tl_25"/>
+            <zone points="786,3090 1468,3090 1468,3133 786,3133" rendition="Line" xml:id="facs_2_region_1684676924737_597_tl_26"/>
+            <zone points="791,3128 1481,3128 1481,3162 791,3162" rendition="Line" xml:id="facs_2_region_1684676924737_597_tl_27"/>
+            <zone points="783,3151 1471,3151 1471,3186 783,3186" rendition="Line" xml:id="facs_2_region_1684676924737_597_tl_28"/>
+            <zone points="789,3181 1471,3181 1471,3218 789,3218" rendition="Line" xml:id="facs_2_region_1684676924737_597_tl_29"/>
+            <zone points="789,3210 1471,3210 1471,3247 789,3247" rendition="Line" xml:id="facs_2_region_1684676924737_597_tl_30"/>
+            <zone points="786,3234 1468,3234 1468,3274 786,3274" rendition="Line" xml:id="facs_2_region_1684676924737_597_tl_31"/>
+            <zone points="786,3295 1474,3295 1474,3335 786,3335" rendition="Line" xml:id="facs_2_region_1684676924737_597_tl_32"/>
+            <zone points="789,3321 1471,3321 1471,3361 789,3361" rendition="Line" xml:id="facs_2_region_1684676924737_597_tl_33"/>
+            <zone points="789,3359 1474,3359 1474,3401 789,3401" rendition="Line" xml:id="facs_2_region_1684676924737_597_tl_34"/>
+            <zone points="64,3369 2196,3369 2196,3438 64,3438" rendition="Line" xml:id="facs_2_region_1684676924737_597_tl_35"/>
+         </zone>
+         <zone points="1499,2345 2205,2345 2205,3435 1499,3435" rendition="TextRegion" xml:id="facs_2_region_1684676928050_600">
+            <zone points="1497,2315 2188,2315 2188,2387 1497,2387" rendition="Line" xml:id="facs_2_region_1684676928050_600_tl_1"/>
+            <zone points="1489,2400 2185,2400 2185,2435 1489,2435" rendition="Line" xml:id="facs_2_region_1684676928050_600_tl_2"/>
+            <zone points="1492,2427 2185,2427 2185,2464 1492,2464" rendition="Line" xml:id="facs_2_region_1684676928050_600_tl_3"/>
+            <zone points="1495,2453 2196,2453 2196,2493 1495,2493" rendition="Line" xml:id="facs_2_region_1684676928050_600_tl_4"/>
+            <zone points="1489,2482 2159,2482 2159,2520 1489,2520" rendition="Line" xml:id="facs_2_region_1684676928050_600_tl_5"/>
+            <zone points="1489,2512 2164,2512 2164,2554 1489,2554" rendition="Line" xml:id="facs_2_region_1684676928050_600_tl_6"/>
+            <zone points="1489,2573 2193,2573 2193,2607 1489,2607" rendition="Line" xml:id="facs_2_region_1684676928050_600_tl_7"/>
+            <zone points="1497,2602 2188,2602 2188,2634 1497,2634" rendition="Line" xml:id="facs_2_region_1684676928050_600_tl_8"/>
+            <zone points="1497,2628 2188,2628 2188,2666 1497,2666" rendition="Line" xml:id="facs_2_region_1684676928050_600_tl_9"/>
+            <zone points="1489,2655 2190,2655 2190,2690 1489,2690" rendition="Line" xml:id="facs_2_region_1684676928050_600_tl_10"/>
+            <zone points="1489,2684 2190,2684 2190,2721 1489,2721" rendition="Line" xml:id="facs_2_region_1684676928050_600_tl_11"/>
+            <zone points="1497,2716 2188,2716 2188,2759 1497,2759" rendition="Line" xml:id="facs_2_region_1684676928050_600_tl_12"/>
+            <zone points="1495,2748 1628,2748 1628,2785 1495,2785" rendition="Line" xml:id="facs_2_region_1684676928050_600_tl_13"/>
+            <zone points="1551,2756 2190,2756 2190,2806 1551,2806" rendition="Line" xml:id="facs_2_region_1684676928050_600_tl_14"/>
+            <zone points="1495,2796 2190,2796 2190,2838 1495,2838" rendition="Line" xml:id="facs_2_region_1684676928050_600_tl_15"/>
+            <zone points="1497,2828 2193,2828 2193,2875 1497,2875" rendition="Line" xml:id="facs_2_region_1684676928050_600_tl_16"/>
+            <zone points="1497,2859 2127,2859 2127,2897 1497,2897" rendition="Line" xml:id="facs_2_region_1684676928050_600_tl_17"/>
+            <zone points="1495,2886 2127,2886 2127,2936 1495,2936" rendition="Line" xml:id="facs_2_region_1684676928050_600_tl_18"/>
+            <zone points="1497,2915 2161,2915 2161,2955 1497,2955" rendition="Line" xml:id="facs_2_region_1684676928050_600_tl_19"/>
+            <zone points="1495,2950 2177,2950 2177,2984 1495,2984" rendition="Line" xml:id="facs_2_region_1684676928050_600_tl_20"/>
+            <zone points="1495,2968 2180,2968 2180,3019 1495,3019" rendition="Line" xml:id="facs_2_region_1684676928050_600_tl_21"/>
+            <zone points="1495,3000 2172,3000 2172,3037 1495,3037" rendition="Line" xml:id="facs_2_region_1684676928050_600_tl_22"/>
+            <zone points="1497,3019 2188,3019 2188,3067 1497,3067" rendition="Line" xml:id="facs_2_region_1684676928050_600_tl_23"/>
+            <zone points="1495,3064 2169,3064 2169,3093 1495,3093" rendition="Line" xml:id="facs_2_region_1684676928050_600_tl_24"/>
+            <zone points="1497,3082 2166,3082 2166,3125 1497,3125" rendition="Line" xml:id="facs_2_region_1684676928050_600_tl_25"/>
+            <zone points="1495,3117 2164,3117 2164,3154 1495,3154" rendition="Line" xml:id="facs_2_region_1684676928050_600_tl_26"/>
+            <zone points="1495,3146 2164,3146 2164,3181 1495,3181" rendition="Line" xml:id="facs_2_region_1684676928050_600_tl_27"/>
+            <zone points="1495,3173 2188,3173 2188,3215 1495,3215" rendition="Line" xml:id="facs_2_region_1684676928050_600_tl_28"/>
+            <zone points="1500,3199 2188,3199 2188,3242 1500,3242" rendition="Line" xml:id="facs_2_region_1684676928050_600_tl_29"/>
+            <zone points="1495,3226 2188,3226 2188,3271 1495,3271" rendition="Line" xml:id="facs_2_region_1684676928050_600_tl_30"/>
+            <zone points="1495,3255 2196,3255 2196,3303 1495,3303" rendition="Line" xml:id="facs_2_region_1684676928050_600_tl_31"/>
+            <zone points="1495,3287 2185,3287 2185,3327 1495,3327" rendition="Line" xml:id="facs_2_region_1684676928050_600_tl_32"/>
+            <zone points="1495,3311 2190,3311 2190,3359 1495,3359" rendition="Line" xml:id="facs_2_region_1684676928050_600_tl_33"/>
+            <zone points="1497,3337 2193,3337 2193,3385 1497,3385" rendition="Line" xml:id="facs_2_region_1684676928050_600_tl_34"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_3">
+         <graphic url="47750704.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=SHJXOXIUDAAQZVZJGNZCQANX&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="14,2289 740,2289 740,3404 14,3404" rendition="TextRegion" xml:id="facs_3_region_1684676937749_606">
+            <zone points="32,2290 722,2290 722,2325 32,2325" rendition="Line" xml:id="facs_3_region_1684676937749_606_tl_1"/>
+            <zone points="28,2325 720,2325 720,2356 28,2356" rendition="Line" xml:id="facs_3_region_1684676937749_606_tl_2"/>
+            <zone points="28,2348 717,2348 717,2387 28,2387" rendition="Line" xml:id="facs_3_region_1684676937749_606_tl_3"/>
+            <zone points="32,2382 722,2382 722,2411 32,2411" rendition="Line" xml:id="facs_3_region_1684676937749_606_tl_4"/>
+            <zone points="28,2434 1410,2434 1410,2464 28,2464" rendition="Line" xml:id="facs_3_region_1684676937749_606_tl_5"/>
+            <zone points="41,2411 722,2411 722,2442 41,2442" rendition="Line" xml:id="facs_3_region_1684676937749_606_tl_6"/>
+            <zone points="28,2462 720,2462 720,2499 28,2499" rendition="Line" xml:id="facs_3_region_1684676937749_606_tl_7"/>
+            <zone points="25,2494 720,2494 720,2538 25,2538" rendition="Line" xml:id="facs_3_region_1684676937749_606_tl_8"/>
+            <zone points="121,2522 722,2522 722,2561 121,2561" rendition="Line" xml:id="facs_3_region_1684676937749_606_tl_9"/>
+            <zone points="25,2520 126,2520 126,2560 25,2560" rendition="Line" xml:id="facs_3_region_1684676937749_606_tl_10"/>
+            <zone points="32,2549 724,2549 724,2588 32,2588" rendition="Line" xml:id="facs_3_region_1684676937749_606_tl_11"/>
+            <zone points="25,2579 718,2579 718,2615 25,2615" rendition="Line" xml:id="facs_3_region_1684676937749_606_tl_12"/>
+            <zone points="34,2609 718,2609 718,2641 34,2641" rendition="Line" xml:id="facs_3_region_1684676937749_606_tl_13"/>
+            <zone points="25,2636 722,2636 722,2677 25,2677" rendition="Line" xml:id="facs_3_region_1684676937749_606_tl_14"/>
+            <zone points="25,2669 720,2669 720,2700 25,2700" rendition="Line" xml:id="facs_3_region_1684676937749_606_tl_15"/>
+            <zone points="34,2691 724,2691 724,2730 34,2730" rendition="Line" xml:id="facs_3_region_1684676937749_606_tl_16"/>
+            <zone points="34,2723 718,2723 718,2755 34,2755" rendition="Line" xml:id="facs_3_region_1684676937749_606_tl_17"/>
+            <zone points="37,2751 711,2751 711,2799 37,2799" rendition="Line" xml:id="facs_3_region_1684676937749_606_tl_18"/>
+            <zone points="34,2779 724,2779 724,2818 34,2818" rendition="Line" xml:id="facs_3_region_1684676937749_606_tl_19"/>
+            <zone points="34,2806 720,2806 720,2843 34,2843" rendition="Line" xml:id="facs_3_region_1684676937749_606_tl_20"/>
+            <zone points="32,2836 718,2836 718,2872 32,2872" rendition="Line" xml:id="facs_3_region_1684676937749_606_tl_21"/>
+            <zone points="34,2866 720,2866 720,2900 34,2900" rendition="Line" xml:id="facs_3_region_1684676937749_606_tl_22"/>
+            <zone points="32,2897 724,2897 724,2930 32,2930" rendition="Line" xml:id="facs_3_region_1684676937749_606_tl_23"/>
+            <zone points="34,2923 720,2923 720,2959 34,2959" rendition="Line" xml:id="facs_3_region_1684676937749_606_tl_24"/>
+            <zone points="28,2950 724,2950 724,2985 28,2985" rendition="Line" xml:id="facs_3_region_1684676937749_606_tl_25"/>
+            <zone points="34,2980 718,2980 718,3012 34,3012" rendition="Line" xml:id="facs_3_region_1684676937749_606_tl_26"/>
+            <zone points="28,3010 720,3010 720,3044 28,3044" rendition="Line" xml:id="facs_3_region_1684676937749_606_tl_27"/>
+            <zone points="603,3037 724,3037 724,3077 603,3077" rendition="Line" xml:id="facs_3_region_1684676937749_606_tl_28"/>
+            <zone points="32,3072 722,3072 722,3131 32,3131" rendition="Line" xml:id="facs_3_region_1684676937749_606_tl_29"/>
+            <zone points="30,3125 722,3125 722,3161 30,3161" rendition="Line" xml:id="facs_3_region_1684676937749_606_tl_30"/>
+            <zone points="34,3152 724,3152 724,3184 34,3184" rendition="Line" xml:id="facs_3_region_1684676937749_606_tl_31"/>
+            <zone points="28,3175 720,3175 720,3216 28,3216" rendition="Line" xml:id="facs_3_region_1684676937749_606_tl_32"/>
+            <zone points="28,3209 718,3209 718,3242 28,3242" rendition="Line" xml:id="facs_3_region_1684676937749_606_tl_33"/>
+            <zone points="32,3239 718,3239 718,3271 32,3271" rendition="Line" xml:id="facs_3_region_1684676937749_606_tl_34"/>
+            <zone points="34,3267 724,3267 724,3301 34,3301" rendition="Line" xml:id="facs_3_region_1684676937749_606_tl_35"/>
+            <zone points="34,3297 724,3297 724,3331 34,3331" rendition="Line" xml:id="facs_3_region_1684676937749_606_tl_36"/>
+            <zone points="28,3322 727,3322 727,3354 28,3354" rendition="Line" xml:id="facs_3_region_1684676937749_606_tl_37"/>
+            <zone points="32,3351 738,3351 738,3397 32,3397" rendition="Line" xml:id="facs_3_region_1684676937749_606_tl_38"/>
+         </zone>
+         <zone points="742,2289 1451,2289 1451,3384 742,3384" rendition="TextRegion" xml:id="facs_3_region_1684676940465_609">
+            <zone points="749,2292 1442,2292 1442,2331 749,2331" rendition="Line" xml:id="facs_3_region_1684676940465_609_tl_1"/>
+            <zone points="741,2315 1442,2315 1442,2354 741,2354" rendition="Line" xml:id="facs_3_region_1684676940465_609_tl_2"/>
+            <zone points="741,2341 2159,2341 2159,2402 741,2402" rendition="Line" xml:id="facs_3_region_1684676940465_609_tl_3"/>
+            <zone points="741,2373 1437,2373 1437,2412 741,2412" rendition="Line" xml:id="facs_3_region_1684676940465_609_tl_4"/>
+            <zone points="745,2400 1428,2400 1428,2439 745,2439" rendition="Line" xml:id="facs_3_region_1684676940465_609_tl_5"/>
+            <zone points="745,2458 1437,2458 1437,2499 745,2499" rendition="Line" xml:id="facs_3_region_1684676940465_609_tl_6"/>
+            <zone points="741,2492 1431,2492 1431,2535 741,2535" rendition="Line" xml:id="facs_3_region_1684676940465_609_tl_7"/>
+            <zone points="749,2513 1435,2513 1435,2556 749,2556" rendition="Line" xml:id="facs_3_region_1684676940465_609_tl_8"/>
+            <zone points="741,2545 1435,2545 1435,2586 741,2586" rendition="Line" xml:id="facs_3_region_1684676940465_609_tl_9"/>
+            <zone points="750,2575 1442,2575 1442,2615 750,2615" rendition="Line" xml:id="facs_3_region_1684676940465_609_tl_10"/>
+            <zone points="741,2604 2168,2604 2168,2645 741,2645" rendition="Line" xml:id="facs_3_region_1684676940465_609_tl_11"/>
+            <zone points="749,2634 1431,2634 1431,2669 749,2669" rendition="Line" xml:id="facs_3_region_1684676940465_609_tl_12"/>
+            <zone points="741,2664 1431,2664 1431,2694 741,2694" rendition="Line" xml:id="facs_3_region_1684676940465_609_tl_13"/>
+            <zone points="749,2689 1431,2689 1431,2728 749,2728" rendition="Line" xml:id="facs_3_region_1684676940465_609_tl_14"/>
+            <zone points="741,2728 1105,2728 1105,2764 741,2764" rendition="Line" xml:id="facs_3_region_1684676940465_609_tl_15"/>
+            <zone points="832,2742 1435,2742 1435,2783 832,2783" rendition="Line" xml:id="facs_3_region_1684676940465_609_tl_16"/>
+            <zone points="752,2776 1433,2776 1433,2813 752,2813" rendition="Line" xml:id="facs_3_region_1684676940465_609_tl_17"/>
+            <zone points="749,2808 1440,2808 1440,2842 749,2842" rendition="Line" xml:id="facs_3_region_1684676940465_609_tl_18"/>
+            <zone points="741,2831 1435,2831 1435,2866 741,2866" rendition="Line" xml:id="facs_3_region_1684676940465_609_tl_19"/>
+            <zone points="752,2866 1437,2866 1437,2900 752,2900" rendition="Line" xml:id="facs_3_region_1684676940465_609_tl_20"/>
+            <zone points="754,2900 1442,2900 1442,2932 754,2932" rendition="Line" xml:id="facs_3_region_1684676940465_609_tl_21"/>
+            <zone points="752,2918 1442,2918 1442,2957 752,2957" rendition="Line" xml:id="facs_3_region_1684676940465_609_tl_22"/>
+            <zone points="747,2948 1439,2948 1439,2983 747,2983" rendition="Line" xml:id="facs_3_region_1684676940465_609_tl_23"/>
+            <zone points="752,2980 1442,2980 1442,3017 752,3017" rendition="Line" xml:id="facs_3_region_1684676940465_609_tl_24"/>
+            <zone points="752,3005 1428,3005 1428,3044 752,3044" rendition="Line" xml:id="facs_3_region_1684676940465_609_tl_25"/>
+            <zone points="752,3037 1437,3037 1437,3074 752,3074" rendition="Line" xml:id="facs_3_region_1684676940465_609_tl_26"/>
+            <zone points="749,3061 1442,3061 1442,3099 749,3099" rendition="Line" xml:id="facs_3_region_1684676940465_609_tl_27"/>
+            <zone points="749,3093 1439,3093 1439,3127 749,3127" rendition="Line" xml:id="facs_3_region_1684676940465_609_tl_28"/>
+            <zone points="749,3120 1440,3120 1440,3156 749,3156" rendition="Line" xml:id="facs_3_region_1684676940465_609_tl_29"/>
+            <zone points="749,3147 1439,3147 1439,3182 749,3182" rendition="Line" xml:id="facs_3_region_1684676940465_609_tl_30"/>
+            <zone points="752,3177 1437,3177 1437,3216 752,3216" rendition="Line" xml:id="facs_3_region_1684676940465_609_tl_31"/>
+            <zone points="757,3203 1440,3203 1440,3244 757,3244" rendition="Line" xml:id="facs_3_region_1684676940465_609_tl_32"/>
+            <zone points="757,3235 1440,3235 1440,3271 757,3271" rendition="Line" xml:id="facs_3_region_1684676940465_609_tl_33"/>
+            <zone points="754,3260 1437,3260 1437,3299 754,3299" rendition="Line" xml:id="facs_3_region_1684676940465_609_tl_34"/>
+            <zone points="754,3290 1449,3290 1449,3331 754,3331" rendition="Line" xml:id="facs_3_region_1684676940465_609_tl_35"/>
+            <zone points="754,3322 1357,3322 1357,3365 754,3365" rendition="Line" xml:id="facs_3_region_1684676940465_609_tl_36"/>
+         </zone>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <pb facs="#facs_1" n="1" xml:id="img_0001"/>
+            <ab facs="#facs_1_region_1684676900680_582" type="">
+               <lb facs="#facs_1_region_1684676900680_582_tl_1" n="N001"/>Friedrich Chopin.
+               <lb facs="#facs_1_region_1684676900680_582_tl_2" n="N002"/>Zweiter und letzter Artikel.)
+               <lb facs="#facs_1_region_1684676900680_582_tl_3" n="N003"/>Ed. H. Als wir jüngst die Lebensgeschichte Chopin
+               <lb facs="#facs_1_region_1684676900680_582_tl_4" n="N004"/>an der Hand seines neuesten Biographen M. Karasowsk
+               <lb facs="#facs_1_region_1684676900680_582_tl_5" n="N005"/>durchwanderten, gelangten wir bis zu seiner Uebersiedlun
+               <lb facs="#facs_1_region_1684676900680_582_tl_6" n="N006"/>nach Paris (1831). Wie kommt es, daß aus den neunzehn
+               <lb facs="#facs_1_region_1684676900680_582_tl_7" n="N007"/>Jahren seines Pariser Aufenthalts, dieser bewegtesten, glän
+               <lb facs="#facs_1_region_1684676900680_582_tl_8" n="N008"/>zendsten Zeit Chopin's, nicht ein einziger von seinen zahl¬
+               <lb facs="#facs_1_region_1684676900680_582_tl_9" n="N009"/>reichen Briefen an seine Familie auf uns gelangt ist? Der
+               <lb facs="#facs_1_region_1684676900680_582_tl_10" n="N010"/>Biograph antwortet auf diese Frage mit der Erzählung eines
+               <lb facs="#facs_1_region_1684676900680_582_tl_11" n="N011"/>wahrhaft barbarischen Vorgangs, der für die damaligen Zu¬
+               <lb facs="#facs_1_region_1684676900680_582_tl_12" n="N012"/>stände Russisch=Polens nur zu charakteristisch ist. Es hatte
+               <lb facs="#facs_1_region_1684676900680_582_tl_13" n="N013"/>nach Chopin's Tode seine Schülerin Miss Stirling der
+               <lb facs="#facs_1_region_1684676900680_582_tl_14" n="N014"/>Nachlaß ihres vergötterten Lehrers angekauft und in ihrer
+               <lb facs="#facs_1_region_1684676900680_582_tl_15" n="N015"/>schottischen Heimat eine Art Chopin-Museum daraus gebildet
+               <lb facs="#facs_1_region_1684676900680_582_tl_16" n="N016"/>In ihrem Testamente vermachte sie diese werthvolle Samm¬
+               <lb facs="#facs_1_region_1684676900680_582_tl_17" n="N017"/>lung, welche Chopin's Salon=Einrichtung, sein Piano und
+               <lb facs="#facs_1_region_1684676900680_582_tl_18" n="N018"/>eine Menge werthvoller Andenken enthielt, der Mutter Ehe
+               <lb facs="#facs_1_region_1684676900680_582_tl_19" n="N019"/>pin's, nach deren Tod sie der Schwester Chopin's, Fra¬
+               <lb facs="#facs_1_region_1684676900680_582_tl_20" n="N020"/>Isabella Borcinska in Warschau, zufiel. Aus dem vierten
+               <lb facs="#facs_1_region_1684676900680_582_tl_21" n="N021"/>Stockwerke des von Letzterer bewohnten Hauses (es war
+               <lb facs="#facs_1_region_1684676900680_582_tl_22" n="N022"/>Eigenthum des Grafen Zamoyski) fiel eines Abends in
+               <lb facs="#facs_1_region_1684676900680_582_tl_23" n="N023"/>September 1863 ein Schuß, als gerade der Statt
+               <lb facs="#facs_1_region_1684676900680_582_tl_24" n="N024"/>halter Graf Berg, von seiner tscherkessischen Leibgard
+               <lb facs="#facs_1_region_1684676900680_582_tl_25" n="N025"/>umgeben, vorüberfuhr. Der Schuß traf glücklicherweise kei
+               <lb facs="#facs_1_region_1684676900680_582_tl_26" n="N026"/>nen Menschen, trotzdem wurde wenige Minuten später das
+               <lb facs="#facs_1_region_1684676900680_582_tl_27" n="N027"/>Haus von Militär umzingelt, und eine wüthende Soldateska
+               <lb facs="#facs_1_region_1684676900680_582_tl_28" n="N028"/>begann von Stockwerk zu Stockwerk Alles, was sich vorfan¬
+               <lb facs="#facs_1_region_1684676900680_582_tl_29" n="N029"/>zu zertrümmern (darunter allein fünfzehn bis zwanzig Cla¬
+               <lb facs="#facs_1_region_1684676900680_582_tl_30" n="N030"/>diere) und aus den Fenstern auf die Straße herabzuwerfen
+               <lb facs="#facs_1_region_1684676900680_582_tl_31" n="N031"/>Unten errichteten die Soldaten einen Holzstoß aus all der
+               <lb facs="#facs_1_region_1684676900680_582_tl_32" n="N032"/>Sachen und verbrannten singend und Branntwein trinkend
+               <lb facs="#facs_1_region_1684676900680_582_tl_33" n="N033"/>Berl.
+               <lb facs="#facs_1_region_1684676900680_582_tl_34" n="N034"/>ich das Feuilleton der „Neuen Freien Presse von
+               <lb facs="#facs_1_region_1684676900680_582_tl_35" n="N035"/>1 Februar d.
+            </ab>
+            <ab facs="#facs_1_region_1684676888173_572" type="">
+               <lb facs="#facs_1_region_1684676888173_572_tl_1" n="N001"/>Neue
+               <lb facs="#facs_1_region_1684676888173_572_tl_2" n="N002"/>leie Presse.
+            </ab>
+            <ab facs="#facs_1_region_1684676889915_575" type="">
+               <lb facs="#facs_1_region_1684676889915_575_tl_1" n="N001"/>Morgenblatt.
+            </ab>
+            <ab facs="#facs_1_region_1684676893048_578" type="">
+               <lb facs="#facs_1_region_1684676893048_578_tl_1" n="N001"/>1873.
+               <lb facs="#facs_1_region_1684676893048_578_tl_2" n="N002"/>Wien, Freitag, den 6. April
+               <lb facs="#facs_1_region_1684676893048_578_tl_3" n="N003"/>Nr. 4529.
+            </ab>
+            <ab facs="#facs_1_region_1684676903561_585" type="">
+               <lb facs="#facs_1_region_1684676903561_585_tl_1" n="N001"/>alle Bilder, Bücher und Papiere — darunter jene werth¬
+               <lb facs="#facs_1_region_1684676903561_585_tl_2" n="N002"/>volle Sammlung von Chopin-Reliquien und dessen sämmt
+               <lb facs="#facs_1_region_1684676903561_585_tl_3" n="N003"/>liche Briefe aus Paris an seine Familie. Ein echt russische
+               <lb facs="#facs_1_region_1684676903561_585_tl_4" n="N004"/>Volksbeglückungsbild
+               <lb facs="#facs_1_region_1684676903561_585_tl_5" n="N005"/>Paris entzückte den jungen Ankömmling, aber seine Lage
+               <lb facs="#facs_1_region_1684676903561_585_tl_6" n="N006"/>war dort eine zeitlang recht mißlich und unsicher. Gleich alt
+               <lb facs="#facs_1_region_1684676903561_585_tl_7" n="N007"/>Concertgeber aufzutreten, konnte der noch gänzlich Unbe¬
+               <lb facs="#facs_1_region_1684676903561_585_tl_8" n="N008"/>rühmte in Paris nicht wagen. Er entschloß sich, vorerst noch
+               <lb facs="#facs_1_region_1684676903561_585_tl_9" n="N009"/>zu lernen, und wendete sich an Friedrich Kalkbrenner, der
+               <lb facs="#facs_1_region_1684676903561_585_tl_10" n="N010"/>damals für den ersten Pianisten Europas galt. Als ihm
+               <lb facs="#facs_1_region_1684676903561_585_tl_11" n="N011"/>Chopin vorspielte, mußte Kalkbrenner offenbar das Geni
+               <lb facs="#facs_1_region_1684676903561_585_tl_12" n="N012"/>des jungen Polen erkennen, der von ihm kaum mehr viel zu
+               <lb facs="#facs_1_region_1684676903561_585_tl_13" n="N013"/>lernen hatte. Aber Kalkbrenner's Ruhm als Lehrer konnte
+               <lb facs="#facs_1_region_1684676903561_585_tl_14" n="N014"/>durch einen so außerordentlichen Schüler nur gewinnen, und
+               <lb facs="#facs_1_region_1684676903561_585_tl_15" n="N015"/>er erklärte sich daher Chopin's Wünschen geneigt, unter der
+               <lb facs="#facs_1_region_1684676903561_585_tl_16" n="N016"/>Bedingung, daß dieser sich verpflichte, wenigstens dre
+               <lb facs="#facs_1_region_1684676903561_585_tl_17" n="N017"/>Jahre bei ihm Unterricht zu nehmen. Chopit
+               <lb facs="#facs_1_region_1684676903561_585_tl_18" n="N018"/>konnte auf so lange Lehrzeit nicht eingehen, auch
+               <lb facs="#facs_1_region_1684676903561_585_tl_19" n="N019"/>fühlte er richtig die Gefahr heraus, die hier seiner
+               <lb facs="#facs_1_region_1684676903561_585_tl_20" n="N020"/>künstlerischen Originalität drohte. „Ich würde mich gewi
+               <lb facs="#facs_1_region_1684676903561_585_tl_21" n="N021"/>auch entschließen," schreibt er an seinen Lehrer Elsner in
+               <lb facs="#facs_1_region_1684676903561_585_tl_22" n="N022"/>Warschau, „noch drei Jahre zu studiren, wenn ich die Ge¬
+               <lb facs="#facs_1_region_1684676903561_585_tl_23" n="N023"/>wißheit hätte, das Ziel, welches ich mir selbst gesteckt habe
+               <lb facs="#facs_1_region_1684676903561_585_tl_24" n="N024"/>dann zu erreichen. So viel ist mir klar, daß ich nie ein
+               <lb facs="#facs_1_region_1684676903561_585_tl_25" n="N025"/>Copie von Kalkbrenner werde; er wird nicht im Stande sein
+               <lb facs="#facs_1_region_1684676903561_585_tl_26" n="N026"/>meinen vielleicht kühnen, aber edlen Willen zu brechen
+               <lb facs="#facs_1_region_1684676903561_585_tl_27" n="N027"/>eine neue Kunst=Aera zu schaffen.“ So entsagt
+               <lb facs="#facs_1_region_1684676903561_585_tl_28" n="N028"/>er denn zu seinem Heil der Vormundschaft des prosaische
+               <lb facs="#facs_1_region_1684676903561_585_tl_29" n="N029"/>Concertes besänftigte
+               <lb facs="#facs_1_region_1684676903561_585_tl_30" n="N030"/>Nach vielen mühevollen Vorbereitungen brachte Chopi¬
+               <lb facs="#facs_1_region_1684676903561_585_tl_31" n="N031"/>endlich sein erstes Concert in Paris zu Stande, an
+               <lb facs="#facs_1_region_1684676903561_585_tl_32" n="N032"/>26. Februar 1832 — es deckte nicht einmal die Unkosten
+               <lb facs="#facs_1_region_1684676903561_585_tl_33" n="N033"/>Er hatte keine Aussicht, seine Stellung in Paris zu verbessern,
+               <lb facs="#facs_1_region_1684676903561_585_tl_34" n="N034"/>und trug sich mit dem Plane, nach Amerika zu übersiedeln
+               <lb facs="#facs_1_region_1684676903561_585_tl_35" n="N035"/>Als seine Eltern dieses Vorhaben mißbilligten, entschloße
+            </ab>
+            <ab facs="#facs_1_region_1684676906346_588" type="">
+               <lb facs="#facs_1_region_1684676906346_588_tl_1" n="N001"/>Zufall ihm den Fürsten Valentin Radziwill auf der
+               <lb facs="#facs_1_region_1684676906346_588_tl_2" n="N002"/>Straße entgegen, der ihm wenigstens das Versprechen ab¬
+               <lb facs="#facs_1_region_1684676906346_588_tl_3" n="N003"/>nimmt, diesen Abend noch mit ihm zu Rothschild zu
+               <lb facs="#facs_1_region_1684676906346_588_tl_4" n="N004"/>gehen. Die ganze Haute volée von Paris füllt die glän¬
+               <lb facs="#facs_1_region_1684676906346_588_tl_5" n="N005"/>zenden Salons von Madame Rothschild, welche auf die
+               <lb facs="#facs_1_region_1684676906346_588_tl_6" n="N006"/>liebenswürdigste Weise Chopin ersucht, etwas zu spielen. Er
+               <lb facs="#facs_1_region_1684676906346_588_tl_7" n="N007"/>setzt sich an den Flügel und improvisirt in glücklichster Stim¬
+               <lb facs="#facs_1_region_1684676906346_588_tl_8" n="N008"/>mung. Die Zuhörer bewundern entzückt dies neuentdeckt
+               <lb facs="#facs_1_region_1684676906346_588_tl_9" n="N009"/>Meteor, und noch während der Soirée selbst erhält Chopin
+               <lb facs="#facs_1_region_1684676906346_588_tl_10" n="N010"/>die schmeichelhaftesten Einladungen, in den ersten Häuser
+               <lb facs="#facs_1_region_1684676906346_588_tl_11" n="N011"/>von Paris Unterricht zu ertheilen. Wie mit einem Zauber¬
+               <lb facs="#facs_1_region_1684676906346_588_tl_12" n="N012"/>schlag änderte sich von diesem Abend seine Lage, und Chopin
+               <lb facs="#facs_1_region_1684676906346_588_tl_13" n="N013"/>dachte nicht mehr daran, Paris zu verlassen.
+               <lb facs="#facs_1_region_1684676906346_588_tl_14" n="N014"/>Wie der Rothschild'sche Salon an jenem entscheidenden
+               <lb facs="#facs_1_region_1684676906346_588_tl_15" n="N015"/>Abend, so blieb der Salon überhaupt der eigentliche
+               <lb facs="#facs_1_region_1684676906346_588_tl_16" n="N016"/>Boden von Chopin's Triumphen. Einige wenige Concerte
+               <lb facs="#facs_1_region_1684676906346_588_tl_17" n="N017"/>gab Chopin in großen Theater= und Concertsälen; da machte
+               <lb facs="#facs_1_region_1684676906346_588_tl_18" n="N018"/>jedoch sein überaus seines poetisches Spiel nicht entfernt den
+               <lb facs="#facs_1_region_1684676906346_588_tl_19" n="N019"/>tiefen Eindruck wie im Salon. Auch waren ihm die Concert¬
+               <lb facs="#facs_1_region_1684676906346_588_tl_20" n="N020"/>Vorbereitungen höchst peinlich, ja jedes öffentliche Auftreten
+               <lb facs="#facs_1_region_1684676906346_588_tl_21" n="N021"/>unangenehm. „Ich bin nicht geeignet," sagte er eines Tages
+               <lb facs="#facs_1_region_1684676906346_588_tl_22" n="N022"/>zu Liszt. „Concerte zu geben, da ich von dem Publicum
+               <lb facs="#facs_1_region_1684676906346_588_tl_23" n="N023"/>scheu gemacht werde, mich von seinem Athem erstickt, von
+               <lb facs="#facs_1_region_1684676906346_588_tl_24" n="N024"/>seinen neugierigen Blicken mich paralysirt fühle, Sie aber
+               <lb facs="#facs_1_region_1684676906346_588_tl_25" n="N025"/>Sie sind dazu berufen; denn wo Sie des Publicums Liebe
+               <lb facs="#facs_1_region_1684676906346_588_tl_26" n="N026"/>nicht gewinnen, da vermögen Sie wenigstens dasselbe zu er
+               <lb facs="#facs_1_region_1684676906346_588_tl_27" n="N027"/>schüttern und zu betäuben." In den Jahren 1834 bis 1848
+               <lb facs="#facs_1_region_1684676906346_588_tl_28" n="N028"/>hat Chopin in Paris nur Ein öffentliches Concert gegeben;
+               <lb facs="#facs_1_region_1684676906346_588_tl_29" n="N029"/>Kalkbrenner, den er durch die Widmung seines Emollte er fast jedes Jahr im Pleyelschen Clavier¬
+               <lb facs="#facs_1_region_1684676906346_588_tl_30" n="N030"/>salon eine musikalische „Séance“, in welcher er stets allein
+               <lb facs="#facs_1_region_1684676906346_588_tl_31" n="N031"/>spielte, vor seinen näheren Bekannten und Verehrern, welche
+               <lb facs="#facs_1_region_1684676906346_588_tl_32" n="N032"/>das Billet mit zwanzig Francs bezahlten.
+               <lb facs="#facs_1_region_1684676906346_588_tl_33" n="N033"/>Im Mai 1834 machte Chopin zum erstenmale einen
+               <lb facs="#facs_1_region_1684676906346_588_tl_34" n="N034"/>Ausflug aus Paris; er reiste mit Ferdinand Hiller nach
+               <lb facs="#facs_1_region_1684676906346_588_tl_35" n="N035"/>Aachen, wo Mendelssohn (damals Director des Düssel¬
+               <lb facs="#facs_1_region_1684676906346_588_tl_36" n="N036"/>dorfer Orchesters) das niederrheinische Musikfest dirigirte.
+               <lb facs="#facs_1_region_1684676906346_588_tl_37" n="N037"/>sich zur Rückkehr nach der Heimat. Da führt ein glücklicher „Als Clavierspieler, schrieb Mendelssohn damals, „ist
+            </ab>
+            <pb facs="#facs_2" n="2" xml:id="img_0002"/>
+            <ab facs="#facs_2_region_1684676921590_594" type="">
+               <lb facs="#facs_2_region_1684676921590_594_tl_1" n="N001"/>Chopin jetzt einer der allersten; macht so neu
+               <lb facs="#facs_2_region_1684676921590_594_tl_2" n="N002"/>Sachen wie Paganini auf seiner Geige und bringt Wunde
+               <lb facs="#facs_2_region_1684676921590_594_tl_3" n="N003"/>dinge herbei, die man sich nicht möglich gedacht hätte
+               <lb facs="#facs_2_region_1684676921590_594_tl_4" n="N004"/>Ein zweiter und letzter Aufenthalt Chopin's in Deutschlan
+               <lb facs="#facs_2_region_1684676921590_594_tl_5" n="N005"/>fiel in das Jahr 1836 und hatte zunächst Marienbad zum nur sechs Monate, ihre Beziehung zu Chopin über zehn
+               <lb facs="#facs_2_region_1684676921590_594_tl_6" n="N006"/>Ziele, wohin ihn mehr eine Herzens=Angelegenheit als ärzt
+               <lb facs="#facs_2_region_1684676921590_594_tl_7" n="N007"/>welche die Verheiratung seiner Jugendliebe Constanti
+               <lb facs="#facs_2_region_1684676921590_594_tl_8" n="N008"/>Gladkowska ihm geschlagen, als Chopin in Paris ein reizen
+               <lb facs="#facs_2_region_1684676921590_594_tl_9" n="N009"/>des polnisches Fräulein kennen lernte, Maria Wodzynska
+               <lb facs="#facs_2_region_1684676921590_594_tl_10" n="N010"/>das bald sein ganzes Herz besaß. Er wußte, daß er Mit
+               <lb facs="#facs_2_region_1684676921590_594_tl_11" n="N011"/>Juli die Holde mit ihrer Mutter in Marienbad findet
+               <lb facs="#facs_2_region_1684676921590_594_tl_12" n="N012"/>würde, und reiste voll beseligender Hoffnung hin. Die Be¬
+               <lb facs="#facs_2_region_1684676921590_594_tl_13" n="N013"/>den verlobten sich in Marienbad, und Chopin fühlte sich an
+               <lb facs="#facs_2_region_1684676921590_594_tl_14" n="N014"/>dem Gipfel des Glückes. Er schied — wie er glaubte, nu
+               <lb facs="#facs_2_region_1684676921590_594_tl_15" n="N015"/>für kurze Zeit — von seiner Braut, um über Leipzig (w.
+               <lb facs="#facs_2_region_1684676921590_594_tl_16" n="N016"/>er Schumann's Bekanntschaft machte) nach Paris zu
+               <lb facs="#facs_2_region_1684676921590_594_tl_17" n="N017"/>richt, daß seine Braut Maria es vorgezogen habe, eine
+               <lb facs="#facs_2_region_1684676921590_594_tl_18" n="N018"/>Grafen zu heiraten. Es war dies die zweite schmerzliche Ent
+               <lb facs="#facs_2_region_1684676921590_594_tl_19" n="N019"/>täuschung, die Chopin in der Liebe erfuhr; eine dritte, no¬
+               <lb facs="#facs_2_region_1684676921590_594_tl_20" n="N020"/>härtere sollte bald nachfolgen. Wir meinen das für ihn so
+               <lb facs="#facs_2_region_1684676921590_594_tl_21" n="N021"/>unheilvolle Verhältniß zur George Sand. Dasselbe läßt
+               <lb facs="#facs_2_region_1684676921590_594_tl_22" n="N022"/>sich, wie uns dünkt, erst jetzt vollständig und richtig beur¬
+               <lb facs="#facs_2_region_1684676921590_594_tl_23" n="N023"/>theilen, seit durch die neuesten Publicationen von Pau
+               <lb facs="#facs_2_region_1684676921590_594_tl_24" n="N024"/>de Musset und Paul Lindau die Herzensgeschichte de
+               <lb facs="#facs_2_region_1684676921590_594_tl_25" n="N025"/>Sand mit Alfred de Musset in wahrheitsgetreuer Schild¬
+               <lb facs="#facs_2_region_1684676921590_594_tl_26" n="N026"/>rung uns vorliegt. So verschiedenartig auch die äußeren Um
+               <lb facs="#facs_2_region_1684676921590_594_tl_27" n="N027"/>stände gewesen, das Benehmen der George Sand gegen Chopi¬
+               <lb facs="#facs_2_region_1684676921590_594_tl_28" n="N028"/>findet sehr merkwürdige Analogien in ihrem zehn Jahr
+               <lb facs="#facs_2_region_1684676921590_594_tl_29" n="N029"/>früher mit Musset gespielten Liebesbrama. Kein Zweifel,
+               <lb facs="#facs_2_region_1684676921590_594_tl_30" n="N030"/>daß sowol der leidenschaftliche, maßlose Musset, wie de
+               <lb facs="#facs_2_region_1684676921590_594_tl_31" n="N031"/>überempfindliche, nervöse, kränkliche Chopin als Liebhaber haltung. Anfangs fühlte sich Chopin in der Liebe der Georg
+               <lb facs="#facs_2_region_1684676921590_594_tl_32" n="N032"/>oft schwer zu behandeln, mitunter vielleicht schwer zu er
+               <lb facs="#facs_2_region_1684676921590_594_tl_33" n="N033"/>tragen waren und die Geduld ihrer Geliebten auf manch
+               <lb facs="#facs_2_region_1684676921590_594_tl_34" n="N034"/>Probe setzten. Allein in der rückhaltlosen Ehrlichkeit ihre
+            </ab>
+            <ab facs="#facs_2_region_1684676924737_597" type="">
+               <lb facs="#facs_2_region_1684676924737_597_tl_1" n="N001"/>die kühle, überlegende Verständigkeit der Sand, welche, a¬
+               <lb facs="#facs_2_region_1684676924737_597_tl_2" n="N002"/>fangs Feuer und Flamme, die Beiden doch ruhig in den Ab¬ Weit günstiger als dieser durch tausend Unbequemlichkeiten
+               <lb facs="#facs_2_region_1684676924737_597_tl_3" n="N003"/>grund stürzen läßt, nachdem sie ihrer überdrüssig geworden
+               <lb facs="#facs_2_region_1684676924737_597_tl_4" n="N004"/>Der Herzensbund zwischen George Sand und Musset dauert
+               <lb facs="#facs_2_region_1684676924737_597_tl_5" n="N005"/>Jahre — der Hauptunterschied war somit, daß die schmerz
+               <lb facs="#facs_2_region_1684676924737_597_tl_6" n="N006"/>liche Vorschrift trieb. Die Wunde war endlich vernarbt, liche Enttäuschung Musseks mit acuter Heftigkeit auftrat
+               <lb facs="#facs_2_region_1684676924737_597_tl_7" n="N007"/>während sie Chopin als chronisches Leiden langsam unter¬ Sommer verlebte er nun regelmäßig in Nohant, im Winter
+               <lb facs="#facs_2_region_1684676924737_597_tl_8" n="N008"/>grub. Der erste Eindruck, den die berühmte Frau auf unsere
+               <lb facs="#facs_2_region_1684676924737_597_tl_9" n="N009"/>Tondichter machte, war — ganz wie bei Musset — kein
+               <lb facs="#facs_2_region_1684676924737_597_tl_10" n="N010"/>sehr angenehmer. „Ihr Gesicht," schreibt Chopin nach de
+               <lb facs="#facs_2_region_1684676924737_597_tl_11" n="N011"/>ersten Begegnung mit George Sand, „ist mir nicht sympathis
+               <lb facs="#facs_2_region_1684676924737_597_tl_12" n="N012"/>und hat mir gar nicht gefallen; es ist sogar etwas darin
+               <lb facs="#facs_2_region_1684676924737_597_tl_13" n="N013"/>was mich abstößt." Trotzdem währte es nicht lange, daß Chopi¬
+               <lb facs="#facs_2_region_1684676924737_597_tl_14" n="N014"/>— genau wie früher Musset — sich leidenschaftlich von de
+               <lb facs="#facs_2_region_1684676924737_597_tl_15" n="N015"/>genialen Frau angezogen, auch von ihrer Liebe nich
+               <lb facs="#facs_2_region_1684676924737_597_tl_16" n="N016"/>wenig geschmeichelt fühlte. George Sand pflegte in der
+               <lb facs="#facs_2_region_1684676924737_597_tl_17" n="N017"/>geben. Hier erhielt er, bald nach seiner Ankunft, die Nach¬ Maße kühler zu werden, als die Leidenschaft ihrer Anbeten
+               <lb facs="#facs_2_region_1684676924737_597_tl_18" n="N018"/>wuchs; bei Musset kam dies früher, bei Chopin später zu
+               <lb facs="#facs_2_region_1684676924737_597_tl_19" n="N019"/>Tage. „Am meisten," sagt Paul Lindau, „verletzte e
+               <lb facs="#facs_2_region_1684676924737_597_tl_20" n="N020"/>Musset, daß seine Geliebte beständig das Mütterliche und
+               <lb facs="#facs_2_region_1684676924737_597_tl_21" n="N021"/>Schwesterliche ihrer Zuneigung herauskehrte." Dasselbe tha
+               <lb facs="#facs_2_region_1684676924737_597_tl_22" n="N022"/>sie mit Chopin, mit noch größerem Nachdrucke, ab¬
+               <lb facs="#facs_2_region_1684676924737_597_tl_23" n="N023"/>kaum mit größerem Rechte. Die schönen, im Momente des
+               <lb facs="#facs_2_region_1684676924737_597_tl_24" n="N024"/>Niederschreibens gewiß auch empfundenen Worte, welche si
+               <lb facs="#facs_2_region_1684676924737_597_tl_25" n="N025"/>in ihren „Briefen einer Reisenden" für Musset hat, finden
+               <lb facs="#facs_2_region_1684676924737_597_tl_26" n="N026"/>manches Seitenstück in dem 13. Band ihrer Selbstbiogre
+               <lb facs="#facs_2_region_1684676924737_597_tl_27" n="N027"/>phie, wo sie ihr Zusammenleben mit Chopin schilderte.
+               <lb facs="#facs_2_region_1684676924737_597_tl_28" n="N028"/>Was sie hier wie dort von ihrer aufopfernden Hingebung
+               <lb facs="#facs_2_region_1684676924737_597_tl_29" n="N029"/>ihrer „schwesterlichen Liebe und Treue aussagt, stimmt nich
+               <lb facs="#facs_2_region_1684676924737_597_tl_30" n="N030"/>immer mit den beglaubigten Thatsachen, und über ihre Ge¬
+               <lb facs="#facs_2_region_1684676924737_597_tl_31" n="N031"/>fühle führte sie, mit Paul Lindau zu sprechen, doppelte Buch
+               <lb facs="#facs_2_region_1684676924737_597_tl_32" n="N032"/>Sand stolz und glücklich. Als sich im Herbst 1837 zum
+               <lb facs="#facs_2_region_1684676924737_597_tl_33" n="N033"/>erstenmale Anfälle von Brustleiden bei ihm zeigten, reist
+               <lb facs="#facs_2_region_1684676924737_597_tl_34" n="N034"/>Chopin mit der George Sand und deren Kindern nach
+               <lb facs="#facs_2_region_1684676924737_597_tl_35" n="N035"/>Leidenschaft erscheinen sie uns doch Beide sympathischer als Majorca, wo sie den reizbaren, ungeduldigen Kranken ohne gequält wird, bis ihre Liebe für ihn erloschen ist und ein¬
+            </ab>
+            <ab facs="#facs_2_region_1684676928050_600" type="">
+               <lb facs="#facs_2_region_1684676928050_600_tl_1" n="N001"/>Zweifel mit liebevoller Ausdauer gehütet und gepflegt hat
+               <lb facs="#facs_2_region_1684676928050_600_tl_2" n="N002"/>verbitterte Aufenthalt im Süden wirkte der folgende Son¬
+               <lb facs="#facs_2_region_1684676928050_600_tl_3" n="N003"/>mer, den Chopin mit der Sand auf deren Ge¬
+               <lb facs="#facs_2_region_1684676928050_600_tl_4" n="N004"/>Nohant zubrachte, auf das Befinden des Leidenden¬
+               <lb facs="#facs_2_region_1684676928050_600_tl_5" n="N005"/>Doch war ihm die größte Ruhe und Schonung geboten,
+               <lb facs="#facs_2_region_1684676928050_600_tl_6" n="N006"/>Vorschrift, der unser Patient sich nur wenig fügte. D
+               <lb facs="#facs_2_region_1684676928050_600_tl_7" n="N007"/>bezog er einen Pavillon von George Sand's Wohnung auf den
+               <lb facs="#facs_2_region_1684676928050_600_tl_8" n="N008"/>Quai d'Orléans. Der Winter verschlimmerte in steigende
+               <lb facs="#facs_2_region_1684676928050_600_tl_9" n="N009"/>Progression, was der Sommer halbwegs gutgemacht; von
+               <lb facs="#facs_2_region_1684676928050_600_tl_10" n="N010"/>Jahre 1840 an nahm Chopin's Lungenleiden stetig zu und
+               <lb facs="#facs_2_region_1684676928050_600_tl_11" n="N011"/>verscheuchte bald jede Hoffnung auf Besserung. Zugleich
+               <lb facs="#facs_2_region_1684676928050_600_tl_12" n="N012"/>wurde seine Stimmung immer düsterer, seine Phantasie imme¬
+               <lb facs="#facs_2_region_1684676928050_600_tl_13" n="N013"/>aufgeregter
+               <lb facs="#facs_2_region_1684676928050_600_tl_14" n="N014"/>Was für bittere Erfahrungen noch hinzutraten? Folge¬
+               <lb facs="#facs_2_region_1684676928050_600_tl_15" n="N015"/>wir dem Berichte seines Biographen in den Hauptumrissen¬
+               <lb facs="#facs_2_region_1684676928050_600_tl_16" n="N016"/>Chopin konnte es sich nicht mehr verhehlen, daß die Fran¬
+               <lb facs="#facs_2_region_1684676928050_600_tl_17" n="N017"/>die ihn durch die Leidenschaftlichkeit ihrer Liebe an
+               <lb facs="#facs_2_region_1684676928050_600_tl_18" n="N018"/>zogen, auf deren Beständigkeit er Felsen gebaut hätt
+               <lb facs="#facs_2_region_1684676928050_600_tl_19" n="N019"/>Tag zu Tag kälter gegen ihn wurde. Er, der sogar lebt
+               <lb facs="#facs_2_region_1684676928050_600_tl_20" n="N020"/>gewünscht hatte, sie zum Altar führen zu können, was
+               <lb facs="#facs_2_region_1684676928050_600_tl_21" n="N021"/>Verhältnisse unmöglich machten, sah jedenfalls seinen Bu¬
+               <lb facs="#facs_2_region_1684676928050_600_tl_22" n="N022"/>mit der Geliebten als einen bleibenden und heiligen an;
+               <lb facs="#facs_2_region_1684676928050_600_tl_23" n="N023"/>hätte sich durch nichts bewegen lassen, sich von ihr zu trennten
+               <lb facs="#facs_2_region_1684676928050_600_tl_24" n="N024"/>Die Sand jedoch fühlte anders; der Kranke war ihr
+               <lb facs="#facs_2_region_1684676928050_600_tl_25" n="N025"/>Last geworden. Sie zeigte es ihm auf mancherlei Weise.
+               <lb facs="#facs_2_region_1684676928050_600_tl_26" n="N026"/>Chopin diese Kränkungen stillschweigend hinnahm, ohne
+               <lb facs="#facs_2_region_1684676928050_600_tl_27" n="N027"/>eine Trennung von George Sand zu denken, griff sie zu ein
+               <lb facs="#facs_2_region_1684676928050_600_tl_28" n="N028"/>drastischen Mittel zu der Veröffentlichung ihres Roma¬
+               <lb facs="#facs_2_region_1684676928050_600_tl_29" n="N029"/>„Lucrezia Floriani. Nach der übereinstimmenden Ansta¬
+               <lb facs="#facs_2_region_1684676928050_600_tl_30" n="N030"/>der Zeitgenossen war unter der Heldin Lucrezia die Be¬
+               <lb facs="#facs_2_region_1684676928050_600_tl_31" n="N031"/>fasserin selbst zu erkennen, in der Figur ihres kränklichen
+               <lb facs="#facs_2_region_1684676928050_600_tl_32" n="N032"/>nervösen Liebhabers, des Fürsten Karl, hingegen unser Che¬
+               <lb facs="#facs_2_region_1684676928050_600_tl_33" n="N033"/>vin, Lucrezia schildert, wie sie nach einigen Jahren ihre
+               <lb facs="#facs_2_region_1684676928050_600_tl_34" n="N034"/>anfangs glücklichen Zusammenlebens von Karl immer meh¬
+            </ab>
+            <pb facs="#facs_3" n="3" xml:id="img_0003"/>
+            <ab facs="#facs_3_region_1684676937749_606" type="">
+               <lb facs="#facs_3_region_1684676937749_606_tl_1" n="N001"/>schweren Märtyrerthum Platz macht. Lucrezia hat endlich ihre
+               <lb facs="#facs_3_region_1684676937749_606_tl_2" n="N002"/>Kräfte durch unausgesetzte Opfer und Leiden erschöpft und
+               <lb facs="#facs_3_region_1684676937749_606_tl_3" n="N003"/>stirbt. George Sand hat später in der „Histoire de ma vie
+               <lb facs="#facs_3_region_1684676937749_606_tl_4" n="N004"/>allerdings behauptet, sie habe nicht daran gedacht, in dem
+               <lb facs="#facs_3_region_1684676937749_606_tl_5" n="N005"/>Analogien waren doch zu auffallend, und selbst die Kinder ich thun? Wenigstens spare ich etwas zum Winte
+               <lb facs="#facs_3_region_1684676937749_606_tl_6" n="N006"/>genannten Roman sich und Chopin zu schildern, aber die
+               <lb facs="#facs_3_region_1684676937749_606_tl_7" n="N007"/>der George Sand fragten eines Tages, mit dem Roman in
+               <lb facs="#facs_3_region_1684676937749_606_tl_8" n="N008"/>der Hand: „Herr Chopin, wissen Sie, daß Sie mit den
+               <lb facs="#facs_3_region_1684676937749_606_tl_9" n="N009"/>Karl gemeint sind?" Noch immer war Chopin
+               <lb facs="#facs_3_region_1684676937749_606_tl_10" n="N010"/>Fürsten
+               <lb facs="#facs_3_region_1684676937749_606_tl_11" n="N011"/>rücksichtsvoll — so schwach, möchten wir lieber sagen — zu
+               <lb facs="#facs_3_region_1684676937749_606_tl_12" n="N012"/>bleiben. Wenn ich die Frau, die ich verehrte und liebte, jetz
+               <lb facs="#facs_3_region_1684676937749_606_tl_13" n="N013"/>verlasse, dachte er, so mache ich den Roman zur wahren Ge¬
+               <lb facs="#facs_3_region_1684676937749_606_tl_14" n="N014"/>schichte und gebe sie der Verachtung der Besseren preis
+               <lb facs="#facs_3_region_1684676937749_606_tl_15" n="N015"/>Zu Anfang des Jahres 1847 führte die Sand durch
+               <lb facs="#facs_3_region_1684676937749_606_tl_16" n="N016"/>einen heftigen Auftritt den vollständigen Bruch herbei
+               <lb facs="#facs_3_region_1684676937749_606_tl_17" n="N017"/>Auf ihre Vorwürfe erwiderte Chopin nur, er werd
+               <lb facs="#facs_3_region_1684676937749_606_tl_18" n="N018"/>ihr Haus sofort verlassen und wünsche für
+               <lb facs="#facs_3_region_1684676937749_606_tl_19" n="N019"/>nicht mehr zu existiren. Die Sand machte keine Ein¬
+               <lb facs="#facs_3_region_1684676937749_606_tl_20" n="N020"/>wendungen: Chopin verließ sie augenblicklich und für immer
+               <lb facs="#facs_3_region_1684676937749_606_tl_21" n="N021"/>In Folge dieser heftigen Gemüthsaufregungen erlitt Chopin
+               <lb facs="#facs_3_region_1684676937749_606_tl_22" n="N022"/>Gesundheit neuerdings eine gefährliche Verschlimmerung. Ma¬
+               <lb facs="#facs_3_region_1684676937749_606_tl_23" n="N023"/>rieth ihm, im Frühling 1848 nach England zu reisen, wohin
+               <lb facs="#facs_3_region_1684676937749_606_tl_24" n="N024"/>Freunde und Verehrer ihn so oft und dringend eingeladen
+               <lb facs="#facs_3_region_1684676937749_606_tl_25" n="N025"/>hatten. Kurz vor seiner Abreise sollte er noch eine letzte, un
+               <lb facs="#facs_3_region_1684676937749_606_tl_26" n="N026"/>vermuthete Begegnung mit George Sand haben. Es war i
+               <lb facs="#facs_3_region_1684676937749_606_tl_27" n="N027"/>einer Soirée, wo sie, unbemerkt von den Gästen, auf Chopi¬
+               <lb facs="#facs_3_region_1684676937749_606_tl_28" n="N028"/>!“ die Hand
+               <lb facs="#facs_3_region_1684676937749_606_tl_29" n="N029"/>Moment an und verließ schweigend den Salon. Wie frühe
+               <lb facs="#facs_3_region_1684676937749_606_tl_30" n="N030"/>nach ihrem Bruche mit Musset, so fühlte die Sand jetzt aus
+               <lb facs="#facs_3_region_1684676937749_606_tl_31" n="N031"/>hopin gegenüber Neue, aber hier wie dort scheiterten ihr
+               <lb facs="#facs_3_region_1684676937749_606_tl_32" n="N032"/>Versuche einer Wiederversöhnung. In England wird Chopi¬
+               <lb facs="#facs_3_region_1684676937749_606_tl_33" n="N033"/>auf das glänzendste gefeiert, in Schottland genießt er di
+               <lb facs="#facs_3_region_1684676937749_606_tl_34" n="N034"/>zuvorkommendste Gastfreundschaft auf dem Gute der Schwe
+               <lb facs="#facs_3_region_1684676937749_606_tl_35" n="N035"/>stern Stirling. Trotzdem gefällt ihm der Aufenthalt nicht
+               <lb facs="#facs_3_region_1684676937749_606_tl_36" n="N036"/>er klagt über die fortwährenden Nebel und über die uner
+               <lb facs="#facs_3_region_1684676937749_606_tl_37" n="N037"/>trägliche Last, mit welcher die gesellschaftlichen Verpflichtungen
+               <lb facs="#facs_3_region_1684676937749_606_tl_38" n="N038"/>auf ihn, den Müden und Leidenden, drücken. Zum Concert¬
+            </ab>
+            <ab facs="#facs_3_region_1684676940465_609" type="">
+               <lb facs="#facs_3_region_1684676940465_609_tl_1" n="N001"/>geben zwingt er sich, um etwas zu verdienen. „Ich fühle
+               <lb facs="#facs_3_region_1684676940465_609_tl_2" n="N002"/>mich schwächer," schreibt er aus Schottland einem polnischen
+               <lb facs="#facs_3_region_1684676940465_609_tl_3" n="N003"/>Freunde, „ich kann nicht componiren, nicht aus Mangel an marcks liefern dürfte. Wie verlautet, soll nämlich der König von
+               <lb facs="#facs_3_region_1684676940465_609_tl_4" n="N004"/>Lust, sondern aus physischen Ursachen, und weil in
+               <lb facs="#facs_3_region_1684676940465_609_tl_5" n="N005"/>mich jede Woche wo anders befinde. Aber was so
+               <lb facs="#facs_3_region_1684676940465_609_tl_6" n="N006"/>Immer häufiger stoßen wir auf Aeußerungen trüber Hoff
+               <lb facs="#facs_3_region_1684676940465_609_tl_7" n="N007"/>nungslosigkeit. „Ich empfinde überhaupt nichts mehr, i¬
+               <lb facs="#facs_3_region_1684676940465_609_tl_8" n="N008"/>vegetire nur noch und warte geduldig auf mein Ende." Aus
+               <lb facs="#facs_3_region_1684676940465_609_tl_9" n="N009"/>die Erinnerungen an die geliebte Frau ließen ihn nicht los
+               <lb facs="#facs_3_region_1684676940465_609_tl_10" n="N010"/>die Geister entschwundenen Glücks und schmerzlicher Kran¬
+               <lb facs="#facs_3_region_1684676940465_609_tl_11" n="N011"/>kungen. „Ich habe niemals Jemanden verflucht," schreibt er lung von so verläßlicher Seite gemacht, daß ich sie Ihnen nicht
+               <lb facs="#facs_3_region_1684676940465_609_tl_12" n="N012"/>einem Freunde, „aber jetzt bin ich des Lebens so überdrüssig
+               <lb facs="#facs_3_region_1684676940465_609_tl_13" n="N013"/>daß ich nahe daran bin, die Lucrezia zu verfluchen. Abe
+               <lb facs="#facs_3_region_1684676940465_609_tl_14" n="N014"/>dort leidet man auch, und leidet deßhalb mehr, weil man
+               <lb facs="#facs_3_region_1684676940465_609_tl_15" n="N015"/>der Bosheit täglich älter wird
+               <lb facs="#facs_3_region_1684676940465_609_tl_16" n="N016"/>endlich kann er Anfangs 1849 das ihm „schrecklich
+               <lb facs="#facs_3_region_1684676940465_609_tl_17" n="N017"/>London verlassen und nach Paris zurückkehren. Hier mach
+               <lb facs="#facs_3_region_1684676940465_609_tl_18" n="N018"/>die Krankheit rapide Fortschritte, seine Verwandten werden
+               <lb facs="#facs_3_region_1684676940465_609_tl_19" n="N019"/>benachrichtigt, und Chopin's Schwester Louise eilt nach Paris
+               <lb facs="#facs_3_region_1684676940465_609_tl_20" n="N020"/>ihm durch ihre Liebe und Pflege die letzten Tage zu erleich
+               <lb facs="#facs_3_region_1684676940465_609_tl_21" n="N021"/>tern. Chopin starb am 17. October 1849. Er hatte, seiner
+               <lb facs="#facs_3_region_1684676940465_609_tl_22" n="N022"/>Verehrung für Mozart getreu, gebeten, man möchte zu seiner
+               <lb facs="#facs_3_region_1684676940465_609_tl_23" n="N023"/>Seelenmesse Mozart's Requiem aufführen. Da bis dahin
+               <lb facs="#facs_3_region_1684676940465_609_tl_24" n="N024"/>die Mitwirkung von Frauen in der Madeleine Kirche nicht
+               <lb facs="#facs_3_region_1684676940465_609_tl_25" n="N025"/>gestattet war, bedurfte es dazu der besonderen Genehmigur
+               <lb facs="#facs_3_region_1684676940465_609_tl_26" n="N026"/>der geistlichen Behörde. Sie wurde ertheilt, und unter Mit
+               <lb facs="#facs_3_region_1684676940465_609_tl_27" n="N027"/>wirkung von Lablache und der Viardot=Garcia er¬
+               <lb facs="#facs_3_region_1684676940465_609_tl_28" n="N028"/>tönte Mozart's Requiem bei der von Meyerbeer ge¬
+               <lb facs="#facs_3_region_1684676940465_609_tl_29" n="N029"/>leiteten Trauerfeierlichkeit. Seinem Wunsche gemäß wurd
+               <lb facs="#facs_3_region_1684676940465_609_tl_30" n="N030"/>Chopin auf dem Père-Lachaise begraben, und zwar neben
+               <lb facs="#facs_3_region_1684676940465_609_tl_31" n="N031"/>Bellini, mit dem er sehr befreundet gewesen. Man streut
+               <lb facs="#facs_3_region_1684676940465_609_tl_32" n="N032"/>polnische Erde auf seinen Sarg. Es war dieselbe Erde, die
+               <lb facs="#facs_3_region_1684676940465_609_tl_33" n="N033"/>sich Chopin vor neunzehn Jahren in dem Dorfe Wola zum
+               <lb facs="#facs_3_region_1684676940465_609_tl_34" n="N034"/>Andenken an sein Vaterland mitgenommen und sorgsam auf
+               <lb facs="#facs_3_region_1684676940465_609_tl_35" n="N035"/>bewahrt hatte, damit sie — sollte er nicht in polnischer Erde
+               <lb facs="#facs_3_region_1684676940465_609_tl_36" n="N036"/>ruhen — ihn wenigstens in fremdem Boden bedecke.
+            </ab>
+         </div>
+      </body>
+   </text>
+</TEI>
