@@ -1,7 +1,6 @@
 --- a/page2tei-0.xsl
 +++ b/page2tei-0.xsl
-@@ -450,6 +450,13 @@
-          <xsl:apply-templates
+@@ -453,6 +453,13 @@
              select="p:PrintSpace | p:TextRegion | p:SeparatorRegion | p:GraphicRegion | p:TableRegion
                    | pc:PrintSpace | pc:TextRegion | pc:SeparatorRegion | pc:GraphicRegion | pc:TableRegion"
              mode="facsimile"/>
@@ -14,13 +13,10 @@
 +               <xsl:apply-templates select="$orphaned-textlines" mode="facsimile"/>
 +            </zone>
 +         </xsl:if>
-+         
           <xsl:text>
        </xsl:text>
        </surface>
-@@ -582,6 +589,12 @@
-          select="p:TextRegion | p:SeparatorRegion | p:GraphicRegion | p:TableRegion
-                | pc:TextRegion | pc:SeparatorRegion | pc:GraphicRegion | pc:TableRegion" mode="text">
+@@ -585,6 +592,12 @@
           <xsl:with-param name="center" tunnel="true" select="number(@imageWidth) div 2"
              as="xs:double"/>
        </xsl:apply-templates>
