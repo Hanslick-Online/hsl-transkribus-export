@@ -1,0 +1,45 @@
+name: Debug text generation
+
+on: 
+  workflow_dispatch:
+    inputs:
+      colId:
+        description: 'Collection'     
+        required: true
+        default: '162553'
+      docId:
+        description: 'Document'     
+        required: true
+        default: '1167715'
+
+jobs:
+  build_pages:
+    name: Download METS files from Transkribus
+    runs-on: ubuntu-latest
+    env:
+      ANT_OPTS: -Xmx5g
+      TR_USER: ${{ secrets.TR_USER }}
+      TR_PW: ${{ secrets.TR_PW }}
+      COL_ID: ${{ github.event.inputs.colId }}
+      DOC_ID: ${{ github.event.inputs.docId }}
+    steps:
+    - name: Perform Checkout
+      uses: actions/checkout@v4
+    - name: Directory Setup and Page2Tei Download
+      run: |
+        mkdir -p mets
+        mkdir -p debug
+        git clone --depth=1 --branch master --single-branch https://github.com/skurzinz/page2tei.git
+    - name: Setup Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+    - name: Download METS Files
+      run: |
+        pip install acdh-transkribus-utils
+        scripts/fetch_mets_debug.py
+    - name: Get text sources
+        scripts/examine_page_xml.py
+    - uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: Downloaded text source of  ${{ github.event.inputs.colId }}/${{ github.event.inputs.docId }}
