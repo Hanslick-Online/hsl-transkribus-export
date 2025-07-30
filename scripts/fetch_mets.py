@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 import os
 from transkribus_utils.transkribus_utils import ACDHTranskribusUtils
 
