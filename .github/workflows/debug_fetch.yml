@@ -39,7 +39,9 @@ jobs:
         pip install acdh-transkribus-utils
         scripts/fetch_mets_debug.py
     - name: Get text sources
-        scripts/examine_page_xml.py
+      run: |
+        pip install requests
+        python scripts/examine_page_xml.py ${{ github.event.inputs.colId }} ${{ github.event.inputs.docId }}
     - uses: stefanzweifel/git-auto-commit-action@v4
       with:
-        commit_message: Downloaded text source of  ${ COL_ID }/${ DOC_ID }
+        commit_message: Downloaded text source of ${{ github.event.inputs.colId }}/${{ github.event.inputs.docId }}
