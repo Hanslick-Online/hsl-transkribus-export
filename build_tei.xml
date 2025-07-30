@@ -17,6 +17,7 @@
             <factory name="net.sf.saxon.TransformerFactoryImpl"/>
             <classpath location="./saxon/saxon9he.jar"/>
             <param name="col-id"  expression="${collection.id}"/>
+            <param name="withoutBaseline" expression="true()"/>
             <fileset dir="${source.dir}">
                 <include name="*.xml"/>
             </fileset>
@@ -26,6 +27,7 @@
             <factory name="net.sf.saxon.TransformerFactoryImpl"/>
             <classpath location="./saxon/saxon9he.jar"/>
             <param name="col-id"  expression="${collection.id2}"/>
+            <param name="withoutBaseline" expression="true()"/>
             <fileset dir="${source.dir2}">
                 <include name="*.xml"/>
             </fileset>
@@ -35,6 +37,7 @@
             <factory name="net.sf.saxon.TransformerFactoryImpl"/>
             <classpath location="./saxon/saxon9he.jar"/>
             <param name="col-id"  expression="${collection.id3}"/>
+            <param name="withoutBaseline" expression="true()"/>
             <fileset dir="${source.dir3}">
                 <include name="*.xml"/>
             </fileset>

@@ -38,6 +38,10 @@ jobs:
         mkdir -p mets
         mkdir -p tei
         git clone --depth=1 --branch master --single-branch https://github.com/skurzinz/page2tei.git
+        # Apply patch to handle orphaned TextLines without baselines
+        cd page2tei
+        patch -p1 < ../page2tei-orphaned-textlines.patch
+        cd ..
     - name: Setup Python
       uses: actions/setup-python@v5
       with:

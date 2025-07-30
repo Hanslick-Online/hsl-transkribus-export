@@ -1,0 +1,35 @@
+--- a/page2tei-0.xsl
++++ b/page2tei-0.xsl
+@@ -450,6 +450,13 @@
+          <xsl:apply-templates
+             select="p:PrintSpace | p:TextRegion | p:SeparatorRegion | p:GraphicRegion | p:TableRegion
+                   | pc:PrintSpace | pc:TextRegion | pc:SeparatorRegion | pc:GraphicRegion | pc:TableRegion"
+             mode="facsimile"/>
++         
++         <!-- Process orphaned TextLines for facsimile -->
++         <xsl:variable name="orphaned-textlines" select="p:TextLine[not(parent::p:TextRegion)] | pc:TextLine[not(parent::pc:TextRegion)]"/>
++         <xsl:if test="$orphaned-textlines">
++            <!-- Create a zone for orphaned lines -->
++            <zone xml:id="facs_{$numCurr}_orphaned" rendition="Orphaned">
++               <xsl:apply-templates select="$orphaned-textlines" mode="facsimile"/>
++            </zone>
++         </xsl:if>
++         
+          <xsl:text>
+       </xsl:text>
+       </surface>
+@@ -582,6 +589,12 @@
+          select="p:TextRegion | p:SeparatorRegion | p:GraphicRegion | p:TableRegion
+                | pc:TextRegion | pc:SeparatorRegion | pc:GraphicRegion | pc:TableRegion" mode="text">
+          <xsl:with-param name="center" tunnel="true" select="number(@imageWidth) div 2"
+             as="xs:double"/>
+       </xsl:apply-templates>
++      
++      <!-- Process orphaned TextLines that are direct children of Page (not in any TextRegion) -->
++      <xsl:variable name="orphaned-textlines" select="p:TextLine[not(parent::p:TextRegion)] | pc:TextLine[not(parent::pc:TextRegion)]"/>
++      <xsl:if test="$orphaned-textlines">
++         <ab type="orphaned-lines" facs="#facs_{$numCurr}_orphaned">
++            <xsl:apply-templates select="$orphaned-textlines"/>
++         </ab>
++      </xsl:if>
+    </xsl:template>
