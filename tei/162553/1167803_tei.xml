@@ -21,6 +21,15 @@
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_1">
          <graphic url="47750593.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=QKFAHDMHWRPXZRYGTZVNDORJ&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="464,75 1691,75 1691,434 464,434" rendition="TextRegion" xml:id="facs_1_region_1684677289102_750">
+            <zone points="495,112 1688,112 1688,446 495,446" rendition="Line" xml:id="facs_1_line_1757054542695_800"/>
+         </zone>
+         <zone points="921,456 1252,456 1252,563 921,563" rendition="TextRegion" xml:id="facs_1_region_1684677290781_753">
+            <zone points="918,493 1246,493 1246,562 918,562" rendition="Line" xml:id="facs_1_region_1684677290781_753_tl_1"/>
+         </zone>
+         <zone points="75,577 2137,577 2137,658 75,658" rendition="TextRegion" xml:id="facs_1_region_1684677293643_756">
+            <zone points="70,562 2115,562 2115,660 70,660" rendition="Line" xml:id="facs_1_line_1757054561023_816"/>
+         </zone>
          <zone points="34,2454 754,2454 754,3471 34,3471" rendition="TextRegion" xml:id="facs_1_region_1684677302363_759">
             <zone points="107,2448 670,2448 670,2496 107,2496" rendition="Line" xml:id="facs_1_region_1684677302363_759_tl_1"/>
             <zone points="146,2490 627,2490 627,2522 146,2522" rendition="Line" xml:id="facs_1_region_1684677302363_759_tl_2"/>
@@ -56,23 +65,10 @@
             <zone points="44,3342 732,3342 732,3380 44,3380" rendition="Line" xml:id="facs_1_region_1684677302363_759_tl_32"/>
             <zone points="37,3371 728,3371 728,3420 37,3420" rendition="Line" xml:id="facs_1_region_1684677302363_759_tl_33"/>
             <zone points="44,3399 732,3399 732,3443 44,3443" rendition="Line" xml:id="facs_1_region_1684677302363_759_tl_34"/>
-            <zone points="40,3408 1141,3408 1141,3473 40,3473" rendition="Line" xml:id="facs_1_region_1684677302363_759_tl_35"/>
-         </zone>
-         <zone points="464,75 1691,75 1691,434 464,434" rendition="TextRegion" xml:id="facs_1_region_1684677289102_750">
-            <zone points="892,112 1237,112 1237,197 892,197" rendition="Line" xml:id="facs_1_region_1684677289102_750_tl_1"/>
-            <zone points="495,376 1688,376 1688,446 495,446" rendition="Line" xml:id="facs_1_region_1684677289102_750_tl_2"/>
-         </zone>
-         <zone points="921,456 1252,456 1252,563 921,563" rendition="TextRegion" xml:id="facs_1_region_1684677290781_753">
-            <zone points="918,493 1246,493 1246,562 918,562" rendition="Line" xml:id="facs_1_region_1684677290781_753_tl_1"/>
-         </zone>
-         <zone points="75,577 2137,577 2137,658 75,658" rendition="TextRegion" xml:id="facs_1_region_1684677293643_756">
-            <zone points="1943,562 2115,562 2115,634 1943,634" rendition="Line" xml:id="facs_1_region_1684677293643_756_tl_1"/>
-            <zone points="802,595 1390,595 1390,651 802,651" rendition="Line" xml:id="facs_1_region_1684677293643_756_tl_2"/>
-            <zone points="70,570 381,570 381,660 70,660" rendition="Line" xml:id="facs_1_region_1684677293643_756_tl_3"/>
-            <zone points="1462,665 2153,665 2153,704 1462,704" rendition="Line" xml:id="facs_1_region_1684677293643_756_tl_4"/>
+            <zone points="40,3417 743,3417 743,3473 40,3473" rendition="Line" xml:id="facs_1_line_1757054579559_822"/>
          </zone>
          <zone points="743,2353 1471,2353 1471,3474 743,3474" rendition="TextRegion" xml:id="facs_1_region_1684677305643_762">
-            <zone points="758,2360 2166,2360 2166,2404 758,2404" rendition="Line" xml:id="facs_1_region_1684677305643_762_tl_1"/>
+            <zone points="758,2364 1472,2364 1472,2404 758,2404" rendition="Line" xml:id="facs_1_line_1757054597726_834"/>
             <zone points="755,2394 1443,2394 1443,2432 755,2432" rendition="Line" xml:id="facs_1_region_1684677305643_762_tl_2"/>
             <zone points="748,2420 1457,2420 1457,2461 748,2461" rendition="Line" xml:id="facs_1_region_1684677305643_762_tl_3"/>
             <zone points="755,2455 856,2455 856,2499 755,2499" rendition="Line" xml:id="facs_1_region_1684677305643_762_tl_4"/>
@@ -103,15 +99,17 @@
             <zone points="763,3170 1446,3170 1446,3210 763,3210" rendition="Line" xml:id="facs_1_region_1684677305643_762_tl_29"/>
             <zone points="755,3201 1448,3201 1448,3234 755,3234" rendition="Line" xml:id="facs_1_region_1684677305643_762_tl_30"/>
             <zone points="763,3231 1446,3231 1446,3264 763,3264" rendition="Line" xml:id="facs_1_region_1684677305643_762_tl_31"/>
-            <zone points="885,3264 969,3264 969,3333 885,3333" rendition="Line" xml:id="facs_1_region_1684677305643_762_tl_32"/>
-            <zone points="999,3270 1107,3270 1107,3308 999,3308" rendition="Line" xml:id="facs_1_region_1684677305643_762_tl_33"/>
-            <zone points="1250,3268 1337,3268 1337,3350 1250,3350" rendition="Line" xml:id="facs_1_region_1684677305643_762_tl_34"/>
-            <zone points="1243,3334 1339,3334 1339,3396 1243,3396" rendition="Line" xml:id="facs_1_region_1684677305643_762_tl_35"/>
-            <zone points="1327,3317 1423,3317 1423,3375 1327,3375" rendition="Line" xml:id="facs_1_region_1684677305643_762_tl_36"/>
-            <zone points="841,3389 1006,3389 1006,3438 841,3438" rendition="Line" xml:id="facs_1_region_1684677305643_762_tl_37"/>
-            <zone points="1171,3406 1337,3406 1337,3468 1171,3468" rendition="Line" xml:id="facs_1_region_1684677305643_762_tl_38"/>
+            <zone points="828,3242 1455,3242 1455,3297 828,3297" rendition="Line" xml:id="facs_1_line_1757054643451_870"/>
+            <zone points="768,3277 1455,3277 1455,3328 768,3328" rendition="Line" xml:id="facs_1_line_1757054652419_875"/>
+            <zone points="768,3298 1451,3298 1451,3349 768,3349" rendition="Line" xml:id="facs_1_line_1757054657534_880"/>
+            <zone points="768,3322 1455,3322 1455,3372 768,3372" rendition="Line" xml:id="facs_1_line_1757054661923_885"/>
+            <zone points="769,3344 1454,3344 1454,3395 769,3395" rendition="Line" xml:id="facs_1_line_1757054666763_890"/>
+            <zone points="767,3368 1455,3368 1455,3420 767,3420" rendition="Line" xml:id="facs_1_line_1757054672913_895"/>
+            <zone points="768,3391 1455,3391 1455,3443 768,3443" rendition="Line" xml:id="facs_1_line_1757054678146_900"/>
+            <zone points="772,3415 1375,3415 1375,3469 772,3469" rendition="Line" xml:id="facs_1_line_1757054682860_905"/>
          </zone>
          <zone points="1471,2353 2177,2353 2177,3471 1471,3471" rendition="TextRegion" xml:id="facs_1_region_1684677309257_765">
+            <zone points="1472,2360 2166,2360 2166,2397 1472,2397" rendition="Line" xml:id="facs_1_line_1757054597726_833"/>
             <zone points="1515,2389 2162,2389 2162,2425 1515,2425" rendition="Line" xml:id="facs_1_region_1684677309257_765_tl_1"/>
             <zone points="1520,2420 2167,2420 2167,2455 1520,2455" rendition="Line" xml:id="facs_1_region_1684677309257_765_tl_2"/>
             <zone points="1464,2446 2166,2446 2166,2480 1464,2480" rendition="Line" xml:id="facs_1_region_1684677309257_765_tl_3"/>
@@ -120,10 +118,8 @@
             <zone points="1471,2531 2162,2531 2162,2569 1471,2569" rendition="Line" xml:id="facs_1_region_1684677309257_765_tl_6"/>
             <zone points="1474,2562 2162,2562 2162,2601 1474,2601" rendition="Line" xml:id="facs_1_region_1684677309257_765_tl_7"/>
             <zone points="1474,2592 2162,2592 2162,2631 1474,2631" rendition="Line" xml:id="facs_1_region_1684677309257_765_tl_8"/>
-            <zone points="1637,2613 2166,2613 2166,2664 1637,2664" rendition="Line" xml:id="facs_1_region_1684677309257_765_tl_9"/>
-            <zone points="1474,2618 1643,2618 1643,2661 1474,2661" rendition="Line" xml:id="facs_1_region_1684677309257_765_tl_10"/>
-            <zone points="1472,2650 1643,2650 1643,2689 1472,2689" rendition="Line" xml:id="facs_1_region_1684677309257_765_tl_11"/>
-            <zone points="1637,2641 2166,2641 2166,2692 1637,2692" rendition="Line" xml:id="facs_1_region_1684677309257_765_tl_12"/>
+            <zone points="1474,2618 2166,2618 2166,2664 1474,2664" rendition="Line" xml:id="facs_1_line_1757054700023_913"/>
+            <zone points="1472,2643 2166,2643 2166,2692 1472,2692" rendition="Line" xml:id="facs_1_line_1757054706135_917"/>
             <zone points="1464,2673 1804,2673 1804,2724 1464,2724" rendition="Line" xml:id="facs_1_region_1684677309257_765_tl_13"/>
             <zone points="1525,2694 2166,2694 2166,2745 1525,2745" rendition="Line" xml:id="facs_1_region_1684677309257_765_tl_14"/>
             <zone points="1471,2736 2171,2736 2171,2776 1471,2776" rendition="Line" xml:id="facs_1_region_1684677309257_765_tl_15"/>
@@ -150,7 +146,7 @@
             <zone points="1471,3331 2160,3331 2160,3366 1471,3366" rendition="Line" xml:id="facs_1_region_1684677309257_765_tl_36"/>
             <zone points="1474,3364 2162,3364 2162,3403 1474,3403" rendition="Line" xml:id="facs_1_region_1684677309257_765_tl_37"/>
             <zone points="1476,3387 2157,3387 2157,3426 1476,3426" rendition="Line" xml:id="facs_1_region_1684677309257_765_tl_38"/>
-            <zone points="1411,3410 1950,3410 1950,3468 1411,3468" rendition="Line" xml:id="facs_1_region_1684677309257_765_tl_39"/>
+            <zone points="1492,3412 2168,3412 2168,3468 1492,3468" rendition="Line" xml:id="facs_1_region_1684677309257_765_tl_39"/>
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_2">
@@ -162,8 +158,8 @@
             <zone points="50,2431 750,2431 750,2474 50,2474" rendition="Line" xml:id="facs_2_region_1684677319285_771_tl_3"/>
             <zone points="48,2458 748,2458 748,2497 48,2497" rendition="Line" xml:id="facs_2_region_1684677319285_771_tl_4"/>
             <zone points="50,2490 750,2490 750,2535 50,2535" rendition="Line" xml:id="facs_2_region_1684677319285_771_tl_5"/>
-            <zone points="50,2505 1461,2505 1461,2556 50,2556" rendition="Line" xml:id="facs_2_region_1684677319285_771_tl_6"/>
-            <zone points="53,2540 1456,2540 1456,2590 53,2590" rendition="Line" xml:id="facs_2_region_1684677319285_771_tl_7"/>
+            <zone points="50,2518 768,2518 768,2556 50,2556" rendition="Line" xml:id="facs_2_line_1757054803871_925"/>
+            <zone points="53,2548 771,2548 771,2590 53,2590" rendition="Line" xml:id="facs_2_line_1757054822871_936"/>
             <zone points="45,2577 748,2577 748,2614 45,2614" rendition="Line" xml:id="facs_2_region_1684677319285_771_tl_8"/>
             <zone points="53,2609 671,2609 671,2665 53,2665" rendition="Line" xml:id="facs_2_region_1684677319285_771_tl_9"/>
             <zone points="109,2622 748,2622 748,2675 109,2675" rendition="Line" xml:id="facs_2_region_1684677319285_771_tl_10"/>
@@ -193,6 +189,7 @@
             <zone points="50,3319 745,3319 745,3362 50,3362" rendition="Line" xml:id="facs_2_region_1684677319285_771_tl_34"/>
             <zone points="53,3351 745,3351 745,3391 53,3391" rendition="Line" xml:id="facs_2_region_1684677319285_771_tl_35"/>
             <zone points="53,3378 742,3378 742,3420 53,3420" rendition="Line" xml:id="facs_2_region_1684677319285_771_tl_36"/>
+            <zone points="45,3408 773,3408 773,3460 45,3460" rendition="Line" xml:id="facs_2_line_1757054882503_964"/>
          </zone>
          <zone points="782,2364 1480,2364 1480,3437 782,3437" rendition="TextRegion" xml:id="facs_2_region_1684677322662_774">
             <zone points="772,2346 1466,2346 1466,2410 772,2410" rendition="Line" xml:id="facs_2_region_1684677322662_774_tl_1"/>
@@ -200,6 +197,8 @@
             <zone points="774,2426 1456,2426 1456,2463 774,2463" rendition="Line" xml:id="facs_2_region_1684677322662_774_tl_3"/>
             <zone points="772,2458 1450,2458 1450,2492 772,2492" rendition="Line" xml:id="facs_2_region_1684677322662_774_tl_4"/>
             <zone points="772,2482 1450,2482 1450,2516 772,2516" rendition="Line" xml:id="facs_2_region_1684677322662_774_tl_5"/>
+            <zone points="768,2517 1474,2517 1474,2550 768,2550" rendition="Line" xml:id="facs_2_line_1757054803870_924"/>
+            <zone points="771,2540 1456,2540 1456,2581 771,2581" rendition="Line" xml:id="facs_2_line_1757054822871_935"/>
             <zone points="774,2569 1461,2569 1461,2606 774,2606" rendition="Line" xml:id="facs_2_region_1684677322662_774_tl_6"/>
             <zone points="777,2601 1458,2601 1458,2635 777,2635" rendition="Line" xml:id="facs_2_region_1684677322662_774_tl_7"/>
             <zone points="766,2630 1461,2630 1461,2667 766,2667" rendition="Line" xml:id="facs_2_region_1684677322662_774_tl_8"/>
@@ -218,8 +217,8 @@
             <zone points="777,3001 1463,3001 1463,3038 777,3038" rendition="Line" xml:id="facs_2_region_1684677322662_774_tl_21"/>
             <zone points="774,3030 1463,3030 1463,3065 774,3065" rendition="Line" xml:id="facs_2_region_1684677322662_774_tl_22"/>
             <zone points="777,3060 1463,3060 1463,3094 777,3094" rendition="Line" xml:id="facs_2_region_1684677322662_774_tl_23"/>
-            <zone points="777,3086 1397,3086 1397,3123 777,3123" rendition="Line" xml:id="facs_2_region_1684677322662_774_tl_24"/>
-            <zone points="777,3118 1397,3118 1397,3152 777,3152" rendition="Line" xml:id="facs_2_region_1684677322662_774_tl_25"/>
+            <zone points="777,3086 1467,3086 1467,3123 777,3123" rendition="Line" xml:id="facs_2_region_1684677322662_774_tl_24"/>
+            <zone points="777,3118 1467,3118 1467,3152 777,3152" rendition="Line" xml:id="facs_2_region_1684677322662_774_tl_25"/>
             <zone points="777,3144 1453,3144 1453,3182 777,3182" rendition="Line" xml:id="facs_2_region_1684677322662_774_tl_26"/>
             <zone points="777,3168 1463,3168 1463,3213 777,3213" rendition="Line" xml:id="facs_2_region_1684677322662_774_tl_27"/>
             <zone points="777,3205 1458,3205 1458,3240 777,3240" rendition="Line" xml:id="facs_2_region_1684677322662_774_tl_28"/>
@@ -228,7 +227,8 @@
             <zone points="774,3285 1463,3285 1463,3327 774,3327" rendition="Line" xml:id="facs_2_region_1684677322662_774_tl_31"/>
             <zone points="774,3317 1461,3317 1461,3351 774,3351" rendition="Line" xml:id="facs_2_region_1684677322662_774_tl_32"/>
             <zone points="766,3346 1458,3346 1458,3383 766,3383" rendition="Line" xml:id="facs_2_region_1684677322662_774_tl_33"/>
-            <zone points="774,3372 2171,3372 2171,3417 774,3417" rendition="Line" xml:id="facs_2_region_1684677322662_774_tl_34"/>
+            <zone points="774,3372 1486,3372 1486,3417 774,3417" rendition="Line" xml:id="facs_2_line_1757054850855_947"/>
+            <zone points="773,3400 1485,3400 1485,3453 773,3453" rendition="Line" xml:id="facs_2_line_1757054906583_975"/>
          </zone>
          <zone points="1488,2356 2194,2356 2194,3460 1488,3460" rendition="TextRegion" xml:id="facs_2_region_1684677325617_777">
             <zone points="1487,2352 2182,2352 2182,2405 1487,2405" rendition="Line" xml:id="facs_2_region_1684677325617_777_tl_1"/>
@@ -266,7 +266,8 @@
             <zone points="1487,3282 2169,3282 2169,3322 1487,3322" rendition="Line" xml:id="facs_2_region_1684677325617_777_tl_33"/>
             <zone points="1485,3311 2179,3311 2179,3349 1485,3349" rendition="Line" xml:id="facs_2_region_1684677325617_777_tl_34"/>
             <zone points="1487,3338 2174,3338 2174,3380 1487,3380" rendition="Line" xml:id="facs_2_region_1684677325617_777_tl_35"/>
-            <zone points="45,3394 2171,3394 2171,3460 45,3460" rendition="Line" xml:id="facs_2_region_1684677325617_777_tl_36"/>
+            <zone points="1486,3387 2171,3387 2171,3409 1486,3409" rendition="Line" xml:id="facs_2_line_1757054850854_946"/>
+            <zone points="1485,3394 2171,3394 2171,3446 1485,3446" rendition="Line" xml:id="facs_2_line_1757054906583_974"/>
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_3">
@@ -276,12 +277,12 @@
             <zone points="23,2358 722,2358 722,2403 23,2403" rendition="Line" xml:id="facs_3_region_1684677338262_783_tl_1"/>
             <zone points="25,2396 722,2396 722,2430 25,2430" rendition="Line" xml:id="facs_3_region_1684677338262_783_tl_2"/>
             <zone points="29,2423 720,2423 720,2462 29,2462" rendition="Line" xml:id="facs_3_region_1684677338262_783_tl_3"/>
-            <zone points="25,2450 1367,2450 1367,2489 25,2489" rendition="Line" xml:id="facs_3_region_1684677338262_783_tl_4"/>
+            <zone points="25,2454 741,2454 741,2487 25,2487" rendition="Line" xml:id="facs_3_line_1757054929715_991"/>
             <zone points="25,2484 717,2484 717,2522 25,2522" rendition="Line" xml:id="facs_3_region_1684677338262_783_tl_5"/>
             <zone points="23,2509 722,2509 722,2543 23,2543" rendition="Line" xml:id="facs_3_region_1684677338262_783_tl_6"/>
-            <zone points="32,2541 988,2541 988,2577 32,2577" rendition="Line" xml:id="facs_3_region_1684677338262_783_tl_7"/>
+            <zone points="32,2541 742,2541 742,2577 32,2577" rendition="Line" xml:id="facs_3_region_1684677338262_783_tl_7"/>
             <zone points="25,2570 722,2570 722,2604 25,2604" rendition="Line" xml:id="facs_3_region_1684677338262_783_tl_8"/>
-            <zone points="32,2592 1430,2592 1430,2629 32,2629" rendition="Line" xml:id="facs_3_region_1684677338262_783_tl_9"/>
+            <zone points="32,2597 739,2597 739,2629 32,2629" rendition="Line" xml:id="facs_3_line_1757054941006_1000"/>
             <zone points="29,2629 720,2629 720,2660 29,2660" rendition="Line" xml:id="facs_3_region_1684677338262_783_tl_10"/>
             <zone points="32,2649 720,2649 720,2696 32,2696" rendition="Line" xml:id="facs_3_region_1684677338262_783_tl_11"/>
             <zone points="29,2687 722,2687 722,2719 29,2719" rendition="Line" xml:id="facs_3_region_1684677338262_783_tl_12"/>
@@ -289,19 +290,19 @@
             <zone points="32,2737 720,2737 720,2773 32,2773" rendition="Line" xml:id="facs_3_region_1684677338262_783_tl_14"/>
             <zone points="29,2768 720,2768 720,2802 29,2802" rendition="Line" xml:id="facs_3_region_1684677338262_783_tl_15"/>
             <zone points="23,2800 724,2800 724,2834 23,2834" rendition="Line" xml:id="facs_3_region_1684677338262_783_tl_16"/>
-            <zone points="32,2825 927,2825 927,2868 32,2868" rendition="Line" xml:id="facs_3_region_1684677338262_783_tl_17"/>
+            <zone points="32,2825 730,2825 730,2864 32,2864" rendition="Line" xml:id="facs_3_region_1684677338262_783_tl_17"/>
             <zone points="23,2856 720,2856 720,2890 23,2890" rendition="Line" xml:id="facs_3_region_1684677338262_783_tl_18"/>
             <zone points="32,2886 722,2886 722,2917 32,2917" rendition="Line" xml:id="facs_3_region_1684677338262_783_tl_19"/>
-            <zone points="32,2902 1428,2902 1428,2947 32,2947" rendition="Line" xml:id="facs_3_region_1684677338262_783_tl_20"/>
+            <zone points="32,2908 744,2908 744,2947 32,2947" rendition="Line" xml:id="facs_3_line_1757054954537_1012"/>
             <zone points="29,2933 717,2933 717,2978 29,2978" rendition="Line" xml:id="facs_3_region_1684677338262_783_tl_21"/>
-            <zone points="32,2967 1439,2967 1439,3003 32,3003" rendition="Line" xml:id="facs_3_region_1684677338262_783_tl_22"/>
+            <zone points="32,2970 742,2970 742,3003 32,3003" rendition="Line" xml:id="facs_3_line_1757054976942_1024"/>
             <zone points="32,2992 713,2992 713,3035 32,3035" rendition="Line" xml:id="facs_3_region_1684677338262_783_tl_23"/>
             <zone points="32,3030 713,3030 713,3062 32,3062" rendition="Line" xml:id="facs_3_region_1684677338262_783_tl_24"/>
             <zone points="23,3046 720,3046 720,3098 23,3098" rendition="Line" xml:id="facs_3_region_1684677338262_783_tl_25"/>
             <zone points="32,3084 720,3084 720,3118 32,3118" rendition="Line" xml:id="facs_3_region_1684677338262_783_tl_26"/>
             <zone points="34,3102 720,3102 720,3145 34,3145" rendition="Line" xml:id="facs_3_region_1684677338262_783_tl_27"/>
             <zone points="38,3129 717,3129 717,3172 38,3172" rendition="Line" xml:id="facs_3_region_1684677338262_783_tl_28"/>
-            <zone points="29,3170 1439,3170 1439,3211 29,3211" rendition="Line" xml:id="facs_3_region_1684677338262_783_tl_29"/>
+            <zone points="29,3170 744,3170 744,3211 29,3211" rendition="Line" xml:id="facs_3_line_1757054987831_1035"/>
             <zone points="32,3190 675,3190 675,3244 32,3244" rendition="Line" xml:id="facs_3_region_1684677338262_783_tl_30"/>
             <zone points="83,3215 724,3215 724,3260 83,3260" rendition="Line" xml:id="facs_3_region_1684677338262_783_tl_31"/>
             <zone points="32,3238 717,3238 717,3303 32,3303" rendition="Line" xml:id="facs_3_region_1684677338262_783_tl_32"/>
@@ -309,7 +310,7 @@
             <zone points="29,3303 722,3303 722,3346 29,3346" rendition="Line" xml:id="facs_3_region_1684677338262_783_tl_34"/>
             <zone points="38,3337 724,3337 724,3375 38,3375" rendition="Line" xml:id="facs_3_region_1684677338262_783_tl_35"/>
             <zone points="38,3366 724,3366 724,3402 38,3402" rendition="Line" xml:id="facs_3_region_1684677338262_783_tl_36"/>
-            <zone points="23,3369 1837,3369 1837,3445 23,3445" rendition="Line" xml:id="facs_3_region_1684677338262_783_tl_37"/>
+            <zone points="23,3389 745,3389 745,3445 23,3445" rendition="Line" xml:id="facs_3_line_1757055001958_1048"/>
          </zone>
       </surface>
    </facsimile>
@@ -317,289 +318,290 @@
       <body>
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-            <ab facs="#facs_1_region_1684677302363_759" type="">
-               <lb facs="#facs_1_region_1684677302363_759_tl_1" n="N001"/>„Die Walküre" von Richard Wagner.
-               <lb facs="#facs_1_region_1684677302363_759_tl_2" n="N002"/>(Erste Aufführung im Hofoperntheater am 5. März 1877.)
-               <lb facs="#facs_1_region_1684677302363_759_tl_3" n="N003"/>Ed. H. In Bayreuth wird in diesem Jahre kei
-               <lb facs="#facs_1_region_1684677302363_759_tl_4" n="N004"/>Wagner'sches „Bühnenfestspiel gefeiert werden. Die pro
-               <lb facs="#facs_1_region_1684677302363_759_tl_5" n="N005"/>jectirte Wiederholung des „Nibelungenrings" unterbleibt, und
-               <lb facs="#facs_1_region_1684677302363_759_tl_6" n="N006"/>Wagner hat sich, wie man liest, entschlossen, den Opern¬
-               <lb facs="#facs_1_region_1684677302363_759_tl_7" n="N007"/>bühnen die Aufführung seiner Trilogie ganz oder stückweis
-               <lb facs="#facs_1_region_1684677302363_759_tl_8" n="N008"/>zu gestatten. Unsere viel angefochtene Vorhersage ist somit
-               <lb facs="#facs_1_region_1684677302363_759_tl_9" n="N009"/>schnell in Erfüllung gegangen: der Prophet kommt zun
-               <lb facs="#facs_1_region_1684677302363_759_tl_10" n="N010"/>Berge, und Bayreuth, nachdem es Europa bei sich zu Gast¬
-               <lb facs="#facs_1_region_1684677302363_759_tl_11" n="N011"/>gesehen, begibt sich nun selbst auf die Wanderschaft nach
-               <lb facs="#facs_1_region_1684677302363_759_tl_12" n="N012"/>Europa. Die Behauptung, auf welche man das kostspielig
-               <lb facs="#facs_1_region_1684677302363_759_tl_13" n="N013"/>Wagner=Theater baute, es sei nur dort der „Ring der
-               <lb facs="#facs_1_region_1684677302363_759_tl_14" n="N014"/>Nibelungen" darstellbar, ist durch die Wiener Aufführun
-               <lb facs="#facs_1_region_1684677302363_759_tl_15" n="N015"/>der „Walküre" schlagend widerlegt.
-               <lb facs="#facs_1_region_1684677302363_759_tl_16" n="N016"/>Nicht Alles, was von Bayreuth aus glänzte, war ge¬
-               <lb facs="#facs_1_region_1684677302363_759_tl_17" n="N017"/>diegenes Gold. Wie Wagner's Musik selbst, so kranken auch
-               <lb facs="#facs_1_region_1684677302363_759_tl_18" n="N018"/>seine so genial ersonnenen Bühnen=Reformen an dem Fehle
-               <lb facs="#facs_1_region_1684677302363_759_tl_19" n="N019"/>des Uebermaßes und der Uebertreibung. Ideen, an sich geist¬
-               <lb facs="#facs_1_region_1684677302363_759_tl_20" n="N020"/>voll und stichhältig, mußten dort ihre eigensinnig überspannt
-               <lb facs="#facs_1_region_1684677302363_759_tl_21" n="N021"/>Ausführung an ihrer Wirkung büßen. Daß man dieselbe
-               <lb facs="#facs_1_region_1684677302363_759_tl_22" n="N022"/>in Wien wieder auf richtige Grenzen zurückführte, gedie
-               <lb facs="#facs_1_region_1684677302363_759_tl_23" n="N023"/>der Aufführung nicht zum Schaden, sondern zum Vortheil
-               <lb facs="#facs_1_region_1684677302363_759_tl_24" n="N024"/>Vergegenwärtigen wir uns diese Factoren. Zuerst da¬
-               <lb facs="#facs_1_region_1684677302363_759_tl_25" n="N025"/>Orchester. Wagner hatte in Bayreuth das absolut un
-               <lb facs="#facs_1_region_1684677302363_759_tl_26" n="N026"/>sichtbare Orchester eingeführt; in kellerartige Tiefe versenkt
-               <lb facs="#facs_1_region_1684677302363_759_tl_27" n="N027"/>war es obendrein durch ein Blechdach gedeckt. Die Klang
-               <lb facs="#facs_1_region_1684677302363_759_tl_28" n="N028"/>wirkung machte nun allerdings einen poetisch mysteriöse
-               <lb facs="#facs_1_region_1684677302363_759_tl_29" n="N029"/>Eindruck, aber einen musikalisch abgeschwächten. Um den Glat
-               <lb facs="#facs_1_region_1684677302363_759_tl_30" n="N030"/>des Orchesters war es geschehen, auf dem Jauchzen der Geigen
-               <lb facs="#facs_1_region_1684677302363_759_tl_31" n="N031"/>dem Schmettern der Hörner lag es wie ein schwarzes Tuch
-               <lb facs="#facs_1_region_1684677302363_759_tl_32" n="N032"/>In Wien war die seit Kurzem hier eingeführte wohlthätig
-               <lb facs="#facs_1_region_1684677302363_759_tl_33" n="N033"/>Vertiefung des Orchesters (nach Münchener Muster) under
-               <lb facs="#facs_1_region_1684677302363_759_tl_34" n="N034"/>ändert beibehalten, wodurch der Klang kräftiger und glän
-               <lb facs="#facs_1_region_1684677302363_759_tl_35" n="N035"/>gender als in Bayreuth hervordrang. Kräftiger und glän¬ rechen den Wien und Schlags¬
-            </ab>
             <ab facs="#facs_1_region_1684677289102_750" type="">
-               <lb facs="#facs_1_region_1684677289102_750_tl_1" n="N001"/>Neue
-               <lb facs="#facs_1_region_1684677289102_750_tl_2" n="N002"/>Freie Presse.
+               <lb facs="#facs_1_line_1757054542695_800" n="N001"/>Neue Freie Presse
             </ab>
             <ab facs="#facs_1_region_1684677290781_753" type="">
-               <lb facs="#facs_1_region_1684677290781_753_tl_1" n="N001"/>Morgenblatt.
+               <lb facs="#facs_1_region_1684677290781_753_tl_1" n="N001"/>Morgenblatt
             </ab>
             <ab facs="#facs_1_region_1684677293643_756" type="">
-               <lb facs="#facs_1_region_1684677293643_756_tl_1" n="N001"/>1877.
-               <lb facs="#facs_1_region_1684677293643_756_tl_2" n="N002"/>Wien, Mittwoch, den 7. März
-               <lb facs="#facs_1_region_1684677293643_756_tl_3" n="N003"/>Nr. 4500.
-               <lb facs="#facs_1_region_1684677293643_756_tl_4" n="N004"/>noch keine Regierung, die einen Krieg beabsichtigte, lange der
+               <lb facs="#facs_1_line_1757054561023_816" n="N001"/>Nr. 4500. Wien, Mittwoch, den 7. März 1877
+            </ab>
+            <ab facs="#facs_1_region_1684677302363_759" type="">
+               <lb facs="#facs_1_region_1684677302363_759_tl_1" n="N001"/><italic>„<work>Die Walküre</work>“ von Richard <rs type="person">Wagner</rs></italic>.
+               <lb facs="#facs_1_region_1684677302363_759_tl_2" n="N002"/>(Erste Aufführung im Hofoperntheater am 5. März <date month="0" day="0" year="0">1877</date>.)
+               <lb facs="#facs_1_region_1684677302363_759_tl_3" n="N003"/>Ed. H. In <rs type="place">Bayreuth</rs> wird in diesem Jahre kein
+               <lb facs="#facs_1_region_1684677302363_759_tl_4" n="N004"/><rs type="person">Wagner</rs>'sches „Bühnenfestspiel“ gefeiert werden. Die pro¬
+               <lb facs="#facs_1_region_1684677302363_759_tl_5" n="N005"/>jectirte Wiederholung des „<work>Nibelungenrings</work>“ unterbleibt, und
+               <lb facs="#facs_1_region_1684677302363_759_tl_6" n="N006"/><rs type="person">Wagner</rs> hat sich, wie man liest, entschlossen, den Opern¬
+               <lb facs="#facs_1_region_1684677302363_759_tl_7" n="N007"/>bühnen die Aufführung seiner Trilogie ganz oder stückweise
+               <lb facs="#facs_1_region_1684677302363_759_tl_8" n="N008"/>zu gestatten. Unsere viel angefochtene Vorhersage ist somit
+               <lb facs="#facs_1_region_1684677302363_759_tl_9" n="N009"/>schnell in Erfüllung gegangen: der Prophet kommt zum
+               <lb facs="#facs_1_region_1684677302363_759_tl_10" n="N010"/>Berge, und <rs type="place">Bayreuth</rs>, nachdem es <rs type="place">Europa</rs> bei sich zu Gaste
+               <lb facs="#facs_1_region_1684677302363_759_tl_11" n="N011"/>gesehen, begibt sich nun selbst auf die Wanderschaft nach
+               <lb facs="#facs_1_region_1684677302363_759_tl_12" n="N012"/><rs type="place">Europa</rs>. Die Behauptung, auf welche man das kostspielige
+               <lb facs="#facs_1_region_1684677302363_759_tl_13" n="N013"/><rs type="person">Wagner</rs>-Theater baute, es sei nur dort der „<work continued="true">Ring des</work>
+               <lb facs="#facs_1_region_1684677302363_759_tl_14" n="N014"/><work continued="true">Nibelungen</work>“ darstellbar, ist durch die <rs type="place">Wien</rs>er Aufführung
+               <lb facs="#facs_1_region_1684677302363_759_tl_15" n="N015"/>der „<work>Walküre</work>“ schlagend widerlegt.
+               <lb facs="#facs_1_region_1684677302363_759_tl_16" n="N016"/>Nicht Alles, was von <rs type="place">Bayreuth</rs> aus glänzte, war ge¬
+               <lb facs="#facs_1_region_1684677302363_759_tl_17" n="N017"/>diegenes Gold. Wie <rs type="person">Wagner</rs>'s Musik selbst, so kranken auch
+               <lb facs="#facs_1_region_1684677302363_759_tl_18" n="N018"/>seine so genial ersonnenen Bühnen-Reformen an dem Fehler
+               <lb facs="#facs_1_region_1684677302363_759_tl_19" n="N019"/>des Uebermaßes und der Uebertreibung. Ideen, an sich geist¬
+               <lb facs="#facs_1_region_1684677302363_759_tl_20" n="N020"/>voll und stichhältig, mußten dort ihre eigensinnig überspannte
+               <lb facs="#facs_1_region_1684677302363_759_tl_21" n="N021"/>Ausführung an ihrer Wirkung büßen. Daß man dieselben
+               <lb facs="#facs_1_region_1684677302363_759_tl_22" n="N022"/>in <rs type="place">Wien</rs> wieder auf richtige Grenzen zurückführte, gedieh
+               <lb facs="#facs_1_region_1684677302363_759_tl_23" n="N023"/>der Aufführung nicht zum Schaden, sondern zum Vortheil.
+               <lb facs="#facs_1_region_1684677302363_759_tl_24" n="N024"/>Vergegenwärtigen wir uns diese Factoren. Zuerst das
+               <lb facs="#facs_1_region_1684677302363_759_tl_25" n="N025"/><italic>Orchester</italic>. <rs type="person">Wagner</rs> hatte in <rs type="place">Bayreuth</rs> das absolut un¬
+               <lb facs="#facs_1_region_1684677302363_759_tl_26" n="N026"/>sichtbare Orchester eingeführt; in kellerartige Tiefe versenkt,
+               <lb facs="#facs_1_region_1684677302363_759_tl_27" n="N027"/>war es obendrein durch ein Blechdach gedeckt. Die Klang¬
+               <lb facs="#facs_1_region_1684677302363_759_tl_28" n="N028"/>wirkung machte nun allerdings einen poetisch mysteriösen
+               <lb facs="#facs_1_region_1684677302363_759_tl_29" n="N029"/>Eindruck, aber einen musikalisch abgeschwächten. Um den Glanz
+               <lb facs="#facs_1_region_1684677302363_759_tl_30" n="N030"/>des Orchesters war es geschehen, auf dem Jauchzen der Geigen,
+               <lb facs="#facs_1_region_1684677302363_759_tl_31" n="N031"/>dem Schmettern der Hörner lag es wie ein schwarzes Tuch.
+               <lb facs="#facs_1_region_1684677302363_759_tl_32" n="N032"/>In <rs type="place">Wien</rs> war die seit Kurzem hier eingeführte wohlthätige
+               <lb facs="#facs_1_region_1684677302363_759_tl_33" n="N033"/>Vertiefung des Orchesters (nach <rs type="place">München</rs>er Muster) unver¬
+               <lb facs="#facs_1_region_1684677302363_759_tl_34" n="N034"/>ändert beibehalten, wodurch der Klang kräftiger und glän¬
+               <lb facs="#facs_1_line_1757054579559_822" n="N035"/>zender als in <rs type="place">Bayreuth</rs> hervordrang. Kräftiger und glän¬
             </ab>
             <ab facs="#facs_1_region_1684677305643_762" type="">
-               <lb facs="#facs_1_region_1684677305643_762_tl_1" n="N001"/>zender, trotz der numerisch schwächeren Besetzung; denn in vorbehaltend. In der That bedarf „Die Walküre" weder des
-               <lb facs="#facs_1_region_1684677305643_762_tl_2" n="N002"/>Bayreuth verursachte eben die künstliche Dämpfung, daß
+               <lb facs="#facs_1_line_1757054597726_834" n="N001"/>zender, trotz der numerisch schwächeren Besetzung; denn in
+               <lb facs="#facs_1_region_1684677305643_762_tl_2" n="N002"/><rs type="place">Bayreuth</rs> verursachte eben die künstliche Dämpfung, daß
                <lb facs="#facs_1_region_1684677305643_762_tl_3" n="N003"/>man nur die halbe Anzahl von Instrumenten zu hören
-               <lb facs="#facs_1_region_1684677305643_762_tl_4" n="N004"/>glaubte.
-               <lb facs="#facs_1_region_1684677305643_762_tl_5" n="N005"/>Eine andere sinnreich gedachte, jedoch in ihrer drako
-               <lb facs="#facs_1_region_1684677305643_762_tl_6" n="N006"/>nischen Ausführung peinliche Reform Wagner's war die Ver
-               <lb facs="#facs_1_region_1684677305643_762_tl_7" n="N007"/>finsterung des Zuschauer=Raumes, in welchem man seiner
-               <lb facs="#facs_1_region_1684677305643_762_tl_8" n="N008"/>Nachbar nicht sah, während die Bühne in grellem Lich
-               <lb facs="#facs_1_region_1684677305643_762_tl_9" n="N009"/>und wechselndem Farbenspuk schmerzlich blendend aufleuchtete
+               <lb facs="#facs_1_region_1684677305643_762_tl_4" n="N004"/>glaubte.*)
+               <lb facs="#facs_1_region_1684677305643_762_tl_5" n="N005"/>Eine andere sinnreich gedachte, jedoch in ihrer drako¬
+               <lb facs="#facs_1_region_1684677305643_762_tl_6" n="N006"/>nischen Ausführung peinliche Reform <rs type="person">Wagner</rs>'s war die Ver¬
+               <lb facs="#facs_1_region_1684677305643_762_tl_7" n="N007"/>finsterung des Zuschauer-Raumes, in welchem man seinen
+               <lb facs="#facs_1_region_1684677305643_762_tl_8" n="N008"/>Nachbar nicht sah, während die Bühne in grellem Licht
+               <lb facs="#facs_1_region_1684677305643_762_tl_9" n="N009"/>und wechselndem Farbenspuk schmerzlich blendend aufleuchtete.
                <lb facs="#facs_1_region_1684677305643_762_tl_10" n="N010"/>Im Hofoperntheater war Beides gemildert, die Beleuchtung
-               <lb facs="#facs_1_region_1684677305643_762_tl_11" n="N011"/>oben und die Entleuchtung unten; man befand sich wei¬
-               <lb facs="#facs_1_region_1684677305643_762_tl_12" n="N012"/>besser dabei. Gehen wir weiter, zur Dauer der Vorstellung
-               <lb facs="#facs_1_region_1684677305643_762_tl_13" n="N013"/>In Bayreuth begann man um 4 Uhr, in Wien glücklicher¬
-               <lb facs="#facs_1_region_1684677305643_762_tl_14" n="N014"/>weise erst um Sechs. Und trotzdem währte die gestrige Vor
+               <lb facs="#facs_1_region_1684677305643_762_tl_11" n="N011"/>oben und die Entleuchtung unten; man befand sich weit
+               <lb facs="#facs_1_region_1684677305643_762_tl_12" n="N012"/>besser dabei. Gehen wir weiter, zur Dauer der Vorstellung.
+               <lb facs="#facs_1_region_1684677305643_762_tl_13" n="N013"/>In <rs type="place">Bayreuth</rs> begann man um 4 Uhr, in <rs type="place">Wien</rs> glücklicher¬
+               <lb facs="#facs_1_region_1684677305643_762_tl_14" n="N014"/>weise erst um Sechs. Und trotzdem währte die gestrige Vor¬
                <lb facs="#facs_1_region_1684677305643_762_tl_15" n="N015"/>stellung bis gegen halb Elf! Auf allen Mienen war die
-               <lb facs="#facs_1_region_1684677305643_762_tl_16" n="N016"/>vollständigste Erschöpfung ausgeprägt, rechts und linke
+               <lb facs="#facs_1_region_1684677305643_762_tl_16" n="N016"/>vollständigste Erschöpfung ausgeprägt, rechts und links
                <lb facs="#facs_1_region_1684677305643_762_tl_17" n="N017"/>hörten wir von Musikfreunden, die nach dem ersten
-               <lb facs="#facs_1_region_1684677305643_762_tl_18" n="N018"/>Acte entzückt applaudirt hatten, die Aeußerung, da
-               <lb facs="#facs_1_region_1684677305643_762_tl_19" n="N019"/>sei kein Genuß mehr, sondern „eine Marter". Un
+               <lb facs="#facs_1_region_1684677305643_762_tl_18" n="N018"/>Acte entzückt applaudirt hatten, die Aeußerung, das
+               <lb facs="#facs_1_region_1684677305643_762_tl_19" n="N019"/>sei kein Genuß mehr, sondern „eine Marter“. Un¬
                <lb facs="#facs_1_region_1684677305643_762_tl_20" n="N020"/>sere Nachbarn von gestern mögen sich nun diesen Zustand
-               <lb facs="#facs_1_region_1684677305643_762_tl_21" n="N021"/>durch vier aufeinanderfolgende Tage fortgesetzt denken un
-               <lb facs="#facs_1_region_1684677305643_762_tl_22" n="N022"/>entscheiden, ob Jemand diese anstrengende, durch ihrer
-               <lb facs="#facs_1_region_1684677305643_762_tl_23" n="N023"/>Wechsel von Monotonie und Ueberreizung nerventödtend
+               <lb facs="#facs_1_region_1684677305643_762_tl_21" n="N021"/>durch <italic>vier</italic> aufeinanderfolgende Tage fortgesetzt denken und
+               <lb facs="#facs_1_region_1684677305643_762_tl_22" n="N022"/>entscheiden, ob Jemand diese anstrengende, durch ihren
+               <lb facs="#facs_1_region_1684677305643_762_tl_23" n="N023"/>Wechsel von Monotonie und Ueberreizung nerventödtende
                <lb facs="#facs_1_region_1684677305643_762_tl_24" n="N024"/>Musik in solcher Ausdehnung körperlich und geistig gesund
-               <lb facs="#facs_1_region_1684677305643_762_tl_25" n="N025"/>auszuhalten vermöge — „die Species der Wagnerianer¬
-               <lb facs="#facs_1_region_1684677305643_762_tl_26" n="N026"/>immer ausgenommen — wie der Referent der „Deutschen
-               <lb facs="#facs_1_region_1684677305643_762_tl_27" n="N027"/>Rundschau" sagt. Unser Hofoperntheater hat sich von der
+               <lb facs="#facs_1_region_1684677305643_762_tl_25" n="N025"/>auszuhalten vermöge — „die Species der <italic>Wagnerianerin</italic>
+               <lb facs="#facs_1_region_1684677305643_762_tl_26" n="N026"/>immer ausgenommen“ — wie der <rs type="person">Referent</rs> der „<work continued="true">Deutschen</work>
+               <lb facs="#facs_1_region_1684677305643_762_tl_27" n="N027"/><work continued="true">Rundschau</work>“ sagt. Unser Hofoperntheater hat sich von der
                <lb facs="#facs_1_region_1684677305643_762_tl_28" n="N028"/>übertriebenen Voraussetzung, daß alle vier Dramen des
-               <lb facs="#facs_1_region_1684677305643_762_tl_29" n="N029"/>„Nibelungenrings" untrennbar zusammengehören, emancipir
-               <lb facs="#facs_1_region_1684677305643_762_tl_30" n="N030"/>und vorläufig die zweite Handlung" („Walküre") abgesonder
+               <lb facs="#facs_1_region_1684677305643_762_tl_29" n="N029"/>„<work>Nibelungenrings</work>“ untrennbar zusammengehören, emancipirt
+               <lb facs="#facs_1_region_1684677305643_762_tl_30" n="N030"/>und vorläufig die zweite „Handlung“ („<work>Walküre</work>“) abgesondert
                <lb facs="#facs_1_region_1684677305643_762_tl_31" n="N031"/>gegeben, die übrigen einer gelegentlich späteren Aufführung
-               <lb facs="#facs_1_region_1684677305643_762_tl_32" n="N032"/>Pola
-               <lb facs="#facs_1_region_1684677305643_762_tl_33" n="N033"/>spielten 16
-               <lb facs="#facs_1_region_1684677305643_762_tl_34" n="N034"/>-
-               <lb facs="#facs_1_region_1684677305643_762_tl_35" n="N035"/>in
-               <lb facs="#facs_1_region_1684677305643_762_tl_36" n="N036"/>are sich
-               <lb facs="#facs_1_region_1684677305643_762_tl_37" n="N037"/>des Orchesters,
-               <lb facs="#facs_1_region_1684677305643_762_tl_38" n="N038"/>da einer
+               <lb facs="#facs_1_line_1757054643451_870" n="N032"/>*) In <rs type="place">Bayreuth</rs> spielten 16 erste und 16 zweite Violinen, 12
+               <lb facs="#facs_1_line_1757054652419_875" n="N033"/>Bratschen, 12 Violoncelle, 6 Harfen. In <rs type="place">Wien</rs> nur 14 erste und 14
+               <lb facs="#facs_1_line_1757054657534_880" n="N034"/>zweite Violinen, 10 Bratschen, 8 Violoncelle, 2 Hargen. Die Har¬
+               <lb facs="#facs_1_line_1757054661923_885" n="N035"/>monie war hier wie dort gleich besetzt. Trefflich bewährte sich bei
+               <lb facs="#facs_1_line_1757054666763_890" n="N036"/>der <rs type="place">Wien</rs>er Aufführung die von Hanns <italic><rs type="person">Richter</rs></italic> versuchte neue An¬
+               <lb facs="#facs_1_line_1757054672913_895" n="N037"/>ordnung des Orchesters, welche alle Geigen zu Einer compacten Masse
+               <lb facs="#facs_1_line_1757054678146_900" n="N038"/>zusammenrückt, auf der linken Seite des Orchesters, während die
+               <lb facs="#facs_1_line_1757054682860_905" n="N039"/>rechte den Bläsern und Schlag-Instrumenten eingeräumt ist.
             </ab>
             <ab facs="#facs_1_region_1684677309257_765" type="">
-               <lb facs="#facs_1_region_1684677309257_765_tl_1" n="N001"/>ausgehenden „Rheingold", noch des nachfolgenden „Sieg¬
-               <lb facs="#facs_1_region_1684677309257_765_tl_2" n="N002"/>d"; sie ist für sich vollkommen verständlich, soweit diese
-               <lb facs="#facs_1_region_1684677309257_765_tl_3" n="N003"/>unserer heutigen Cultur völlig entrückten Wagner'schen Götter¬
-               <lb facs="#facs_1_region_1684677309257_765_tl_4" n="N004"/>geschichten überhaupt einem modernen Publicum verständlich
-               <lb facs="#facs_1_region_1684677309257_765_tl_5" n="N005"/>sind. Vom Rheingold und dem Fluch des Ringes — dem
-               <lb facs="#facs_1_region_1684677309257_765_tl_6" n="N006"/>angeblichen Hauptmotiv der ganzen Trilogie ist in der
-               <lb facs="#facs_1_region_1684677309257_765_tl_7" n="N007"/>„Walküre" keine Rede mehr, und was mit dem noch un¬
-               <lb facs="#facs_1_region_1684677309257_765_tl_8" n="N008"/>geborenen Sohn Siegmund's und Sieglindens (Siegfried
-               <lb facs="#facs_1_region_1684677309257_765_tl_9" n="N009"/>später geschehen werde, das hat mit der in
-               <lb facs="#facs_1_region_1684677309257_765_tl_10" n="N010"/>zwanzig Jahre
-               <lb facs="#facs_1_region_1684677309257_765_tl_11" n="N011"/>der „Walküre"
-               <lb facs="#facs_1_region_1684677309257_765_tl_12" n="N012"/>„abgeschlossenen Geschichte des geschwisterlichen
-               <lb facs="#facs_1_region_1684677309257_765_tl_13" n="N013"/>Ehepaares nichts zu schaffen.
-               <lb facs="#facs_1_region_1684677309257_765_tl_14" n="N014"/>Jener Dämon der Maßlosigkeit, welcher Wagner gegen
-               <lb facs="#facs_1_region_1684677309257_765_tl_15" n="N015"/>sein eigen Fleisch wüthen heißt, bis sich an seinen größten
-               <lb facs="#facs_1_region_1684677309257_765_tl_16" n="N016"/>Intentionen Faust's Ausspruch: „Vernunft wird Unsinn,
-               <lb facs="#facs_1_region_1684677309257_765_tl_17" n="N017"/>Wohlthat Plage“, erwahrt: dieser Dämon zeigt sich am ge¬
-               <lb facs="#facs_1_region_1684677309257_765_tl_18" n="N018"/>schäftigsten in der großen Ausdehnung der Wagner'schen
-               <lb facs="#facs_1_region_1684677309257_765_tl_19" n="N019"/>Musikstücke. Im zweiten Acte der „Walküre" führt Wotan
-               <lb facs="#facs_1_region_1684677309257_765_tl_20" n="N020"/>nacheinander zwei lange Dialoge, zuerst mit Fricka, dann
-               <lb facs="#facs_1_region_1684677309257_765_tl_21" n="N021"/>mit Brunhilde, welche mit ihrer prosaischen Ausführlichkeit
-               <lb facs="#facs_1_region_1684677309257_765_tl_22" n="N022"/>und unsäglich langweiligen Musik die Geduld des Hörers
-               <lb facs="#facs_1_region_1684677309257_765_tl_23" n="N023"/>auf eine starke Probe setzen. Die entsetzliche Redseligkeit diese
-               <lb facs="#facs_1_region_1684677309257_765_tl_24" n="N024"/>geistesschwachen Pantoffelhelden, eines „Gottes“, für den
-               <lb facs="#facs_1_region_1684677309257_765_tl_25" n="N025"/>Restroy zu früh gestorben ist, dies seitenlange Breittreten
-               <lb facs="#facs_1_region_1684677309257_765_tl_26" n="N026"/>von Dingen, die mit wenigen Worten leicht zu erledigen
-               <lb facs="#facs_1_region_1684677309257_765_tl_27" n="N027"/>waren, stimmte in Bayreuth selbst Anhänger der „heiligen
-               <lb facs="#facs_1_region_1684677309257_765_tl_28" n="N028"/>Sache“ bedenklich. Dort durfte natürlich kein Wörtchen ge¬
-               <lb facs="#facs_1_region_1684677309257_765_tl_29" n="N029"/>strichen werden, in Wien that man es, und zwar zum ent
-               <lb facs="#facs_1_region_1684677309257_765_tl_30" n="N030"/>schiedensten Vortheil des Werkes. Die Erzählung Wotan's
-               <lb facs="#facs_1_region_1684677309257_765_tl_31" n="N031"/>trafen zwei Striche, die zusammen fünfzehn Seiten des
-               <lb facs="#facs_1_region_1684677309257_765_tl_32" n="N032"/>Clavierauszuges ausmachen (p. 107 bis 119 und 247 bis
-               <lb facs="#facs_1_region_1684677309257_765_tl_33" n="N033"/>248), eine tüchtige Amputation, und dennoch ist die Scene
-               <lb facs="#facs_1_region_1684677309257_765_tl_34" n="N034"/>noch immer zu lang für ihr geringes dramatisches Interesse.
-               <lb facs="#facs_1_region_1684677309257_765_tl_35" n="N035"/>Wir verdanken diese rettende Kürzung Herrn Scaria,
-               <lb facs="#facs_1_region_1684677309257_765_tl_36" n="N036"/>welcher die Uebernahme der anstrengenden Wotan=Rolle von
-               <lb facs="#facs_1_region_1684677309257_765_tl_37" n="N037"/>dieser Concession abhängig gemacht hat. Herr Capellmeister
-               <lb facs="#facs_1_region_1684677309257_765_tl_38" n="N038"/>Richter hat, wie er uns schreibt, nur „tiefbetrübt" in
-               <lb facs="#facs_1_region_1684677309257_765_tl_39" n="N039"/>diese Striche gewilligt, willigen müssen
+               <lb facs="#facs_1_line_1757054597726_833" n="N001"/>vorbehaltend. In der That bedarf „<work>Die Walküre</work>“ weder des
+               <lb facs="#facs_1_region_1684677309257_765_tl_1" n="N002"/>vorausgehenden „<work>Rheingold</work>“, noch des nachfolgenden „<work continued="true">Sieg¬</work>
+               <lb facs="#facs_1_region_1684677309257_765_tl_2" n="N003"/><work continued="true">fried</work>“; sie ist für sich vollkommen verständlich, soweit diese
+               <lb facs="#facs_1_region_1684677309257_765_tl_3" n="N004"/>unserer heutigen Cultur völlig entrückten <rs type="person">Wagner</rs>'schen Götter¬
+               <lb facs="#facs_1_region_1684677309257_765_tl_4" n="N005"/>geschichten überhaupt einem modernen Publicum verständlich
+               <lb facs="#facs_1_region_1684677309257_765_tl_5" n="N006"/>sind. Vom Rheingold und dem Fluch des Ringes — dem
+               <lb facs="#facs_1_region_1684677309257_765_tl_6" n="N007"/>angeblichen Hauptmotiv der ganzen Trilogie — ist in der
+               <lb facs="#facs_1_region_1684677309257_765_tl_7" n="N008"/>„<work>Walküre</work>“ keine Rede mehr, und was mit dem noch un¬
+               <lb facs="#facs_1_region_1684677309257_765_tl_8" n="N009"/>geborenen Sohn <person_fictional>Siegmund</person_fictional>'s und <person_fictional>Sieglinde</person_fictional>ns (<person_fictional>Siegfried</person_fictional>)
+               <lb facs="#facs_1_line_1757054700023_913" n="N010"/>zwanzig Jahre später geschehen werde, das hat mit der in
+               <lb facs="#facs_1_line_1757054706135_917" n="N011"/>der „<work>Walküre</work>“ abgeschlossenen Geschichte des geschwisterlichen
+               <lb facs="#facs_1_region_1684677309257_765_tl_13" n="N012"/><person_fictional>Ehepaar</person_fictional>es nichts zu schaffen.
+               <lb facs="#facs_1_region_1684677309257_765_tl_14" n="N013"/>Jener Dämon der Maßlosigkeit, welcher <rs type="person">Wagner</rs> gegen
+               <lb facs="#facs_1_region_1684677309257_765_tl_15" n="N014"/>sein eigen Fleisch wüthen heißt, bis sich an seinen größten
+               <lb facs="#facs_1_region_1684677309257_765_tl_16" n="N015"/>Intentionen <person_fictional>Faust</person_fictional>'s Ausspruch: „Vernunft wird Unsinn,
+               <lb facs="#facs_1_region_1684677309257_765_tl_17" n="N016"/>Wohlthat Plage“, erwahrt: dieser Dämon zeigt sich am ge¬
+               <lb facs="#facs_1_region_1684677309257_765_tl_18" n="N017"/>schäftigsten in der großen Ausdehnung der <rs type="person">Wagner</rs>'schen
+               <lb facs="#facs_1_region_1684677309257_765_tl_19" n="N018"/>Musikstücke. Im zweiten Acte der „<work>Walküre</work>“ führt <person_fictional>Wotan</person_fictional>
+               <lb facs="#facs_1_region_1684677309257_765_tl_20" n="N019"/>nacheinander zwei lange Dialoge, zuerst mit <person_fictional>Fricka</person_fictional>, dann
+               <lb facs="#facs_1_region_1684677309257_765_tl_21" n="N020"/>mit <person_fictional>Brunhilde</person_fictional>, welche mit ihrer prosaischen Ausführlichkeit
+               <lb facs="#facs_1_region_1684677309257_765_tl_22" n="N021"/>und unsäglich langweiligen Musik die Geduld des Hörers
+               <lb facs="#facs_1_region_1684677309257_765_tl_23" n="N022"/>auf eine starke Probe setzen. Die entsetzliche Redseligkeit dieses
+               <lb facs="#facs_1_region_1684677309257_765_tl_24" n="N023"/>geistesschwachen Pantoffelhelden, eines „Gottes“, für den
+               <lb facs="#facs_1_region_1684677309257_765_tl_25" n="N024"/><rs type="person">Nestroy</rs> zu früh gestorben ist, dies seitenlange Breittreten
+               <lb facs="#facs_1_region_1684677309257_765_tl_26" n="N025"/>von Dingen, die mit wenigen Worten leicht zu erledigen
+               <lb facs="#facs_1_region_1684677309257_765_tl_27" n="N026"/>waren, stimmte in <rs type="place">Bayreuth</rs> selbst Anhänger der „heiligen
+               <lb facs="#facs_1_region_1684677309257_765_tl_28" n="N027"/>Sache“ bedenklich. Dort durfte natürlich kein Wörtchen ge¬
+               <lb facs="#facs_1_region_1684677309257_765_tl_29" n="N028"/>strichen werden, in <rs type="place">Wien</rs> that man es, und zwar zum ent¬
+               <lb facs="#facs_1_region_1684677309257_765_tl_30" n="N029"/>schiedensten Vortheil des Werkes. Die Erzählung <person_fictional>Wotan</person_fictional>'s
+               <lb facs="#facs_1_region_1684677309257_765_tl_31" n="N030"/>trafen zwei Striche, die zusammen fünfzehn Seiten des
+               <lb facs="#facs_1_region_1684677309257_765_tl_32" n="N031"/>Clavierauszuges ausmachen (p. 107 bis 119 und 247 bis
+               <lb facs="#facs_1_region_1684677309257_765_tl_33" n="N032"/>248), eine tüchtige Amputation, und dennoch ist die Scene
+               <lb facs="#facs_1_region_1684677309257_765_tl_34" n="N033"/>noch immer zu lang für ihr geringes dramatisches Interesse.
+               <lb facs="#facs_1_region_1684677309257_765_tl_35" n="N034"/>Wir verdanken diese rettende Kürzung Herrn <italic><rs type="person">Scaria</rs></italic>,
+               <lb facs="#facs_1_region_1684677309257_765_tl_36" n="N035"/>welcher die Uebernahme der anstrengenden <person_fictional>Wotan</person_fictional>-Rolle von
+               <lb facs="#facs_1_region_1684677309257_765_tl_37" n="N036"/>dieser Concession abhängig gemacht hat. Herr Capellmeister
+               <lb facs="#facs_1_region_1684677309257_765_tl_38" n="N037"/><italic><rs type="person">Richter</rs></italic> hat, wie er uns schreibt, nur „tiefbetrübt“ in
+               <lb facs="#facs_1_region_1684677309257_765_tl_39" n="N038"/>diese Striche gewilligt, willigen <italic>müssen</italic>, was wir gerne
             </ab>
             <pb facs="#facs_2" n="2" xml:id="img_0002"/>
             <ab facs="#facs_2_region_1684677319285_771" type="">
-               <lb facs="#facs_2_region_1684677319285_771_tl_1" n="N001"/>hier constatiren. Wir achten jede aufrichtige Ueberzeugun
-               <lb facs="#facs_2_region_1684677319285_771_tl_2" n="N002"/>und freuen uns, wenn ein Künstler wie Hanns Richte
+               <lb facs="#facs_2_region_1684677319285_771_tl_1" n="N001"/>hier constatiren. Wir achten jede aufrichtige Ueberzeugung
+               <lb facs="#facs_2_region_1684677319285_771_tl_2" n="N002"/>und freuen uns, wenn ein Künstler wie Hanns <italic><rs type="person">Richter</rs></italic>
                <lb facs="#facs_2_region_1684677319285_771_tl_3" n="N003"/>sie mannhaft und doch fern von jedem Fanatismus gegen
-               <lb facs="#facs_2_region_1684677319285_771_tl_4" n="N004"/>Andersdenkende vertritt. Nach unserer Ueberzeugung schulde
-               <lb facs="#facs_2_region_1684677319285_771_tl_5" n="N005"/>freilich sowol das Publicum als der Componist selbst Herr
-               <lb facs="#facs_2_region_1684677319285_771_tl_6" n="N006"/>Scaria aufrichtigen Dank. Kein Zweifel, daß im Verlaufe Fricka, in Bayreuth ein Gegenstand ironischer Heiterkeit, zich
-               <lb facs="#facs_2_region_1684677319285_771_tl_7" n="N007"/>der nächsten Wiederholungen noch weitere Kürzungen sich als hier in schönstem Trab die göttliche Geheimrathin. Die Deck
-               <lb facs="#facs_2_region_1684677319285_771_tl_8" n="N008"/>nothwendig herausstellen dürften und man den Zuhörern der
-               <lb facs="#facs_2_region_1684677319285_771_tl_9" n="N009"/>langersehnten „Feuerzauber etwas näherrücken wird.
-               <lb facs="#facs_2_region_1684677319285_771_tl_10" n="N010"/>Indem wir die Wiener Aufführung mit der Bayreuthe
-               <lb facs="#facs_2_region_1684677319285_771_tl_11" n="N011"/>vergleichen, übersehen wir keineswegs, daß durch die Bauar
-               <lb facs="#facs_2_region_1684677319285_771_tl_12" n="N012"/>des Wagner=Theaters (keine Logen, kein Kronleuchter, größer
-               <lb facs="#facs_2_region_1684677319285_771_tl_13" n="N013"/>Höhe und Entfernung der Bühne rc.) eine vollkommener
-               <lb facs="#facs_2_region_1684677319285_771_tl_14" n="N014"/>für alle Zuschauer gleichmäßige scenische Illusion erreich
-               <lb facs="#facs_2_region_1684677319285_771_tl_15" n="N015"/>wurde, selbst durch Nebendinge, wie die Verbannung der
-               <lb facs="#facs_2_region_1684677319285_771_tl_16" n="N016"/>Souffleurkastens. Trotzdem vertheidigen wir die Beibehaltun
-               <lb facs="#facs_2_region_1684677319285_771_tl_17" n="N017"/>dieser bescheidenen Gedächtnißhilfe, da wir noch menschli¬
+               <lb facs="#facs_2_region_1684677319285_771_tl_4" n="N004"/>Andersdenkende vertritt. Nach unserer Ueberzeugung schuldet
+               <lb facs="#facs_2_region_1684677319285_771_tl_5" n="N005"/>freilich sowol das Publicum als der Componist selbst Herrn
+               <lb facs="#facs_2_line_1757054803871_925" n="N006"/><rs type="person">Scaria</rs> aufrichtigen Dank. Kein Zweifel, daß im Verlaufe
+               <lb facs="#facs_2_line_1757054822871_936" n="N007"/>der nächsten Wiederholungen noch weitere Kürzungen sich als
+               <lb facs="#facs_2_region_1684677319285_771_tl_8" n="N008"/>nothwendig herausstellen dürften und man den Zuhörern den
+               <lb facs="#facs_2_region_1684677319285_771_tl_9" n="N009"/>langersehnten „Feuerzauber“ etwas näherrücken wird.
+               <lb facs="#facs_2_region_1684677319285_771_tl_10" n="N010"/>Indem wir die <rs type="place">Wien</rs>er Aufführung mit der <rs type="place">Bayreuth</rs>er
+               <lb facs="#facs_2_region_1684677319285_771_tl_11" n="N011"/>vergleichen, übersehen wir keineswegs, daß durch die Bauart
+               <lb facs="#facs_2_region_1684677319285_771_tl_12" n="N012"/>des <rs type="person">Wagner</rs>-Theaters (keine Logen, kein Kronleuchter, größere
+               <lb facs="#facs_2_region_1684677319285_771_tl_13" n="N013"/>Höhe und Entfernung der Bühne etc.) eine vollkommenere,
+               <lb facs="#facs_2_region_1684677319285_771_tl_14" n="N014"/>für alle Zuschauer gleichmäßige scenische Illusion erreicht
+               <lb facs="#facs_2_region_1684677319285_771_tl_15" n="N015"/>wurde, selbst durch Nebendinge, wie die Verbannung des
+               <lb facs="#facs_2_region_1684677319285_771_tl_16" n="N016"/>Souffleurkastens. Trotzdem vertheidigen wir die Beibehaltung
+               <lb facs="#facs_2_region_1684677319285_771_tl_17" n="N017"/>dieser bescheidenen Gedächtnißhilfe, da wir noch menschlich
                <lb facs="#facs_2_region_1684677319285_771_tl_18" n="N018"/>mit Menschen empfinden. Wir möchten den Sängern, welche
-               <lb facs="#facs_2_region_1684677319285_771_tl_19" n="N019"/>in den „Nibelungen“ Hunderte von widerhaarigsten Versen zu
-               <lb facs="#facs_2_region_1684677319285_771_tl_20" n="N020"/>lernen haben, ebensowenig den Souffleur entziehen, als unser
+               <lb facs="#facs_2_region_1684677319285_771_tl_19" n="N019"/>in den „<work>Nibelungen</work>“ Hunderte von widerhaarigsten Versen zu
+               <lb facs="#facs_2_region_1684677319285_771_tl_20" n="N020"/>lernen haben, ebensowenig den Souffleur entziehen, als unsere
                <lb facs="#facs_2_region_1684677319285_771_tl_21" n="N021"/>trefflichen Musiker zu der unterirdischen Sklavenpresse von
-               <lb facs="#facs_2_region_1684677319285_771_tl_22" n="N022"/>Bayreuth verurtheilen. Dergleichen an den gekrönten Tor
-               <lb facs="#facs_2_region_1684677319285_771_tl_23" n="N023"/>dichter Nero erinnernde Maßregeln wollen wir Bayreuth
+               <lb facs="#facs_2_region_1684677319285_771_tl_22" n="N022"/><rs type="place">Bayreuth</rs> verurtheilen. Dergleichen an den gekrönten Ton¬
+               <lb facs="#facs_2_region_1684677319285_771_tl_23" n="N023"/>dichter <rs type="person">Nero</rs> erinnernde Maßregeln wollen wir <rs type="place">Bayreuth</rs>
                <lb facs="#facs_2_region_1684677319285_771_tl_24" n="N024"/>nicht nachmachen und sollten wir auch darüber ein kleines
-               <lb facs="#facs_2_region_1684677319285_771_tl_25" n="N025"/>Stückchen Illusion einbüßen. So weit wird es ohnehin alle
-               <lb facs="#facs_2_region_1684677319285_771_tl_26" n="N026"/>ästhetische Despotismus niemals bringen, daß das Opern¬
+               <lb facs="#facs_2_region_1684677319285_771_tl_25" n="N025"/>Stückchen Illusion einbüßen. So weit wird es ohnehin aller
+               <lb facs="#facs_2_region_1684677319285_771_tl_26" n="N026"/>ästhetische Despotismus niemals bringen, daß das Opern-
                <lb facs="#facs_2_region_1684677319285_771_tl_27" n="N027"/>Publicum total vergesse, in einem Theater zu sein; ist auch gar
                <lb facs="#facs_2_region_1684677319285_771_tl_28" n="N028"/>nicht nothwendig. Daß man aber mit ausreichendem Wissen und
-               <lb facs="#facs_2_region_1684677319285_771_tl_29" n="N029"/>Können auch auf den von Wagner so leidenschaftlich geschmä
-               <lb facs="#facs_2_region_1684677319285_771_tl_30" n="N030"/>ten und verdammten „Hofopernbühnen die „Walküre" auf¬
-               <lb facs="#facs_2_region_1684677319285_771_tl_31" n="N031"/>führen und sehr gut aufführen kann, das hat jetzt Wien
-               <lb facs="#facs_2_region_1684677319285_771_tl_32" n="N032"/>bewiesen. Herr Director Jauner ganz persönlich hat durch
+               <lb facs="#facs_2_region_1684677319285_771_tl_29" n="N029"/>Können auch auf den von <rs type="person">Wagner</rs> so leidenschaftlich geschmäh¬
+               <lb facs="#facs_2_region_1684677319285_771_tl_30" n="N030"/>ten und verdammten „Hofopernbühnen“ die „<work>Walküre</work>“ auf¬
+               <lb facs="#facs_2_region_1684677319285_771_tl_31" n="N031"/>führen und sehr gut aufführen kann, das hat jetzt <rs type="place">Wien</rs>
+               <lb facs="#facs_2_region_1684677319285_771_tl_32" n="N032"/>bewiesen. Herr Director <italic><rs type="person">Jauner</rs></italic> ganz persönlich hat durch
                <lb facs="#facs_2_region_1684677319285_771_tl_33" n="N033"/>sein erprobtes Regisseurtalent und seine außerordentliche Ar¬
-               <lb facs="#facs_2_region_1684677319285_771_tl_34" n="N034"/>beitskraft sich das erste Verdienst um die treffliche Auff
-               <lb facs="#facs_2_region_1684677319285_771_tl_35" n="N035"/>rung dieses abnorm schwierigen Werkes erworben. Scenise
-               <lb facs="#facs_2_region_1684677319285_771_tl_36" n="N036"/>ist Alles besser, als in Bayreuth. Der so wichtige Vorgan
+               <lb facs="#facs_2_region_1684677319285_771_tl_34" n="N034"/>beitskraft sich das erste Verdienst um die treffliche Auffüh¬
+               <lb facs="#facs_2_region_1684677319285_771_tl_35" n="N035"/>rung dieses abnorm schwierigen Werkes erworben. Scenisch
+               <lb facs="#facs_2_region_1684677319285_771_tl_36" n="N036"/>ist Alles besser, als in <rs type="place">Bayreuth</rs>. Der so wichtige Vorgang
+               <lb facs="#facs_2_line_1757054882503_964" n="N037"/>des Zweikampfes im zweiten Acte, in dem <rs type="place">Bayreuth</rs>er Arran¬
             </ab>
             <ab facs="#facs_2_region_1684677322662_774" type="">
                <lb facs="#facs_2_region_1684677322662_774_tl_1" n="N001"/>gement ganz unverständlich, wirkt hier ebenso deutlich als
-               <lb facs="#facs_2_region_1684677322662_774_tl_2" n="N002"/>effectvoll. Die auf schnellen Rossen über die Bühne spren
-               <lb facs="#facs_2_region_1684677322662_774_tl_3" n="N003"/>genden Walküren bieten ein wildmalerisches Bild, währen
-               <lb facs="#facs_2_region_1684677322662_774_tl_4" n="N004"/>die Bayreuther Schlachtjungfrauen, unberitten, nur von ihr
-               <lb facs="#facs_2_region_1684677322662_774_tl_5" n="N005"/>Pferden prahlten. Sogar das Widdergespann der „hehrer
-               <lb facs="#facs_2_region_1684677322662_774_tl_6" n="N006"/>rationen, welche Herr Joseph Hofmann mit so poetischen
-               <lb facs="#facs_2_region_1684677322662_774_tl_7" n="N007"/>Sinn für Bayreuth entworfen hatte, sind von demselbe
-               <lb facs="#facs_2_region_1684677322662_774_tl_8" n="N008"/>Meister auch für Wien ausgeführt. Was den musikalischen
-               <lb facs="#facs_2_region_1684677322662_774_tl_9" n="N009"/>Theil betrifft, so ist das Hofoperntheater in der glücklichen
-               <lb facs="#facs_2_region_1684677322662_774_tl_10" n="N010"/>Lage, zwei der hervorragendsten, um das Bayreuther Fest
-               <lb facs="#facs_2_region_1684677322662_774_tl_11" n="N011"/>spiel besonders verdiente Künstler sein zu nennen: Frau
-               <lb facs="#facs_2_region_1684677322662_774_tl_12" n="N012"/>Materna, die gewaltige und diesmal auch maßvolle Dar
-               <lb facs="#facs_2_region_1684677322662_774_tl_13" n="N013"/>stellerin der Brunhilde, und Capellmeister Hanns Richter
-               <lb facs="#facs_2_region_1684677322662_774_tl_14" n="N014"/>der im Enthusiasmus für das Werk jede Anstrengung zu
-               <lb facs="#facs_2_region_1684677322662_774_tl_15" n="N015"/>vergessen schien und doch im Enthusiasmus keinen Augenblic
-               <lb facs="#facs_2_region_1684677322662_774_tl_16" n="N016"/>die dem Commandirenden unentbehrliche Kaltblütigkeit verlor
-               <lb facs="#facs_2_region_1684677322662_774_tl_17" n="N017"/>Frau Ehnn hat, die Bayreuther Darstellerin in Spi¬
-               <lb facs="#facs_2_region_1684677322662_774_tl_18" n="N018"/>und Gesang hoch übertreffend, aus der Sieglinde eine ihrer
-               <lb facs="#facs_2_region_1684677322662_774_tl_19" n="N019"/>schönsten Rollen geschaffen. Mit größter Sorgfalt führte
-               <lb facs="#facs_2_region_1684677322662_774_tl_20" n="N020"/>die Herren Labatt und Scaria ihre schwierigen Rolle
-               <lb facs="#facs_2_region_1684677322662_774_tl_21" n="N021"/>durch. Wenn Herrn Labatt (Siegmund) nicht das hinreißend
-               <lb facs="#facs_2_region_1684677322662_774_tl_22" n="N022"/>dramatische und declamatorische Talent Niemann's zu stattet
-               <lb facs="#facs_2_region_1684677322662_774_tl_23" n="N023"/>kommt, so steht er gegen diesen wieder im Vortheil durch
-               <lb facs="#facs_2_region_1684677322662_774_tl_24" n="N024"/>Wohlklang und ausdauernde Kraft der Stimme.
-               <lb facs="#facs_2_region_1684677322662_774_tl_25" n="N025"/>Scarig ist durch Macht des Organes und ung
-               <lb facs="#facs_2_region_1684677322662_774_tl_26" n="N026"/>Deutlichkeit der Aussprache für die Rolle des Wotan von
-               <lb facs="#facs_2_region_1684677322662_774_tl_27" n="N027"/>züglich geeignet; er wird sie noch viel befriedigender gestalten
-               <lb facs="#facs_2_region_1684677322662_774_tl_28" n="N028"/>wenn er in Action und Haltung würdevoller bleibt, aus
-               <lb facs="#facs_2_region_1684677322662_774_tl_29" n="N029"/>aus seiner Tonbildung nach Möglichkeit alle unedlen Ele¬
-               <lb facs="#facs_2_region_1684677322662_774_tl_30" n="N030"/>mente verbannt. Er möge in dieser Hoheit lieber zu wei
-               <lb facs="#facs_2_region_1684677322662_774_tl_31" n="N031"/>gehen, bis zu statuarischer Ruhe, wie Betz, als daß er sich
-               <lb facs="#facs_2_region_1684677322662_774_tl_32" n="N032"/>in den Dialogen mit Frick und Brunhilde zu kleinlichen
-               <lb facs="#facs_2_region_1684677322662_774_tl_33" n="N033"/>Haustyrannen=Aerger herablasse. Frau Kupfer (Fricka
-               <lb facs="#facs_2_region_1684677322662_774_tl_34" n="N034"/>Herr Hablawetz (Hunding) und das Ortett der Wal¬ Talent: die romantische Decoration, die glän¬
+               <lb facs="#facs_2_region_1684677322662_774_tl_2" n="N002"/>effectvoll. Die auf schnellen Rossen über die Bühne spren¬
+               <lb facs="#facs_2_region_1684677322662_774_tl_3" n="N003"/>genden Walküren bieten ein wildmalerisches Bild, während
+               <lb facs="#facs_2_region_1684677322662_774_tl_4" n="N004"/>die <rs type="place">Bayreuth</rs>er Schlachtjungfrauen, unberitten, nur von ihren
+               <lb facs="#facs_2_region_1684677322662_774_tl_5" n="N005"/>Pferden prahlten. Sogar das Widdergespann der „hehren“
+               <lb facs="#facs_2_line_1757054803870_924" n="N006"/><person_fictional>Fricka</person_fictional>, in <rs type="place">Bayreuth</rs> ein Gegenstand ironischer Heiterkeit, zieht
+               <lb facs="#facs_2_line_1757054822871_935" n="N007"/>hier in schönstem Trab die göttliche Geheimräthin. Die Deco¬
+               <lb facs="#facs_2_region_1684677322662_774_tl_6" n="N008"/>rationen, welche Herr Joseph <italic><rs type="person">Hofmann</rs></italic> mit so poetischem
+               <lb facs="#facs_2_region_1684677322662_774_tl_7" n="N009"/>Sinn für <rs type="place">Bayreuth</rs> entworfen hatte, sind von demselben
+               <lb facs="#facs_2_region_1684677322662_774_tl_8" n="N010"/>Meister auch für <rs type="place">Wien</rs> ausgeführt. Was den musikalischen
+               <lb facs="#facs_2_region_1684677322662_774_tl_9" n="N011"/>Theil betrifft, so ist das Hofoperntheater in der glücklichen
+               <lb facs="#facs_2_region_1684677322662_774_tl_10" n="N012"/>Lage, zwei der hervorragendsten, um das <rs type="place">Bayreuth</rs>er Fest¬
+               <lb facs="#facs_2_region_1684677322662_774_tl_11" n="N013"/>spiel besonders verdiente Künstler sein zu nennen: Frau
+               <lb facs="#facs_2_region_1684677322662_774_tl_12" n="N014"/><italic><rs type="person">Materna</rs></italic>, die gewaltige und diesmal auch maßvolle Dar¬
+               <lb facs="#facs_2_region_1684677322662_774_tl_13" n="N015"/>stellerin der <person_fictional>Brunhilde</person_fictional>, und Capellmeister Hanns <italic><rs type="person">Richter</rs></italic>,
+               <lb facs="#facs_2_region_1684677322662_774_tl_14" n="N016"/>der im Enthusiasmus für das Werk jede Anstrengung zu
+               <lb facs="#facs_2_region_1684677322662_774_tl_15" n="N017"/>vergessen schien und doch im Enthusiasmus keinen Augenblick
+               <lb facs="#facs_2_region_1684677322662_774_tl_16" n="N018"/>die dem Commandirenden unentbehrliche Kaltblütigkeit verlor.
+               <lb facs="#facs_2_region_1684677322662_774_tl_17" n="N019"/>Frau <italic><rs type="person">Ehnn</rs></italic> hat, die <rs type="place">Bayreuth</rs>er Darstellerin in Spiel
+               <lb facs="#facs_2_region_1684677322662_774_tl_18" n="N020"/>und Gesang hoch übertreffend, aus der <person_fictional>Sieglinde</person_fictional> eine ihrer
+               <lb facs="#facs_2_region_1684677322662_774_tl_19" n="N021"/>schönsten Rollen geschaffen. Mit größter Sorgfalt führten
+               <lb facs="#facs_2_region_1684677322662_774_tl_20" n="N022"/>die Herren <italic><rs type="person">Labatt</rs></italic> und <italic><rs type="person">Scaria</rs></italic> ihre schwierigen Rollen
+               <lb facs="#facs_2_region_1684677322662_774_tl_21" n="N023"/>durch. Wenn Herrn <rs type="person">Labatt</rs> (<person_fictional>Siegmund</person_fictional>) nicht das hinreißende
+               <lb facs="#facs_2_region_1684677322662_774_tl_22" n="N024"/>dramatische und declamatorische Talent <italic><rs type="person">Niemann</rs>'s</italic> zu statten
+               <lb facs="#facs_2_region_1684677322662_774_tl_23" n="N025"/>kommt, so steht er gegen diesen wieder im Vortheil durch
+               <lb facs="#facs_2_region_1684677322662_774_tl_24" n="N026"/>Wohlklang und ausdauernde Kraft der Stimme. Herr
+               <lb facs="#facs_2_region_1684677322662_774_tl_25" n="N027"/><italic><rs type="person">Scaria</rs></italic> ist durch Macht des Organes und ungemeine
+               <lb facs="#facs_2_region_1684677322662_774_tl_26" n="N028"/>Deutlichkeit der Aussprache für die Rolle des <person_fictional>Wotan</person_fictional> vor¬
+               <lb facs="#facs_2_region_1684677322662_774_tl_27" n="N029"/>züglich geeignet; er wird sie noch viel befriedigender gestalten,
+               <lb facs="#facs_2_region_1684677322662_774_tl_28" n="N030"/>wenn er in Action und Haltung würdevoller bleibt, auch
+               <lb facs="#facs_2_region_1684677322662_774_tl_29" n="N031"/>aus seiner Tonbildung nach Möglichkeit alle unedlen Ele¬
+               <lb facs="#facs_2_region_1684677322662_774_tl_30" n="N032"/>mente verbannt. Er möge in dieser Hoheit lieber zu weit
+               <lb facs="#facs_2_region_1684677322662_774_tl_31" n="N033"/>gehen, bis zu statuarischer Ruhe, wie <italic><rs type="person">Betz</rs></italic>, als daß er sich
+               <lb facs="#facs_2_region_1684677322662_774_tl_32" n="N034"/>in den Dialogen mit <person_fictional>Fricka</person_fictional> und <person_fictional>Brunhilde</person_fictional> zu kleinlichem
+               <lb facs="#facs_2_region_1684677322662_774_tl_33" n="N035"/>Haustyrannen-Aerger herablasse. Frau <italic><rs type="person">Kupfer</rs></italic> (<person_fictional>Fricka</person_fictional>),
+               <lb facs="#facs_2_line_1757054850855_947" n="N036"/>Herr <italic><rs type="person">Hablawetz</rs></italic> (<person_fictional>Hunding</person_fictional>) und das Octett der Wal¬
+               <lb facs="#facs_2_line_1757054906583_975" n="N037"/>küren (worunter die Damen <italic><rs type="person">Dillner</rs></italic>, <italic><rs type="person">Siegstädt</rs></italic>,
             </ab>
             <ab facs="#facs_2_region_1684677325617_777" type="">
-               <lb facs="#facs_2_region_1684677325617_777_tl_1" n="N001"/>Tremel u. A.) griffen auf das verdienstlichste in das
+               <lb facs="#facs_2_region_1684677325617_777_tl_1" n="N001"/><italic><rs type="person">Tremel</rs></italic> u. A.) griffen auf das verdienstlichste in das
                <lb facs="#facs_2_region_1684677325617_777_tl_2" n="N002"/>Ensemble ein.
-               <lb facs="#facs_2_region_1684677325617_777_tl_3" n="N003"/>Die Aufnahme des neuen „Musikdramas" gestaltete sie
-               <lb facs="#facs_2_region_1684677325617_777_tl_4" n="N004"/>wie vorauszusehen war, sehr günstig. Richard Wagner
-               <lb facs="#facs_2_region_1684677325617_777_tl_5" n="N005"/>gehört zu den Lieblingen des deutschen Publicums, und wer
-               <lb facs="#facs_2_region_1684677325617_777_tl_6" n="N006"/>ihn nicht liebt, der weiß wenigstens, daß Wagner unter der
+               <lb facs="#facs_2_region_1684677325617_777_tl_3" n="N003"/>Die Aufnahme des neuen „Musikdramas“ gestaltete sich
+               <lb facs="#facs_2_region_1684677325617_777_tl_4" n="N004"/>wie vorauszusehen war, sehr günstig. Richard <italic><rs type="person">Wagner</rs></italic>
+               <lb facs="#facs_2_region_1684677325617_777_tl_5" n="N005"/>gehört zu den Lieblingen des <rs type="place">deutsch</rs>en Publicums, und wer
+               <lb facs="#facs_2_region_1684677325617_777_tl_6" n="N006"/>ihn nicht liebt, der weiß wenigstens, daß <rs type="person">Wagner</rs> unter den
                <lb facs="#facs_2_region_1684677325617_777_tl_7" n="N007"/>lebenden Operncomponisten nicht nur die erste, sondern die
-               <lb facs="#facs_2_region_1684677325617_777_tl_8" n="N008"/>einzige Stelle einnimmt durch Originalität und Größe de
-               <lb facs="#facs_2_region_1684677325617_777_tl_9" n="N009"/>Styls. In Wien speciell ist die Partei der unbedingten, be¬
+               <lb facs="#facs_2_region_1684677325617_777_tl_8" n="N008"/>einzige Stelle einnimmt durch Originalität und Größe des
+               <lb facs="#facs_2_region_1684677325617_777_tl_9" n="N009"/>Styls. In <rs type="place">Wien</rs> speciell ist die Partei der unbedingten, be¬
                <lb facs="#facs_2_region_1684677325617_777_tl_10" n="N010"/>eideten Wagnerianer eine sehr große, und da sie hauptsächlich
                <lb facs="#facs_2_region_1684677325617_777_tl_11" n="N011"/>aus jungen Leuten besteht, in welchen lodernder Enthusias¬
-               <lb facs="#facs_2_region_1684677325617_777_tl_12" n="N012"/>mus sich mit einer sehr kunstreichen Methode donnerähnli=
-               <lb facs="#facs_2_region_1684677325617_777_tl_13" n="N013"/>chen Klatschens verbindet, so erschien der Erfolg des erster
-               <lb facs="#facs_2_region_1684677325617_777_tl_14" n="N014"/>„Walkuren“=Abends sattsam assecurirt. Dennoch durchlief der
+               <lb facs="#facs_2_region_1684677325617_777_tl_12" n="N012"/>mus sich mit einer sehr kunstreichen Methode donnerähnli¬
+               <lb facs="#facs_2_region_1684677325617_777_tl_13" n="N013"/>chen Klatschens verbindet, so erschien der Erfolg des ersten
+               <lb facs="#facs_2_region_1684677325617_777_tl_14" n="N014"/>„<work>Walküren</work>“-Abends sattsam assecurirt. Dennoch durchlief der
                <lb facs="#facs_2_region_1684677325617_777_tl_15" n="N015"/>Applaus im Verlaufe des Abends verschiedene Stufen und
                <lb facs="#facs_2_region_1684677325617_777_tl_16" n="N016"/>Färbungen. Nach dem ersten Act, der die meisten Schönhei¬
-               <lb facs="#facs_2_region_1684677325617_777_tl_17" n="N017"/>ten bringt, lauter musikalische Situationen enthält und na¬
+               <lb facs="#facs_2_region_1684677325617_777_tl_17" n="N017"/>ten bringt, lauter musikalische Situationen enthält und nach
                <lb facs="#facs_2_region_1684677325617_777_tl_18" n="N018"/>der etwas ernüchternden langen Tischscene reichliche Entschä¬
-               <lb facs="#facs_2_region_1684677325617_777_tl_19" n="N019"/>digung in der großen Liebesscene bietet, erscholl der Applau¬
-               <lb facs="#facs_2_region_1684677325617_777_tl_20" n="N020"/>am stärksten und allgemeinsten. Frau Ehnn, Herr Lahat
-               <lb facs="#facs_2_region_1684677325617_777_tl_21" n="N021"/>und Capellmeister Richter wurden oft und stürmisch geru¬
+               <lb facs="#facs_2_region_1684677325617_777_tl_19" n="N019"/>digung in der großen Liebesscene bietet, erscholl der Applaus
+               <lb facs="#facs_2_region_1684677325617_777_tl_20" n="N020"/>am stärksten und allgemeinsten. Frau <italic><rs type="person">Ehnn</rs></italic>, Herr <italic><rs type="person">Labatt</rs></italic>
+               <lb facs="#facs_2_region_1684677325617_777_tl_21" n="N021"/>und Capellmeister <italic><rs type="person">Richter</rs></italic> wurden oft und stürmisch geru¬
                <lb facs="#facs_2_region_1684677325617_777_tl_22" n="N022"/>fen. Im zweiten Act schien gleich anfangs das unschöne
-               <lb facs="#facs_2_region_1684677325617_777_tl_23" n="N023"/>„Hojotoho“ der Brunhilde zu befremden, und die Langweil
-               <lb facs="#facs_2_region_1684677325617_777_tl_24" n="N024"/>während der beiden Discussionen Wotan's mit Fricks und
-               <lb facs="#facs_2_region_1684677325617_777_tl_25" n="N025"/>Brunhilde ließ sich nicht bemänteln. Erst die schaurigen
-               <lb facs="#facs_2_region_1684677325617_777_tl_26" n="N026"/>Klänge, mit welchen Brunhilde als Todverkünderin auftritt
-               <lb facs="#facs_2_region_1684677325617_777_tl_27" n="N027"/>wirken wieder ergreifend, trotzdem wir das Hauptmotiv (so
+               <lb facs="#facs_2_region_1684677325617_777_tl_23" n="N023"/>„Hojotoho“ der <person_fictional>Brunhilde</person_fictional> zu befremden, und die Langweile
+               <lb facs="#facs_2_region_1684677325617_777_tl_24" n="N024"/>während der beiden Discussionen <person_fictional>Wotan</person_fictional>'s mit <person_fictional>Fricka</person_fictional> und
+               <lb facs="#facs_2_region_1684677325617_777_tl_25" n="N025"/><person_fictional>Brunhilde</person_fictional> ließ sich nicht bemänteln. Erst die schaurigen
+               <lb facs="#facs_2_region_1684677325617_777_tl_26" n="N026"/>Klänge, mit welchen <person_fictional>Brunhilde</person_fictional> als Todverkünderin auftritt,
+               <lb facs="#facs_2_region_1684677325617_777_tl_27" n="N027"/>wirken wieder ergreifend, trotzdem wir das Hauptmotiv (fast
                <lb facs="#facs_2_region_1684677325617_777_tl_28" n="N028"/>die einzige melodische Schönheit im zweiten Act) aus
-               <lb facs="#facs_2_region_1684677325617_777_tl_29" n="N029"/>Marschner's „Hanns Heiling" sehr wohl kennen. (Königin der
-               <lb facs="#facs_2_region_1684677325617_777_tl_30" n="N030"/>Erdgeister: „So bist du verfallen den rächenden Geistern.
-               <lb facs="#facs_2_region_1684677325617_777_tl_31" n="N031"/>Der scenisch höchst effectvolle Actschluß (Siegmund's Kampf
-               <lb facs="#facs_2_region_1684677325617_777_tl_32" n="N032"/>mit Hunding) that natürlich seine Schuldigkeit und ent
-               <lb facs="#facs_2_region_1684677325617_777_tl_33" n="N033"/>fesselte wieder den Applaus, wenngleich viel schwächer, al
+               <lb facs="#facs_2_region_1684677325617_777_tl_29" n="N029"/><rs type="person">Marschner</rs>'s „<work>Hanns Heiling</work>“ sehr wohl kennen. (<person_fictional continued="true">Königin der</person_fictional>
+               <lb facs="#facs_2_region_1684677325617_777_tl_30" n="N030"/><person_fictional continued="true">Erdgeister</person_fictional>: „So bist du verfallen den rächenden Geistern.“)
+               <lb facs="#facs_2_region_1684677325617_777_tl_31" n="N031"/>Der scenisch höchst effectvolle Actschluß (<person_fictional>Siegmund</person_fictional>'s Kampf
+               <lb facs="#facs_2_region_1684677325617_777_tl_32" n="N032"/>mit <person_fictional>Hunding</person_fictional>) that natürlich seine Schuldigkeit und ent¬
+               <lb facs="#facs_2_region_1684677325617_777_tl_33" n="N033"/>fesselte wieder den Applaus, wenngleich viel schwächer, als
                <lb facs="#facs_2_region_1684677325617_777_tl_34" n="N034"/>nach dem zweiten Acte. Die Eingangsscene des dritten Actes
-               <lb facs="#facs_2_region_1684677325617_777_tl_35" n="N035"/>ist ein Cabinetsstück von Wagner's eigenartigem, dramatisch
-               <lb facs="#facs_2_region_1684677325617_777_tl_36" n="N036"/>des Zweikampfes im zweiten Acte, in dem Bayreuther Arran¬ küren (worunter die Damen Diliner, Siegstädt, unde Schaar der Waren, die dahinsprengenden Rose, de¬
+               <lb facs="#facs_2_region_1684677325617_777_tl_35" n="N035"/>ist ein Cabinetsstück von <rs type="person">Wagner</rs>'s eigenartigem, dramatisch-
+               <lb facs="#facs_2_line_1757054850854_946" n="N036"/>malerischem Talent: die romantische Decoration, die glän¬
+               <lb facs="#facs_2_line_1757054906583_974" n="N037"/>zende Schaar der Walküren, die dahinsprengenden Rosse, der
             </ab>
             <pb facs="#facs_3" n="3" xml:id="img_0003"/>
             <ab facs="#facs_3_region_1684677338262_783" type="">
-               <lb facs="#facs_3_region_1684677338262_783_tl_1" n="N001"/>berauschende Aufruhr aller Instrumente im „Walkurenritt“
-               <lb facs="#facs_3_region_1684677338262_783_tl_2" n="N002"/>das Alles verschmitzt zu einem farbenglühenden Bilde, dessen
-               <lb facs="#facs_3_region_1684677338262_783_tl_3" n="N003"/>Total=Effect vergessen machen kann, wie nahe die Musik mit
-               <lb facs="#facs_3_region_1684677338262_783_tl_4" n="N004"/>unter, besonders in dem Walkuren=Gesang, aus Barbarische Bottschani abgegangenen Eisenbahnzüge sind verweht.
-               <lb facs="#facs_3_region_1684677338262_783_tl_5" n="N005"/>streift. Trotzdem sind wir den Walküren dankbar, daß si
-               <lb facs="#facs_3_region_1684677338262_783_tl_6" n="N006"/>uns zum ersten= und einzigenmal in der ganzen langen Oper ein
-               <lb facs="#facs_3_region_1684677338262_783_tl_7" n="N007"/>Zusammensingen mehrerer Stimmen vernehmen lassen. Selbst Mi¬
-               <lb facs="#facs_3_region_1684677338262_783_tl_8" n="N008"/>in dem Liebesduett vereinigen sich die Stimmen Siegmund
-               <lb facs="#facs_3_region_1684677338262_783_tl_9" n="N009"/>und Sieglindens auch nicht zu einer einzigen Terz oder Sext. Rückkehr Midhat's, als von einer Thatsache, „die leicht ein
-               <lb facs="#facs_3_region_1684677338262_783_tl_10" n="N010"/>Die Walkuren=Scene wurde lebhaft applaudirt; alles Fol
+               <lb facs="#facs_3_region_1684677338262_783_tl_1" n="N001"/>berauschende Aufruhr aller Instrumente im „Walkürenritt“,
+               <lb facs="#facs_3_region_1684677338262_783_tl_2" n="N002"/>das Alles verschmilzt zu einem farbenglühenden Bilde, dessen
+               <lb facs="#facs_3_region_1684677338262_783_tl_3" n="N003"/>Total-Effect vergessen machen kann, wie nahe die Musik mit¬
+               <lb facs="#facs_3_line_1757054929715_991" n="N004"/>unter, besonders in dem Walküren-Gesang, ans Barbarische
+               <lb facs="#facs_3_region_1684677338262_783_tl_5" n="N005"/>streift. Trotzdem sind wir den Walküren dankbar, daß sie
+               <lb facs="#facs_3_region_1684677338262_783_tl_6" n="N006"/>uns zum ersten- und einzigenmal in der ganzen langen Oper ein
+               <lb facs="#facs_3_region_1684677338262_783_tl_7" n="N007"/>Zusammensingen mehrerer Stimmen vernehmen lassen. Selbst
+               <lb facs="#facs_3_region_1684677338262_783_tl_8" n="N008"/>in dem Liebesduett vereinigen sich die Stimmen <person_fictional>Siegmund</person_fictional>'s
+               <lb facs="#facs_3_line_1757054941006_1000" n="N009"/>und <person_fictional>Sieglinde</person_fictional>ns auch nicht zu einer einzigen Terz oder Sext.
+               <lb facs="#facs_3_region_1684677338262_783_tl_10" n="N010"/>Die Walküren-Scene wurde lebhaft applaudirt; alles Fol¬
                <lb facs="#facs_3_region_1684677338262_783_tl_11" n="N011"/>gende, besonders das überaus lange Zwiegespräch zwischen
-               <lb facs="#facs_3_region_1684677338262_783_tl_12" n="N012"/>Wotan und Brunhilde, schien die Hörer so sehr zu ermüden
-               <lb facs="#facs_3_region_1684677338262_783_tl_13" n="N013"/>daß der schönste Absatz (Wotan's Abschied) das Publicum
-               <lb facs="#facs_3_region_1684677338262_783_tl_14" n="N014"/>schon völlig abgestumpft fand. Erst der Auge und Ohr blen
-               <lb facs="#facs_3_region_1684677338262_783_tl_15" n="N015"/>dende „Feuerzauber“, ein unvergleichliches Instrumental
+               <lb facs="#facs_3_region_1684677338262_783_tl_12" n="N012"/><person_fictional>Wotan</person_fictional> und <person_fictional>Brunhilde</person_fictional>, schien die Hörer so sehr zu ermüden,
+               <lb facs="#facs_3_region_1684677338262_783_tl_13" n="N013"/>daß der schönste Absatz (<person_fictional>Wotan</person_fictional>'s Abschied) das Publicum
+               <lb facs="#facs_3_region_1684677338262_783_tl_14" n="N014"/>schon völlig abgestumpft fand. Erst der Aug' und Ohr blen¬
+               <lb facs="#facs_3_region_1684677338262_783_tl_15" n="N015"/>dende „Feuerzauber“, ein unvergleichliches Instrumental-
                <lb facs="#facs_3_region_1684677338262_783_tl_16" n="N016"/>Kunststück, weckte die ermatteten Lebensgeister wieder und mit
-               <lb facs="#facs_3_region_1684677338262_783_tl_17" n="N017"/>ihnen den Applaus und das Rufen, das auf den Galerien Zukunft lehren.
-               <lb facs="#facs_3_region_1684677338262_783_tl_18" n="N018"/>bis zum Auslöschen der Lampen rüstig fortgesetzt wurde. Di
-               <lb facs="#facs_3_region_1684677338262_783_tl_19" n="N019"/>günstige, ja lärmende Aufnahme der „Walküre" am ersten
-               <lb facs="#facs_3_region_1684677338262_783_tl_20" n="N020"/>Abend unterliegt also keinem Zweifel. Ob der Erfolg ein auf die Anwesenheit des russischen Großfürsten Wlad
-               <lb facs="#facs_3_region_1684677338262_783_tl_21" n="N021"/>nachhaltiger, bleibender sein werde, muß die Zukunft lehrer
-               <lb facs="#facs_3_region_1684677338262_783_tl_22" n="N022"/>Die „Meistersinger“, bei ihrer ersten Aufführung noch der russische Prinz in Berliner Hofkreisen es offen aus¬
-               <lb facs="#facs_3_region_1684677338262_783_tl_23" n="N023"/>enthusiastischer begrüßt, fanden bald einen spärlichen Zuspruch
-               <lb facs="#facs_3_region_1684677338262_783_tl_24" n="N024"/>erschienen immer seltener, bis sie endlich jetzt (mit Unrech
+               <lb facs="#facs_3_region_1684677338262_783_tl_17" n="N017"/>ihnen den Applaus und das Rufen, das auf den Galerien
+               <lb facs="#facs_3_region_1684677338262_783_tl_18" n="N018"/>bis zum Auslöschen der Lampen rüstig fortgesetzt wurde. Die
+               <lb facs="#facs_3_region_1684677338262_783_tl_19" n="N019"/>günstige, ja lärmende Aufnahme der „<work>Walküre</work>“ am ersten
+               <lb facs="#facs_3_line_1757054954537_1012" n="N020"/>Abend unterliegt also keinem Zweifel. Ob der Erfolg ein
+               <lb facs="#facs_3_region_1684677338262_783_tl_21" n="N021"/>nachhaltiger, bleibender sein werde, muß die Zukunft lehren.
+               <lb facs="#facs_3_line_1757054976942_1024" n="N022"/>Die „<italic><work>Meistersinger</work></italic>“, bei ihrer ersten Aufführung noch
+               <lb facs="#facs_3_region_1684677338262_783_tl_23" n="N023"/>enthusiastischer begrüßt, fanden bald einen spärlichen Zuspruch,
+               <lb facs="#facs_3_region_1684677338262_783_tl_24" n="N024"/>erschienen immer seltener, bis sie endlich jetzt (mit Unrecht)
                <lb facs="#facs_3_region_1684677338262_783_tl_25" n="N025"/>ganz vom Repertoire verschwunden sind. Und doch stehen die
-               <lb facs="#facs_3_region_1684677338262_783_tl_26" n="N026"/>„Meistersinger“, nach meiner Empfindung, entschieden übe
-               <lb facs="#facs_3_region_1684677338262_783_tl_27" n="N027"/>der „Walkkre", im Text wie in der Musik. Die natürlich
-               <lb facs="#facs_3_region_1684677338262_783_tl_28" n="N028"/>Empfindung des Dichters und die schöpferische Kraft de
-               <lb facs="#facs_3_region_1684677338262_783_tl_29" n="N029"/>Musikers erscheinen darin, gegen die „Walküre" gehalten, in lage durch Contributionen der Türkei nicht gedeckt werden
+               <lb facs="#facs_3_region_1684677338262_783_tl_26" n="N026"/>„<work>Meistersinger</work>“, nach meiner Empfindung, entschieden über
+               <lb facs="#facs_3_region_1684677338262_783_tl_27" n="N027"/>der „<work>Walküre</work>“, im Text wie in der Musik. Die natürliche
+               <lb facs="#facs_3_region_1684677338262_783_tl_28" n="N028"/>Empfindung des Dichters und die schöpferische Kraft des
+               <lb facs="#facs_3_line_1757054987831_1035" n="N029"/>Musikers erscheinen darin, gegen die „<work>Walküre</work>“ gehalten, in
                <lb facs="#facs_3_region_1684677338262_783_tl_30" n="N030"/>einer wahren Glorie von Jugendfrische und Gesundheit.
                <lb facs="#facs_3_region_1684677338262_783_tl_31" n="N031"/>Es galt heute nicht das Werk, sondern dessen Auffüh¬
-               <lb facs="#facs_3_region_1684677338262_783_tl_32" n="N032"/>rung im Hofoperntheater zu besprechen. Ueber Text un
-               <lb facs="#facs_3_region_1684677338262_783_tl_33" n="N033"/>Musik der „Walküre" habe ich meine Meinung in dieser
-               <lb facs="#facs_3_region_1684677338262_783_tl_34" n="N034"/>Blättern von Bayreuth aus mitgetheilt, wenigstens der Haupt
-               <lb facs="#facs_3_region_1684677338262_783_tl_35" n="N035"/>sache nach und im Zusammenhang mit der ganzen Trilogie
-               <lb facs="#facs_3_region_1684677338262_783_tl_36" n="N036"/>Einige Bemerkungen nachträglich noch hinzuzufügen, wird mit
-               <lb facs="#facs_3_region_1684677338262_783_tl_37" n="N037"/>gelegentlich der Wiederholungen der „Walkret wol gestattet sein, um die Erhaltung des Friedens zu verdoppeln. Deshalb hat facultäten offen der Krieg gemacht
+               <lb facs="#facs_3_region_1684677338262_783_tl_32" n="N032"/>rung im Hofoperntheater zu besprechen. Ueber Text und
+               <lb facs="#facs_3_region_1684677338262_783_tl_33" n="N033"/>Musik der „<work>Walküre</work>“ habe ich meine Meinung in diesen
+               <lb facs="#facs_3_region_1684677338262_783_tl_34" n="N034"/>Blättern von <rs type="place">Bayreuth</rs> aus mitgetheilt, wenigstens der Haupt¬
+               <lb facs="#facs_3_region_1684677338262_783_tl_35" n="N035"/>sache nach und im Zusammenhang mit der ganzen Trilogie.
+               <lb facs="#facs_3_region_1684677338262_783_tl_36" n="N036"/>Einige Bemerkungen nachträglich noch hinzuzufügen, wird mir
+               <lb facs="#facs_3_line_1757055001958_1048" n="N037"/>gelegentlich der Wiederholungen der „<work>Walküre</work>“ wol gestattet sein.
             </ab>
          </div>
       </body>

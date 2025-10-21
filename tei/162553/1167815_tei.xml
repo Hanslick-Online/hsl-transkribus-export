@@ -21,6 +21,15 @@
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_1">
          <graphic url="47750724.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=SDGFPRSTDWKIORQUHDVNIJBW&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="490,50 1722,50 1722,394 490,394" rendition="TextRegion" xml:id="facs_1_region_1684673765009_265">
+            <zone points="575,61 1700,61 1700,385 575,385" rendition="Line" xml:id="facs_1_line_1757768403402_1910"/>
+         </zone>
+         <zone points="910,420 1249,420 1249,515 910,515" rendition="TextRegion" xml:id="facs_1_region_1684673766652_268">
+            <zone points="915,450 1243,450 1243,517 915,517" rendition="Line" xml:id="facs_1_region_1684673766652_268_tl_1"/>
+         </zone>
+         <zone points="75,518 2145,518 2145,613 75,613" rendition="TextRegion" xml:id="facs_1_region_1684673769740_271">
+            <zone points="80,503 2122,503 2122,608 80,608" rendition="Line" xml:id="facs_1_line_1757768422993_1924"/>
+         </zone>
          <zone points="30,2362 761,2362 761,3437 30,3437" rendition="TextRegion" xml:id="facs_1_region_1684673780707_275">
             <zone points="197,2364 579,2364 579,2420 197,2420" rendition="Line" xml:id="facs_1_region_1684673780707_275_tl_1"/>
             <zone points="483,2427 716,2427 716,2474 483,2474" rendition="Line" xml:id="facs_1_region_1684673780707_275_tl_2"/>
@@ -33,7 +42,7 @@
             <zone points="43,2630 731,2630 731,2675 43,2675" rendition="Line" xml:id="facs_1_region_1684673780707_275_tl_9"/>
             <zone points="43,2655 727,2655 727,2708 43,2708" rendition="Line" xml:id="facs_1_region_1684673780707_275_tl_10"/>
             <zone points="40,2684 729,2684 729,2728 40,2728" rendition="Line" xml:id="facs_1_region_1684673780707_275_tl_11"/>
-            <zone points="43,2719 1443,2719 1443,2755 43,2755" rendition="Line" xml:id="facs_1_region_1684673780707_275_tl_12"/>
+            <zone points="43,2719 754,2719 754,2747 43,2747" rendition="Line" xml:id="facs_1_line_1757768441496_1936"/>
             <zone points="40,2740 738,2740 738,2789 40,2789" rendition="Line" xml:id="facs_1_region_1684673780707_275_tl_13"/>
             <zone points="45,2776 729,2776 729,2814 45,2814" rendition="Line" xml:id="facs_1_region_1684673780707_275_tl_14"/>
             <zone points="40,2800 729,2800 729,2843 40,2843" rendition="Line" xml:id="facs_1_region_1684673780707_275_tl_15"/>
@@ -56,19 +65,7 @@
             <zone points="92,3286 724,3286 724,3330 92,3330" rendition="Line" xml:id="facs_1_region_1684673780707_275_tl_32"/>
             <zone points="118,3315 731,3315 731,3355 118,3355" rendition="Line" xml:id="facs_1_region_1684673780707_275_tl_33"/>
             <zone points="118,3332 733,3332 733,3377 118,3377" rendition="Line" xml:id="facs_1_region_1684673780707_275_tl_34"/>
-         </zone>
-         <zone points="490,50 1722,50 1722,394 490,394" rendition="TextRegion" xml:id="facs_1_region_1684673765009_265">
-            <zone points="892,61 1246,61 1246,156 892,156" rendition="Line" xml:id="facs_1_region_1684673765009_265_tl_1"/>
-            <zone points="575,324 1700,324 1700,385 575,385" rendition="Line" xml:id="facs_1_region_1684673765009_265_tl_2"/>
-         </zone>
-         <zone points="910,420 1249,420 1249,515 910,515" rendition="TextRegion" xml:id="facs_1_region_1684673766652_268">
-            <zone points="915,450 1243,450 1243,517 915,517" rendition="Line" xml:id="facs_1_region_1684673766652_268_tl_1"/>
-         </zone>
-         <zone points="75,518 2145,518 2145,613 75,613" rendition="TextRegion" xml:id="facs_1_region_1684673769740_271">
-            <zone points="1946,503 2122,503 2122,595 1946,595" rendition="Line" xml:id="facs_1_region_1684673769740_271_tl_1"/>
-            <zone points="80,521 371,521 371,606 80,606" rendition="Line" xml:id="facs_1_region_1684673769740_271_tl_2"/>
-            <zone points="814,544 1378,544 1378,608 814,608" rendition="Line" xml:id="facs_1_region_1684673769740_271_tl_3"/>
-            <zone points="754,622 2160,622 2160,680 754,680" rendition="Line" xml:id="facs_1_region_1684673769740_271_tl_4"/>
+            <zone points="43,3367 756,3367 756,3420 43,3420" rendition="Line" xml:id="facs_1_line_1757768500049_1965"/>
          </zone>
          <zone points="758,2289 1472,2289 1472,3432 758,3432" rendition="TextRegion" xml:id="facs_1_region_1684673783488_278">
             <zone points="754,2290 1445,2290 1445,2324 754,2324" rendition="Line" xml:id="facs_1_region_1684673783488_278_tl_1"/>
@@ -86,11 +83,12 @@
             <zone points="758,2635 1434,2635 1434,2670 758,2670" rendition="Line" xml:id="facs_1_region_1684673783488_278_tl_13"/>
             <zone points="754,2662 1445,2662 1445,2699 754,2699" rendition="Line" xml:id="facs_1_region_1684673783488_278_tl_14"/>
             <zone points="754,2691 1440,2691 1440,2728 754,2728" rendition="Line" xml:id="facs_1_region_1684673783488_278_tl_15"/>
+            <zone points="754,2719 1443,2719 1443,2755 754,2755" rendition="Line" xml:id="facs_1_line_1757768441496_1935"/>
             <zone points="767,2749 1443,2749 1443,2782 767,2782" rendition="Line" xml:id="facs_1_region_1684673783488_278_tl_16"/>
             <zone points="758,2778 1443,2778 1443,2811 758,2811" rendition="Line" xml:id="facs_1_region_1684673783488_278_tl_17"/>
             <zone points="760,2804 1440,2804 1440,2843 760,2843" rendition="Line" xml:id="facs_1_region_1684673783488_278_tl_18"/>
             <zone points="758,2831 1445,2831 1445,2869 758,2869" rendition="Line" xml:id="facs_1_region_1684673783488_278_tl_19"/>
-            <zone points="758,2869 2167,2869 2167,2898 758,2898" rendition="Line" xml:id="facs_1_region_1684673783488_278_tl_20"/>
+            <zone points="758,2869 1468,2869 1468,2898 758,2898" rendition="Line" xml:id="facs_1_line_1757768472760_1951"/>
             <zone points="758,2889 1380,2889 1380,2928 758,2928" rendition="Line" xml:id="facs_1_region_1684673783488_278_tl_21"/>
             <zone points="809,2921 1451,2921 1451,2955 809,2955" rendition="Line" xml:id="facs_1_region_1684673783488_278_tl_22"/>
             <zone points="754,2952 1449,2952 1449,2983 754,2983" rendition="Line" xml:id="facs_1_region_1684673783488_278_tl_23"/>
@@ -108,7 +106,7 @@
             <zone points="758,3297 1443,3297 1443,3332 758,3332" rendition="Line" xml:id="facs_1_region_1684673783488_278_tl_35"/>
             <zone points="760,3319 1438,3319 1438,3355 760,3355" rendition="Line" xml:id="facs_1_region_1684673783488_278_tl_36"/>
             <zone points="754,3350 1449,3350 1449,3386 754,3386" rendition="Line" xml:id="facs_1_region_1684673783488_278_tl_37"/>
-            <zone points="43,3366 1494,3366 1494,3420 43,3420" rendition="Line" xml:id="facs_1_region_1684673783488_278_tl_38"/>
+            <zone points="756,3366 1494,3366 1494,3417 756,3417" rendition="Line" xml:id="facs_1_line_1757768500049_1964"/>
          </zone>
          <zone points="1475,2281 2178,2281 2178,3426 1475,3426" rendition="TextRegion" xml:id="facs_1_region_1684673786987_281">
             <zone points="1472,2288 2163,2288 2163,2322 1472,2322" rendition="Line" xml:id="facs_1_region_1684673786987_281_tl_1"/>
@@ -131,6 +129,7 @@
             <zone points="1472,2771 1917,2771 1917,2813 1472,2813" rendition="Line" xml:id="facs_1_region_1684673786987_281_tl_18"/>
             <zone points="1527,2789 2163,2789 2163,2843 1527,2843" rendition="Line" xml:id="facs_1_region_1684673786987_281_tl_19"/>
             <zone points="1476,2834 2165,2834 2165,2870 1476,2870" rendition="Line" xml:id="facs_1_region_1684673786987_281_tl_20"/>
+            <zone points="1468,2882 2167,2882 2167,2896 1468,2896" rendition="Line" xml:id="facs_1_line_1757768472760_1950"/>
             <zone points="1471,2898 2165,2898 2165,2932 1471,2932" rendition="Line" xml:id="facs_1_region_1684673786987_281_tl_21"/>
             <zone points="1472,2925 2167,2925 2167,2957 1472,2957" rendition="Line" xml:id="facs_1_region_1684673786987_281_tl_22"/>
             <zone points="1471,2955 2165,2955 2165,2986 1471,2986" rendition="Line" xml:id="facs_1_region_1684673786987_281_tl_23"/>
@@ -144,19 +143,18 @@
             <zone points="1471,3183 2169,3183 2169,3212 1471,3212" rendition="Line" xml:id="facs_1_region_1684673786987_281_tl_31"/>
             <zone points="1467,3212 2163,3212 2163,3247 1467,3247" rendition="Line" xml:id="facs_1_region_1684673786987_281_tl_32"/>
             <zone points="1472,3239 2169,3239 2169,3276 1472,3276" rendition="Line" xml:id="facs_1_region_1684673786987_281_tl_33"/>
-            <zone points="1521,3288 1747,3288 1747,3332 1521,3332" rendition="Line" xml:id="facs_1_region_1684673786987_281_tl_34"/>
-            <zone points="1742,3283 2093,3283 2093,3339 1742,3339" rendition="Line" xml:id="facs_1_region_1684673786987_281_tl_35"/>
-            <zone points="1776,3317 1932,3317 1932,3373 1776,3373" rendition="Line" xml:id="facs_1_region_1684673786987_281_tl_36"/>
-            <zone points="1601,3334 2181,3334 2181,3409 1601,3409" rendition="Line" xml:id="facs_1_region_1684673786987_281_tl_37"/>
-            <zone points="1521,3292 1612,3292 1612,3400 1521,3400" rendition="Line" xml:id="facs_1_region_1684673786987_281_tl_38"/>
-            <zone points="1518,3384 1816,3384 1816,3437 1518,3437" rendition="Line" xml:id="facs_1_region_1684673786987_281_tl_39"/>
+            <zone points="1517,3289 2172,3289 2172,3326 1517,3326" rendition="Line" xml:id="facs_1_line_1757768531809_1994"/>
+            <zone points="1474,3316 2175,3316 2175,3352 1474,3352" rendition="Line" xml:id="facs_1_line_1757768534744_1997"/>
+            <zone points="1470,3341 2178,3341 2178,3370 1470,3370" rendition="Line" xml:id="facs_1_line_1757768537136_2000"/>
+            <zone points="1471,3364 2179,3364 2179,3399 1471,3399" rendition="Line" xml:id="facs_1_line_1757768539425_2003"/>
+            <zone points="1477,3390 1826,3390 1826,3429 1477,3429" rendition="Line" xml:id="facs_1_line_1757768541056_2006"/>
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_2">
          <graphic url="47750725.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=IXPSGOBWUPRZPDOXLVDYEQSR&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="27,2236 747,2236 747,3421 27,3421" rendition="TextRegion" xml:id="facs_2_region_1684673795976_287">
-            <zone points="44,2254 1455,2254 1455,2298 44,2298" rendition="Line" xml:id="facs_2_region_1684673795976_287_tl_1"/>
+            <zone points="44,2254 764,2254 764,2298 44,2298" rendition="Line" xml:id="facs_2_line_1757768740464_2026"/>
             <zone points="41,2280 742,2280 742,2314 41,2314" rendition="Line" xml:id="facs_2_region_1684673795976_287_tl_2"/>
             <zone points="44,2308 745,2308 745,2346 44,2346" rendition="Line" xml:id="facs_2_region_1684673795976_287_tl_3"/>
             <zone points="37,2339 733,2339 733,2370 37,2370" rendition="Line" xml:id="facs_2_region_1684673795976_287_tl_4"/>
@@ -170,21 +168,19 @@
             <zone points="44,2568 731,2568 731,2600 44,2600" rendition="Line" xml:id="facs_2_region_1684673795976_287_tl_12"/>
             <zone points="46,2598 738,2598 738,2630 46,2630" rendition="Line" xml:id="facs_2_region_1684673795976_287_tl_13"/>
             <zone points="44,2625 731,2625 731,2656 44,2656" rendition="Line" xml:id="facs_2_region_1684673795976_287_tl_14"/>
-            <zone points="46,2655 1445,2655 1445,2692 46,2692" rendition="Line" xml:id="facs_2_region_1684673795976_287_tl_15"/>
+            <zone points="46,2655 753,2655 753,2688 46,2688" rendition="Line" xml:id="facs_2_line_1757768762280_2036"/>
             <zone points="46,2681 729,2681 729,2720 46,2720" rendition="Line" xml:id="facs_2_region_1684673795976_287_tl_16"/>
             <zone points="39,2715 733,2715 733,2750 39,2750" rendition="Line" xml:id="facs_2_region_1684673795976_287_tl_17"/>
             <zone points="46,2739 728,2739 728,2775 46,2775" rendition="Line" xml:id="facs_2_region_1684673795976_287_tl_18"/>
             <zone points="41,2771 738,2771 738,2803 41,2803" rendition="Line" xml:id="facs_2_region_1684673795976_287_tl_19"/>
             <zone points="37,2801 729,2801 729,2835 37,2835" rendition="Line" xml:id="facs_2_region_1684673795976_287_tl_20"/>
             <zone points="44,2830 733,2830 733,2860 44,2860" rendition="Line" xml:id="facs_2_region_1684673795976_287_tl_21"/>
-            <zone points="39,2860 1445,2860 1445,2900 39,2900" rendition="Line" xml:id="facs_2_region_1684673795976_287_tl_22"/>
+            <zone points="39,2860 758,2860 758,2892 39,2892" rendition="Line" xml:id="facs_2_line_1757768795089_2047"/>
             <zone points="37,2883 738,2883 738,2920 37,2920" rendition="Line" xml:id="facs_2_region_1684673795976_287_tl_23"/>
             <zone points="37,2913 729,2913 729,2946 37,2946" rendition="Line" xml:id="facs_2_region_1684673795976_287_tl_24"/>
             <zone points="49,2937 733,2937 733,2978 49,2978" rendition="Line" xml:id="facs_2_region_1684673795976_287_tl_25"/>
-            <zone points="35,2960 242,2960 242,3004 35,3004" rendition="Line" xml:id="facs_2_region_1684673795976_287_tl_26"/>
-            <zone points="237,2969 735,2969 735,3011 237,3011" rendition="Line" xml:id="facs_2_region_1684673795976_287_tl_27"/>
-            <zone points="42,2992 244,2992 244,3036 42,3036" rendition="Line" xml:id="facs_2_region_1684673795976_287_tl_28"/>
-            <zone points="237,2988 729,2988 729,3034 237,3034" rendition="Line" xml:id="facs_2_region_1684673795976_287_tl_29"/>
+            <zone points="35,2960 735,2960 735,3011 35,3011" rendition="Line" xml:id="facs_2_line_1757768817673_2060"/>
+            <zone points="42,2988 729,2988 729,3036 42,3036" rendition="Line" xml:id="facs_2_line_1757768821153_2064"/>
             <zone points="37,3029 726,3029 726,3061 37,3061" rendition="Line" xml:id="facs_2_region_1684673795976_287_tl_30"/>
             <zone points="46,3050 733,3050 733,3089 46,3089" rendition="Line" xml:id="facs_2_region_1684673795976_287_tl_31"/>
             <zone points="41,3084 729,3084 729,3117 41,3117" rendition="Line" xml:id="facs_2_region_1684673795976_287_tl_32"/>
@@ -197,32 +193,36 @@
             <zone points="41,3280 724,3280 724,3317 41,3317" rendition="Line" xml:id="facs_2_region_1684673795976_287_tl_39"/>
             <zone points="41,3306 733,3306 733,3347 41,3347" rendition="Line" xml:id="facs_2_region_1684673795976_287_tl_40"/>
             <zone points="37,3342 726,3342 726,3379 37,3379" rendition="Line" xml:id="facs_2_region_1684673795976_287_tl_41"/>
+            <zone points="39,3372 754,3372 754,3419 39,3419" rendition="Line" xml:id="facs_2_line_1757768879400_2093"/>
          </zone>
          <zone points="764,2247 1472,2247 1472,3426 764,3426" rendition="TextRegion" xml:id="facs_2_region_1684673799154_290">
+            <zone points="764,2255 1455,2255 1455,2293 764,2293" rendition="Line" xml:id="facs_2_line_1757768740464_2025"/>
             <zone points="763,2284 1452,2284 1452,2317 763,2317" rendition="Line" xml:id="facs_2_region_1684673799154_290_tl_1"/>
             <zone points="770,2316 1445,2316 1445,2349 770,2349" rendition="Line" xml:id="facs_2_region_1684673799154_290_tl_2"/>
-            <zone points="758,2347 2174,2347 2174,2390 758,2390" rendition="Line" xml:id="facs_2_region_1684673799154_290_tl_3"/>
+            <zone points="758,2347 1473,2347 1473,2380 758,2380" rendition="Line" xml:id="facs_2_line_1757768827552_2069"/>
             <zone points="759,2369 1448,2369 1448,2404 759,2404" rendition="Line" xml:id="facs_2_region_1684673799154_290_tl_4"/>
             <zone points="763,2399 1450,2399 1450,2437 763,2437" rendition="Line" xml:id="facs_2_region_1684673799154_290_tl_5"/>
             <zone points="763,2429 1450,2429 1450,2466 763,2466" rendition="Line" xml:id="facs_2_region_1684673799154_290_tl_6"/>
             <zone points="763,2455 1452,2455 1452,2490 763,2490" rendition="Line" xml:id="facs_2_region_1684673799154_290_tl_7"/>
-            <zone points="759,2487 2171,2487 2171,2528 759,2528" rendition="Line" xml:id="facs_2_region_1684673799154_290_tl_8"/>
+            <zone points="759,2487 1475,2487 1475,2520 759,2520" rendition="Line" xml:id="facs_2_line_1757768854769_2082"/>
             <zone points="763,2517 1455,2517 1455,2547 763,2547" rendition="Line" xml:id="facs_2_region_1684673799154_290_tl_9"/>
             <zone points="759,2542 1452,2542 1452,2577 759,2577" rendition="Line" xml:id="facs_2_region_1684673799154_290_tl_10"/>
             <zone points="763,2572 1445,2572 1445,2605 763,2605" rendition="Line" xml:id="facs_2_region_1684673799154_290_tl_11"/>
             <zone points="763,2598 1450,2598 1450,2635 763,2635" rendition="Line" xml:id="facs_2_region_1684673799154_290_tl_12"/>
             <zone points="754,2621 1450,2621 1450,2667 754,2667" rendition="Line" xml:id="facs_2_region_1684673799154_290_tl_13"/>
+            <zone points="753,2656 1445,2656 1445,2692 753,2692" rendition="Line" xml:id="facs_2_line_1757768762280_2035"/>
             <zone points="767,2686 1445,2686 1445,2720 767,2720" rendition="Line" xml:id="facs_2_region_1684673799154_290_tl_14"/>
             <zone points="758,2720 1447,2720 1447,2754 758,2754" rendition="Line" xml:id="facs_2_region_1684673799154_290_tl_15"/>
             <zone points="763,2739 1450,2739 1450,2777 763,2777" rendition="Line" xml:id="facs_2_region_1684673799154_290_tl_16"/>
             <zone points="759,2771 1447,2771 1447,2808 759,2808" rendition="Line" xml:id="facs_2_region_1684673799154_290_tl_17"/>
             <zone points="754,2803 1443,2803 1443,2833 754,2833" rendition="Line" xml:id="facs_2_region_1684673799154_290_tl_18"/>
             <zone points="754,2833 1443,2833 1443,2867 754,2867" rendition="Line" xml:id="facs_2_region_1684673799154_290_tl_19"/>
+            <zone points="758,2863 1445,2863 1445,2900 758,2900" rendition="Line" xml:id="facs_2_line_1757768795089_2046"/>
             <zone points="759,2888 1448,2888 1448,2920 759,2920" rendition="Line" xml:id="facs_2_region_1684673799154_290_tl_20"/>
             <zone points="754,2920 1445,2920 1445,2953 754,2953" rendition="Line" xml:id="facs_2_region_1684673799154_290_tl_21"/>
             <zone points="758,2944 1448,2944 1448,2980 758,2980" rendition="Line" xml:id="facs_2_region_1684673799154_290_tl_22"/>
             <zone points="758,2973 1445,2973 1445,3006 758,3006" rendition="Line" xml:id="facs_2_region_1684673799154_290_tl_23"/>
-            <zone points="754,2997 1372,2997 1372,3038 754,3038" rendition="Line" xml:id="facs_2_region_1684673799154_290_tl_24"/>
+            <zone points="754,2997 1445,2997 1445,3041 754,3041" rendition="Line" xml:id="facs_2_region_1684673799154_290_tl_24"/>
             <zone points="754,3034 1443,3034 1443,3066 754,3066" rendition="Line" xml:id="facs_2_region_1684673799154_290_tl_25"/>
             <zone points="758,3059 1448,3059 1448,3093 758,3093" rendition="Line" xml:id="facs_2_region_1684673799154_290_tl_26"/>
             <zone points="754,3087 1443,3087 1443,3121 754,3121" rendition="Line" xml:id="facs_2_region_1684673799154_290_tl_27"/>
@@ -233,18 +233,20 @@
             <zone points="759,3232 1438,3232 1438,3266 759,3266" rendition="Line" xml:id="facs_2_region_1684673799154_290_tl_32"/>
             <zone points="759,3259 1439,3259 1439,3296 759,3296" rendition="Line" xml:id="facs_2_region_1684673799154_290_tl_33"/>
             <zone points="763,3289 1445,3289 1445,3321 763,3321" rendition="Line" xml:id="facs_2_region_1684673799154_290_tl_34"/>
-            <zone points="767,3313 1300,3313 1300,3352 767,3352" rendition="Line" xml:id="facs_2_region_1684673799154_290_tl_35"/>
+            <zone points="767,3313 1453,3313 1453,3356 767,3356" rendition="Line" xml:id="facs_2_region_1684673799154_290_tl_35"/>
             <zone points="758,3338 1448,3338 1448,3377 758,3377" rendition="Line" xml:id="facs_2_region_1684673799154_290_tl_36"/>
-            <zone points="39,3372 1457,3372 1457,3419 39,3419" rendition="Line" xml:id="facs_2_region_1684673799154_290_tl_37"/>
+            <zone points="754,3373 1457,3373 1457,3415 754,3415" rendition="Line" xml:id="facs_2_line_1757768879400_2092"/>
          </zone>
          <zone points="1478,2241 2178,2241 2178,3421 1478,3421" rendition="TextRegion" xml:id="facs_2_region_1684673802643_293">
             <zone points="1477,2257 2172,2257 2172,2296 1477,2296" rendition="Line" xml:id="facs_2_region_1684673802643_293_tl_1"/>
             <zone points="1477,2289 2169,2289 2169,2328 1477,2328" rendition="Line" xml:id="facs_2_region_1684673802643_293_tl_2"/>
             <zone points="1477,2323 2171,2323 2171,2358 1477,2358" rendition="Line" xml:id="facs_2_region_1684673802643_293_tl_3"/>
+            <zone points="1473,2351 2174,2351 2174,2390 1473,2390" rendition="Line" xml:id="facs_2_line_1757768827552_2068"/>
             <zone points="1478,2372 2167,2372 2167,2411 1478,2411" rendition="Line" xml:id="facs_2_region_1684673802643_293_tl_4"/>
             <zone points="1477,2402 2172,2402 2172,2444 1477,2444" rendition="Line" xml:id="facs_2_region_1684673802643_293_tl_5"/>
             <zone points="1477,2430 2174,2430 2174,2467 1477,2467" rendition="Line" xml:id="facs_2_region_1684673802643_293_tl_6"/>
             <zone points="1470,2466 2171,2466 2171,2496 1470,2496" rendition="Line" xml:id="facs_2_region_1684673802643_293_tl_7"/>
+            <zone points="1475,2492 2171,2492 2171,2528 1475,2528" rendition="Line" xml:id="facs_2_line_1757768854768_2081"/>
             <zone points="1480,2519 2171,2519 2171,2556 1480,2556" rendition="Line" xml:id="facs_2_region_1684673802643_293_tl_8"/>
             <zone points="1473,2552 2174,2552 2174,2582 1473,2582" rendition="Line" xml:id="facs_2_region_1684673802643_293_tl_9"/>
             <zone points="1480,2579 2167,2579 2167,2614 1480,2614" rendition="Line" xml:id="facs_2_region_1684673802643_293_tl_10"/>
@@ -273,7 +275,7 @@
             <zone points="1473,3234 2176,3234 2176,3278 1473,3278" rendition="Line" xml:id="facs_2_region_1684673802643_293_tl_33"/>
             <zone points="1473,3262 2187,3262 2187,3299 1473,3299" rendition="Line" xml:id="facs_2_region_1684673802643_293_tl_34"/>
             <zone points="1473,3294 2171,3294 2171,3329 1473,3329" rendition="Line" xml:id="facs_2_region_1684673802643_293_tl_35"/>
-            <zone points="1293,3317 2181,3317 2181,3381 1293,3381" rendition="Line" xml:id="facs_2_region_1684673802643_293_tl_36"/>
+            <zone points="1485,3321 2181,3321 2181,3381 1485,3381" rendition="Line" xml:id="facs_2_region_1684673802643_293_tl_36"/>
             <zone points="1473,3345 1775,3345 1775,3388 1473,3388" rendition="Line" xml:id="facs_2_region_1684673802643_293_tl_37"/>
          </zone>
       </surface>
@@ -282,257 +284,259 @@
       <body>
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-            <ab facs="#facs_1_region_1684673780707_275" type="">
-               <lb facs="#facs_1_region_1684673780707_275_tl_1" n="N001"/>Vom Salzburger Musikfest.
-               <lb facs="#facs_1_region_1684673780707_275_tl_2" n="N002"/>Salzburg, 18. Juli.
-               <lb facs="#facs_1_region_1684673780707_275_tl_3" n="N003"/>Ed. H. „O Salzburg, wunderschöne Stadt, wenn's ein¬
-               <lb facs="#facs_1_region_1684673780707_275_tl_4" n="N004"/>mal ausgeregnet hat!" So sagt ein altes Studentenlied mit
-               <lb facs="#facs_1_region_1684673780707_275_tl_5" n="N005"/>einer wahrhaft tiefsinnigen Verschmelzung von Spott und
-               <lb facs="#facs_1_region_1684673780707_275_tl_6" n="N006"/>Bewunderung. Diesmal hat's aber nicht ausgeregnet, will
-               <lb facs="#facs_1_region_1684673780707_275_tl_7" n="N007"/>noch lange nicht ausgeregnet haben, und von der „wunder
-               <lb facs="#facs_1_region_1684673780707_275_tl_8" n="N008"/>schönen Stadt" sehen wir so gut wie nichts vor lauten
-               <lb facs="#facs_1_region_1684673780707_275_tl_9" n="N009"/>Regenschirmen. Unter Regenschirmen zogen vorgestern die
-               <lb facs="#facs_1_region_1684673780707_275_tl_10" n="N010"/>Wiener Musiker vom Bahnhof in die Stadt, unter Regen
-               <lb facs="#facs_1_region_1684673780707_275_tl_11" n="N011"/>schirmen wimmelte gestern Abends ganz Salzburg zum Con
-               <lb facs="#facs_1_region_1684673780707_275_tl_12" n="N012"/>tersaale, und — was vielleicht das Betrübsamste ist — die blieben. Im Ganzen verdient die Zusammenstellung des
-               <lb facs="#facs_1_region_1684673780707_275_tl_13" n="N013"/>für heute Früh vom Festcomité vorbereitete Massenwallfahrt
-               <lb facs="#facs_1_region_1684673780707_275_tl_14" n="N014"/>auf den Capuzinerberg ist durch den emsig strömende
-               <lb facs="#facs_1_region_1684673780707_275_tl_15" n="N015"/>Regen arg verdüstert worden. Auf den Capuzinerberg ha
-               <lb facs="#facs_1_region_1684673780707_275_tl_16" n="N016"/>man nämlich das kleine Gartenhäuschen verpflanzt, das bis
-               <lb facs="#facs_1_region_1684673780707_275_tl_17" n="N017"/>vor wenigen Jahren im mittleren Hofe des Starhemberg'schen
-               <lb facs="#facs_1_region_1684673780707_275_tl_18" n="N018"/>Freihauses in Wien stand und von Mozart als ein ruhige
-               <lb facs="#facs_1_region_1684673780707_275_tl_19" n="N019"/>Ahl beim Componiren der „Zauberflöte" mit Vorliebe be¬
-               <lb facs="#facs_1_region_1684673780707_275_tl_20" n="N020"/>nützt worden war. Für meine Person bin ich zwar kei=
-               <lb facs="#facs_1_region_1684673780707_275_tl_21" n="N021"/>Freund von dergleichen Loretto=Wundern, ebensowenig wie vor
-               <lb facs="#facs_1_region_1684673780707_275_tl_22" n="N022"/>der Ausgrabung und Uebertragung der Gebeine berühmte
-               <lb facs="#facs_1_region_1684673780707_275_tl_23" n="N023"/>Verstorbener, indeß bescheide ich mich gern mit meinem viel
-               <lb facs="#facs_1_region_1684673780707_275_tl_24" n="N024"/>leicht übertriebenen Zartgefühl für den Genius loci und stört
-               <lb facs="#facs_1_region_1684673780707_275_tl_25" n="N025"/>Niemandem die Freude, sich Mozart hoch oben auf den
-               <lb facs="#facs_1_region_1684673780707_275_tl_26" n="N026"/>Capuzinerberge an der „Zauberflöte" componirend zu denken
-               <lb facs="#facs_1_region_1684673780707_275_tl_27" n="N027"/>Aber schade ist's um den köstlichen Spaziergang hinauf un
-               <lb facs="#facs_1_region_1684673780707_275_tl_28" n="N028"/>um die kleine Festlichkeit, die unter Mitwirkung der Salz
-               <lb facs="#facs_1_region_1684673780707_275_tl_29" n="N029"/>burger Liedertafel, mit Fahnen und Blumen und vielen früh
-               <lb facs="#facs_1_region_1684673780707_275_tl_30" n="N030"/>lichen Menschen so hübsch sich entfaltet hätte — bei heiterem
-               <lb facs="#facs_1_region_1684673780707_275_tl_31" n="N031"/>Himmel
-               <lb facs="#facs_1_region_1684673780707_275_tl_32" n="N032"/>Gestern Abends hatten wir das erste Festconcert. De
-               <lb facs="#facs_1_region_1684673780707_275_tl_33" n="N033"/>zum Vortheil der Akustik nicht sehr hohe „Collegien
-               <lb facs="#facs_1_region_1684673780707_275_tl_34" n="N034"/>— die „Aula" der ehemaligen Universität Salzburg -
-            </ab>
             <ab facs="#facs_1_region_1684673765009_265" type="">
-               <lb facs="#facs_1_region_1684673765009_265_tl_1" n="N001"/>Neue
-               <lb facs="#facs_1_region_1684673765009_265_tl_2" n="N002"/>leie Presse.
+               <lb facs="#facs_1_line_1757768403402_1910" n="N001"/>Neue Freie Presse
             </ab>
             <ab facs="#facs_1_region_1684673766652_268" type="">
-               <lb facs="#facs_1_region_1684673766652_268_tl_1" n="N001"/>Morgenblatt.
+               <lb facs="#facs_1_region_1684673766652_268_tl_1" n="N001"/>Morgenblatt
             </ab>
             <ab facs="#facs_1_region_1684673769740_271" type="">
-               <lb facs="#facs_1_region_1684673769740_271_tl_1" n="N001"/>1877.
-               <lb facs="#facs_1_region_1684673769740_271_tl_2" n="N002"/>Nr. 4633.
-               <lb facs="#facs_1_region_1684673769740_271_tl_3" n="N003"/>Wien, Freitag, den 20. Juli
-               <lb facs="#facs_1_region_1684673769740_271_tl_4" n="N004"/>gaß in Italien, daß Tegetthoff der Feind war; man kannte und finden daselbst eine unübertroffene Arbeit: „Der Canal
+               <lb facs="#facs_1_line_1757768422993_1924" n="N001"/>Nr. 4633. Wien, Freitag, den 20. Juli 1877
+            </ab>
+            <ab facs="#facs_1_region_1684673780707_275" type="">
+               <lb facs="#facs_1_region_1684673780707_275_tl_1" n="N001"/>Vom <rs type="place">Salzburg</rs>er Musikfest. II.
+               <lb facs="#facs_1_region_1684673780707_275_tl_2" n="N002"/><italic><rs type="place">Salzburg</rs></italic>, 18. Juli.
+               <lb facs="#facs_1_region_1684673780707_275_tl_3" n="N003"/>Ed. H. „O <rs type="place">Salzburg</rs>, wunderschöne Stadt, wenn's ein¬
+               <lb facs="#facs_1_region_1684673780707_275_tl_4" n="N004"/>mal ausgeregnet hat!“ So sagt ein altes Studentenlied mit
+               <lb facs="#facs_1_region_1684673780707_275_tl_5" n="N005"/>einer wahrhaft tiefsinnigen Verschmelzung von Spott und
+               <lb facs="#facs_1_region_1684673780707_275_tl_6" n="N006"/>Bewunderung. Diesmal hat's aber nicht ausgeregnet, will
+               <lb facs="#facs_1_region_1684673780707_275_tl_7" n="N007"/>noch lange nicht ausgeregnet haben, und von der „wunder¬
+               <lb facs="#facs_1_region_1684673780707_275_tl_8" n="N008"/>schönen Stadt“ sehen wir so gut wie nichts vor lauter
+               <lb facs="#facs_1_region_1684673780707_275_tl_9" n="N009"/>Regenschirmen. Unter Regenschirmen zogen vorgestern die
+               <lb facs="#facs_1_region_1684673780707_275_tl_10" n="N010"/><rs type="place">Wien</rs>er Musiker vom Bahnhof in die Stadt, unter Regen¬
+               <lb facs="#facs_1_region_1684673780707_275_tl_11" n="N011"/>schirmen wimmelte gestern Abends ganz <rs type="place">Salzburg</rs> zum Con¬
+               <lb facs="#facs_1_line_1757768441496_1936" n="N012"/>tersaale, und — was vielleicht das Betrübsamste ist — die
+               <lb facs="#facs_1_region_1684673780707_275_tl_13" n="N013"/>für heute Früh vom Festcomité vorbereitete Massenwallfahrt
+               <lb facs="#facs_1_region_1684673780707_275_tl_14" n="N014"/>auf den <rs type="place">Capuzinerberg</rs> ist durch den emsig strömenden
+               <lb facs="#facs_1_region_1684673780707_275_tl_15" n="N015"/>Regen arg verdüstert worden. Auf den <rs type="place">Capuzinerberg</rs> hat
+               <lb facs="#facs_1_region_1684673780707_275_tl_16" n="N016"/>man nämlich das kleine Gartenhäuschen verpflanzt, das bis
+               <lb facs="#facs_1_region_1684673780707_275_tl_17" n="N017"/>vor wenigen Jahren im mittleren Hofe des Starhemberg'schen
+               <lb facs="#facs_1_region_1684673780707_275_tl_18" n="N018"/>Freihauses in <rs type="place">Wien</rs> stand und von <rs type="person">Mozart</rs> als ein ruhiges
+               <lb facs="#facs_1_region_1684673780707_275_tl_19" n="N019"/>Asyl beim Componiren der „<work>Zauberflöte</work>“ mit Vorliebe be¬
+               <lb facs="#facs_1_region_1684673780707_275_tl_20" n="N020"/>nützt worden war. Für meine Person bin ich zwar kein
+               <lb facs="#facs_1_region_1684673780707_275_tl_21" n="N021"/>Freund von dergleichen <rs type="place">Loretto</rs>-Wundern, ebensowenig wie von
+               <lb facs="#facs_1_region_1684673780707_275_tl_22" n="N022"/>der Ausgrabung und Uebertragung der Gebeine berühmter
+               <lb facs="#facs_1_region_1684673780707_275_tl_23" n="N023"/>Verstorbener, indeß bescheide ich mich gern mit meinem viel¬
+               <lb facs="#facs_1_region_1684673780707_275_tl_24" n="N024"/>leicht übertriebenen Zartgefühl für den Genius loci und störe
+               <lb facs="#facs_1_region_1684673780707_275_tl_25" n="N025"/>Niemandem die Freude, sich <rs type="person">Mozart</rs> hoch oben auf dem
+               <lb facs="#facs_1_region_1684673780707_275_tl_26" n="N026"/><rs type="place">Capuzinerberge</rs> an der „<work>Zauberflöte</work>“ componirend zu denken.
+               <lb facs="#facs_1_region_1684673780707_275_tl_27" n="N027"/>Aber schade ist's um den köstlichen Spaziergang hinauf und
+               <lb facs="#facs_1_region_1684673780707_275_tl_28" n="N028"/>um die kleine Festlichkeit, die unter Mitwirkung der <rs type="place" continued="true">Salz¬</rs>
+               <lb facs="#facs_1_region_1684673780707_275_tl_29" n="N029"/><rs type="place" continued="true">burg</rs>er Liedertafel, mit Fahnen und Blumen und vielen fröh¬
+               <lb facs="#facs_1_region_1684673780707_275_tl_30" n="N030"/>lichen Menschen so hübsch sich entfaltet hätte — bei heiterem
+               <lb facs="#facs_1_region_1684673780707_275_tl_31" n="N031"/>Himmel.
+               <lb facs="#facs_1_region_1684673780707_275_tl_32" n="N032"/>Gestern Abends hatten wir das erste Festconcert. Der
+               <lb facs="#facs_1_region_1684673780707_275_tl_33" n="N033"/>große, zum Vortheil der Akustik nicht sehr hohe „Collegien¬
+               <lb facs="#facs_1_region_1684673780707_275_tl_34" n="N034"/>saal“ — die „Aula“ der ehemaligen Universität <rs type="place">Salzburg</rs> —
+               <lb facs="#facs_1_line_1757768500049_1965" n="N035"/>war für das Musikfest bequem hergerichtet und durch das
             </ab>
             <ab facs="#facs_1_region_1684673783488_278" type="">
                <lb facs="#facs_1_region_1684673783488_278_tl_1" n="N001"/>milde Licht unzähliger Wachskerzen zugleich geschmückt und
-               <lb facs="#facs_1_region_1684673783488_278_tl_2" n="N002"/>erhellt. Den an zwölfhundert Menschen fassenden Saal fan
-               <lb facs="#facs_1_region_1684673783488_278_tl_3" n="N003"/>den wir zwar nicht vollständig, aber doch von einer zahl
-               <lb facs="#facs_1_region_1684673783488_278_tl_4" n="N004"/>reichen, distinguirten Versammlung besetzt. Die erste Sitz
-               <lb facs="#facs_1_region_1684673783488_278_tl_5" n="N005"/>reihe nehmen die Erzherzoge Franz Karl und Ludwig Victo
+               <lb facs="#facs_1_region_1684673783488_278_tl_2" n="N002"/>erhellt. Den an zwölfhundert Menschen fassenden Saal fan¬
+               <lb facs="#facs_1_region_1684673783488_278_tl_3" n="N003"/>den wir zwar nicht vollständig, aber doch von einer zahl¬
+               <lb facs="#facs_1_region_1684673783488_278_tl_4" n="N004"/>reichen, distinguirten Versammlung besetzt. Die erste Sitz¬
+               <lb facs="#facs_1_region_1684673783488_278_tl_5" n="N005"/>reihe nehmen die Erzherzoge <rs type="person">Franz Karl</rs> und <rs type="person">Ludwig Victor</rs>
                <lb facs="#facs_1_region_1684673783488_278_tl_6" n="N006"/>nebst der Aristokratie und den obersten Würdenträgern der
-               <lb facs="#facs_1_region_1684673783488_278_tl_7" n="N007"/>Stadt ein. Otto Dessoff, der Dirigent des Musik¬
-               <lb facs="#facs_1_region_1684673783488_278_tl_8" n="N008"/>festes, wird mit anhaltenden stürmischen Applaus begrüßt
-               <lb facs="#facs_1_region_1684673783488_278_tl_9" n="N009"/>Cherubini's Ouvertüre zu „Anakreon" macht den An¬
+               <lb facs="#facs_1_region_1684673783488_278_tl_7" n="N007"/>Stadt ein. <italic>Otto <rs type="person">Dessoff</rs></italic>, der Dirigent des Musik¬
+               <lb facs="#facs_1_region_1684673783488_278_tl_8" n="N008"/>festes, wird mit anhaltenden stürmischen Applaus begrüßt.
+               <lb facs="#facs_1_region_1684673783488_278_tl_9" n="N009"/><italic><rs type="person">Cherubini</rs>'s</italic> Ouvertüre zu „<work>Anakreon</work>“ macht den An¬
                <lb facs="#facs_1_region_1684673783488_278_tl_10" n="N010"/>fang, ein Stück von vornehmer Langweiligkeit, dessen feine
-               <lb facs="#facs_1_region_1684673783488_278_tl_11" n="N011"/>Details mehr für das Stammpublicum eines Abonnements
-               <lb facs="#facs_1_region_1684673783488_278_tl_12" n="N012"/>Concertes, als für ein großes Musikfest passen. Wir hätte
-               <lb facs="#facs_1_region_1684673783488_278_tl_13" n="N013"/>das Concert lieber durch die Ouvertüre zur „Zauberflöte
+               <lb facs="#facs_1_region_1684673783488_278_tl_11" n="N011"/>Details mehr für das Stammpublicum eines Abonnements-
+               <lb facs="#facs_1_region_1684673783488_278_tl_12" n="N012"/>Concertes, als für ein großes Musikfest passen. Wir hätten
+               <lb facs="#facs_1_region_1684673783488_278_tl_13" n="N013"/>das Concert lieber durch die Ouvertüre zur „<work>Zauberflöte</work>“
                <lb facs="#facs_1_region_1684673783488_278_tl_14" n="N014"/>eingeleitet gesehen. Ueberdies wäre ohne diese Eine Nummer
-               <lb facs="#facs_1_region_1684673783488_278_tl_15" n="N015"/>das ganze Programm aller drei Tage ein rein deutsches ge
-               <lb facs="#facs_1_region_1684673783488_278_tl_16" n="N016"/>Programms bezüglich der darin vertretenen Meister alle¬
-               <lb facs="#facs_1_region_1684673783488_278_tl_17" n="N017"/>Lob; es enthält von Mozart, wie es sich hier gebührt, dre
-               <lb facs="#facs_1_region_1684673783488_278_tl_18" n="N018"/>größere Stücke und je eines von Händel, Bach, Glud
-               <lb facs="#facs_1_region_1684673783488_278_tl_19" n="N019"/>Haydn, Beethoven, Weber, Spohr, Mendelssohn, Schumann
-               <lb facs="#facs_1_region_1684673783488_278_tl_20" n="N020"/>Wagner, Brahms, Volkmann und Goldmark. Schubert nationalen Mozart=Stiftung“ in Salzburg. Wir
-               <lb facs="#facs_1_region_1684673783488_278_tl_21" n="N021"/>wird am dritten Tage durch mehrere Lieder vertreten.
-               <lb facs="#facs_1_region_1684673783488_278_tl_22" n="N022"/>Von den Orchesterstücken des ersten Abends erhielten
-               <lb facs="#facs_1_region_1684673783488_278_tl_23" n="N023"/>den lebhaftesten Beifall das Scherzo aus Mendelssohn's
-               <lb facs="#facs_1_region_1684673783488_278_tl_24" n="N024"/>„Sommernachtstraum“ und die C-moll-Symphonie von Beet¬
-               <lb facs="#facs_1_region_1684673783488_278_tl_25" n="N025"/>hoven. Man fühlte, daß der nunmehr großherzoglich badisch
-               <lb facs="#facs_1_region_1684673783488_278_tl_26" n="N026"/>Hofkapellmeister Dessoff diesem Orchester kein Fremder, son
-               <lb facs="#facs_1_region_1684673783488_278_tl_27" n="N027"/>dern mit demselben Ein Herz und Eine Seele sei. Ohne da
-               <lb facs="#facs_1_region_1684673783488_278_tl_28" n="N028"/>jahrelange glückliche Zusammenwirken Dessoff's und de
-               <lb facs="#facs_1_region_1684673783488_278_tl_29" n="N029"/>philharmonischen Orchesters in Wien wären so exacte, aus
-               <lb facs="#facs_1_region_1684673783488_278_tl_30" n="N030"/>gefeilte Aufführungen nach einer einzigen Probe nicht denk
-               <lb facs="#facs_1_region_1684673783488_278_tl_31" n="N031"/>bar gewesen. Ja, wie zwei langgetrennte Freunde sich dann
-               <lb facs="#facs_1_region_1684673783488_278_tl_32" n="N032"/>doppelt freudig umarmen, so schienen Dessoff und das Wie
-               <lb facs="#facs_1_region_1684673783488_278_tl_33" n="N033"/>er Orchester sich heute noch frischer und schwungvoller der
-               <lb facs="#facs_1_region_1684673783488_278_tl_34" n="N034"/>Rusik hinzugeben. Von Mozart's Concert für Violine und
-               <lb facs="#facs_1_region_1684673783488_278_tl_35" n="N035"/>Viola hätte wol der schöne erste Satz, den wir in Wien se
-               <lb facs="#facs_1_region_1684673783488_278_tl_36" n="N036"/>oft und so vortrefflich (von Hellmesberger mit Joachim un
-               <lb facs="#facs_1_region_1684673783488_278_tl_37" n="N037"/>Laub) gehört, hingereicht; die beiden folgenden Sätze brin¬
-               <lb facs="#facs_1_region_1684673783488_278_tl_38" n="N038"/>war für das Musikfest bequem hergerichtet und durch das gen wenig Neues von Bedeutung hinzu. Die Herren Grün¬
+               <lb facs="#facs_1_region_1684673783488_278_tl_15" n="N015"/>das ganze Programm aller drei Tage ein rein <rs type="place">deutsch</rs>es ge¬
+               <lb facs="#facs_1_line_1757768441496_1935" n="N016"/>blieben. Im Ganzen verdient die Zusammenstellung des
+               <lb facs="#facs_1_region_1684673783488_278_tl_16" n="N017"/>Programms bezüglich der darin vertretenen Meister alles
+               <lb facs="#facs_1_region_1684673783488_278_tl_17" n="N018"/>Lob; es enthält von <rs type="person">Mozart</rs>, wie es sich hier gebührt, drei
+               <lb facs="#facs_1_region_1684673783488_278_tl_18" n="N019"/>größere Stücke und je eines von <rs type="person">Händel</rs>, <rs type="person">Bach</rs>, <rs type="person">Gluck</rs>,
+               <lb facs="#facs_1_region_1684673783488_278_tl_19" n="N020"/><rs type="person">Haydn</rs>, <rs type="person">Beethoven</rs>, <rs type="person">Weber</rs>, <rs type="person">Spohr</rs>, <rs type="person">Mendelssohn</rs>, <rs type="person">Schumann</rs>,
+               <lb facs="#facs_1_line_1757768472760_1951" n="N021"/><rs type="person">Wagner</rs>, <rs type="person">Brahms</rs>, <rs type="person">Volkmann</rs> und <rs type="person">Goldmark</rs>. <rs type="person">Schubert</rs>
+               <lb facs="#facs_1_region_1684673783488_278_tl_21" n="N022"/>wird am dritten Tage durch mehrere Lieder vertreten.
+               <lb facs="#facs_1_region_1684673783488_278_tl_22" n="N023"/>Von den Orchesterstücken des ersten Abends erhielten
+               <lb facs="#facs_1_region_1684673783488_278_tl_23" n="N024"/>den lebhaftesten Beifall das Scherzo aus <rs type="person">Mendelssohn</rs>'s
+               <lb facs="#facs_1_region_1684673783488_278_tl_24" n="N025"/>„<work>Sommernachtstraum</work>“ und die <work>C-moll-Symphonie</work> von <rs type="person" continued="true">Beet¬</rs>
+               <lb facs="#facs_1_region_1684673783488_278_tl_25" n="N026"/><rs type="person" continued="true">hoven</rs>. Man fühlte, daß der nunmehr großherzoglich <rs type="place">badisch</rs>e
+               <lb facs="#facs_1_region_1684673783488_278_tl_26" n="N027"/>Hofcapellmeister <rs type="person">Dessoff</rs> diesem Orchester kein Fremder, son¬
+               <lb facs="#facs_1_region_1684673783488_278_tl_27" n="N028"/>dern mit demselben Ein Herz und Eine Seele sei. Ohne das
+               <lb facs="#facs_1_region_1684673783488_278_tl_28" n="N029"/>jahrelange glückliche Zusammenwirken <rs type="person">Dessoff</rs>'s und des
+               <lb facs="#facs_1_region_1684673783488_278_tl_29" n="N030"/>philharmonischen Orchesters in <rs type="place">Wien</rs> wären so exacte, aus¬
+               <lb facs="#facs_1_region_1684673783488_278_tl_30" n="N031"/>gefeilte Aufführungen nach einer einzigen Probe nicht denk¬
+               <lb facs="#facs_1_region_1684673783488_278_tl_31" n="N032"/>bar gewesen. Ja, wie zwei langgetrennte Freunde sich dann
+               <lb facs="#facs_1_region_1684673783488_278_tl_32" n="N033"/>doppelt freudig umarmen, so schienen <rs type="person">Dessoff</rs> und das <rs type="place" continued="true">Wie¬</rs>
+               <lb facs="#facs_1_region_1684673783488_278_tl_33" n="N034"/><rs type="place" continued="true">n</rs>er Orchester sich heute noch frischer und schwungvoller der
+               <lb facs="#facs_1_region_1684673783488_278_tl_34" n="N035"/>Musik hinzugeben. Von <rs type="person">Mozart</rs>'s <work continued="true">Concert für Violine und</work>
+               <lb facs="#facs_1_region_1684673783488_278_tl_35" n="N036"/><work continued="true">Viola</work> hätte wol der schöne erste Satz, den wir in <rs type="place">Wien</rs> so
+               <lb facs="#facs_1_region_1684673783488_278_tl_36" n="N037"/>oft und so vortrefflich (von <rs type="person">Hellmesberger</rs> mit <rs type="person">Joachim</rs> und
+               <lb facs="#facs_1_region_1684673783488_278_tl_37" n="N038"/><rs type="person">Laub</rs>) gehört, hingereicht; die beiden folgenden Sätze brin¬
+               <lb facs="#facs_1_line_1757768500049_1964" n="N039"/>gen wenig Neues von Bedeutung hinzu. Die Herren <italic><rs type="person">Grün</rs></italic>
             </ab>
             <ab facs="#facs_1_region_1684673786987_281" type="">
-               <lb facs="#facs_1_region_1684673786987_281_tl_1" n="N001"/>und Krancevic spielten das Concert mit lobens¬
+               <lb facs="#facs_1_region_1684673786987_281_tl_1" n="N001"/>und <italic><rs type="person">Krancevic</rs></italic> spielten das <work>Concert</work> mit lobens¬
                <lb facs="#facs_1_region_1684673786987_281_tl_2" n="N002"/>werther, etwas schulmeisterischer Tüchtigkeit. Stürmischen
                <lb facs="#facs_1_region_1684673786987_281_tl_3" n="N003"/>Beifall ernteten die Gesangsvorträge von Frau Caroline
-               <lb facs="#facs_1_region_1684673786987_281_tl_4" n="N004"/>Bettelheim=Gomperz, deren Stimme frischer und
+               <lb facs="#facs_1_region_1684673786987_281_tl_4" n="N004"/><italic><rs type="person">Bettelheim-Gomperz</rs></italic>, deren Stimme frischer und
                <lb facs="#facs_1_region_1684673786987_281_tl_5" n="N005"/>kräftiger klang, als im vorigen Winter, und des Herrn
-               <lb facs="#facs_1_region_1684673786987_281_tl_6" n="N006"/>Joseph Staudigl. Herr Staudigl, jetzt badischer Hofopern¬
+               <lb facs="#facs_1_region_1684673786987_281_tl_6" n="N006"/>Joseph <italic><rs type="person">Staudigl</rs></italic>. Herr <rs type="person">Staudigl</rs>, jetzt <rs type="place">badisch</rs>er Hofopern¬
                <lb facs="#facs_1_region_1684673786987_281_tl_7" n="N007"/>sänger, den wir vor zwei Jahren in einer Production des
-               <lb facs="#facs_1_region_1684673786987_281_tl_8" n="N008"/>Wiener Conservatoriums zuletzt gehört, hat uns mit der
-               <lb facs="#facs_1_region_1684673786987_281_tl_9" n="N009"/>Vortrag der Spohr'schen Arie: „Liebe ist die holde Blüthe
+               <lb facs="#facs_1_region_1684673786987_281_tl_8" n="N008"/><rs type="place">Wien</rs>er Conservatoriums zuletzt gehört, hat uns mit dem
+               <lb facs="#facs_1_region_1684673786987_281_tl_9" n="N009"/>Vortrag der <rs type="person">Spohr</rs>'schen Arie: „<work>Liebe ist die holde Blüthe</work>“
                <lb facs="#facs_1_region_1684673786987_281_tl_10" n="N010"/>auf das angenehmste überrascht. Seine warme und kräftige
-               <lb facs="#facs_1_region_1684673786987_281_tl_11" n="N011"/>Stimme, mehr dem Baß, als dem Bariton=Charakter zunei
+               <lb facs="#facs_1_region_1684673786987_281_tl_11" n="N011"/>Stimme, mehr dem Baß- als dem Bariton-Charakter zunei¬
                <lb facs="#facs_1_region_1684673786987_281_tl_12" n="N012"/>gend, klingt männlicher, reifer, sein Vortrag, namentlich die
                <lb facs="#facs_1_region_1684673786987_281_tl_13" n="N013"/>Coloratur, fließt viel gleichmäßiger und weicher dahin.
-               <lb facs="#facs_1_region_1684673786987_281_tl_14" n="N014"/>Staudigl ist heute schon ein vortrefflicher Sänger von be¬
-               <lb facs="#facs_1_region_1684673786987_281_tl_15" n="N015"/>neidenswerthen Mitteln und macht mit dem jungen Be¬
-               <lb facs="#facs_1_region_1684673786987_281_tl_16" n="N016"/>und dem jungen Erl das Kleeblatt österreichischer Sänger
+               <lb facs="#facs_1_region_1684673786987_281_tl_14" n="N014"/><rs type="person">Staudigl</rs> ist heute schon ein vortrefflicher Sänger von be¬
+               <lb facs="#facs_1_region_1684673786987_281_tl_15" n="N015"/>neidenswerthen Mitteln und macht mit dem jungen <italic><rs type="person">Beck</rs></italic>
+               <lb facs="#facs_1_region_1684673786987_281_tl_16" n="N016"/>und dem jungen <italic><rs type="person">Erl</rs></italic> das Kleeblatt <rs type="place">österreichisch</rs>er Sänger
                <lb facs="#facs_1_region_1684673786987_281_tl_17" n="N017"/>voll, auf welche — eine seltene Ausnahme — Stimme und
                <lb facs="#facs_1_region_1684673786987_281_tl_18" n="N018"/>Talent des Vaters sich vererbt haben.
                <lb facs="#facs_1_region_1684673786987_281_tl_19" n="N019"/>Nächst den Künstlern gebührt der aufrichtigste Dank
-               <lb facs="#facs_1_region_1684673786987_281_tl_20" n="N020"/>dem Veranstalter des Musikfestes, nämlich der „Inter¬
-               <lb facs="#facs_1_region_1684673786987_281_tl_21" n="N021"/>sind so oft befragt worden über die Tendenz und die Lei¬
-               <lb facs="#facs_1_region_1684673786987_281_tl_22" n="N022"/>stungen dieses Institutes, über das wir selbst genügende Aus¬
-               <lb facs="#facs_1_region_1684673786987_281_tl_23" n="N023"/>kunft nicht geben konnten, daß wir eine hier soeben erschienen¬
-               <lb facs="#facs_1_region_1684673786987_281_tl_24" n="N024"/>authentische Festschrift: „Das Salzburger Musikfest", von
-               <lb facs="#facs_1_region_1684673786987_281_tl_25" n="N025"/>R. v. Freisauff, sehr willkommen heißen. Wahrscheinlich ver¬
-               <lb facs="#facs_1_region_1684673786987_281_tl_26" n="N026"/>stehen wir auch nach der Lectüre dieser Schrift die Sache
-               <lb facs="#facs_1_region_1684673786987_281_tl_27" n="N027"/>noch nicht völlig, denn wir können die etwas schwankende
-               <lb facs="#facs_1_region_1684673786987_281_tl_28" n="N028"/>Basis und die hoch in den Lüften hängenden Ziele der
-               <lb facs="#facs_1_region_1684673786987_281_tl_29" n="N029"/>„Internationalen Mozart=Stiftung“ nicht recht mit der selbst¬
-               <lb facs="#facs_1_region_1684673786987_281_tl_30" n="N030"/>zufriedenen Stimmung ihrer Festschrift zusammenreimen
-               <lb facs="#facs_1_region_1684673786987_281_tl_31" n="N031"/>Den Verein gründeten vor acht Jahren fünfzehn ehrenwerthe
-               <lb facs="#facs_1_region_1684673786987_281_tl_32" n="N032"/>Männer) in Salzburg und bezeichneten als dessen Auf
-               <lb facs="#facs_1_region_1684673786987_281_tl_33" n="N033"/>gaben: „1. Gründung einer Mozart=Stiftung zur Hilfe¬
-               <lb facs="#facs_1_region_1684673786987_281_tl_34" n="N034"/>*) Jhre Namen sind
-               <lb facs="#facs_1_region_1684673786987_281_tl_35" n="N035"/>: Johann Engl, Franz Gessele,
-               <lb facs="#facs_1_region_1684673786987_281_tl_36" n="N036"/>. .
-               <lb facs="#facs_1_region_1684673786987_281_tl_37" n="N037"/>Schläger, Franz Schöberl. C. Spängler, Baron
-               <lb facs="#facs_1_region_1684673786987_281_tl_38" n="N038"/>la
-               <lb facs="#facs_1_region_1684673786987_281_tl_39" n="N039"/>erneck, Hanns Wörnhardt.
+               <lb facs="#facs_1_region_1684673786987_281_tl_20" n="N020"/>dem Veranstalter des Musikfestes, nämlich der „<italic continued="true">Inter¬</italic>
+               <lb facs="#facs_1_line_1757768472760_1950" n="N021"/><italic continued="true">nationalen Mozart-Stiftung</italic>“ in <rs type="place">Salzburg</rs>. Wir
+               <lb facs="#facs_1_region_1684673786987_281_tl_21" n="N022"/>sind so oft befragt worden über die Tendenz und die Lei¬
+               <lb facs="#facs_1_region_1684673786987_281_tl_22" n="N023"/>stungen dieses Institutes, über das wir selbst genügende Aus¬
+               <lb facs="#facs_1_region_1684673786987_281_tl_23" n="N024"/>kunft nicht geben konnten, daß wir eine hier soeben erschienene
+               <lb facs="#facs_1_region_1684673786987_281_tl_24" n="N025"/>authentische Festschrift: „<work>Das Salzburger Musikfest</work>“, von
+               <lb facs="#facs_1_region_1684673786987_281_tl_25" n="N026"/>R. v. <rs type="person">Freisauff</rs>, sehr willkommen heißen. Wahrscheinlich ver¬
+               <lb facs="#facs_1_region_1684673786987_281_tl_26" n="N027"/>stehen wir auch nach der Lectüre dieser Schrift die Sache
+               <lb facs="#facs_1_region_1684673786987_281_tl_27" n="N028"/>noch nicht völlig, denn wir können die etwas schwankende
+               <lb facs="#facs_1_region_1684673786987_281_tl_28" n="N029"/>Basis und die hoch in den Lüften hängenden Ziele der
+               <lb facs="#facs_1_region_1684673786987_281_tl_29" n="N030"/>„Internationalen Mozart-Stiftung“ nicht recht mit der selbst¬
+               <lb facs="#facs_1_region_1684673786987_281_tl_30" n="N031"/>zufriedenen Stimmung ihrer Festschrift zusammenreimen.
+               <lb facs="#facs_1_region_1684673786987_281_tl_31" n="N032"/>Den Verein gründeten vor acht Jahren fünfzehn ehrenwerthe
+               <lb facs="#facs_1_region_1684673786987_281_tl_32" n="N033"/>Männer*) in <rs type="place">Salzburg</rs> und bezeichneten als dessen Auf¬
+               <lb facs="#facs_1_region_1684673786987_281_tl_33" n="N034"/>gaben: „1. Gründung einer Mozart-Stiftung zur <italic continued="true">Hilfe¬</italic>
+               <lb facs="#facs_1_line_1757768531809_1994" n="N035"/>*) Ihre Namen sind: Johann <italic><rs type="person">Engl</rs></italic>, Franz <italic><rs type="person">Gessele</rs></italic>, Math.
+               <lb facs="#facs_1_line_1757768534744_1997" n="N036"/><italic><rs type="person">Gschnitzer</rs></italic>, Dr. <italic><rs type="person">Harrer</rs></italic>, Dr. <italic><rs type="person">Hirschfeld</rs></italic>, Johann <italic><rs type="person">Horner</rs></italic>,
+               <lb facs="#facs_1_line_1757768537136_2000" n="N037"/>C. <italic><rs type="person">Kautetzky</rs></italic>, Ignaz <italic><rs type="person">Kholler</rs></italic>, R. v. <italic><rs type="person">Merkens</rs></italic>, Adolph
+               <lb facs="#facs_1_line_1757768539425_2003" n="N038"/><italic><rs type="person">Rosian</rs></italic>, H. <italic><rs type="person">Schläger</rs></italic>, Franz <italic><rs type="person">Schöberl</rs></italic>, C. <italic><rs type="person">Spängler</rs></italic>, Baron
+               <lb facs="#facs_1_line_1757768541056_2006" n="N039"/><italic><rs type="person">Sterneck</rs></italic>, Hanns <italic><rs type="person">Wörnhardt</rs></italic>.
             </ab>
             <pb facs="#facs_2" n="2" xml:id="img_0002"/>
             <ab facs="#facs_2_region_1684673795976_287" type="">
-               <lb facs="#facs_2_region_1684673795976_287_tl_1" n="N001"/>spendung in jeder Richtung für Tondichter und von einem Festcomité empfangen, das zwar die Liebenswür¬
-               <lb facs="#facs_2_region_1684673795976_287_tl_2" n="N002"/>Tonkünstler aller Zonen und Stämme in der
-               <lb facs="#facs_2_region_1684673795976_287_tl_3" n="N003"/>Weise der bestehenden Schiller=Stiftung. 2. Die
-               <lb facs="#facs_2_region_1684673795976_287_tl_4" n="N004"/>Gründung einer Hochschule für Musik in Salzbur
-               <lb facs="#facs_2_region_1684673795976_287_tl_5" n="N005"/>und von Stipendien für Kunstjünger. 3. Erbauung eine
-               <lb facs="#facs_2_region_1684673795976_287_tl_6" n="N006"/>Mozarthauses für Concert-Aufführungen und zur Unter
-               <lb facs="#facs_2_region_1684673795976_287_tl_7" n="N007"/>bringung einer musikalischen Universal=Bibliothek rc.
-               <lb facs="#facs_2_region_1684673795976_287_tl_8" n="N008"/>Gleich der erste Punkt setzt durch seine Großartigkeit in Er
-               <lb facs="#facs_2_region_1684673795976_287_tl_9" n="N009"/>stannen: „Hilfespendung für Tonkünstler aller Zonen un
-               <lb facs="#facs_2_region_1684673795976_287_tl_10" n="N010"/>aller Stämme!" Das klingt ja, als wenn der Graf Mont¬
-               <lb facs="#facs_2_region_1684673795976_287_tl_11" n="N011"/>Christo spräche. Jedenfalls muß man annehmen, daß Je
-               <lb facs="#facs_2_region_1684673795976_287_tl_12" n="N012"/>mand, der weit über sein Vaterland hinaus allen Bedräng
-               <lb facs="#facs_2_region_1684673795976_287_tl_13" n="N013"/>ten aufzuhelfen beabsichtigt, im eigenen Hause wohlbestallt
-               <lb facs="#facs_2_region_1684673795976_287_tl_14" n="N014"/>das heißt, daß Musik und Musiker in Salzburg in
-               <lb facs="#facs_2_region_1684673795976_287_tl_15" n="N015"/>blühendsten Zustande seien. Aber ganz im Gegentheil. In wenn sie nicht blos deutsche, sondern auch fran
-               <lb facs="#facs_2_region_1684673795976_287_tl_16" n="N016"/>Salzburg besteht seit nahezu vierzig Jahren ein tüchtige
-               <lb facs="#facs_2_region_1684673795976_287_tl_17" n="N017"/>Musikverein sammt Musikschule unter dem Namen Mozar
-               <lb facs="#facs_2_region_1684673795976_287_tl_18" n="N018"/>teum. Wie die Festschrift selbst constatirt, ist das Mozar
+               <lb facs="#facs_2_line_1757768740464_2026" n="N001"/><italic>spendung in jeder Richtung</italic> für Tondichter und
+               <lb facs="#facs_2_region_1684673795976_287_tl_2" n="N002"/><italic>Tonkünstler aller Zonen und Stämme </italic>in der
+               <lb facs="#facs_2_region_1684673795976_287_tl_3" n="N003"/>Weise der bestehenden <italic>Schiller-Stiftung</italic>. 2. Die
+               <lb facs="#facs_2_region_1684673795976_287_tl_4" n="N004"/>Gründung einer <italic>Hochschule für Musik </italic>in <rs type="place">Salzburg</rs>
+               <lb facs="#facs_2_region_1684673795976_287_tl_5" n="N005"/>und von Stipendien für Kunstjünger. 3. Erbauung eines
+               <lb facs="#facs_2_region_1684673795976_287_tl_6" n="N006"/><italic><rs type="person">Mozart</rs>hauses </italic>für Concert-Aufführungen und zur Unter¬
+               <lb facs="#facs_2_region_1684673795976_287_tl_7" n="N007"/>bringung einer <italic>musikalischen Universal-Bibliothek</italic> etc.“
+               <lb facs="#facs_2_region_1684673795976_287_tl_8" n="N008"/>Gleich der erste Punkt setzt durch seine Großartigkeit in Er¬
+               <lb facs="#facs_2_region_1684673795976_287_tl_9" n="N009"/>staunen: „Hilfespendung für Tonkünstler aller Zonen und
+               <lb facs="#facs_2_region_1684673795976_287_tl_10" n="N010"/>aller Stämme!“ Das klingt ja, als wenn der Graf <rs type="person" continued="true">Monte-</rs>
+               <lb facs="#facs_2_region_1684673795976_287_tl_11" n="N011"/><rs type="person" continued="true">Christo</rs> spräche. Jedenfalls muß man annehmen, daß Je¬
+               <lb facs="#facs_2_region_1684673795976_287_tl_12" n="N012"/>mand, der weit über sein Vaterland hinaus allen Bedräng¬
+               <lb facs="#facs_2_region_1684673795976_287_tl_13" n="N013"/>ten aufzuhelfen beabsichtigt, im eigenen Hause wohlbestallt,
+               <lb facs="#facs_2_region_1684673795976_287_tl_14" n="N014"/>das heißt, daß Musik und Musiker in <italic><rs type="place">Salzburg</rs></italic> im
+               <lb facs="#facs_2_line_1757768762280_2036" n="N015"/>blühendsten Zustande seien. Aber ganz im Gegentheil. In
+               <lb facs="#facs_2_region_1684673795976_287_tl_16" n="N016"/><rs type="place">Salzburg</rs> besteht seit nahezu vierzig Jahren ein tüchtiger
+               <lb facs="#facs_2_region_1684673795976_287_tl_17" n="N017"/>Musikverein sammt Musikschule unter dem Namen <italic continued="true">Mozar¬</italic>
+               <lb facs="#facs_2_region_1684673795976_287_tl_18" n="N018"/><italic continued="true">teum</italic>. Wie die Festschrift selbst constatirt, ist „das Mozar¬
                <lb facs="#facs_2_region_1684673795976_287_tl_19" n="N019"/>teum ausgiebiger Unterstützung bedürftig und sind seine pecu¬
-               <lb facs="#facs_2_region_1684673795976_287_tl_20" n="N020"/>niären Verhältnisse leider unzureichend, um künstlerisch hoch
-               <lb facs="#facs_2_region_1684673795976_287_tl_21" n="N021"/>gebildete Kräfte dauernd an das Institut zu fesseln". Das
-               <lb facs="#facs_2_region_1684673795976_287_tl_22" n="N022"/>Mozarteum ist außer Stande, seinen Mitgliedern jenes Maß liegende Festschrift beklagt sich darüber, daß von zwei
-               <lb facs="#facs_2_region_1684673795976_287_tl_23" n="N023"/>von materieller Anerkennung zuzugestehen, das den Lei¬
-               <lb facs="#facs_2_region_1684673795976_287_tl_24" n="N024"/>stungen jedes Einzelnen auch nur an
-               <lb facs="#facs_2_region_1684673795976_287_tl_25" n="N025"/>nähernd gleichkämen. Wie stimmt nun dieser
-               <lb facs="#facs_2_region_1684673795976_287_tl_26" n="N026"/>traurige Zustand
-               <lb facs="#facs_2_region_1684673795976_287_tl_27" n="N027"/>d der Musik im eigenen Lande zu den
-               <lb facs="#facs_2_region_1684673795976_287_tl_28" n="N028"/>„internationalen
-               <lb facs="#facs_2_region_1684673795976_287_tl_29" n="N029"/>topien der neuen Salzburger Mozart
-               <lb facs="#facs_2_region_1684673795976_287_tl_30" n="N030"/>Stiftung? Die Gründer der letzteren gingen un
-               <lb facs="#facs_2_region_1684673795976_287_tl_31" n="N031"/>sprünglich allerdings von der richtigen Absicht aus
-               <lb facs="#facs_2_region_1684673795976_287_tl_32" n="N032"/>die pecuniären Verhältnisse des Mozarteums zu ver
-               <lb facs="#facs_2_region_1684673795976_287_tl_33" n="N033"/>bessern und eine Vereinigung mit diesem anzustreben
-               <lb facs="#facs_2_region_1684673795976_287_tl_34" n="N034"/>Sie ließen sich aber durch locale und persönliche Bedenken
-               <lb facs="#facs_2_region_1684673795976_287_tl_35" n="N035"/>insbesondere durch das Abhängigkeits-Verhältniß des Mo¬
-               <lb facs="#facs_2_region_1684673795976_287_tl_36" n="N036"/>zarteums vom erzbischöflichen Consistorium wieder von jenen
-               <lb facs="#facs_2_region_1684673795976_287_tl_37" n="N037"/>guten Vorsatz abbringen, so daß die „Internationale Mozart¬
-               <lb facs="#facs_2_region_1684673795976_287_tl_38" n="N038"/>Stiftung“ dem älteren heimischen Musik=Institut, dem
-               <lb facs="#facs_2_region_1684673795976_287_tl_39" n="N039"/>Mozarteum, jetzt nicht blos indifferent, sondern feindli¬
-               <lb facs="#facs_2_region_1684673795976_287_tl_40" n="N040"/>gegenübersteht. Weder der Director noch die Lehrer und
-               <lb facs="#facs_2_region_1684673795976_287_tl_41" n="N041"/>Musiker des Mozarteums wurden zu dem Musikfest beige
+               <lb facs="#facs_2_region_1684673795976_287_tl_20" n="N020"/>niären Verhältnisse leider unzureichend, um künstlerisch hoch¬
+               <lb facs="#facs_2_region_1684673795976_287_tl_21" n="N021"/>gebildete Kräfte dauernd an das Institut zu fesseln“. Das
+               <lb facs="#facs_2_line_1757768795089_2047" n="N022"/>Mozarteum ist außer Stande, seinen Mitgliedern „jenes Maß
+               <lb facs="#facs_2_region_1684673795976_287_tl_23" n="N023"/>von materieller Anerkennung zuzugestehen, das den <italic continued="true">Lei¬</italic>
+               <lb facs="#facs_2_region_1684673795976_287_tl_24" n="N024"/><italic continued="true">stungen jedes Einzelnen auch nur an¬</italic>
+               <lb facs="#facs_2_region_1684673795976_287_tl_25" n="N025"/><italic continued="true">nähernd gleichkäme</italic>“. Wie stimmt nun dieser
+               <lb facs="#facs_2_line_1757768817673_2060" n="N026"/>traurige Zustand der Musik im eigenen Lande zu den
+               <lb facs="#facs_2_line_1757768821153_2064" n="N027"/>„internationalen“ Utopien der neuen <rs type="place">Salzburg</rs>er Mozart-
+               <lb facs="#facs_2_region_1684673795976_287_tl_30" n="N028"/>Stiftung? Die Gründer der letzteren gingen ur¬
+               <lb facs="#facs_2_region_1684673795976_287_tl_31" n="N029"/>sprünglich allerdings von der richtigen Absicht aus,
+               <lb facs="#facs_2_region_1684673795976_287_tl_32" n="N030"/>die pecuniären Verhältnisse des Mozarteums zu ver¬
+               <lb facs="#facs_2_region_1684673795976_287_tl_33" n="N031"/>bessern und eine Vereinigung mit diesem anzustreben.
+               <lb facs="#facs_2_region_1684673795976_287_tl_34" n="N032"/>Sie ließen sich aber durch locale und persönliche Bedenken,
+               <lb facs="#facs_2_region_1684673795976_287_tl_35" n="N033"/>insbesondere durch das Abhängigkeits-Verhältniß des Mo¬
+               <lb facs="#facs_2_region_1684673795976_287_tl_36" n="N034"/>zarteums vom erzbischöflichen Consistorium wieder von jenem
+               <lb facs="#facs_2_region_1684673795976_287_tl_37" n="N035"/>guten Vorsatz abbringen, so daß die „Internationale Mozart-
+               <lb facs="#facs_2_region_1684673795976_287_tl_38" n="N036"/>Stiftung“ dem älteren heimischen Musik-Institut, dem
+               <lb facs="#facs_2_region_1684673795976_287_tl_39" n="N037"/>Mozarteum, jetzt nicht blos indifferent, sondern feindlich
+               <lb facs="#facs_2_region_1684673795976_287_tl_40" n="N038"/>gegenübersteht. Weder der Director noch die Lehrer und
+               <lb facs="#facs_2_region_1684673795976_287_tl_41" n="N039"/>Musiker des Mozarteums wurden zu dem Musikfest beige¬
+               <lb facs="#facs_2_line_1757768879400_2093" n="N040"/>zogen, ja die <rs type="place">Wien</rs>er Musiker sahen sich zu ihrem Erstaunen
             </ab>
             <ab facs="#facs_2_region_1684673799154_290" type="">
-               <lb facs="#facs_2_region_1684673799154_290_tl_1" n="N001"/>digkeit selbst, aber in keinerlei Berührung mit den Salzbur¬
-               <lb facs="#facs_2_region_1684673799154_290_tl_2" n="N002"/>ger Fachmusikern, also den eigenen Kunstgenossen, war. At
-               <lb facs="#facs_2_region_1684673799154_290_tl_3" n="N003"/>Fremde können wir uns über rein locale Zerwürfnisse kein keit auf die Hebung und Consolidirung der Musikzustände
-               <lb facs="#facs_2_region_1684673799154_290_tl_4" n="N004"/>Urtheil anmaßen; aber die Ueberzeugung steht in uns uner
-               <lb facs="#facs_2_region_1684673799154_290_tl_5" n="N005"/>schütterlich fest: diese Zerwürfnisse müssen aufhören, dies
-               <lb facs="#facs_2_region_1684673799154_290_tl_6" n="N006"/>Hemmungen müssen überwunden werden, soll die „Inter
-               <lb facs="#facs_2_region_1684673799154_290_tl_7" n="N007"/>nationale Mozart=Stiftung“ sich nicht um das Vertrauen
-               <lb facs="#facs_2_region_1684673799154_290_tl_8" n="N008"/>der Kunstwelt bringen. Ein kosmopolitischer Welterlöser, der unterrichten läßt. Und am Wohlthun im eigenen Lande wird
-               <lb facs="#facs_2_region_1684673799154_290_tl_9" n="N009"/>mit seinem nächsten Nachbar und Zunftkameraden in Hader
-               <lb facs="#facs_2_region_1684673799154_290_tl_10" n="N010"/>lebt, macht uns leicht mißtrauisch. Ein Seitenstück zur
-               <lb facs="#facs_2_region_1684673799154_290_tl_11" n="N011"/>Schiller=Stiftung will dieser Mozart=Verein sein
-               <lb facs="#facs_2_region_1684673799154_290_tl_12" n="N012"/>Ja, glauben denn die fünfzehn Salzburger Herren
-               <lb facs="#facs_2_region_1684673799154_290_tl_13" n="N013"/>wirklich, daß unsere Schiller-Stiftung noch existirte
-               <lb facs="#facs_2_region_1684673799154_290_tl_14" n="N014"/>zösische, italienische, russische Dichter unterstützen wollte
-               <lb facs="#facs_2_region_1684673799154_290_tl_15" n="N015"/>Und hätte ganz Deutschland sein Geld geschickt zu diese
-               <lb facs="#facs_2_region_1684673799154_290_tl_16" n="N016"/>Schiller=Stiftung, wenn der Aufruf dazu statt von den erster
-               <lb facs="#facs_2_region_1684673799154_290_tl_17" n="N017"/>Dichtern und Schriftstellern Deutschlands von fünfzehn in
-               <lb facs="#facs_2_region_1684673799154_290_tl_18" n="N018"/>der Literatur ganz unbekannten Männern — und wären e
-               <lb facs="#facs_2_region_1684673799154_290_tl_19" n="N019"/>die ehrenwerthesten — ausgegangen wäre? Die uns vor
-               <lb facs="#facs_2_region_1684673799154_290_tl_20" n="N020"/>tausend Gesangvereinen, die zur Förderung der „Inter¬
-               <lb facs="#facs_2_region_1684673799154_290_tl_21" n="N021"/>nationalen Mozart=Stiftung" eingeladen wurden, nur zwöl
-               <lb facs="#facs_2_region_1684673799154_290_tl_22" n="N022"/>deren Mitglieder geworden sind. „Wenn alle Vereine der
-               <lb facs="#facs_2_region_1684673799154_290_tl_23" n="N023"/>Monarchie der Stiftung nur mit einem Jahresbeitrag von
-               <lb facs="#facs_2_region_1684673799154_290_tl_24" n="N024"/>zehn Gulden beigetreten wären, würde diese heute sch¬
-               <lb facs="#facs_2_region_1684673799154_290_tl_25" n="N025"/>ein Vermögen von Hunderttausenden verfügen können!" Da¬
-               <lb facs="#facs_2_region_1684673799154_290_tl_26" n="N026"/>kann sehr bedauerlich sein, aber begreiflich, meinen wir, ist es
-               <lb facs="#facs_2_region_1684673799154_290_tl_27" n="N027"/>auch. Ganz anders hätte sich die Theilnahme wahrscheinlich
-               <lb facs="#facs_2_region_1684673799154_290_tl_28" n="N028"/>gestaltet, wenn Heinrich Esser, der damals noch in Salz
-               <lb facs="#facs_2_region_1684673799154_290_tl_29" n="N029"/>burg lebte, und Joachim, der als Besitzer einer Salzbur
-               <lb facs="#facs_2_region_1684673799154_290_tl_30" n="N030"/>ger Villa seinen Sommer dort zubringt, ihre Unterschrif
-               <lb facs="#facs_2_region_1684673799154_290_tl_31" n="N031"/>unter den Aufruf gesetzt hätten. Aber leider wollte die „Inter
-               <lb facs="#facs_2_region_1684673799154_290_tl_32" n="N032"/>nationale Mozart=Stiftung“ gerade die Fachmusiker, also die
-               <lb facs="#facs_2_region_1684673799154_290_tl_33" n="N033"/>jenigen Männer ausgeschlossen haben, deren Name und Bürg
-               <lb facs="#facs_2_region_1684673799154_290_tl_34" n="N034"/>schaft in der Musikwelt den Ausschlag gibt. Jedes
-               <lb facs="#facs_2_region_1684673799154_290_tl_35" n="N035"/>solide neue Kunstunternehmen muß zunä
-               <lb facs="#facs_2_region_1684673799154_290_tl_36" n="N036"/>Bestehende, Gegebene anknüpfen und die vorhandenen
-               <lb facs="#facs_2_region_1684673799154_290_tl_37" n="N037"/>zogen, ja die Wiener Musiker sahen sich zu ihrem Erstaunen bewährten Anfängt weiterführen, nicht sie unterdrücken.
+               <lb facs="#facs_2_line_1757768740464_2025" n="N001"/>von einem Festcomité empfangen, das zwar die Liebenswür¬
+               <lb facs="#facs_2_region_1684673799154_290_tl_1" n="N002"/>digkeit selbst, aber in keinerlei Berührung mit den <rs type="place" continued="true">Salzbur¬</rs>
+               <lb facs="#facs_2_region_1684673799154_290_tl_2" n="N003"/><rs type="place" continued="true">g</rs>er Fachmusikern, also den eigenen Kunstgenossen, war. Als
+               <lb facs="#facs_2_line_1757768827552_2069" n="N004"/>Fremde können wir uns über rein locale Zerwürfnisse kein
+               <lb facs="#facs_2_region_1684673799154_290_tl_4" n="N005"/>Urtheil anmaßen; aber die Ueberzeugung steht in uns uner¬
+               <lb facs="#facs_2_region_1684673799154_290_tl_5" n="N006"/>schütterlich fest: diese Zerwürfnisse <italic>müssen</italic> aufhören, diese
+               <lb facs="#facs_2_region_1684673799154_290_tl_6" n="N007"/>Hemmungen <italic>müssen</italic> überwunden werden, soll die „Inter¬
+               <lb facs="#facs_2_region_1684673799154_290_tl_7" n="N008"/>nationale Mozart-Stiftung“ sich nicht um das Vertrauen
+               <lb facs="#facs_2_line_1757768854769_2082" n="N009"/>der Kunstwelt bringen. Ein kosmopolitischer Welterlöser, der
+               <lb facs="#facs_2_region_1684673799154_290_tl_9" n="N010"/>mit seinem nächsten Nachbar und Zunftkameraden in Hader
+               <lb facs="#facs_2_region_1684673799154_290_tl_10" n="N011"/>lebt, macht uns leicht mißtrauisch. Ein Seitenstück zur
+               <lb facs="#facs_2_region_1684673799154_290_tl_11" n="N012"/><italic>Schiller-Stiftung</italic> will dieser <rs type="person">Mozart</rs>-Verein sein?
+               <lb facs="#facs_2_region_1684673799154_290_tl_12" n="N013"/>Ja, glauben denn die fünfzehn <rs type="place">Salzburg</rs>er Herren
+               <lb facs="#facs_2_region_1684673799154_290_tl_13" n="N014"/>wirklich, daß unsere Schiller-Stiftung noch existirte,
+               <lb facs="#facs_2_line_1757768762280_2035" n="N015"/>wenn sie nicht blos <rs type="place">deutsch</rs>e, sondern auch <rs type="place" continued="true">fran¬</rs>
+               <lb facs="#facs_2_region_1684673799154_290_tl_14" n="N016"/><rs type="place" continued="true">zösisch</rs>e, <rs type="place">italienisch</rs>e, <rs type="place">russisch</rs>e Dichter unterstützen wollte?
+               <lb facs="#facs_2_region_1684673799154_290_tl_15" n="N017"/>Und hätte ganz <rs type="place">Deutschland</rs> sein Geld geschickt zu dieser
+               <lb facs="#facs_2_region_1684673799154_290_tl_16" n="N018"/>Schiller-Stiftung, wenn der Aufruf dazu statt von den ersten
+               <lb facs="#facs_2_region_1684673799154_290_tl_17" n="N019"/>Dichtern und Schriftstellern <rs type="place">Deutschland</rs>s von fünfzehn in
+               <lb facs="#facs_2_region_1684673799154_290_tl_18" n="N020"/>der Literatur ganz unbekannten Männern — und wären es
+               <lb facs="#facs_2_region_1684673799154_290_tl_19" n="N021"/>die ehrenwerthesten — ausgegangen wäre? Die uns vor¬
+               <lb facs="#facs_2_line_1757768795089_2046" n="N022"/>liegende Festschrift beklagt sich darüber, daß von <italic continued="true">zwei¬</italic>
+               <lb facs="#facs_2_region_1684673799154_290_tl_20" n="N023"/><italic continued="true">tausend</italic> Gesangvereinen, die zur Förderung der „Inter¬
+               <lb facs="#facs_2_region_1684673799154_290_tl_21" n="N024"/>nationalen Mozart-Stiftung“ eingeladen wurden, nur <italic>zwölf</italic>
+               <lb facs="#facs_2_region_1684673799154_290_tl_22" n="N025"/>deren Mitglieder geworden sind. „Wenn alle Vereine der
+               <lb facs="#facs_2_region_1684673799154_290_tl_23" n="N026"/>Monarchie der Stiftung nur mit einem Jahresbeitrag von
+               <lb facs="#facs_2_region_1684673799154_290_tl_24" n="N027"/>zehn Gulden beigetreten wären, würde diese heute schon über
+               <lb facs="#facs_2_region_1684673799154_290_tl_25" n="N028"/>ein Vermögen von Hunderttausenden verfügen können!“ Das
+               <lb facs="#facs_2_region_1684673799154_290_tl_26" n="N029"/>kann sehr bedauerlich sein, aber begreiflich, meinen wir, ist es
+               <lb facs="#facs_2_region_1684673799154_290_tl_27" n="N030"/>auch. Ganz anders hätte sich die Theilnahme wahrscheinlich
+               <lb facs="#facs_2_region_1684673799154_290_tl_28" n="N031"/>gestaltet, wenn Heinrich <italic><rs type="person">Esser</rs></italic>, der damals noch in <rs type="place" continued="true">Salz¬</rs>
+               <lb facs="#facs_2_region_1684673799154_290_tl_29" n="N032"/><rs type="place" continued="true">burg</rs> lebte, und <italic><rs type="person">Joachim</rs></italic>, der als Besitzer einer <rs type="place" continued="true">Salzbur¬</rs>
+               <lb facs="#facs_2_region_1684673799154_290_tl_30" n="N033"/><rs type="place" continued="true">g</rs>er Villa seinen Sommer dort zubringt, ihre Unterschrift
+               <lb facs="#facs_2_region_1684673799154_290_tl_31" n="N034"/>unter den Aufruf gesetzt hätten. Aber leider wollte die „Inter¬
+               <lb facs="#facs_2_region_1684673799154_290_tl_32" n="N035"/>nationale Mozart-Stiftung“ gerade die Fachmusiker, also die¬
+               <lb facs="#facs_2_region_1684673799154_290_tl_33" n="N036"/>jenigen Männer ausgeschlossen haben, deren Name und Bürg¬
+               <lb facs="#facs_2_region_1684673799154_290_tl_34" n="N037"/>schaft in der Musikwelt den Ausschlag gibt. Jedes
+               <lb facs="#facs_2_region_1684673799154_290_tl_35" n="N038"/>solide neue Kunstunternehmen muß zunächst an das
+               <lb facs="#facs_2_region_1684673799154_290_tl_36" n="N039"/>Bestehende, Gegebene anknüpfen und die vorhandenen
+               <lb facs="#facs_2_line_1757768879400_2092" n="N040"/>bewährten Anfänge weiterführen, nicht sie unterdrücken.
             </ab>
             <ab facs="#facs_2_region_1684673802643_293" type="">
                <lb facs="#facs_2_region_1684673802643_293_tl_1" n="N001"/>Gebt dem armen Collegen lieber einen Thaler, als „diesen
-               <lb facs="#facs_2_region_1684673802643_293_tl_2" n="N002"/>Kuß der ganzen Welt“! Die „Internationale Mozart=Stiftung“
+               <lb facs="#facs_2_region_1684673802643_293_tl_2" n="N002"/>Kuß der ganzen Welt“! Die „Internationale Mozart-Stiftung“
                <lb facs="#facs_2_region_1684673802643_293_tl_3" n="N003"/>muß unseres Erachtens um jeden Preis ihre nächste Thätig¬
-               <lb facs="#facs_2_region_1684673802643_293_tl_4" n="N004"/>der Stadt Salzburg und des Landes Salzburg wenden
-               <lb facs="#facs_2_region_1684673802643_293_tl_5" n="N005"/>sie muß mit der Unterstützung ihrer Landsleute beginnen,
-               <lb facs="#facs_2_region_1684673802643_293_tl_6" n="N006"/>bevor sie etwa einen herabgekommenen russischen Hornisten
-               <lb facs="#facs_2_region_1684673802643_293_tl_7" n="N007"/>nen kleidet oder talentvolle Negerknaben auf der Ocarina
-               <lb facs="#facs_2_region_1684673802643_293_tl_8" n="N008"/>sie kein Bischof und kein Erzbischof hindern. Ein Mißverstehen
-               <lb facs="#facs_2_region_1684673802643_293_tl_9" n="N009"/>aller gegebenen Verhältnisse ist es ferner, wenn die Herren
-               <lb facs="#facs_2_region_1684673802643_293_tl_10" n="N010"/>von der Mozart=Stiftung eine „musikalische Hochschule"
-               <lb facs="#facs_2_region_1684673802643_293_tl_11" n="N011"/>in Salzburg errichten wollen. Wenn sie Millionen zur Ver¬
-               <lb facs="#facs_2_region_1684673802643_293_tl_12" n="N012"/>fügung hätten, sie könnten das nicht; denn nur in Residen¬
-               <lb facs="#facs_2_region_1684673802643_293_tl_13" n="N013"/>zen wie Wien oder Berlin, nur wo eine große Oper, regel¬
-               <lb facs="#facs_2_region_1684673802643_293_tl_14" n="N014"/>mäßige Orchester=Concerte, ein lebhafter Musikverlag, reiche
-               <lb facs="#facs_2_region_1684673802643_293_tl_15" n="N015"/>musikalische und wissenschaftliche Bibliotheken bestehen, kann
-               <lb facs="#facs_2_region_1684673802643_293_tl_16" n="N016"/>eine musikalische Hochschule blühen und wirken — in e
-               <lb facs="#facs_2_region_1684673802643_293_tl_17" n="N017"/>Provinzialstadt wie Salzburg niemals. Auch an den
-               <lb facs="#facs_2_region_1684673802643_293_tl_18" n="N018"/>eines neuen Concertsaals, Errichtung einer musikalischen „Uni¬
-               <lb facs="#facs_2_region_1684673802643_293_tl_19" n="N019"/>versal=Bibliothek" (!) u. dgl. braucht Salzburg noch lange
-               <lb facs="#facs_2_region_1684673802643_293_tl_20" n="N020"/>nicht zu denken. Solche Phantasien sollte die „Internationale
-               <lb facs="#facs_2_region_1684673802643_293_tl_21" n="N021"/>Mozart=Stiftung“, herzhaft aus ihrem Programme streichen,
-               <lb facs="#facs_2_region_1684673802643_293_tl_22" n="N022"/>damit sie nicht in den Verdacht komme, sich für allmächtig
-               <lb facs="#facs_2_region_1684673802643_293_tl_23" n="N023"/>zu halten. Scheint sie doch selbst von finanzieller Allmacht
-               <lb facs="#facs_2_region_1684673802643_293_tl_24" n="N024"/>oder Macht noch entfernt zu sein, sonst hätte sie gewiß den
-               <lb facs="#facs_2_region_1684673802643_293_tl_25" n="N025"/>beim Musikfest mitwirkenden fremden Künstlern ein Honorar
-               <lb facs="#facs_2_region_1684673802643_293_tl_26" n="N026"/>zugestanden. Sie Alle aber, vom Dirigenten Dessoff an bis
-               <lb facs="#facs_2_region_1684673802643_293_tl_27" n="N027"/>zum Paukenschläger, haben ohne einen Heller Entgelt das
-               <lb facs="#facs_2_region_1684673802643_293_tl_28" n="N028"/>ganze Musikfest ausgeführt, dessen Anregung allerdings
-               <lb facs="#facs_2_region_1684673802643_293_tl_29" n="N029"/>ein von uns gerne gewürdigtes Verdienst der Mozart=Stiftung
-               <lb facs="#facs_2_region_1684673802643_293_tl_30" n="N030"/>bleibt. Die hier vorgebrachten Bedenken entspringen keiner
-               <lb facs="#facs_2_region_1684673802643_293_tl_31" n="N031"/>Art von Tadelsucht, sondern lediglich dem ehrlichen Wunsche,
-               <lb facs="#facs_2_region_1684673802643_293_tl_32" n="N032"/>es möge die Mozart=Stiftung, deren Protectoren so hoch¬
-               <lb facs="#facs_2_region_1684673802643_293_tl_33" n="N033"/>stehend wie ihre Gründer hochgeachtet sind, nicht aus miß¬
-               <lb facs="#facs_2_region_1684673802643_293_tl_34" n="N034"/>verstandenem Idealismus einem Größenwahne zusteuern,
-               <lb facs="#facs_2_region_1684673802643_293_tl_35" n="N035"/>welcher zu den bedrängten Musikzuständen des eigenen La¬
-               <lb facs="#facs_2_region_1684673802643_293_tl_36" n="N036"/>ist an das des übel stimmt und außer Land früher oder später seine
-               <lb facs="#facs_2_region_1684673802643_293_tl_37" n="N037"/>Ohnmacht verrathen muß.
+               <lb facs="#facs_2_line_1757768827552_2068" n="N004"/>keit auf die Hebung und Consolidirung der Musikzustände
+               <lb facs="#facs_2_region_1684673802643_293_tl_4" n="N005"/>der Stadt <italic><rs type="place">Salzburg</rs></italic> und des Landes <rs type="place">Salzburg</rs> wenden,
+               <lb facs="#facs_2_region_1684673802643_293_tl_5" n="N006"/>sie muß mit der Unterstützung ihrer Landsleute beginnen,
+               <lb facs="#facs_2_region_1684673802643_293_tl_6" n="N007"/>bevor sie etwa einen herabgekommenen <rs type="place">russisch</rs>en Hornisten
+               <lb facs="#facs_2_region_1684673802643_293_tl_7" n="N008"/>neu kleidet oder talentvolle Negerknaben auf der Ocarina
+               <lb facs="#facs_2_line_1757768854768_2081" n="N009"/>unterrichten läßt. Und am Wohlthun im eigenen Lande wird
+               <lb facs="#facs_2_region_1684673802643_293_tl_8" n="N010"/>sie kein Bischof und kein Erzbischof hindern. Ein Mißverstehen
+               <lb facs="#facs_2_region_1684673802643_293_tl_9" n="N011"/>aller gegebenen Verhältnisse ist es ferner, wenn die Herren
+               <lb facs="#facs_2_region_1684673802643_293_tl_10" n="N012"/>von der Mozart-Stiftung eine „<italic>musikalische Hochschule</italic>“
+               <lb facs="#facs_2_region_1684673802643_293_tl_11" n="N013"/>in <rs type="place">Salzburg</rs> errichten wollen. Wenn sie Millionen zur Ver¬
+               <lb facs="#facs_2_region_1684673802643_293_tl_12" n="N014"/>fügung hätten, sie könnten das nicht; denn nur in Residen¬
+               <lb facs="#facs_2_region_1684673802643_293_tl_13" n="N015"/>zen wie <rs type="place">Wien</rs> oder <rs type="place">Berlin</rs>, nur wo eine große Oper, regel¬
+               <lb facs="#facs_2_region_1684673802643_293_tl_14" n="N016"/>mäßige Orchester-Concerte, ein lebhafter Musikverlag, reiche
+               <lb facs="#facs_2_region_1684673802643_293_tl_15" n="N017"/>musikalische und wissenschaftliche Bibliotheken bestehen, kann
+               <lb facs="#facs_2_region_1684673802643_293_tl_16" n="N018"/>eine musikalische Hochschule blühen und wirken — in einer
+               <lb facs="#facs_2_region_1684673802643_293_tl_17" n="N019"/>Provinzialstadt wie <rs type="place">Salzburg</rs> niemals. Auch an den Bau
+               <lb facs="#facs_2_region_1684673802643_293_tl_18" n="N020"/>eines neuen Concertsaals, Errichtung einer musikalischen „Uni¬
+               <lb facs="#facs_2_region_1684673802643_293_tl_19" n="N021"/>versal-Bibliothek“ (!) u. dgl. braucht <rs type="place">Salzburg</rs> noch lange
+               <lb facs="#facs_2_region_1684673802643_293_tl_20" n="N022"/>nicht zu denken. Solche Phantasien sollte die „Internationale
+               <lb facs="#facs_2_region_1684673802643_293_tl_21" n="N023"/>Mozart-Stiftung“, herzhaft aus ihrem Programme streichen,
+               <lb facs="#facs_2_region_1684673802643_293_tl_22" n="N024"/>damit sie nicht in den Verdacht komme, sich für allmächtig
+               <lb facs="#facs_2_region_1684673802643_293_tl_23" n="N025"/>zu halten. Scheint sie doch selbst von finanzieller Allmacht
+               <lb facs="#facs_2_region_1684673802643_293_tl_24" n="N026"/>oder Macht noch entfernt zu sein, sonst hätte sie gewiß den
+               <lb facs="#facs_2_region_1684673802643_293_tl_25" n="N027"/>beim Musikfest mitwirkenden fremden Künstlern ein Honorar
+               <lb facs="#facs_2_region_1684673802643_293_tl_26" n="N028"/>zugestanden. Sie Alle aber, vom Dirigenten <rs type="person">Dessoff</rs> an bis
+               <lb facs="#facs_2_region_1684673802643_293_tl_27" n="N029"/>zum Paukenschläger, haben ohne einen Heller Entgelt das
+               <lb facs="#facs_2_region_1684673802643_293_tl_28" n="N030"/>ganze Musikfest ausgeführt, dessen <italic>Anregung</italic> allerdings
+               <lb facs="#facs_2_region_1684673802643_293_tl_29" n="N031"/>ein von uns gerne gewürdigtes Verdienst der Mozart-Stiftung
+               <lb facs="#facs_2_region_1684673802643_293_tl_30" n="N032"/>bleibt. Die hier vorgebrachten Bedenken entspringen keiner
+               <lb facs="#facs_2_region_1684673802643_293_tl_31" n="N033"/>Art von Tadelsucht, sondern lediglich dem ehrlichen Wunsche,
+               <lb facs="#facs_2_region_1684673802643_293_tl_32" n="N034"/>es möge die Mozart-Stiftung, deren Protectoren so hoch¬
+               <lb facs="#facs_2_region_1684673802643_293_tl_33" n="N035"/>stehend wie ihre Gründer hochgeachtet sind, nicht aus miß¬
+               <lb facs="#facs_2_region_1684673802643_293_tl_34" n="N036"/>verstandenem Idealismus einem Größenwahne zusteuern,
+               <lb facs="#facs_2_region_1684673802643_293_tl_35" n="N037"/>welcher zu den bedrängten Musikzuständen des eigenen Lan¬
+               <lb facs="#facs_2_region_1684673802643_293_tl_36" n="N038"/>des übel stimmt und außer Land früher oder später seine
+               <lb facs="#facs_2_region_1684673802643_293_tl_37" n="N039"/>Ohnmacht verrathen muß.
             </ab>
          </div>
       </body>

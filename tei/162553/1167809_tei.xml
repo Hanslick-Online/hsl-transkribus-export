@@ -21,11 +21,21 @@
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_1">
          <graphic url="47750709.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=OLISDDUYXWENUCQQAVIKPKTA&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="467,72 1700,72 1700,436 467,436" rendition="TextRegion" xml:id="facs_1_region_1684676696724_482">
+            <zone points="634,100 1682,100 1682,441 634,441" rendition="Line" xml:id="facs_1_line_1757313354311_1106"/>
+         </zone>
+         <zone points="907,462 1235,462 1235,540 907,540" rendition="TextRegion" xml:id="facs_1_region_1684676698845_485">
+            <zone points="900,470 1241,470 1241,549 900,549" rendition="Line" xml:id="facs_1_region_1684676698845_485_tl_1"/>
+         </zone>
+         <zone points="56,551 2126,551 2126,627 56,627" rendition="TextRegion" xml:id="facs_1_region_1684676701908_488">
+            <zone points="53,546 2104,546 2104,636 53,636" rendition="Line" xml:id="facs_1_line_1757313371638_1119"/>
+         </zone>
          <zone points="20,2296 735,2296 735,3461 20,3461" rendition="TextRegion" xml:id="facs_1_region_1684676710531_492">
             <zone points="267,2294 480,2294 480,2358 267,2358" rendition="Line" xml:id="facs_1_region_1684676710531_492_tl_1"/>
             <zone points="127,2347 612,2347 612,2384 127,2384" rendition="Line" xml:id="facs_1_region_1684676710531_492_tl_2"/>
             <zone points="71,2373 721,2373 721,2421 71,2421" rendition="Line" xml:id="facs_1_region_1684676710531_492_tl_3"/>
             <zone points="21,2402 718,2402 718,2445 21,2445" rendition="Line" xml:id="facs_1_region_1684676710531_492_tl_4"/>
+            <zone points="21,2439 740,2439 740,2475 21,2475" rendition="Line" xml:id="facs_1_line_1757313427159_1126"/>
             <zone points="11,2468 713,2468 713,2503 11,2503" rendition="Line" xml:id="facs_1_region_1684676710531_492_tl_5"/>
             <zone points="13,2497 713,2497 713,2532 13,2532" rendition="Line" xml:id="facs_1_region_1684676710531_492_tl_6"/>
             <zone points="13,2526 718,2526 718,2563 13,2563" rendition="Line" xml:id="facs_1_region_1684676710531_492_tl_7"/>
@@ -38,6 +48,7 @@
             <zone points="21,2719 713,2719 713,2764 21,2764" rendition="Line" xml:id="facs_1_region_1684676710531_492_tl_14"/>
             <zone points="18,2748 713,2748 713,2793 18,2793" rendition="Line" xml:id="facs_1_region_1684676710531_492_tl_15"/>
             <zone points="13,2777 718,2777 718,2820 13,2820" rendition="Line" xml:id="facs_1_region_1684676710531_492_tl_16"/>
+            <zone points="18,2806 732,2806 732,2842 18,2842" rendition="Line" xml:id="facs_1_line_1757313449735_1136"/>
             <zone points="18,2835 715,2835 715,2878 18,2878" rendition="Line" xml:id="facs_1_region_1684676710531_492_tl_17"/>
             <zone points="24,2867 710,2867 710,2907 24,2907" rendition="Line" xml:id="facs_1_region_1684676710531_492_tl_18"/>
             <zone points="18,2893 718,2893 718,2933 18,2933" rendition="Line" xml:id="facs_1_region_1684676710531_492_tl_19"/>
@@ -58,18 +69,7 @@
             <zone points="21,3321 708,3321 708,3363 21,3363" rendition="Line" xml:id="facs_1_region_1684676710531_492_tl_34"/>
             <zone points="24,3350 708,3350 708,3400 24,3400" rendition="Line" xml:id="facs_1_region_1684676710531_492_tl_35"/>
             <zone points="24,3377 700,3377 700,3414 24,3414" rendition="Line" xml:id="facs_1_region_1684676710531_492_tl_36"/>
-         </zone>
-         <zone points="467,72 1700,72 1700,436 467,436" rendition="TextRegion" xml:id="facs_1_region_1684676696724_482">
-            <zone points="882,100 1230,100 1230,185 882,185" rendition="Line" xml:id="facs_1_region_1684676696724_482_tl_1"/>
-            <zone points="634,362 1682,362 1682,441 634,441" rendition="Line" xml:id="facs_1_region_1684676696724_482_tl_2"/>
-         </zone>
-         <zone points="907,462 1235,462 1235,540 907,540" rendition="TextRegion" xml:id="facs_1_region_1684676698845_485">
-            <zone points="900,470 1241,470 1241,549 900,549" rendition="Line" xml:id="facs_1_region_1684676698845_485_tl_1"/>
-         </zone>
-         <zone points="56,551 2126,551 2126,627 56,627" rendition="TextRegion" xml:id="facs_1_region_1684676701908_488">
-            <zone points="1930,546 2104,546 2104,636 1930,636" rendition="Line" xml:id="facs_1_region_1684676701908_488_tl_1"/>
-            <zone points="768,552 1407,552 1407,634 768,634" rendition="Line" xml:id="facs_1_region_1684676701908_488_tl_2"/>
-            <zone points="53,549 346,549 346,636 53,636" rendition="Line" xml:id="facs_1_region_1684676701908_488_tl_3"/>
+            <zone points="21,3408 734,3408 734,3453 21,3453" rendition="Line" xml:id="facs_1_line_1757313474406_1146"/>
          </zone>
          <zone points="729,2234 1449,2234 1449,3464 729,3464" rendition="TextRegion" xml:id="facs_1_region_1684676713455_495">
             <zone points="731,2220 1436,2220 1436,2281 731,2281" rendition="Line" xml:id="facs_1_region_1684676713455_495_tl_1"/>
@@ -79,16 +79,21 @@
             <zone points="739,2358 1426,2358 1426,2392 739,2392" rendition="Line" xml:id="facs_1_region_1684676713455_495_tl_5"/>
             <zone points="739,2387 1428,2387 1428,2421 739,2421" rendition="Line" xml:id="facs_1_region_1684676713455_495_tl_6"/>
             <zone points="739,2410 1426,2410 1426,2450 739,2450" rendition="Line" xml:id="facs_1_region_1684676713455_495_tl_7"/>
-            <zone points="21,2439 1444,2439 1444,2484 21,2484" rendition="Line" xml:id="facs_1_region_1684676713455_495_tl_8"/>
+            <zone points="740,2442 1444,2442 1444,2484 740,2484" rendition="Line" xml:id="facs_1_line_1757313427159_1125"/>
             <zone points="739,2471 1127,2471 1127,2516 739,2516" rendition="Line" xml:id="facs_1_region_1684676713455_495_tl_9"/>
+            <zone points="789,2487 1454,2487 1454,2531 789,2531" rendition="Line" xml:id="facs_1_line_1757313521079_1172"/>
+            <zone points="737,2519 1455,2519 1455,2563 737,2563" rendition="Line" xml:id="facs_1_line_1757313565717_1185"/>
             <zone points="739,2558 1428,2558 1428,2595 739,2595" rendition="Line" xml:id="facs_1_region_1684676713455_495_tl_10"/>
             <zone points="739,2587 1428,2587 1428,2624 739,2624" rendition="Line" xml:id="facs_1_region_1684676713455_495_tl_11"/>
             <zone points="739,2616 1428,2616 1428,2653 739,2653" rendition="Line" xml:id="facs_1_region_1684676713455_495_tl_12"/>
+            <zone points="737,2645 1449,2645 1449,2678 737,2678" rendition="Line" xml:id="facs_1_line_1757313592910_1195"/>
+            <zone points="739,2674 1451,2674 1451,2706 739,2706" rendition="Line" xml:id="facs_1_line_1757313622118_1205"/>
             <zone points="739,2703 1423,2703 1423,2740 739,2740" rendition="Line" xml:id="facs_1_region_1684676713455_495_tl_13"/>
             <zone points="739,2735 1423,2735 1423,2764 739,2764" rendition="Line" xml:id="facs_1_region_1684676713455_495_tl_14"/>
             <zone points="744,2761 1434,2761 1434,2793 744,2793" rendition="Line" xml:id="facs_1_region_1684676713455_495_tl_15"/>
             <zone points="739,2790 1428,2790 1428,2822 739,2822" rendition="Line" xml:id="facs_1_region_1684676713455_495_tl_16"/>
-            <zone points="18,2806 1436,2806 1436,2849 18,2849" rendition="Line" xml:id="facs_1_region_1684676713455_495_tl_17"/>
+            <zone points="732,2827 1436,2827 1436,2849 732,2849" rendition="Line" xml:id="facs_1_line_1757313449734_1135"/>
+            <zone points="737,2845 1451,2845 1451,2880 737,2880" rendition="Line" xml:id="facs_1_line_1757313643318_1215"/>
             <zone points="739,2878 1428,2878 1428,2907 739,2907" rendition="Line" xml:id="facs_1_region_1684676713455_495_tl_18"/>
             <zone points="739,2901 1423,2901 1423,2938 739,2938" rendition="Line" xml:id="facs_1_region_1684676713455_495_tl_19"/>
             <zone points="737,2933 1426,2933 1426,2965 737,2965" rendition="Line" xml:id="facs_1_region_1684676713455_495_tl_20"/>
@@ -108,7 +113,7 @@
             <zone points="734,3329 1420,3329 1420,3363 734,3363" rendition="Line" xml:id="facs_1_region_1684676713455_495_tl_34"/>
             <zone points="739,3355 1423,3355 1423,3390 739,3390" rendition="Line" xml:id="facs_1_region_1684676713455_495_tl_35"/>
             <zone points="739,3384 1423,3384 1423,3421 739,3421" rendition="Line" xml:id="facs_1_region_1684676713455_495_tl_36"/>
-            <zone points="21,3408 2138,3408 2138,3453 21,3453" rendition="Line" xml:id="facs_1_region_1684676713455_495_tl_37"/>
+            <zone points="734,3410 1444,3410 1444,3451 734,3451" rendition="Line" xml:id="facs_1_line_1757313497822_1160"/>
          </zone>
          <zone points="1449,2229 2161,2229 2161,3450 1449,3450" rendition="TextRegion" xml:id="facs_1_region_1684676716119_498">
             <zone points="1457,2220 2154,2220 2154,2281 1457,2281" rendition="Line" xml:id="facs_1_region_1684676716119_498_tl_1"/>
@@ -120,26 +125,24 @@
             <zone points="1447,2418 2152,2418 2152,2450 1447,2450" rendition="Line" xml:id="facs_1_region_1684676716119_498_tl_7"/>
             <zone points="1449,2445 2154,2445 2154,2479 1449,2479" rendition="Line" xml:id="facs_1_region_1684676716119_498_tl_8"/>
             <zone points="1449,2474 2146,2474 2146,2511 1449,2511" rendition="Line" xml:id="facs_1_region_1684676716119_498_tl_9"/>
-            <zone points="789,2487 2152,2487 2152,2534 789,2534" rendition="Line" xml:id="facs_1_region_1684676716119_498_tl_10"/>
-            <zone points="737,2519 2149,2519 2149,2563 737,2563" rendition="Line" xml:id="facs_1_region_1684676716119_498_tl_11"/>
+            <zone points="1454,2490 2152,2490 2152,2534 1454,2534" rendition="Line" xml:id="facs_1_line_1757313521078_1171"/>
+            <zone points="1455,2525 2149,2525 2149,2563 1455,2563" rendition="Line" xml:id="facs_1_line_1757313565717_1184"/>
             <zone points="1455,2563 2152,2563 2152,2595 1455,2595" rendition="Line" xml:id="facs_1_region_1684676716119_498_tl_12"/>
             <zone points="1449,2587 2152,2587 2152,2622 1449,2622" rendition="Line" xml:id="facs_1_region_1684676716119_498_tl_13"/>
             <zone points="1449,2616 2149,2616 2149,2653 1449,2653" rendition="Line" xml:id="facs_1_region_1684676716119_498_tl_14"/>
-            <zone points="737,2643 2152,2643 2152,2680 737,2680" rendition="Line" xml:id="facs_1_region_1684676716119_498_tl_15"/>
-            <zone points="739,2674 2152,2674 2152,2709 739,2709" rendition="Line" xml:id="facs_1_region_1684676716119_498_tl_16"/>
+            <zone points="1449,2643 2152,2643 2152,2680 1449,2680" rendition="Line" xml:id="facs_1_line_1757313592910_1194"/>
+            <zone points="1451,2674 2152,2674 2152,2709 1451,2709" rendition="Line" xml:id="facs_1_line_1757313622118_1204"/>
             <zone points="1447,2701 2144,2701 2144,2735 1447,2735" rendition="Line" xml:id="facs_1_region_1684676716119_498_tl_17"/>
             <zone points="1447,2722 2157,2722 2157,2767 1447,2767" rendition="Line" xml:id="facs_1_region_1684676716119_498_tl_18"/>
             <zone points="1449,2761 2152,2761 2152,2790 1449,2790" rendition="Line" xml:id="facs_1_region_1684676716119_498_tl_19"/>
             <zone points="1449,2790 2146,2790 2146,2825 1449,2825" rendition="Line" xml:id="facs_1_region_1684676716119_498_tl_20"/>
             <zone points="1449,2820 2146,2820 2146,2851 1449,2851" rendition="Line" xml:id="facs_1_region_1684676716119_498_tl_21"/>
-            <zone points="737,2843 2149,2843 2149,2880 737,2880" rendition="Line" xml:id="facs_1_region_1684676716119_498_tl_22"/>
+            <zone points="1451,2843 2149,2843 2149,2880 1451,2880" rendition="Line" xml:id="facs_1_line_1757313643318_1214"/>
             <zone points="1449,2875 2149,2875 2149,2909 1449,2909" rendition="Line" xml:id="facs_1_region_1684676716119_498_tl_23"/>
             <zone points="1455,2901 2144,2901 2144,2936 1455,2936" rendition="Line" xml:id="facs_1_region_1684676716119_498_tl_24"/>
             <zone points="1447,2930 2149,2930 2149,2967 1447,2967" rendition="Line" xml:id="facs_1_region_1684676716119_498_tl_25"/>
-            <zone points="1455,2962 1851,2962 1851,3002 1455,3002" rendition="Line" xml:id="facs_1_region_1684676716119_498_tl_26"/>
-            <zone points="1851,2959 2144,2959 2144,3015 1851,3015" rendition="Line" xml:id="facs_1_region_1684676716119_498_tl_27"/>
-            <zone points="1449,2988 1851,2988 1851,3036 1449,3036" rendition="Line" xml:id="facs_1_region_1684676716119_498_tl_28"/>
-            <zone points="1851,2973 2149,2973 2149,3028 1851,3028" rendition="Line" xml:id="facs_1_region_1684676716119_498_tl_29"/>
+            <zone points="1455,2959 2144,2959 2144,3015 1455,3015" rendition="Line" xml:id="facs_1_line_1757313662894_1226"/>
+            <zone points="1449,2990 2149,2990 2149,3036 1449,3036" rendition="Line" xml:id="facs_1_line_1757313668678_1230"/>
             <zone points="1447,3018 2152,3018 2152,3054 1447,3054" rendition="Line" xml:id="facs_1_region_1684676716119_498_tl_30"/>
             <zone points="1449,3044 2146,3044 2146,3084 1449,3084" rendition="Line" xml:id="facs_1_region_1684676716119_498_tl_31"/>
             <zone points="1449,3073 2146,3073 2146,3110 1449,3110" rendition="Line" xml:id="facs_1_region_1684676716119_498_tl_32"/>
@@ -154,25 +157,24 @@
             <zone points="1449,3329 2146,3329 2146,3361 1449,3361" rendition="Line" xml:id="facs_1_region_1684676716119_498_tl_41"/>
             <zone points="1447,3361 2136,3361 2136,3392 1447,3392" rendition="Line" xml:id="facs_1_region_1684676716119_498_tl_42"/>
             <zone points="1449,3384 2146,3384 2146,3421 1449,3421" rendition="Line" xml:id="facs_1_region_1684676716119_498_tl_43"/>
+            <zone points="1444,3413 2138,3413 2138,3450 1444,3450" rendition="Line" xml:id="facs_1_line_1757313497822_1159"/>
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_2">
          <graphic url="47750710.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=GHBRHGITPANGWZJJDXXGNHFH&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="54,2206 774,2206 774,3430 54,3430" rendition="TextRegion" xml:id="facs_2_region_1684676725898_504">
-            <zone points="56,2182 757,2182 757,2220 56,2220" rendition="Line" xml:id="facs_2_region_1684676725898_504_tl_1"/>
+            <zone points="56,2220 762,2220 762,2261 56,2261" rendition="Line" xml:id="facs_2_region_1684676725898_504_tl_1"/>
             <zone points="58,2246 749,2246 749,2281 58,2281" rendition="Line" xml:id="facs_2_region_1684676725898_504_tl_2"/>
             <zone points="53,2275 749,2275 749,2307 53,2307" rendition="Line" xml:id="facs_2_region_1684676725898_504_tl_3"/>
             <zone points="53,2305 754,2305 754,2336 53,2336" rendition="Line" xml:id="facs_2_region_1684676725898_504_tl_4"/>
-            <zone points="50,2323 1110,2323 1110,2366 50,2366" rendition="Line" xml:id="facs_2_region_1684676725898_504_tl_5"/>
+            <zone points="50,2327 776,2327 776,2365 50,2365" rendition="Line" xml:id="facs_2_line_1757313937566_1243"/>
             <zone points="50,2360 751,2360 751,2392 50,2392" rendition="Line" xml:id="facs_2_region_1684676725898_504_tl_6"/>
             <zone points="50,2392 751,2392 751,2429 50,2429" rendition="Line" xml:id="facs_2_region_1684676725898_504_tl_7"/>
             <zone points="56,2421 759,2421 759,2461 56,2461" rendition="Line" xml:id="facs_2_region_1684676725898_504_tl_8"/>
             <zone points="50,2445 751,2445 751,2477 50,2477" rendition="Line" xml:id="facs_2_region_1684676725898_504_tl_9"/>
-            <zone points="48,2474 672,2474 672,2512 48,2512" rendition="Line" xml:id="facs_2_region_1684676725898_504_tl_10"/>
-            <zone points="664,2461 759,2461 759,2522 664,2522" rendition="Line" xml:id="facs_2_region_1684676725898_504_tl_11"/>
-            <zone points="45,2504 672,2504 672,2538 45,2538" rendition="Line" xml:id="facs_2_region_1684676725898_504_tl_12"/>
-            <zone points="666,2506 746,2506 746,2543 666,2543" rendition="Line" xml:id="facs_2_region_1684676725898_504_tl_13"/>
+            <zone points="48,2461 759,2461 759,2522 48,2522" rendition="Line" xml:id="facs_2_line_1757313963454_1254"/>
+            <zone points="45,2504 746,2504 746,2543 45,2543" rendition="Line" xml:id="facs_2_line_1757313967790_1258"/>
             <zone points="50,2536 751,2536 751,2567 50,2567" rendition="Line" xml:id="facs_2_region_1684676725898_504_tl_14"/>
             <zone points="53,2559 749,2559 749,2594 53,2594" rendition="Line" xml:id="facs_2_region_1684676725898_504_tl_15"/>
             <zone points="53,2583 749,2583 749,2623 53,2623" rendition="Line" xml:id="facs_2_region_1684676725898_504_tl_16"/>
@@ -203,12 +205,14 @@
             <zone points="53,3305 743,3305 743,3340 53,3340" rendition="Line" xml:id="facs_2_region_1684676725898_504_tl_41"/>
             <zone points="50,3327 751,3327 751,3367 50,3367" rendition="Line" xml:id="facs_2_region_1684676725898_504_tl_42"/>
             <zone points="50,3364 746,3364 746,3393 50,3393" rendition="Line" xml:id="facs_2_region_1684676725898_504_tl_43"/>
+            <zone points="53,3391 769,3391 769,3431 53,3431" rendition="Line" xml:id="facs_2_line_1757314005318_1277"/>
          </zone>
          <zone points="766,2201 1485,2201 1485,3439 766,3439" rendition="TextRegion" xml:id="facs_2_region_1684676729040_507">
             <zone points="775,2201 1471,2201 1471,2249 775,2249" rendition="Line" xml:id="facs_2_region_1684676729040_507_tl_1"/>
             <zone points="773,2243 1468,2243 1468,2278 773,2278" rendition="Line" xml:id="facs_2_region_1684676729040_507_tl_2"/>
             <zone points="775,2275 1468,2275 1468,2307 775,2307" rendition="Line" xml:id="facs_2_region_1684676729040_507_tl_3"/>
             <zone points="781,2302 1471,2302 1471,2350 781,2350" rendition="Line" xml:id="facs_2_region_1684676729040_507_tl_4"/>
+            <zone points="776,2323 1110,2323 1110,2366 776,2366" rendition="Line" xml:id="facs_2_line_1757313937565_1242"/>
             <zone points="826,2344 1468,2344 1468,2395 826,2395" rendition="Line" xml:id="facs_2_region_1684676729040_507_tl_5"/>
             <zone points="775,2384 1468,2384 1468,2424 775,2424" rendition="Line" xml:id="facs_2_region_1684676729040_507_tl_6"/>
             <zone points="775,2416 1468,2416 1468,2453 775,2453" rendition="Line" xml:id="facs_2_region_1684676729040_507_tl_7"/>
@@ -238,17 +242,17 @@
             <zone points="767,3096 1460,3096 1460,3136 767,3136" rendition="Line" xml:id="facs_2_region_1684676729040_507_tl_31"/>
             <zone points="773,3133 1466,3133 1466,3167 773,3167" rendition="Line" xml:id="facs_2_region_1684676729040_507_tl_32"/>
             <zone points="770,3162 1471,3162 1471,3194 770,3194" rendition="Line" xml:id="facs_2_region_1684676729040_507_tl_33"/>
-            <zone points="767,3189 2185,3189 2185,3226 767,3226" rendition="Line" xml:id="facs_2_region_1684676729040_507_tl_34"/>
+            <zone points="767,3189 1489,3189 1489,3223 767,3223" rendition="Line" xml:id="facs_2_line_1757313983670_1266"/>
             <zone points="767,3215 1468,3215 1468,3250 767,3250" rendition="Line" xml:id="facs_2_region_1684676729040_507_tl_35"/>
             <zone points="767,3247 1468,3247 1468,3282 767,3282" rendition="Line" xml:id="facs_2_region_1684676729040_507_tl_36"/>
             <zone points="767,3276 1458,3276 1458,3305 767,3305" rendition="Line" xml:id="facs_2_region_1684676729040_507_tl_37"/>
             <zone points="767,3305 1460,3305 1460,3337 767,3337" rendition="Line" xml:id="facs_2_region_1684676729040_507_tl_38"/>
             <zone points="767,3335 1245,3335 1245,3375 767,3375" rendition="Line" xml:id="facs_2_region_1684676729040_507_tl_39"/>
             <zone points="823,3353 1466,3353 1466,3396 823,3396" rendition="Line" xml:id="facs_2_region_1684676729040_507_tl_40"/>
-            <zone points="53,3390 2188,3390 2188,3433 53,3433" rendition="Line" xml:id="facs_2_region_1684676729040_507_tl_41"/>
+            <zone points="769,3390 1484,3390 1484,3432 769,3432" rendition="Line" xml:id="facs_2_line_1757314029302_1286"/>
          </zone>
          <zone points="1491,2204 2203,2204 2203,3439 1491,3439" rendition="TextRegion" xml:id="facs_2_region_1684676732072_510">
-            <zone points="1489,2185 2190,2185 2190,2220 1489,2220" rendition="Line" xml:id="facs_2_region_1684676732072_510_tl_1"/>
+            <zone points="1489,2217 2193,2217 2193,2256 1489,2256" rendition="Line" xml:id="facs_2_region_1684676732072_510_tl_1"/>
             <zone points="1497,2243 2188,2243 2188,2283 1497,2283" rendition="Line" xml:id="facs_2_region_1684676732072_510_tl_2"/>
             <zone points="1492,2275 2182,2275 2182,2310 1492,2310" rendition="Line" xml:id="facs_2_region_1684676732072_510_tl_3"/>
             <zone points="1492,2299 2185,2299 2185,2336 1492,2336" rendition="Line" xml:id="facs_2_region_1684676732072_510_tl_4"/>
@@ -282,12 +286,14 @@
             <zone points="1484,3106 2185,3106 2185,3138 1484,3138" rendition="Line" xml:id="facs_2_region_1684676732072_510_tl_32"/>
             <zone points="1487,3136 2185,3136 2185,3170 1487,3170" rendition="Line" xml:id="facs_2_region_1684676732072_510_tl_33"/>
             <zone points="1492,3162 2182,3162 2182,3194 1492,3194" rendition="Line" xml:id="facs_2_region_1684676732072_510_tl_34"/>
+            <zone points="1489,3189 2185,3189 2185,3226 1489,3226" rendition="Line" xml:id="facs_2_line_1757313983670_1265"/>
             <zone points="1495,3223 2185,3223 2185,3252 1495,3252" rendition="Line" xml:id="facs_2_region_1684676732072_510_tl_35"/>
             <zone points="1495,3250 2188,3250 2188,3295 1495,3295" rendition="Line" xml:id="facs_2_region_1684676732072_510_tl_36"/>
             <zone points="1489,3276 2190,3276 2190,3311 1489,3311" rendition="Line" xml:id="facs_2_region_1684676732072_510_tl_37"/>
             <zone points="1492,3300 2188,3300 2188,3337 1492,3337" rendition="Line" xml:id="facs_2_region_1684676732072_510_tl_38"/>
             <zone points="1487,3332 2182,3332 2182,3364 1487,3364" rendition="Line" xml:id="facs_2_region_1684676732072_510_tl_39"/>
             <zone points="1492,3364 2169,3364 2169,3398 1492,3398" rendition="Line" xml:id="facs_2_region_1684676732072_510_tl_40"/>
+            <zone points="1484,3390 2188,3390 2188,3433 1484,3433" rendition="Line" xml:id="facs_2_line_1757314029301_1285"/>
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_3">
@@ -309,15 +315,14 @@
             <zone points="22,2575 713,2575 713,2609 22,2609" rendition="Line" xml:id="facs_3_region_1684676741160_516_tl_13"/>
             <zone points="22,2602 711,2602 711,2643 22,2643" rendition="Line" xml:id="facs_3_region_1684676741160_516_tl_14"/>
             <zone points="22,2634 706,2634 706,2667 22,2667" rendition="Line" xml:id="facs_3_region_1684676741160_516_tl_15"/>
-            <zone points="14,2661 135,2661 135,2700 14,2700" rendition="Line" xml:id="facs_3_region_1684676741160_516_tl_16"/>
-            <zone points="160,2665 709,2665 709,2700 160,2700" rendition="Line" xml:id="facs_3_region_1684676741160_516_tl_17"/>
+            <zone points="14,2661 709,2661 709,2700 14,2700" rendition="Line" xml:id="facs_3_line_1757314104102_1304"/>
             <zone points="17,2699 709,2699 709,2729 17,2729" rendition="Line" xml:id="facs_3_region_1684676741160_516_tl_18"/>
             <zone points="22,2724 709,2724 709,2758 22,2758" rendition="Line" xml:id="facs_3_region_1684676741160_516_tl_19"/>
             <zone points="17,2751 708,2751 708,2786 17,2786" rendition="Line" xml:id="facs_3_region_1684676741160_516_tl_20"/>
             <zone points="14,2780 713,2780 713,2815 14,2815" rendition="Line" xml:id="facs_3_region_1684676741160_516_tl_21"/>
             <zone points="14,2810 704,2810 704,2842 14,2842" rendition="Line" xml:id="facs_3_region_1684676741160_516_tl_22"/>
             <zone points="17,2834 703,2834 703,2867 17,2867" rendition="Line" xml:id="facs_3_region_1684676741160_516_tl_23"/>
-            <zone points="20,2842 1376,2842 1376,2908 20,2908" rendition="Line" xml:id="facs_3_region_1684676741160_516_tl_24"/>
+            <zone points="20,2850 726,2850 726,2902 20,2902" rendition="Line" xml:id="facs_3_line_1757314110886_1309"/>
             <zone points="20,2889 704,2889 704,2923 20,2923" rendition="Line" xml:id="facs_3_region_1684676741160_516_tl_25"/>
             <zone points="20,2922 706,2922 706,2957 20,2957" rendition="Line" xml:id="facs_3_region_1684676741160_516_tl_26"/>
             <zone points="14,2949 706,2949 706,2986 14,2986" rendition="Line" xml:id="facs_3_region_1684676741160_516_tl_27"/>
@@ -344,316 +349,321 @@
       <body>
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-            <ab facs="#facs_1_region_1684676710531_492" type="">
-               <lb facs="#facs_1_region_1684676710531_492_tl_1" n="N001"/>Ein Jubiläum.
-               <lb facs="#facs_1_region_1684676710531_492_tl_2" n="N002"/>(Denkwürdigkeiten aus dem Leben von Frau Marchesi.
-               <lb facs="#facs_1_region_1684676710531_492_tl_3" n="N003"/>Ed. H. Es war gegen Ende des Jahres 1854, daß in
-               <lb facs="#facs_1_region_1684676710531_492_tl_4" n="N004"/>einer der so genußreichen Musiksoiréen des Hofrathes Vesque
-               <lb facs="#facs_1_region_1684676710531_492_tl_5" n="N005"/>tauchten. Sie wurden uns als „Herr und Frau Mar
-               <lb facs="#facs_1_region_1684676710531_492_tl_6" n="N006"/>chesi" genannt, ein Sängerpaar, das, von Liszt, Meyerbee
-               <lb facs="#facs_1_region_1684676710531_492_tl_7" n="N007"/>und anderen Größen an Vesque empfohlen, in Wien zu
-               <lb facs="#facs_1_region_1684676710531_492_tl_8" n="N008"/>concertiren gedenke. Noch ehe sie sangen, hatten die Beider
-               <lb facs="#facs_1_region_1684676710531_492_tl_9" n="N009"/>alle Sympathien erobert — man konnte in der That kein
-               <lb facs="#facs_1_region_1684676710531_492_tl_10" n="N010"/>stattlicheres, anmuthigeres junges Ehepaar sehen. Ans Cla
-               <lb facs="#facs_1_region_1684676710531_492_tl_11" n="N011"/>vier gebeten, sang Frau Marchesi mit geistvollem Vortrag
-               <lb facs="#facs_1_region_1684676710531_492_tl_12" n="N012"/>deutsche, französische, italienische Lieder, dem Musik= und
-               <lb facs="#facs_1_region_1684676710531_492_tl_13" n="N013"/>Sprachgeist jedweder Nation gleichmäßig gerecht. Ihr Gatte,
-               <lb facs="#facs_1_region_1684676710531_492_tl_14" n="N014"/>Salvatore Marches, bewährte sich in einigen Arien von
-               <lb facs="#facs_1_region_1684676710531_492_tl_15" n="N015"/>Mozart und Cimarosa gleichfalls als vorzüglicher Sänger
-               <lb facs="#facs_1_region_1684676710531_492_tl_16" n="N016"/>als „buffo cantante“ von echt italienischem Talent und
-               <lb facs="#facs_1_region_1684676710531_492_tl_17" n="N017"/>keineswegs auch das Interesse für sie zu Ende. Frau Mar
-               <lb facs="#facs_1_region_1684676710531_492_tl_18" n="N018"/>chesi erzählte am Theetisch von fremden Ländern un
-               <lb facs="#facs_1_region_1684676710531_492_tl_19" n="N019"/>Musikmenschen mit so scharfer Beobachtungsgabe und feinem
-               <lb facs="#facs_1_region_1684676710531_492_tl_20" n="N020"/>Verständniß, daß die ganze Gesellschaft ihr vergnügt zuhört
-               <lb facs="#facs_1_region_1684676710531_492_tl_21" n="N021"/>und die Nachbarn sich schließlich zuflüsterten: „Das wär
-               <lb facs="#facs_1_region_1684676710531_492_tl_22" n="N022"/>eine Acquisition für Wien!" Und sie wurde es Veszu
-               <lb facs="#facs_1_region_1684676710531_492_tl_23" n="N023"/>6. Püttlingen, selbst ein vorzüglicher Sänger und Vorstand de
-               <lb facs="#facs_1_region_1684676710531_492_tl_24" n="N024"/>Gesellschaft der Musikfreunde — also diesfalls die Einsich
-               <lb facs="#facs_1_region_1684676710531_492_tl_25" n="N025"/>und die Macht in Einer Person — vermittelte das Engage¬
-               <lb facs="#facs_1_region_1684676710531_492_tl_26" n="N026"/>ment der Frau Marchesi als Gesanglehrerin am Wiene
-               <lb facs="#facs_1_region_1684676710531_492_tl_27" n="N027"/>Conservatorium. Mit zwei Unterbrechungen (Paris und
-               <lb facs="#facs_1_region_1684676710531_492_tl_28" n="N028"/>Köln) hat Frau Marches seither ihre ganze Thätigkeit
-               <lb facs="#facs_1_region_1684676710531_492_tl_29" n="N029"/>Wien entfaltet, und überblickt man die Namen ihrer zahl
-               <lb facs="#facs_1_region_1684676710531_492_tl_30" n="N030"/>reichen Schülerinnen, welche auf allen ersten Opernbühnen
-               <lb facs="#facs_1_region_1684676710531_492_tl_31" n="N031"/>zum Theil als Celebritäten, glänzen, so muß man, ohne
-               <lb facs="#facs_1_region_1684676710531_492_tl_32" n="N032"/>Vorliebe oder Abneigung, die Thatsache anerkennen, das
-               <lb facs="#facs_1_region_1684676710531_492_tl_33" n="N033"/>Frau Marchesi gegenwärtig für die erfolgreichste Gesang
-               <lb facs="#facs_1_region_1684676710531_492_tl_34" n="N034"/>lehrerin in Europa gilt. Die beiden schönen Gedenktag
-               <lb facs="#facs_1_region_1684676710531_492_tl_35" n="N035"/>welche sich ihr in dem heutigen Datum vereinigen — ihr
-               <lb facs="#facs_1_region_1684676710531_492_tl_36" n="N036"/>silberne Hochzeit und ihr 25jähriges Lehrer-Jubiläum
-            </ab>
             <ab facs="#facs_1_region_1684676696724_482" type="">
-               <lb facs="#facs_1_region_1684676696724_482_tl_1" n="N001"/>Neue
-               <lb facs="#facs_1_region_1684676696724_482_tl_2" n="N002"/>leie Presse.
+               <lb facs="#facs_1_line_1757313354311_1106" n="N001"/>Neue Freie Presse
             </ab>
             <ab facs="#facs_1_region_1684676698845_485" type="">
-               <lb facs="#facs_1_region_1684676698845_485_tl_1" n="N001"/>Morgenblatt.
+               <lb facs="#facs_1_region_1684676698845_485_tl_1" n="N001"/>Morgenblatt
             </ab>
             <ab facs="#facs_1_region_1684676701908_488" type="">
-               <lb facs="#facs_1_region_1684676701908_488_tl_1" n="N001"/>1837.
-               <lb facs="#facs_1_region_1684676701908_488_tl_2" n="N002"/>Wien, Donnerstag, den 19. April
-               <lb facs="#facs_1_region_1684676701908_488_tl_3" n="N003"/>Nr. 4542.
+               <lb facs="#facs_1_line_1757313371638_1119" n="N001"/>Nr. 4542. Wien, Donnerstag, den 19. April 1877
+            </ab>
+            <ab facs="#facs_1_region_1684676710531_492" type="">
+               <lb facs="#facs_1_region_1684676710531_492_tl_1" n="N001"/>Ein Jubiläum.
+               <lb facs="#facs_1_region_1684676710531_492_tl_2" n="N002"/>(Denkwürdigkeiten aus dem Leben von Frau <italic><rs type="person">Marchesi</rs></italic>.)
+               <lb facs="#facs_1_region_1684676710531_492_tl_3" n="N003"/>Ed. H. Es war gegen Ende des Jahres <date month="0" day="0" year="0">1854</date>, daß in
+               <lb facs="#facs_1_region_1684676710531_492_tl_4" n="N004"/>einer der so genußreichen Musiksoiréen des Hofrathes <italic continued="true">Vesque</italic>
+               <lb facs="#facs_1_line_1757313427159_1126" n="N005"/><italic continued="true">v. <rs type="person">Püttlingen</rs></italic> (J. <rs type="person">Hoven</rs>) zwei neue Erscheinungen auf¬
+               <lb facs="#facs_1_region_1684676710531_492_tl_5" n="N006"/>tauchten. Sie wurden uns als „Herr und Frau <italic continued="true"><rs type="person" continued="true">Mar¬</rs></italic>
+               <lb facs="#facs_1_region_1684676710531_492_tl_6" n="N007"/><italic continued="true"><rs type="person" continued="true">chesi</rs></italic>“ genannt, ein Sängerpaar, das, von <rs type="person">Liszt</rs>, <rs type="person">Meyerbeer</rs>
+               <lb facs="#facs_1_region_1684676710531_492_tl_7" n="N008"/>und anderen Größen an <rs type="person">Vesque</rs> empfohlen, in <rs type="place">Wien</rs> zu
+               <lb facs="#facs_1_region_1684676710531_492_tl_8" n="N009"/>concertiren gedenke. Noch ehe sie sangen, hatten die Beiden
+               <lb facs="#facs_1_region_1684676710531_492_tl_9" n="N010"/>alle Sympathien erobert — man konnte in der That kein
+               <lb facs="#facs_1_region_1684676710531_492_tl_10" n="N011"/>stattlicheres, anmuthigeres junges Ehepaar sehen. Ans Cla¬
+               <lb facs="#facs_1_region_1684676710531_492_tl_11" n="N012"/>vier gebeten, sang Frau <rs type="person">Marchesi</rs> mit geistvollem Vortrag
+               <lb facs="#facs_1_region_1684676710531_492_tl_12" n="N013"/><rs type="place">deutsch</rs>e, <rs type="place">französisch</rs>e, <rs type="place">italienisch</rs>e Lieder, dem Musik- und
+               <lb facs="#facs_1_region_1684676710531_492_tl_13" n="N014"/>Sprachgeist jedweder Nation gleichmäßig gerecht. Ihr Gatte,
+               <lb facs="#facs_1_region_1684676710531_492_tl_14" n="N015"/>Salvatore <rs type="person">Marchesi</rs>, bewährte sich in einigen Arien von
+               <lb facs="#facs_1_region_1684676710531_492_tl_15" n="N016"/><italic>Mozart</italic> und <rs type="person">Cimarosa</rs> gleichfalls als vorzüglicher Sänger,
+               <lb facs="#facs_1_region_1684676710531_492_tl_16" n="N017"/>als „buffo cantante“ von echt <rs type="place">italienisch</rs>em Talent und
+               <lb facs="#facs_1_line_1757313449735_1136" n="N018"/>Temperament. Mit den Vorträgen der beiden Gäste war
+               <lb facs="#facs_1_region_1684676710531_492_tl_17" n="N019"/>keineswegs auch das Interesse für sie zu Ende. Frau <italic continued="true"><rs type="person" continued="true">Mar¬</rs></italic>
+               <lb facs="#facs_1_region_1684676710531_492_tl_18" n="N020"/><italic continued="true"><rs type="person" continued="true">chesi</rs></italic> erzählte am Theetisch von fremden Ländern und
+               <lb facs="#facs_1_region_1684676710531_492_tl_19" n="N021"/>Musikmenschen mit so scharfer Beobachtungsgabe und feinem
+               <lb facs="#facs_1_region_1684676710531_492_tl_20" n="N022"/>Verständniß, daß die ganze Gesellschaft ihr vergnügt zuhörte
+               <lb facs="#facs_1_region_1684676710531_492_tl_21" n="N023"/>und die Nachbarn sich schließlich zuflüsterten: „Das wäre
+               <lb facs="#facs_1_region_1684676710531_492_tl_22" n="N024"/>eine Acquisition für <rs type="place">Wien</rs>!“ Und sie wurde es. Vesque
+               <lb facs="#facs_1_region_1684676710531_492_tl_23" n="N025"/>v. <rs type="person">Püttlingen</rs>, selbst ein vorzüglicher Sänger und Vorstand der
+               <lb facs="#facs_1_region_1684676710531_492_tl_24" n="N026"/>Gesellschaft der Musikfreunde — also diesfalls die Einsicht
+               <lb facs="#facs_1_region_1684676710531_492_tl_25" n="N027"/>und die Macht in Einer Person — vermittelte das Engage¬
+               <lb facs="#facs_1_region_1684676710531_492_tl_26" n="N028"/>ment der Frau <rs type="person">Marchesi</rs> als Gesanglehrerin am <rs type="place">Wien</rs>er
+               <lb facs="#facs_1_region_1684676710531_492_tl_27" n="N029"/>Conservatorium. Mit zwei Unterbrechungen (<rs type="place">Paris</rs> und
+               <lb facs="#facs_1_region_1684676710531_492_tl_28" n="N030"/><rs type="place">Köln</rs>) hat Frau <rs type="person">Marchesi</rs> seither ihre ganze Thätigkeit in
+               <lb facs="#facs_1_region_1684676710531_492_tl_29" n="N031"/><rs type="place">Wien</rs> entfaltet, und überblickt man die Namen ihrer zahl¬
+               <lb facs="#facs_1_region_1684676710531_492_tl_30" n="N032"/>reichen Schülerinnen, welche auf allen ersten Opernbühnen,
+               <lb facs="#facs_1_region_1684676710531_492_tl_31" n="N033"/>zum Theil als Celebritäten, glänzen, so muß man, ohne
+               <lb facs="#facs_1_region_1684676710531_492_tl_32" n="N034"/>Vorliebe oder Abneigung, die Thatsache anerkennen, daß
+               <lb facs="#facs_1_region_1684676710531_492_tl_33" n="N035"/>Frau <rs type="person">Marchesi</rs> gegenwärtig für die erfolgreichste Gesang¬
+               <lb facs="#facs_1_region_1684676710531_492_tl_34" n="N036"/>lehrerin in <rs type="place">Europa</rs> gilt. Die beiden schönen Gedenktage,
+               <lb facs="#facs_1_region_1684676710531_492_tl_35" n="N037"/>welche sich ihr in dem heutigen Datum vereinigen — ihre
+               <lb facs="#facs_1_region_1684676710531_492_tl_36" n="N038"/>silberne Hochzeit und ihr 25jähriges Lehrer-Jubiläum —
+               <lb facs="#facs_1_line_1757313474406_1146" n="N039"/>lassen Frau <rs type="person">Marchesi</rs> auf ein reichbewegtes, arbeitsvolles
             </ab>
             <ab facs="#facs_1_region_1684676713455_495" type="">
-               <lb facs="#facs_1_region_1684676713455_495_tl_1" n="N001"/>Leben zurückblicken. An Ausdauer und zielbewußter Energi¬
-               <lb facs="#facs_1_region_1684676713455_495_tl_2" n="N002"/>kann sie jedem Kunstjünger zum Vorbild dienen. Wir glau
-               <lb facs="#facs_1_region_1684676713455_495_tl_3" n="N003"/>ben deßhalb nicht fehlzugreifen, wenn wir am heutigen Tag
+               <lb facs="#facs_1_region_1684676713455_495_tl_1" n="N001"/>Leben zurückblicken. An Ausdauer und zielbewußter Energie
+               <lb facs="#facs_1_region_1684676713455_495_tl_2" n="N002"/>kann sie jedem Kunstjünger zum Vorbild dienen. Wir glau¬
+               <lb facs="#facs_1_region_1684676713455_495_tl_3" n="N003"/>ben deßhalb nicht fehlzugreifen, wenn wir am heutigen Tage
                <lb facs="#facs_1_region_1684676713455_495_tl_4" n="N004"/>einige Denkwürdigkeiten aus dem Leben der Jubilarin hier
-               <lb facs="#facs_1_region_1684676713455_495_tl_5" n="N005"/>mittheilen. Es geschieht dies auf Grund einer ausführliche
-               <lb facs="#facs_1_region_1684676713455_495_tl_6" n="N006"/>Selbstbiographie, welche Frau Marchesi der Redactio¬
-               <lb facs="#facs_1_region_1684676713455_495_tl_7" n="N007"/>der „Neuen Freien Presse" zur Verfügung gestellt hat un
-               <lb facs="#facs_1_region_1684676713455_495_tl_8" n="N008"/>v. Puttlingen (J. Hoven) zwei neue Erscheinungen auf¬ die wir auszugsweise, mit möglichst getreuer Anlehnung an
+               <lb facs="#facs_1_region_1684676713455_495_tl_5" n="N005"/>mittheilen. Es geschieht dies auf Grund einer ausführlichen
+               <lb facs="#facs_1_region_1684676713455_495_tl_6" n="N006"/><work>Selbstbiographie</work>, welche Frau <rs type="person">Marchesi</rs> der Redaction
+               <lb facs="#facs_1_region_1684676713455_495_tl_7" n="N007"/>der „<work>Neuen Freien Presse</work>“ zur Verfügung gestellt hat und
+               <lb facs="#facs_1_line_1757313427159_1125" n="N008"/>die wir auszugsweise, mit möglichst getreuer Anlehnung an
                <lb facs="#facs_1_region_1684676713455_495_tl_9" n="N009"/>ihre eigenen Worte, hier benützen.
-               <lb facs="#facs_1_region_1684676713455_495_tl_10" n="N010"/>gesehenen Großhändlers Graumann, genoß sie eine glück
-               <lb facs="#facs_1_region_1684676713455_495_tl_11" n="N011"/>liche Kindheit und sorgfältige Erziehung. Lust und Talen
-               <lb facs="#facs_1_region_1684676713455_495_tl_12" n="N012"/>zum Gesange regten sich früh in dem aufgeweckten und uner
-               <lb facs="#facs_1_region_1684676713455_495_tl_13" n="N013"/>sein ganzes Vermögen; Mathilde mußte daran denken, sie
-               <lb facs="#facs_1_region_1684676713455_495_tl_14" n="N014"/>eine Existenz zu gründen. Sie wollte sich der Kunst widmen
-               <lb facs="#facs_1_region_1684676713455_495_tl_15" n="N015"/>ihre Familie war dagegen und bestimmte sie gegen ihre
-               <lb facs="#facs_1_region_1684676713455_495_tl_16" n="N016"/>Neigung zur Erzieherin. Mathilde fügte sich ohne Murren
-               <lb facs="#facs_1_region_1684676713455_495_tl_17" n="N017"/>Temperament. Mit den Vorträgen der beiden Gäste war und wurde im April 1843 von einem Freunde der Familie
-               <lb facs="#facs_1_region_1684676713455_495_tl_18" n="N018"/>von Mathildens Vater) empfingen sie sehr freundlich; die
-               <lb facs="#facs_1_region_1684676713455_495_tl_19" n="N019"/>eine davon erscheint sogar als eine gute Vorbedeutung fü
-               <lb facs="#facs_1_region_1684676713455_495_tl_20" n="N020"/>die musikalische Zukunft der Kleinen. Es war dies die al¬
-               <lb facs="#facs_1_region_1684676713455_495_tl_21" n="N021"/>ausgezeichnete Clavierspielerin und Freundin Beethoven's be
-               <lb facs="#facs_1_region_1684676713455_495_tl_22" n="N022"/>kannte Dorothea v. Ertmann, Witwe des k. k. Feld
-               <lb facs="#facs_1_region_1684676713455_495_tl_23" n="N023"/>marschall=Lieutenants Ertmann. Sie hatte für ihre Nicht
-               <lb facs="#facs_1_region_1684676713455_495_tl_24" n="N024"/>bereits eine Stelle als Erzieherin bei der gräfliche
-               <lb facs="#facs_1_region_1684676713455_495_tl_25" n="N025"/>Familie N. gefunden, wo Mathilde die Obhut über ein
-               <lb facs="#facs_1_region_1684676713455_495_tl_26" n="N026"/>kränkliches sechsjähriges Kind übernehmen sollte. Mathild
-               <lb facs="#facs_1_region_1684676713455_495_tl_27" n="N027"/>erklärte sich mit Allem zufrieden, wenn man ihr nu
-               <lb facs="#facs_1_region_1684676713455_495_tl_28" n="N028"/>Zeit lassen wolle zu ihren Gesangsstudien. So wurde den
-               <lb facs="#facs_1_region_1684676713455_495_tl_29" n="N029"/>vereinbart, daß die junge Gouvernante einen Jahres
-               <lb facs="#facs_1_region_1684676713455_495_tl_30" n="N030"/>gehalt von hundert Gulden und zweimal wöchentlich
-               <lb facs="#facs_1_region_1684676713455_495_tl_31" n="N031"/>Gesangsunterricht bei dem besten Meister erhalten sollte
-               <lb facs="#facs_1_region_1684676713455_495_tl_32" n="N032"/>Da erbot sich Mathildens verheiratete Schwester, ein kleine
-               <lb facs="#facs_1_region_1684676713455_495_tl_33" n="N033"/>Kapital zu opfern, um Mathilden aus den Banden eine
-               <lb facs="#facs_1_region_1684676713455_495_tl_34" n="N034"/>ihr nicht zusagenden Berufes zu befreien und das Musi
-               <lb facs="#facs_1_region_1684676713455_495_tl_35" n="N035"/>studium in Wien ihr zu ermöglichen. Mathilde jauchzte übe
-               <lb facs="#facs_1_region_1684676713455_495_tl_36" n="N036"/>diese Wendung und verblieb vorläufig bei den Tanten. Da
-               <lb facs="#facs_1_region_1684676713455_495_tl_37" n="N037"/>lassen Frau Marchesi auf ein reichbewegtes, arbeitsvolles rothea v. Ertmann erzählte ihr da einen charakteristischen delssohn=Bartholdy kennen zu lernen und auf das
+               <lb facs="#facs_1_line_1757313521079_1172" n="N010"/>Mathilde <italic><rs type="person">Marchesi</rs></italic> ist am 26. März <date month="0" day="0" year="0">1826</date> in
+               <lb facs="#facs_1_line_1757313565717_1185" n="N011"/><rs type="place">Frankfurt a. M.</rs> geboren. Im Hause ihres Vaters, des an¬
+               <lb facs="#facs_1_region_1684676713455_495_tl_10" n="N012"/>gesehenen Großhändlers <italic><rs type="person">Graumann</rs></italic>, genoß sie eine glück¬
+               <lb facs="#facs_1_region_1684676713455_495_tl_11" n="N013"/>liche Kindheit und sorgfältige Erziehung. Lust und Talent
+               <lb facs="#facs_1_region_1684676713455_495_tl_12" n="N014"/>zum Gesange regten sich früh in dem aufgeweckten und uner¬
+               <lb facs="#facs_1_line_1757313592910_1195" n="N015"/>müdlich fleißigen Mädchen. Plötzlich durchschnitt eine schrille
+               <lb facs="#facs_1_line_1757313622118_1205" n="N016"/>Dissonanz die glückliche Jugendzeit: Vater <rs type="person">Graumann</rs> verlor
+               <lb facs="#facs_1_region_1684676713455_495_tl_13" n="N017"/>sein ganzes Vermögen; <rs type="person">Mathilde</rs> mußte daran denken, sich
+               <lb facs="#facs_1_region_1684676713455_495_tl_14" n="N018"/>eine Existenz zu gründen. Sie wollte sich der Kunst widmen;
+               <lb facs="#facs_1_region_1684676713455_495_tl_15" n="N019"/>ihre Familie war dagegen und bestimmte sie gegen ihre
+               <lb facs="#facs_1_region_1684676713455_495_tl_16" n="N020"/>Neigung zur Erzieherin. <rs type="person">Mathilde</rs> fügte sich ohne Murren
+               <lb facs="#facs_1_line_1757313449734_1135" n="N021"/>und wurde im April <date month="0" day="0" year="0">1843</date> von einem Freunde der Familie
+               <lb facs="#facs_1_line_1757313643318_1215" n="N022"/>zu ihren <rs type="person">Tanten</rs> nach <rs type="place">Wien</rs> gebracht. Diese <rs type="person">Tanten</rs> (Schwestern
+               <lb facs="#facs_1_region_1684676713455_495_tl_18" n="N023"/>von <rs type="person">Mathilde</rs>ns <rs type="person">Vater</rs>) empfingen sie sehr freundlich; die
+               <lb facs="#facs_1_region_1684676713455_495_tl_19" n="N024"/>eine davon erscheint sogar als eine gute Vorbedeutung für
+               <lb facs="#facs_1_region_1684676713455_495_tl_20" n="N025"/>die musikalische Zukunft der Kleinen. Es war dies die als
+               <lb facs="#facs_1_region_1684676713455_495_tl_21" n="N026"/>ausgezeichnete Clavierspielerin und Freundin <rs type="person">Beethoven</rs>'s be¬
+               <lb facs="#facs_1_region_1684676713455_495_tl_22" n="N027"/>kannte Dorothea v. <italic><rs type="person">Ertmann</rs></italic>, Witwe des k. k. Feld¬
+               <lb facs="#facs_1_region_1684676713455_495_tl_23" n="N028"/>marschall-Lieutenants <italic><rs type="person">Ertmann</rs></italic>. Sie hatte für ihre <rs type="person">Nichte</rs>
+               <lb facs="#facs_1_region_1684676713455_495_tl_24" n="N029"/>bereits eine Stelle als Erzieherin bei der gräflichen
+               <lb facs="#facs_1_region_1684676713455_495_tl_25" n="N030"/>Familie N. gefunden, wo <rs type="person">Mathilde</rs> die Obhut über ein
+               <lb facs="#facs_1_region_1684676713455_495_tl_26" n="N031"/>kränkliches sechsjähriges Kind übernehmen sollte. <rs type="person">Mathilde</rs>
+               <lb facs="#facs_1_region_1684676713455_495_tl_27" n="N032"/>erklärte sich mit Allem zufrieden, wenn man ihr nur
+               <lb facs="#facs_1_region_1684676713455_495_tl_28" n="N033"/>Zeit lassen wolle zu ihren Gesangsstudien. So wurde denn
+               <lb facs="#facs_1_region_1684676713455_495_tl_29" n="N034"/>vereinbart, daß die junge Gouvernante einen Jahres¬
+               <lb facs="#facs_1_region_1684676713455_495_tl_30" n="N035"/>gehalt von hundert Gulden und zweimal wöchentlich
+               <lb facs="#facs_1_region_1684676713455_495_tl_31" n="N036"/>Gesangsunterricht bei dem besten Meister erhalten sollte.
+               <lb facs="#facs_1_region_1684676713455_495_tl_32" n="N037"/>Da erbot sich <rs type="person">Mathilde</rs>ns verheiratete <rs type="person">Schwester</rs>, ein kleines
+               <lb facs="#facs_1_region_1684676713455_495_tl_33" n="N038"/>Kapital zu opfern, um <rs type="person">Mathilde</rs>n aus den Banden eines
+               <lb facs="#facs_1_region_1684676713455_495_tl_34" n="N039"/>ihr nicht zusagenden Berufes zu befreien und das Musik¬
+               <lb facs="#facs_1_region_1684676713455_495_tl_35" n="N040"/>studium in <rs type="place">Wien</rs> ihr zu ermöglichen. <rs type="person">Mathilde</rs> jauchzte über
+               <lb facs="#facs_1_region_1684676713455_495_tl_36" n="N041"/>diese Wendung und verblieb vorläufig bei den <rs type="person">Tanten</rs>. Do¬
+               <lb facs="#facs_1_line_1757313497822_1160" n="N042"/>rothea v. <rs type="person">Ertmann</rs> erzählte ihr da einen charakteristischen
             </ab>
             <ab facs="#facs_1_region_1684676716119_498" type="">
-               <lb facs="#facs_1_region_1684676716119_498_tl_1" n="N001"/>Zug von Beethoven. Es war ihr nämlich unbegreiflich
+               <lb facs="#facs_1_region_1684676716119_498_tl_1" n="N001"/>Zug von <italic><rs type="person">Beethoven</rs></italic>. Es war ihr nämlich unbegreiflich
                <lb facs="#facs_1_region_1684676716119_498_tl_2" n="N002"/>gewesen, daß dieser, ihr alter treuer Freund, sie nach dem
                <lb facs="#facs_1_region_1684676716119_498_tl_3" n="N003"/>Tode ihres geliebten einzigen Kindes nicht besucht hatte. Da
-               <lb facs="#facs_1_region_1684676716119_498_tl_4" n="N004"/>tritt nach mehreren Wochen Beethoven bei Frau v. Ertmann
-               <lb facs="#facs_1_region_1684676716119_498_tl_5" n="N005"/>ein, setzt sich, ohne ein Wort zu sprechen, ans Clavier un
+               <lb facs="#facs_1_region_1684676716119_498_tl_4" n="N004"/>tritt nach mehreren Wochen <rs type="person">Beethoven</rs> bei Frau v. <rs type="person">Ertmann</rs>
+               <lb facs="#facs_1_region_1684676716119_498_tl_5" n="N005"/>ein, setzt sich, ohne ein Wort zu sprechen, ans Clavier und
                <lb facs="#facs_1_region_1684676716119_498_tl_6" n="N006"/>phantasirt lange Zeit in Klängen, die der betrübten Mutter
                <lb facs="#facs_1_region_1684676716119_498_tl_7" n="N007"/>wie Engelschöre vom Himmel erschienen. Dann drückte er
-               <lb facs="#facs_1_region_1684676716119_498_tl_8" n="N008"/>ihr stumm die Hand und ging wieder. Dorothea v. Ert¬
-               <lb facs="#facs_1_region_1684676716119_498_tl_9" n="N009"/>mann (der bekanntlich die Sonate Op. 101 von Beethoven
-               <lb facs="#facs_1_region_1684676716119_498_tl_10" n="N010"/>Mathilde Marchesi ist am 26. März 1826 in gewidmet ist) nahm auch auf das Clavierspiel Mathildens
-               <lb facs="#facs_1_region_1684676716119_498_tl_11" n="N011"/>Frankfurt a. M. geboren. Im Hause ihres Vaters, des an¬ günstigen Einfluß. Es kam der Winter, und der ersehnt
-               <lb facs="#facs_1_region_1684676716119_498_tl_12" n="N012"/>Gesangsunterricht sollte beginnen; Otto Nicolai, der
-               <lb facs="#facs_1_region_1684676716119_498_tl_13" n="N013"/>Begründer der Philharmonischen Concerte in Wien und Ca¬
-               <lb facs="#facs_1_region_1684676716119_498_tl_14" n="N014"/>pellmeister am Hofoperntheater, wurde Mathildens Lehrer
-               <lb facs="#facs_1_region_1684676716119_498_tl_15" n="N015"/>müdlich fleißigen Mädchen. Plötzlich durchschnitt eine schrille Sein Unterricht förderte unsere junge Sängerin nicht son¬
-               <lb facs="#facs_1_region_1684676716119_498_tl_16" n="N016"/>Dissonanz die glückliche Jugendzeit: Vater Graumann verlor derlich; Nicolai gestand ihr selbst, er verstehe sich besser auf
-               <lb facs="#facs_1_region_1684676716119_498_tl_17" n="N017"/>das Einstudien von Opernpartien, als auf die Stimmbildung
+               <lb facs="#facs_1_region_1684676716119_498_tl_8" n="N008"/>ihr stumm die Hand und ging wieder. Dorothea v. <rs type="person" continued="true">Ert¬</rs>
+               <lb facs="#facs_1_region_1684676716119_498_tl_9" n="N009"/><rs type="person" continued="true">mann</rs> (der bekanntlich die <work>Sonate Op. 101</work> von <rs type="person">Beethoven</rs>
+               <lb facs="#facs_1_line_1757313521078_1171" n="N010"/>gewidmet ist) nahm auch auf das Clavierspiel <rs type="person">Mathilde</rs>ns
+               <lb facs="#facs_1_line_1757313565717_1184" n="N011"/>günstigen Einfluß. Es kam der Winter, und der ersehnte
+               <lb facs="#facs_1_region_1684676716119_498_tl_12" n="N012"/>Gesangsunterricht sollte beginnen; <italic>Otto <rs type="person">Nicolai</rs></italic>, der
+               <lb facs="#facs_1_region_1684676716119_498_tl_13" n="N013"/>Begründer der Philharmonischen Concerte in <rs type="place">Wien</rs> und Ca¬
+               <lb facs="#facs_1_region_1684676716119_498_tl_14" n="N014"/>pellmeister am Hofoperntheater, wurde <rs type="person">Mathilde</rs>ns Lehrer.
+               <lb facs="#facs_1_line_1757313592910_1194" n="N015"/>Sein Unterricht förderte unsere junge Sängerin nicht son¬
+               <lb facs="#facs_1_line_1757313622118_1204" n="N016"/>derlich; <rs type="person">Nicolai</rs> gestand ihr selbst, er verstehe sich besser auf
+               <lb facs="#facs_1_region_1684676716119_498_tl_17" n="N017"/>das Einstudiren von Opernpartien, als auf die Stimmbildung.
                <lb facs="#facs_1_region_1684676716119_498_tl_18" n="N018"/>Mehr profitirte sie mittelbar durch den Besuch der trefflichen
-               <lb facs="#facs_1_region_1684676716119_498_tl_19" n="N019"/>Concerte und der Oper, welche damals mit Staudigl,
-               <lb facs="#facs_1_region_1684676716119_498_tl_20" n="N020"/>Jenny Lutzer, Hasselt rc. in schönster Blüthe stand
-               <lb facs="#facs_1_region_1684676716119_498_tl_21" n="N021"/>Joseph Dessauer studirte Mathilden viele seine
-               <lb facs="#facs_1_region_1684676716119_498_tl_22" n="N022"/>zu ihren Tanten nach Wien gebracht. Diese Tanten (Schwestern Lieder ein und accompagnirte sie in Gesellschaften.
-               <lb facs="#facs_1_region_1684676716119_498_tl_23" n="N023"/>Als im Frühling mit der Italienischen Oper auch Madame
-               <lb facs="#facs_1_region_1684676716119_498_tl_24" n="N024"/>Viardot=Garcia in Wien einzog, wagte es Mathilde
+               <lb facs="#facs_1_region_1684676716119_498_tl_19" n="N019"/>Concerte und der Oper, welche damals mit <italic><rs type="person">Staudigl</rs></italic>,
+               <lb facs="#facs_1_region_1684676716119_498_tl_20" n="N020"/>Jenny <italic><rs type="person">Lutzer</rs></italic>, <italic><rs type="person">Hasselt</rs></italic> etc. in schönster Blüthe stand.
+               <lb facs="#facs_1_region_1684676716119_498_tl_21" n="N021"/>Joseph <italic><rs type="person">Dessauer</rs></italic> studirte <rs type="person">Mathilde</rs>n viele seiner
+               <lb facs="#facs_1_line_1757313643318_1214" n="N022"/>Lieder ein und accompagnirte sie in Gesellschaften.
+               <lb facs="#facs_1_region_1684676716119_498_tl_23" n="N023"/>Als im Frühling mit der <rs type="place">Italienisch</rs>en Oper auch Madame
+               <lb facs="#facs_1_region_1684676716119_498_tl_24" n="N024"/><italic><rs type="person">Viardot-Garcia</rs></italic> in <rs type="place">Wien</rs> einzog, wagte es <rs type="person">Mathilde</rs>,
                <lb facs="#facs_1_region_1684676716119_498_tl_25" n="N025"/>ihr etwas vorzusingen und um ihr Urtheil zu bitten. „Sie
-               <lb facs="#facs_1_region_1684676716119_498_tl_26" n="N026"/>sind auf falschem Wege," hieß es,
-               <lb facs="#facs_1_region_1684676716119_498_tl_27" n="N027"/>„Sie sollten zu meinen
-               <lb facs="#facs_1_region_1684676716119_498_tl_28" n="N028"/>Bruder Garcia nach Paris gehen.
-               <lb facs="#facs_1_region_1684676716119_498_tl_29" n="N029"/>Mathilde wünschte sich
-               <lb facs="#facs_1_region_1684676716119_498_tl_30" n="N030"/>nichts Besserres, umsomehr, als Otto Nicolai sich um ihre
-               <lb facs="#facs_1_region_1684676716119_498_tl_31" n="N031"/>Hand bewarb, dieser Verbindung aber die größten Schwierig¬
-               <lb facs="#facs_1_region_1684676716119_498_tl_32" n="N032"/>keiten im Wege standen. Ihre künstlerische Laufbahn wollte
-               <lb facs="#facs_1_region_1684676716119_498_tl_33" n="N033"/>Mathilde nicht aufgeben; sie eilte deßhalb vorläufig nach
-               <lb facs="#facs_1_region_1684676716119_498_tl_34" n="N034"/>Frankfurt zurück, ihren Eltern das Pariser Project mitzu¬
-               <lb facs="#facs_1_region_1684676716119_498_tl_35" n="N035"/>theilen. Niemand war damit einverstanden. Da faßte das
-               <lb facs="#facs_1_region_1684676716119_498_tl_36" n="N036"/>energische Mädchen den Entschluß, Gesangsunterricht zu geben,
-               <lb facs="#facs_1_region_1684676716119_498_tl_37" n="N037"/>um sich allmälig die Mittel zu ihrer eigenen Ausbildung
-               <lb facs="#facs_1_region_1684676716119_498_tl_38" n="N038"/>selbst zu erwerben. Das Glück begünstigte sie, zahlreiche
-               <lb facs="#facs_1_region_1684676716119_498_tl_39" n="N039"/>Schülerinnen wurden ihr anvertraut, insbesondere nachdem
-               <lb facs="#facs_1_region_1684676716119_498_tl_40" n="N040"/>sie selbst zum erstenmal öffentlich gesungen hatte. Das geschah im
-               <lb facs="#facs_1_region_1684676716119_498_tl_41" n="N041"/>August 1844 in einem Concert, das die jugendlichen Violin¬
-               <lb facs="#facs_1_region_1684676716119_498_tl_42" n="N042"/>Virtuosen Joseph und Georg Hellmesberger in Frank
-               <lb facs="#facs_1_region_1684676716119_498_tl_43" n="N043"/>furt gaben. In demselben Jahre hatte sie das Glück, Men¬
+               <lb facs="#facs_1_line_1757313662894_1226" n="N026"/>sind auf falschem Wege,“ hieß es, „Sie sollten zu meinem
+               <lb facs="#facs_1_line_1757313668678_1230" n="N027"/>Bruder <rs type="person">Garcia</rs> nach <rs type="place">Paris</rs> gehen.“ <rs type="person">Mathilde</rs> wünschte sich
+               <lb facs="#facs_1_region_1684676716119_498_tl_30" n="N028"/>nichts Besseres, umsomehr, als Otto <rs type="person">Nicolai</rs> sich um ihre
+               <lb facs="#facs_1_region_1684676716119_498_tl_31" n="N029"/>Hand bewarb, dieser Verbindung aber die größten Schwierig¬
+               <lb facs="#facs_1_region_1684676716119_498_tl_32" n="N030"/>keiten im Wege standen. Ihre künstlerische Laufbahn wollte
+               <lb facs="#facs_1_region_1684676716119_498_tl_33" n="N031"/><rs type="person">Mathilde</rs> nicht aufgeben; sie eilte deßhalb vorläufig nach
+               <lb facs="#facs_1_region_1684676716119_498_tl_34" n="N032"/><rs type="place">Frankfurt</rs> zurück, ihren <rs type="person">Eltern</rs> das <rs type="place">Paris</rs>er Project mitzu¬
+               <lb facs="#facs_1_region_1684676716119_498_tl_35" n="N033"/>theilen. Niemand war damit einverstanden. Da faßte das
+               <lb facs="#facs_1_region_1684676716119_498_tl_36" n="N034"/>energische Mädchen den Entschluß, Gesangsunterricht zu geben,
+               <lb facs="#facs_1_region_1684676716119_498_tl_37" n="N035"/>um sich allmälig die Mittel zu ihrer eigenen Ausbildung
+               <lb facs="#facs_1_region_1684676716119_498_tl_38" n="N036"/>selbst zu erwerben. Das Glück begünstigte sie; zahlreiche
+               <lb facs="#facs_1_region_1684676716119_498_tl_39" n="N037"/>Schülerinnen wurden ihr anvertraut, insbesondere nachdem
+               <lb facs="#facs_1_region_1684676716119_498_tl_40" n="N038"/>sie selbst zum erstenmal öffentlich gesungen hatte. Das geschah im
+               <lb facs="#facs_1_region_1684676716119_498_tl_41" n="N039"/>August <date month="0" day="0" year="0">1844</date> in einem Concert, das die jugendlichen Violin-
+               <lb facs="#facs_1_region_1684676716119_498_tl_42" n="N040"/>Virtuosen Joseph und Georg <italic><rs type="person">Hellmesberger</rs></italic> in <rs type="place" continued="true">Frank¬</rs>
+               <lb facs="#facs_1_region_1684676716119_498_tl_43" n="N041"/><rs type="place" continued="true">furt</rs> gaben. In demselben Jahre hatte sie das Glück, <italic continued="true"><rs type="person" continued="true">Men¬</rs></italic>
+               <lb facs="#facs_1_line_1757313497822_1159" n="N042"/><italic continued="true"><rs type="person" continued="true">delssohn-Bartholdy</rs></italic> kennen zu lernen und auf das
             </ab>
             <pb facs="#facs_2" n="2" xml:id="img_0002"/>
             <ab facs="#facs_2_region_1684676725898_504" type="">
-               <lb facs="#facs_2_region_1684676725898_504_tl_1" n="N001"/>
-               <lb facs="#facs_2_region_1684676725898_504_tl_2" n="N002"/>sein. Mendelssohn verweilte gern und häufig in Frankfurt
-               <lb facs="#facs_2_region_1684676725898_504_tl_3" n="N003"/>der Vaterstadt seiner Frau, und da gab es dann Landpar
-               <lb facs="#facs_2_region_1684676725898_504_tl_4" n="N004"/>tien, wobei im Freien Mendelssohn's Quartette gesungen
-               <lb facs="#facs_2_region_1684676725898_504_tl_5" n="N005"/>wurden und der Meister selbst auf der Orgel irgend einer interessante Episode schildert:
-               <lb facs="#facs_2_region_1684676725898_504_tl_6" n="N006"/>Dorfkirche phantasirte. Auf Mendelssohn's Empfehlung san¬
-               <lb facs="#facs_2_region_1684676725898_504_tl_7" n="N007"/>Mathilde auf dem Düsseldorfer Musikfeste die Altpartien in
-               <lb facs="#facs_2_region_1684676725898_504_tl_8" n="N008"/>Händel's „Josua" und in der „Walpurgisnacht". Der ent¬
-               <lb facs="#facs_2_region_1684676725898_504_tl_9" n="N009"/>schiedene Erfolg dieses Auftretens, dazu ein bereits ersparte¬
-               <lb facs="#facs_2_region_1684676725898_504_tl_10" n="N010"/>hübsches Sümmchen rückten sie ihrem ersehnten Ziele,
-               <lb facs="#facs_2_region_1684676725898_504_tl_11" n="N011"/>Paris
-               <lb facs="#facs_2_region_1684676725898_504_tl_12" n="N012"/>bedeutend näher. Mendelssohn freilich war dag
-               <lb facs="#facs_2_region_1684676725898_504_tl_13" n="N013"/>gen;
-               <lb facs="#facs_2_region_1684676725898_504_tl_14" n="N014"/>behauptete, in Paris sei mehr Affectation als wahre Kuns
-               <lb facs="#facs_2_region_1684676725898_504_tl_15" n="N015"/>und echtes Gefühl vorherrschend. Aber die Ungeduld Ma
-               <lb facs="#facs_2_region_1684676725898_504_tl_16" n="N016"/>thildens war nicht länger zu bändigen, und so reiste sie den
-               <lb facs="#facs_2_region_1684676725898_504_tl_17" n="N017"/>im Herbst 1845 mit dem Claviercomponisten Jaques Ro¬
-               <lb facs="#facs_2_region_1684676725898_504_tl_18" n="N018"/>sain und dessen Frau nach Paris.
-               <lb facs="#facs_2_region_1684676725898_504_tl_19" n="N019"/>Ihr erster Weg war zu Manuel Garcia. Der be¬
-               <lb facs="#facs_2_region_1684676725898_504_tl_20" n="N020"/>rühmte Singlehrer lobte ihre Stimme, erklärte aber, daß si
-               <lb facs="#facs_2_region_1684676725898_504_tl_21" n="N021"/>einer vollständigen Ausbildung, nicht blos einer „letzten“
-               <lb facs="#facs_2_region_1684676725898_504_tl_22" n="N022"/>bedürfe und daß mehrere Jahre dazu erforderlich sein wür
-               <lb facs="#facs_2_region_1684676725898_504_tl_23" n="N023"/>den. Mathilde fühlte sich wie vom Blitz getroffen — ihr
-               <lb facs="#facs_2_region_1684676725898_504_tl_24" n="N024"/>Ersparnisse waren nur für sechs Monate berechnet. Dod
-               <lb facs="#facs_2_region_1684676725898_504_tl_25" n="N025"/>auch diesmal fand sich Hilfe in der Noth, Hilfe durch Frank
-               <lb facs="#facs_2_region_1684676725898_504_tl_26" n="N026"/>furter Freunde, welche Mathilden eine monatliche Rente zu
-               <lb facs="#facs_2_region_1684676725898_504_tl_27" n="N027"/>sagten bis zur Vollendung ihrer Studien. Auch ein Unfall
-               <lb facs="#facs_2_region_1684676725898_504_tl_28" n="N028"/>ihres Meisters kam ihr eigenthümlich zu statten. Garci¬
-               <lb facs="#facs_2_region_1684676725898_504_tl_29" n="N029"/>hatte im Frühjahr 1847, vom Pferde stürzend, den Arn
-               <lb facs="#facs_2_region_1684676725898_504_tl_30" n="N030"/>gebrochen und übergab für längere Zeit seine Privatschüle
-               <lb facs="#facs_2_region_1684676725898_504_tl_31" n="N031"/>rinnen dem Unterricht Mathildens. So lernte diese, lehren
-               <lb facs="#facs_2_region_1684676725898_504_tl_32" n="N032"/>und von den Rathschlägen des Meisters geleitet, ihr Beste¬
-               <lb facs="#facs_2_region_1684676725898_504_tl_33" n="N033"/>Nach zwei Jahren ununterbrochenen Studiums in Pari
-               <lb facs="#facs_2_region_1684676725898_504_tl_34" n="N034"/>wendete sich Mathilde auf den Rath ihrer Freunde nach
-               <lb facs="#facs_2_region_1684676725898_504_tl_35" n="N035"/>Mailand, um dort ein Engagement zu suchen. Sie traf dor
-               <lb facs="#facs_2_region_1684676725898_504_tl_36" n="N036"/>zur ungünstigsten Zeit ein, die meisten Theater waren ge¬
-               <lb facs="#facs_2_region_1684676725898_504_tl_37" n="N037"/>schlossen, die Revolution im Anzuge. Ihr früherer Gesang
-               <lb facs="#facs_2_region_1684676725898_504_tl_38" n="N038"/>lehrer Ronconi, damals in Mailand, wollte ihr eben einig
-               <lb facs="#facs_2_region_1684676725898_504_tl_39" n="N039"/>Abschiedsworte ins Stammbuch schreiben, als die Sturm
-               <lb facs="#facs_2_region_1684676725898_504_tl_40" n="N040"/>glocke ertönte. (Das Stammbuchblatt lautet: „Milano, 1
-               <lb facs="#facs_2_region_1684676725898_504_tl_41" n="N041"/>Marzo 1848 a ore 12 di matino, momento dell’ insur
-               <lb facs="#facs_2_region_1684676725898_504_tl_42" n="N042"/>rezione. Addio! Felice Ronconi.) Unter solchen Umständer
-               <lb facs="#facs_2_region_1684676725898_504_tl_43" n="N043"/>war an eine Abreise nicht zu denken. Mehrere qualvoll
+               <lb facs="#facs_2_region_1684676725898_504_tl_1" n="N001"/>freundschaftlichste in seinen Familienkreis aufgenommen zu
+               <lb facs="#facs_2_region_1684676725898_504_tl_2" n="N002"/>sein. <rs type="person">Mendelssohn</rs> verweilte gern und häufig in <rs type="place">Frankfurt</rs>,
+               <lb facs="#facs_2_region_1684676725898_504_tl_3" n="N003"/>der Vaterstadt seiner <rs type="person">Frau</rs>, und da gab es dann Landpar¬
+               <lb facs="#facs_2_region_1684676725898_504_tl_4" n="N004"/>tien, wobei im Freien <rs type="person">Mendelssohn</rs>'s Quartette gesungen
+               <lb facs="#facs_2_line_1757313937566_1243" n="N005"/>wurden und der Meister selbst auf der Orgel irgend einer
+               <lb facs="#facs_2_region_1684676725898_504_tl_6" n="N006"/>Dorfkirche phantasirte. Auf <rs type="person">Mendelssohn</rs>'s Empfehlung sang
+               <lb facs="#facs_2_region_1684676725898_504_tl_7" n="N007"/><rs type="person">Mathilde</rs> auf dem <rs type="place">Düsseldorf</rs>er Musikfeste die Altpartien in
+               <lb facs="#facs_2_region_1684676725898_504_tl_8" n="N008"/><rs type="person">Händel</rs>'s „<work>Josua</work>“ und in der „<work>Walpurgisnacht</work>“. Der ent¬
+               <lb facs="#facs_2_region_1684676725898_504_tl_9" n="N009"/>schiedene Erfolg dieses Auftretens, dazu ein bereits erspartes
+               <lb facs="#facs_2_line_1757313963454_1254" n="N010"/>hübsches Sümmchen rückten sie ihrem ersehnten Ziele, <rs type="person">Paris</rs>,
+               <lb facs="#facs_2_line_1757313967790_1258" n="N011"/>bedeutend näher. <italic><rs type="person">Mendelssohn</rs></italic> freilich war dagegen; er
+               <lb facs="#facs_2_region_1684676725898_504_tl_14" n="N012"/>behauptete, in <rs type="person">Paris</rs> sei mehr Affectation als wahre Kunst
+               <lb facs="#facs_2_region_1684676725898_504_tl_15" n="N013"/>und echtes Gefühl vorherrschend. Aber die Ungeduld <rs type="person" continued="true">Ma¬</rs>
+               <lb facs="#facs_2_region_1684676725898_504_tl_16" n="N014"/><rs type="person" continued="true">thilde</rs>ns war nicht länger zu bändigen, und so reiste sie denn
+               <lb facs="#facs_2_region_1684676725898_504_tl_17" n="N015"/>im Herbst <date month="0" day="0" year="0">1845</date> mit dem Claviercomponisten Jaques <rs type="person" continued="true">Ro¬</rs>
+               <lb facs="#facs_2_region_1684676725898_504_tl_18" n="N016"/><rs type="person" continued="true">senhain</rs> und dessen Frau nach <rs type="place">Paris</rs>.
+               <lb facs="#facs_2_region_1684676725898_504_tl_19" n="N017"/>Ihr erster Weg war zu Manuel <italic><rs type="person">Garcia</rs></italic>. Der be¬
+               <lb facs="#facs_2_region_1684676725898_504_tl_20" n="N018"/>rühmte Singlehrer lobte ihre Stimme, erklärte aber, daß sie
+               <lb facs="#facs_2_region_1684676725898_504_tl_21" n="N019"/>einer <italic>vollständigen</italic> Ausbildung, nicht blos einer „letzten“,
+               <lb facs="#facs_2_region_1684676725898_504_tl_22" n="N020"/>bedürfe und daß mehrere Jahre dazu erforderlich sein wür¬
+               <lb facs="#facs_2_region_1684676725898_504_tl_23" n="N021"/>den. <rs type="person">Mathilde</rs> fühlte sich wie vom Blitz getroffen — ihre
+               <lb facs="#facs_2_region_1684676725898_504_tl_24" n="N022"/>Ersparnisse waren nur für sechs Monate berechnet. Doch
+               <lb facs="#facs_2_region_1684676725898_504_tl_25" n="N023"/>auch diesmal fand sich Hilfe in der Noth, Hilfe durch <rs type="place" continued="true">Frank¬</rs>
+               <lb facs="#facs_2_region_1684676725898_504_tl_26" n="N024"/><rs type="place" continued="true">furt</rs>er Freunde, welche <rs type="person">Mathilde</rs>n eine monatliche Rente zu¬
+               <lb facs="#facs_2_region_1684676725898_504_tl_27" n="N025"/>sagten bis zur Vollendung ihrer Studien. Auch ein Unfall
+               <lb facs="#facs_2_region_1684676725898_504_tl_28" n="N026"/>ihres Meisters kam ihr eigenthümlich zu statten. <italic><rs type="person">Garcia</rs></italic>
+               <lb facs="#facs_2_region_1684676725898_504_tl_29" n="N027"/>hatte im Frühjahr <date month="0" day="0" year="0">1847</date>, vom Pferde stürzend, den Arm
+               <lb facs="#facs_2_region_1684676725898_504_tl_30" n="N028"/>gebrochen und übergab für längere Zeit seine Privatschüle¬
+               <lb facs="#facs_2_region_1684676725898_504_tl_31" n="N029"/>rinnen dem Unterricht <rs type="person">Mathilde</rs>ns. So lernte diese, lehrend
+               <lb facs="#facs_2_region_1684676725898_504_tl_32" n="N030"/>und von den Rathschlägen des Meisters geleitet, ihr Bestes.
+               <lb facs="#facs_2_region_1684676725898_504_tl_33" n="N031"/>Nach zwei Jahren ununterbrochenen Studiums in <rs type="place">Paris</rs>
+               <lb facs="#facs_2_region_1684676725898_504_tl_34" n="N032"/>wendete sich <rs type="person">Mathilde</rs> auf den Rath ihrer Freunde nach
+               <lb facs="#facs_2_region_1684676725898_504_tl_35" n="N033"/><rs type="place">Mailand</rs>, um dort ein Engagement zu suchen. Sie traf dort
+               <lb facs="#facs_2_region_1684676725898_504_tl_36" n="N034"/>zur ungünstigsten Zeit ein, die meisten Theater waren ge¬
+               <lb facs="#facs_2_region_1684676725898_504_tl_37" n="N035"/>schlossen, die Revolution im Anzuge. Ihr früherer Gesang¬
+               <lb facs="#facs_2_region_1684676725898_504_tl_38" n="N036"/>lehrer <rs type="person">Ronconi</rs>, damals in <rs type="place">Mailand</rs>, wollte ihr eben einige
+               <lb facs="#facs_2_region_1684676725898_504_tl_39" n="N037"/>Abschiedsworte ins Stammbuch schreiben, als die Sturm¬
+               <lb facs="#facs_2_region_1684676725898_504_tl_40" n="N038"/>glocke ertönte. (Das Stammbuchblatt lautet: „<rs type="place">Milano</rs>, 18
+               <lb facs="#facs_2_region_1684676725898_504_tl_41" n="N039"/>Marzo <date month="0" day="0" year="0">1848</date> a ore 12 di mattino, momento dell’ insur¬
+               <lb facs="#facs_2_region_1684676725898_504_tl_42" n="N040"/>rezione. Addio! Felice <rs type="person">Ronconi</rs>.“) Unter solchen Umständen
+               <lb facs="#facs_2_region_1684676725898_504_tl_43" n="N041"/>war an eine Abreise nicht zu denken. Mehrere qualvolle
+               <lb facs="#facs_2_line_1757314005318_1277" n="N042"/>Tage und Nächte verbrachte <rs type="person">Mathilde</rs> mit einigen Damen
             </ab>
             <ab facs="#facs_2_region_1684676729040_507" type="">
-               <lb facs="#facs_2_region_1684676729040_507_tl_1" n="N001"/>versteckt in einem Gartensalon des Raimondischen Palais
+               <lb facs="#facs_2_region_1684676729040_507_tl_1" n="N001"/>versteckt in einem Gartensalon des <rs type="person">Raimondi</rs>'schen Palais.
                <lb facs="#facs_2_region_1684676729040_507_tl_2" n="N002"/>Endlich wendete sich das Glück auf Seite der Italiener, und
-               <lb facs="#facs_2_region_1684676729040_507_tl_3" n="N003"/>die gefangenen Damen verließen betend und hungernd ih¬
-               <lb facs="#facs_2_region_1684676729040_507_tl_4" n="N004"/>Versteck. Hören wir, wie Frau Marchesi selbst diese
-               <lb facs="#facs_2_region_1684676729040_507_tl_5" n="N005"/>„Es war an einem sonnigen Märzmorgen, als wir der
-               <lb facs="#facs_2_region_1684676729040_507_tl_6" n="N006"/>großen Hof betraten. Die Pflastersteine waren aufgewühlt
-               <lb facs="#facs_2_region_1684676729040_507_tl_7" n="N007"/>vor dem Palais standen zwei riesige Barricaden, welcher
-               <lb facs="#facs_2_region_1684676729040_507_tl_8" n="N008"/>man die feinsten Möbel, Claviere 2c. geopfert hatte. Aus
-               <lb facs="#facs_2_region_1684676729040_507_tl_9" n="N009"/>weiter Ferne hörte man noch Kanonendonner. Mitten im
-               <lb facs="#facs_2_region_1684676729040_507_tl_10" n="N010"/>Hofe stand Signor Ronconi, seinen Degen schwingend und
-               <lb facs="#facs_2_region_1684676729040_507_tl_11" n="N011"/>mit den Worten: „So breche ich meinen Eid mit Oester¬
-               <lb facs="#facs_2_region_1684676729040_507_tl_12" n="N012"/>" mitten entzweibrechend. Selbigen Tags lud de
-               <lb facs="#facs_2_region_1684676729040_507_tl_13" n="N013"/>Marchese Raimondi uns ein, bei ihm zu speisen. Ich war
-               <lb facs="#facs_2_region_1684676729040_507_tl_14" n="N014"/>bei dieser Gelegenheit kein willkommener Gast. Man hielt
-               <lb facs="#facs_2_region_1684676729040_507_tl_15" n="N015"/>mich für eine Oesterreicherin, denn der Portier hatte aus¬
-               <lb facs="#facs_2_region_1684676729040_507_tl_16" n="N016"/>gesagt, daß ich viele Briefe aus Wien erhalte. Kaum hatten
-               <lb facs="#facs_2_region_1684676729040_507_tl_17" n="N017"/>wir uns zu Tisch gesetzt, als ein italienischer Officier sie
-               <lb facs="#facs_2_region_1684676729040_507_tl_18" n="N018"/>meldete, um Rapport zu erstatten. Er übergab dem Marches
-               <lb facs="#facs_2_region_1684676729040_507_tl_19" n="N019"/>mehrere Gegenstände, welche gefallenen österreichischen Offi¬
-               <lb facs="#facs_2_region_1684676729040_507_tl_20" n="N020"/>cieren abgenommen waren. Unter denselben befand sich auch
-               <lb facs="#facs_2_region_1684676729040_507_tl_21" n="N021"/>ein Brief. „Der Brief ist deutsch," sagte der Marchese. „Der
-               <lb facs="#facs_2_region_1684676729040_507_tl_22" n="N022"/>wird uns das Fräulein am besten übersetzen können." Kaun
-               <lb facs="#facs_2_region_1684676729040_507_tl_23" n="N023"/>hatte ich zu lesen angefangen, als Thränen meinen Blick
-               <lb facs="#facs_2_region_1684676729040_507_tl_24" n="N024"/>verdunkelten und die Stimme mir versagte. Der Brief war
-               <lb facs="#facs_2_region_1684676729040_507_tl_25" n="N025"/>gar so rührend. Ein junger Officier schrieb in den zärt
-               <lb facs="#facs_2_region_1684676729040_507_tl_26" n="N026"/>lichsten Ausdrücken an seine Mutter, daß er zu avanciren
-               <lb facs="#facs_2_region_1684676729040_507_tl_27" n="N027"/>hoffe und dadurch in den Stand käme, ihre Lage zu
-               <lb facs="#facs_2_region_1684676729040_507_tl_28" n="N028"/>bessern. Dieses treue Herz hatte aufgehört zu schlagen!
-               <lb facs="#facs_2_region_1684676729040_507_tl_29" n="N029"/>rang noch nach Fassung, als der Marchese wüthend mit der
-               <lb facs="#facs_2_region_1684676729040_507_tl_30" n="N030"/>Hand auf den Tisch schlug und mich mit den Worten: „Vi¬
-               <lb facs="#facs_2_region_1684676729040_507_tl_31" n="N031"/>vile Austriaca (Weg, feige Oesterreicherin) aus der
-               <lb facs="#facs_2_region_1684676729040_507_tl_32" n="N032"/>Zimmer jagte. Niemand hatte gewagt, ein Wort zu meiner
-               <lb facs="#facs_2_region_1684676729040_507_tl_33" n="N033"/>Vertheidigung zu sprechen. Ich war im Innersten empört,
-               <lb facs="#facs_2_region_1684676729040_507_tl_34" n="N034"/>doch kalt und gefaßt, flog die Treppe hinauf, schloß mich in doch seltsam genug gewesen ist. Das große Mozart-Jubiläums¬
-               <lb facs="#facs_2_region_1684676729040_507_tl_35" n="N035"/>mein Zimmer ein, packte von neuem meinen Koffer und
-               <lb facs="#facs_2_region_1684676729040_507_tl_36" n="N036"/>legte mich halbtodt vor Aufregung und — ich schäme mich
-               <lb facs="#facs_2_region_1684676729040_507_tl_37" n="N037"/>nicht, es zu sagen, auch vor Hunger ins Bett. Den ander
-               <lb facs="#facs_2_region_1684676729040_507_tl_38" n="N038"/>Morgen um 4 Uhr stand ich auf und verließ das Palais
-               <lb facs="#facs_2_region_1684676729040_507_tl_39" n="N039"/>dessen Thore bereits weit geöffnet waren.
-               <lb facs="#facs_2_region_1684676729040_507_tl_40" n="N040"/>Es gelang Mathilden, von Mailand wieder nach Paris
-               <lb facs="#facs_2_region_1684676729040_507_tl_41" n="N041"/>Tage und Nächte verbrachte Mathilde mit einigen Damen zurückzukommen, wo sie durch ein volles Jahr den Unterderten Frau Esillag zu übernehmen. Die Haupt¬
+               <lb facs="#facs_2_region_1684676729040_507_tl_3" n="N003"/>die gefangenen Damen verließen betend und hungernd ihr
+               <lb facs="#facs_2_region_1684676729040_507_tl_4" n="N004"/>Versteck. Hören wir, wie Frau <italic><rs type="person">Marchesi</rs></italic> selbst diese
+               <lb facs="#facs_2_line_1757313937565_1242" n="N005"/>interessante Episode schildert:
+               <lb facs="#facs_2_region_1684676729040_507_tl_5" n="N006"/>„Es war an einem sonnigen Märzmorgen, als wir den
+               <lb facs="#facs_2_region_1684676729040_507_tl_6" n="N007"/>großen Hof betraten. Die Pflastersteine waren aufgewühlt,
+               <lb facs="#facs_2_region_1684676729040_507_tl_7" n="N008"/>vor dem Palais standen zwei riesige Barricaden, welchen
+               <lb facs="#facs_2_region_1684676729040_507_tl_8" n="N009"/>man die feinsten Möbel, Claviere etc. geopfert hatte. Aus
+               <lb facs="#facs_2_region_1684676729040_507_tl_9" n="N010"/>weiter Ferne hörte man noch Kanonendonner. Mitten im
+               <lb facs="#facs_2_region_1684676729040_507_tl_10" n="N011"/>Hofe stand Signor <rs type="person">Ronconi</rs>, seinen Degen schwingend und
+               <lb facs="#facs_2_region_1684676729040_507_tl_11" n="N012"/>mit den Worten: „So breche ich meinen Eid mit <rs type="place" continued="true">Oester¬</rs>
+               <lb facs="#facs_2_region_1684676729040_507_tl_12" n="N013"/><rs type="place" continued="true">reich</rs>!“ mitten entzweibrechend. Selbigen Tags lud der
+               <lb facs="#facs_2_region_1684676729040_507_tl_13" n="N014"/>Marchese <rs type="person">Raimondi</rs> uns ein, bei ihm zu speisen. Ich war
+               <lb facs="#facs_2_region_1684676729040_507_tl_14" n="N015"/>bei dieser Gelegenheit kein willkommener Gast. Man hielt
+               <lb facs="#facs_2_region_1684676729040_507_tl_15" n="N016"/>mich für eine Oesterreicherin, denn der Portier hatte aus¬
+               <lb facs="#facs_2_region_1684676729040_507_tl_16" n="N017"/>gesagt, daß ich viele Briefe aus <rs type="place">Wien</rs> erhalte. Kaum hatten
+               <lb facs="#facs_2_region_1684676729040_507_tl_17" n="N018"/>wir uns zu Tisch gesetzt, als ein <rs type="place">italienisch</rs>er Officier sich
+               <lb facs="#facs_2_region_1684676729040_507_tl_18" n="N019"/>meldete, um Rapport zu erstatten. Er übergab dem <rs type="person">Marchese</rs>
+               <lb facs="#facs_2_region_1684676729040_507_tl_19" n="N020"/>mehrere Gegenstände, welche gefallenen <rs type="place">österreichisch</rs>en Offi¬
+               <lb facs="#facs_2_region_1684676729040_507_tl_20" n="N021"/>cieren abgenommen waren. Unter denselben befand sich auch
+               <lb facs="#facs_2_region_1684676729040_507_tl_21" n="N022"/>ein Brief. „Der Brief ist <rs type="place">deutsch</rs>,“ sagte der <rs type="person">Marchese</rs>. „Den
+               <lb facs="#facs_2_region_1684676729040_507_tl_22" n="N023"/>wird uns das Fräulein am besten übersetzen können.“ Kaum
+               <lb facs="#facs_2_region_1684676729040_507_tl_23" n="N024"/>hatte ich zu lesen angefangen, als Thränen meinen Blick
+               <lb facs="#facs_2_region_1684676729040_507_tl_24" n="N025"/>verdunkelten und die Stimme mir versagte. Der Brief war
+               <lb facs="#facs_2_region_1684676729040_507_tl_25" n="N026"/>gar so rührend. Ein junger Officier schrieb in den zärt¬
+               <lb facs="#facs_2_region_1684676729040_507_tl_26" n="N027"/>lichsten Ausdrücken an seine Mutter, daß er zu avanciren
+               <lb facs="#facs_2_region_1684676729040_507_tl_27" n="N028"/>hoffe und dadurch in den Stand käme, ihre Lage zu ver¬
+               <lb facs="#facs_2_region_1684676729040_507_tl_28" n="N029"/>bessern. Dieses treue Herz hatte aufgehört zu schlagen! Ich
+               <lb facs="#facs_2_region_1684676729040_507_tl_29" n="N030"/>rang noch nach Fassung, als der <rs type="person">Marchese</rs> wüthend mit der
+               <lb facs="#facs_2_region_1684676729040_507_tl_30" n="N031"/>Hand auf den Tisch schlug und mich mit den Worten: „Via,
+               <lb facs="#facs_2_region_1684676729040_507_tl_31" n="N032"/>vile Austriaca!“ (Weg, feige Oesterreicherin!) aus dem
+               <lb facs="#facs_2_region_1684676729040_507_tl_32" n="N033"/>Zimmer jagte. Niemand hatte gewagt, ein Wort zu meiner
+               <lb facs="#facs_2_region_1684676729040_507_tl_33" n="N034"/>Vertheidigung zu sprechen. Ich war im Innersten empört,
+               <lb facs="#facs_2_line_1757313983670_1266" n="N035"/>doch kalt und gefaßt, flog die Treppe hinauf, schloß mich in
+               <lb facs="#facs_2_region_1684676729040_507_tl_35" n="N036"/>mein Zimmer ein, packte von neuem meinen Koffer und
+               <lb facs="#facs_2_region_1684676729040_507_tl_36" n="N037"/>legte mich halbtodt vor Aufregung und — ich schäme mich
+               <lb facs="#facs_2_region_1684676729040_507_tl_37" n="N038"/>nicht, es zu sagen, auch vor Hunger ins Bett. Den andern
+               <lb facs="#facs_2_region_1684676729040_507_tl_38" n="N039"/>Morgen um 4 Uhr stand ich auf und verließ das Palais,
+               <lb facs="#facs_2_region_1684676729040_507_tl_39" n="N040"/>dessen Thore bereits weit geöffnet waren.“
+               <lb facs="#facs_2_region_1684676729040_507_tl_40" n="N041"/>Es gelang <rs type="person">Mathilde</rs>n, von <rs type="place">Mailand</rs> wieder nach <rs type="place">Paris</rs>
+               <lb facs="#facs_2_line_1757314029302_1286" n="N042"/>zurückzukommen, wo sie durch ein volles Jahr den Unter¬
             </ab>
             <ab facs="#facs_2_region_1684676732072_510" type="">
-               <lb facs="#facs_2_region_1684676732072_510_tl_1" n="N001"/>
-               <lb facs="#facs_2_region_1684676732072_510_tl_2" n="N002"/>finden wir Mathilde als eine der gesuchtesten Concertsängerinnen
-               <lb facs="#facs_2_region_1684676732072_510_tl_3" n="N003"/>in London. Nach Beendigung der Saison wendete sie sich
-               <lb facs="#facs_2_region_1684676732072_510_tl_4" n="N004"/>nach Deutschland, wo sie bei Liszt in Weimar, bei Mo¬
-               <lb facs="#facs_2_region_1684676732072_510_tl_5" n="N005"/>scheles und David in Leipzig die freundlichste Aufnahm
-               <lb facs="#facs_2_region_1684676732072_510_tl_6" n="N006"/>fand und in letzterer Stadt mehrere Concerte gab. Es folgt
-               <lb facs="#facs_2_region_1684676732072_510_tl_7" n="N007"/>abermals ein Aufenthalt in London, der sich um so genuß
-               <lb facs="#facs_2_region_1684676732072_510_tl_8" n="N008"/>reicher gestaltete, als Mathilde in dem Hause des preußischen
-               <lb facs="#facs_2_region_1684676732072_510_tl_9" n="N009"/>Gesandten v. Bunsen und anderen liebenswürdige
-               <lb facs="#facs_2_region_1684676732072_510_tl_10" n="N010"/>Familien heimisch geworden war. Sie veranstaltete 185
-               <lb facs="#facs_2_region_1684676732072_510_tl_11" n="N011"/>eine Privat=Soirée, in welcher Mendelssohn's Lieder
-               <lb facs="#facs_2_region_1684676732072_510_tl_12" n="N012"/>spiel: „Die Heimkehr aus der Fremde mit englischem Tex
-               <lb facs="#facs_2_region_1684676732072_510_tl_13" n="N013"/>zum erstenmal in England aufgeführt wurde. Manuel
-               <lb facs="#facs_2_region_1684676732072_510_tl_14" n="N014"/>Garcia hatte selbst eine Rolle übernommen, desgleichen
-               <lb facs="#facs_2_region_1684676732072_510_tl_15" n="N015"/>einer seiner Schüler, der junge Sicilianer Salvatore Mar¬
-               <lb facs="#facs_2_region_1684676732072_510_tl_16" n="N016"/>chesi de Castrone, der bald in dem Leben unserer Sängerin
-               <lb facs="#facs_2_region_1684676732072_510_tl_17" n="N017"/>eine noch wichtigere Rolle spielen sollte. Salvatore Marchesi
-               <lb facs="#facs_2_region_1684676732072_510_tl_18" n="N018"/>und Mathilde Graumann wurden am 19. April 1852 in
-               <lb facs="#facs_2_region_1684676732072_510_tl_19" n="N019"/>Frankfurt vermält. Das junge Paar folgte gleich nach der
-               <lb facs="#facs_2_region_1684676732072_510_tl_20" n="N020"/>Hochzeit einer Einladung Meyerbeer's nach Berlin, verlebte
-               <lb facs="#facs_2_region_1684676732072_510_tl_21" n="N021"/>dann wieder eine Saison in London und langte im Sep¬
-               <lb facs="#facs_2_region_1684676732072_510_tl_22" n="N022"/>tember 1854 in Wien an, um daselbst Concerte zu geben.
+               <lb facs="#facs_2_region_1684676732072_510_tl_1" n="N001"/>richt bei <rs type="person">Garcia</rs> fortsetzte. In den Jahren <date month="0" day="0" year="0">1849</date> und <date month="0" day="0" year="0">1850</date>
+               <lb facs="#facs_2_region_1684676732072_510_tl_2" n="N002"/>finden wir <rs type="person">Mathilde</rs> als eine der gesuchtesten Concertsängerinnen
+               <lb facs="#facs_2_region_1684676732072_510_tl_3" n="N003"/>in <rs type="place">London</rs>. Nach Beendigung der Saison wendete sie sich
+               <lb facs="#facs_2_region_1684676732072_510_tl_4" n="N004"/>nach <rs type="place">Deutschland</rs>, wo sie bei <italic><rs type="person">Liszt</rs></italic> in Weimar, bei <italic continued="true"><rs type="person" continued="true">Mo¬</rs></italic>
+               <lb facs="#facs_2_region_1684676732072_510_tl_5" n="N005"/><italic continued="true"><rs type="person" continued="true">scheles</rs></italic> und <italic><rs type="person">David</rs></italic> in <rs type="place">Leipzig</rs> die freundlichste Aufnahme
+               <lb facs="#facs_2_region_1684676732072_510_tl_6" n="N006"/>fand und in letzterer Stadt mehrere Concerte gab. Es folgte
+               <lb facs="#facs_2_region_1684676732072_510_tl_7" n="N007"/>abermals ein Aufenthalt in <rs type="place">London</rs>, der sich um so genuß¬
+               <lb facs="#facs_2_region_1684676732072_510_tl_8" n="N008"/>reicher gestaltete, als <rs type="person">Mathilde</rs> in dem Hause des <rs type="place">preußisch</rs>en
+               <lb facs="#facs_2_region_1684676732072_510_tl_9" n="N009"/>Gesandten v. <italic><rs type="person">Bunsen</rs></italic> und anderen liebenswürdigen
+               <lb facs="#facs_2_region_1684676732072_510_tl_10" n="N010"/>Familien heimisch geworden war. Sie veranstaltete <date month="0" day="0" year="0">1851</date>
+               <lb facs="#facs_2_region_1684676732072_510_tl_11" n="N011"/>eine Privat-Soirée, in welcher <italic><rs type="person">Mendelssohn</rs>'s</italic> Lieder¬
+               <lb facs="#facs_2_region_1684676732072_510_tl_12" n="N012"/>spiel: „<work>Die Heimkehr aus der Fremde</work>“ mit <rs type="place">englisch</rs>em Text
+               <lb facs="#facs_2_region_1684676732072_510_tl_13" n="N013"/>zum erstenmal in <rs type="place">England</rs> aufgeführt wurde. Manuel
+               <lb facs="#facs_2_region_1684676732072_510_tl_14" n="N014"/><italic><rs type="person">Garcia</rs></italic> hatte selbst eine Rolle übernommen, desgleichen
+               <lb facs="#facs_2_region_1684676732072_510_tl_15" n="N015"/>einer seiner Schüler, der junge Sicilianer Salvatore <italic continued="true"><rs type="person" continued="true">Mar¬</rs></italic>
+               <lb facs="#facs_2_region_1684676732072_510_tl_16" n="N016"/><rs type="person" continued="true"><italic continued="true">chesi</italic> de Castrone</rs>, der bald in dem Leben unserer Sängerin
+               <lb facs="#facs_2_region_1684676732072_510_tl_17" n="N017"/>eine noch wichtigere Rolle spielen sollte. Salvatore <rs type="person">Marchesi</rs>
+               <lb facs="#facs_2_region_1684676732072_510_tl_18" n="N018"/>und Mathilde <rs type="person">Graumann</rs> wurden am 19. April <date month="0" day="0" year="0">1852</date> in
+               <lb facs="#facs_2_region_1684676732072_510_tl_19" n="N019"/><rs type="place">Frankfurt</rs> vermält. Das junge Paar folgte gleich nach der
+               <lb facs="#facs_2_region_1684676732072_510_tl_20" n="N020"/>Hochzeit einer Einladung <rs type="person">Meyerbeer</rs>'s nach <rs type="place">Berlin</rs>, verlebte
+               <lb facs="#facs_2_region_1684676732072_510_tl_21" n="N021"/>dann wieder eine Saison in <rs type="place">London</rs> und langte im Sep¬
+               <lb facs="#facs_2_region_1684676732072_510_tl_22" n="N022"/>tember <date month="0" day="0" year="0">1854</date> in <italic><rs type="place">Wien</rs></italic> an, um daselbst Concerte zu geben.
                <lb facs="#facs_2_region_1684676732072_510_tl_23" n="N023"/>Ohne im entferntesten an einen bleibenden Aufenthalt in
-               <lb facs="#facs_2_region_1684676732072_510_tl_24" n="N024"/>Wien zu denken, fanden sich die Marchesi doch bald hier
-               <lb facs="#facs_2_region_1684676732072_510_tl_25" n="N025"/>fesselt. Frau Marchesi nahm die ihr angetragene Gesa¬
-               <lb facs="#facs_2_region_1684676732072_510_tl_26" n="N026"/>professur am Wiener Conservatorium an, das, damals noch
+               <lb facs="#facs_2_region_1684676732072_510_tl_24" n="N024"/><rs type="place">Wien</rs> zu denken, fanden sich die <rs type="person">Marchesi</rs> doch bald hier ge¬
+               <lb facs="#facs_2_region_1684676732072_510_tl_25" n="N025"/>fesselt. Frau <rs type="person">Marchesi</rs> nahm die ihr angetragene Gesangs¬
+               <lb facs="#facs_2_region_1684676732072_510_tl_26" n="N026"/>professur am <rs type="place">Wien</rs>er Conservatorium an, das, damals noch
                <lb facs="#facs_2_region_1684676732072_510_tl_27" n="N027"/>in dem winkeligen alten Musikverein, auf bescheidenstem Fuße
                <lb facs="#facs_2_region_1684676732072_510_tl_28" n="N028"/>eingerichtet war. Ihre Thätigkeit erwies sich gleich in dieser
                <lb facs="#facs_2_region_1684676732072_510_tl_29" n="N029"/>ersten Zeit erfolgreich, aus welcher die berühmt gewordenen
-               <lb facs="#facs_2_region_1684676732072_510_tl_30" n="N030"/>Schülerinnen der Marchesi: Antonia Fricci, Gabriele
-               <lb facs="#facs_2_region_1684676732072_510_tl_31" n="N031"/>Krauß, Ilma v. Murska stammen. Von ihrem Lehrer
-               <lb facs="#facs_2_region_1684676732072_510_tl_32" n="N032"/>beruf ganz in Anspruch genommen, trat Frau Marches
-               <lb facs="#facs_2_region_1684676732072_510_tl_33" n="N033"/>nach der Concert-Saison 1854,55 nicht mehr öffentlich auf.
+               <lb facs="#facs_2_region_1684676732072_510_tl_30" n="N030"/>Schülerinnen der <rs type="person">Marchesi</rs>: Antonia <italic><rs type="person">Fricci</rs></italic>, Gabriele
+               <lb facs="#facs_2_region_1684676732072_510_tl_31" n="N031"/><italic><rs type="person">Krauß</rs></italic>, Ilma v. <italic><rs type="person">Murska</rs></italic> stammen. Von ihrem Lehrer¬
+               <lb facs="#facs_2_region_1684676732072_510_tl_32" n="N032"/>beruf ganz in Anspruch genommen, trat Frau <italic><rs type="person">Marchesi</rs></italic>
+               <lb facs="#facs_2_region_1684676732072_510_tl_33" n="N033"/>nach der Concert-Saison <date month="0" day="0" year="0">1854/55</date> nicht mehr öffentlich auf.
                <lb facs="#facs_2_region_1684676732072_510_tl_34" n="N034"/>Mit einer einzigen Ausnahme, die kaum bekannt geworden und
-               <lb facs="#facs_2_region_1684676732072_510_tl_35" n="N035"/>Concert sollte am 27. Januar 1856 unter Liszt's Leitung
-               <lb facs="#facs_2_region_1684676732072_510_tl_36" n="N036"/>im großen Redoutensaal vor sich gehen. Frau Marchesi lag
-               <lb facs="#facs_2_region_1684676732072_510_tl_37" n="N037"/>fieberkrank zu Bett und trostlos, dem Concert nicht bei¬
-               <lb facs="#facs_2_region_1684676732072_510_tl_38" n="N038"/>wohnen zu können, als anderthalb Stunden vor dessen Beginn
-               <lb facs="#facs_2_region_1684676732072_510_tl_39" n="N039"/>ein Abgesandter Liszt's bei ihr eintrat, sie beschwörend, der
-               <lb facs="#facs_2_region_1684676732072_510_tl_40" n="N040"/>Part der Elvira in dem „Don Juan"-Finale statt der plötzli
+               <lb facs="#facs_2_line_1757313983670_1265" n="N035"/>doch seltsam genug gewesen ist. Das große <rs type="person">Mozart</rs>-Jubiläums-
+               <lb facs="#facs_2_region_1684676732072_510_tl_35" n="N036"/>Concert sollte am 27. Januar <date month="0" day="0" year="0">1856</date> unter <rs type="person">Liszt</rs>'s Leitung
+               <lb facs="#facs_2_region_1684676732072_510_tl_36" n="N037"/>im großen Redoutensaal vor sich gehen. Frau <rs type="person">Marchesi</rs> lag
+               <lb facs="#facs_2_region_1684676732072_510_tl_37" n="N038"/>fieberkrank zu Bett und trostlos, dem Concert nicht bei¬
+               <lb facs="#facs_2_region_1684676732072_510_tl_38" n="N039"/>wohnen zu können, als anderthalb Stunden vor dessen Beginn
+               <lb facs="#facs_2_region_1684676732072_510_tl_39" n="N040"/>ein Abgesandter <rs type="person">Liszt</rs>'s bei ihr eintrat, sie beschwörend, den
+               <lb facs="#facs_2_region_1684676732072_510_tl_40" n="N041"/>Part der <person_fictional>Elvira</person_fictional> in dem „<work>Don Juan</work>“-Finale statt der plötzlich
+               <lb facs="#facs_2_line_1757314029301_1285" n="N042"/>verhinderten Frau <rs type="person">Csillag</rs> zu übernehmen. Die Haupt¬
             </ab>
             <pb facs="#facs_3" n="3" xml:id="img_0003"/>
             <ab facs="#facs_3_region_1684676741160_516" type="">
-               <lb facs="#facs_3_region_1684676741160_516_tl_1" n="N001"/>nummer des Festconcertes war verloren ohne den heroische
-               <lb facs="#facs_3_region_1684676741160_516_tl_2" n="N002"/>Entschluß der Marchesi, welche aussprang, sich ankleidete und
-               <lb facs="#facs_3_region_1684676741160_516_tl_3" n="N003"/>ohne Probe die Partie neben Ander, Staudigl und der
-               <lb facs="#facs_3_region_1684676741160_516_tl_4" n="N004"/>Tietjens auf das lobenswertheste durchführte
-               <lb facs="#facs_3_region_1684676741160_516_tl_5" n="N005"/>Allerlei Mißhelligkeiten mit der Direction des Conservato
-               <lb facs="#facs_3_region_1684676741160_516_tl_6" n="N006"/>riums brachten Frau Marchesi zu dem Entschluß, im Septembe
-               <lb facs="#facs_3_region_1684676741160_516_tl_7" n="N007"/>1861 ihre Stellung in Wien aufzugeben und — gefolgt von eine
-               <lb facs="#facs_3_region_1684676741160_516_tl_8" n="N008"/>Anzahl getreuer Schülerinnen — nach Paris zu übersiedeln
-               <lb facs="#facs_3_region_1684676741160_516_tl_9" n="N009"/>Auch dort strömten ihr die Schülerinnen von allen Seiten zu
-               <lb facs="#facs_3_region_1684676741160_516_tl_10" n="N010"/>Rossini nahm die Dedication ihrer „Vocalisen" an, deren
-               <lb facs="#facs_3_region_1684676741160_516_tl_11" n="N011"/>Trefflichkeit er in einem liebenswürdigen Schreiben anerkannte
-               <lb facs="#facs_3_region_1684676741160_516_tl_12" n="N012"/>„Ich liebe die tiefen Stimmen," sagte er eines Tages zu
-               <lb facs="#facs_3_region_1684676741160_516_tl_13" n="N013"/>Frau Marchesi, „will auch noch den Soprano giusto an¬
-               <lb facs="#facs_3_region_1684676741160_516_tl_14" n="N014"/>hören, aber die Sängerinnen, die immer in den höchsten Regioner
-               <lb facs="#facs_3_region_1684676741160_516_tl_15" n="N015"/>schweben und nicht einmal Voce di testa (Kopfstimme), son
-               <lb facs="#facs_3_region_1684676741160_516_tl_16" n="N016"/>dern Voce
-               <lb facs="#facs_3_region_1684676741160_516_tl_17" n="N017"/>li capelli (Haarstimme) anwenden, die beleidigen
-               <lb facs="#facs_3_region_1684676741160_516_tl_18" n="N018"/>mein Ohr." Inmitten aller Annehmlichkeiten und Anerkennun
-               <lb facs="#facs_3_region_1684676741160_516_tl_19" n="N019"/>gen fühlte doch Frau Marches, daß das aufreibende Leben in Pari¬
-               <lb facs="#facs_3_region_1684676741160_516_tl_20" n="N020"/>ihre Gesundheit bedrohe. Die Aerzte drangen auf Luftwechse
-               <lb facs="#facs_3_region_1684676741160_516_tl_21" n="N021"/>und ruhigere Lebensweise. So verließ denn Frau Marchesi
-               <lb facs="#facs_3_region_1684676741160_516_tl_22" n="N022"/>nach vierjährigem Aufenthalte Paris und willigte in de
-               <lb facs="#facs_3_region_1684676741160_516_tl_23" n="N023"/>Antrag Ferdinand Hiller's, eine Stelle am Kölner Con
-               <lb facs="#facs_3_region_1684676741160_516_tl_24" n="N024"/>servatorium anzunehmen. Wer an das reichbewegte Leben in diese Wahlreform steht, dagegen Einsprache erheben dürften.
-               <lb facs="#facs_3_region_1684676741160_516_tl_25" n="N025"/>Großstädten gewöhnt ist, der fühlt nicht leicht Befriedigun
-               <lb facs="#facs_3_region_1684676741160_516_tl_26" n="N026"/>in kleineren Kreisen, die ihm bald — gesellschaftlich wie künst
-               <lb facs="#facs_3_region_1684676741160_516_tl_27" n="N027"/>lerisch — monoton zu werden drohen. Frau Marchesi fand
-               <lb facs="#facs_3_region_1684676741160_516_tl_28" n="N028"/>kein Genügen in Köln, wo sie während eines dreijährigen
-               <lb facs="#facs_3_region_1684676741160_516_tl_29" n="N029"/>Aufenthalts nur zwei Schülerinnen für die Bühne aus¬
-               <lb facs="#facs_3_region_1684676741160_516_tl_30" n="N030"/>gebildet hatte. Sie folgte um so lieber wiederholter Berufung
-               <lb facs="#facs_3_region_1684676741160_516_tl_31" n="N031"/>nach Wien, als diese zugleich von der Nachricht einer
-               <lb facs="#facs_3_region_1684676741160_516_tl_32" n="N032"/>Reorganisirung des Conservatoriums und dessen Uebersied¬
-               <lb facs="#facs_3_region_1684676741160_516_tl_33" n="N033"/>lung in den neuen geräumigen Musikvereinspalast begleite
-               <lb facs="#facs_3_region_1684676741160_516_tl_34" n="N034"/>war. Seither sind acht Jahre verflossen — acht Jahre an
-               <lb facs="#facs_3_region_1684676741160_516_tl_35" n="N035"/>gestrengter, aber erfolgreicher und vollauf anerkannter Thätig
-               <lb facs="#facs_3_region_1684676741160_516_tl_36" n="N036"/>keit Frau Marchesis in Wien.
-               <lb facs="#facs_3_region_1684676741160_516_tl_37" n="N037"/>Hier enden die uns vorliegenden Memoiren der be¬
-               <lb facs="#facs_3_region_1684676741160_516_tl_38" n="N038"/>stvollen, ausgezeichneten Künstlerin, welche sich ihre
-               <lb facs="#facs_3_region_1684676741160_516_tl_39" n="N039"/>Doppel-Jubiläums in dem Bewußtsein redlich erfüllter Pflicht
-               <lb facs="#facs_3_region_1684676741160_516_tl_40" n="N040"/>und aus eigener Kraft errungener Erfolge freuen darf. Wir
-               <lb facs="#facs_3_region_1684676741160_516_tl_41" n="N041"/>haben ihren Aufzeichnungen nur den Wunsch beizufügen, e¬
-               <lb facs="#facs_3_region_1684676741160_516_tl_42" n="N042"/>möge deren weitere Fortsetzung noch dreimal so lang un
-               <lb facs="#facs_3_region_1684676741160_516_tl_43" n="N043"/>dreimal so glücklich ausfallen.
+               <lb facs="#facs_3_region_1684676741160_516_tl_1" n="N001"/>nummer des Festconcertes war verloren ohne den heroischen
+               <lb facs="#facs_3_region_1684676741160_516_tl_2" n="N002"/>Entschluß der <rs type="person">Marchesi</rs>, welche aufsprang, sich ankleidete und
+               <lb facs="#facs_3_region_1684676741160_516_tl_3" n="N003"/>ohne Probe die Partie neben <rs type="person">Ander</rs>, <rs type="person">Staudigl</rs> und der
+               <lb facs="#facs_3_region_1684676741160_516_tl_4" n="N004"/><rs type="person">Tietjens</rs> auf das lobenswertheste durchführte.
+               <lb facs="#facs_3_region_1684676741160_516_tl_5" n="N005"/>Allerlei Mißhelligkeiten mit der Direction des Conservato¬
+               <lb facs="#facs_3_region_1684676741160_516_tl_6" n="N006"/>riums brachten Frau <rs type="person">Marchesi</rs> zu dem Entschluß, im September
+               <lb facs="#facs_3_region_1684676741160_516_tl_7" n="N007"/><date month="0" day="0" year="0">1861</date> ihre Stellung in <rs type="place">Wien</rs> aufzugeben und — gefolgt von einer
+               <lb facs="#facs_3_region_1684676741160_516_tl_8" n="N008"/>Anzahl getreuer Schülerinnen — nach <rs type="place">Paris</rs> zu übersiedeln.
+               <lb facs="#facs_3_region_1684676741160_516_tl_9" n="N009"/>Auch dort strömten ihr die Schülerinnen von allen Seiten zu.
+               <lb facs="#facs_3_region_1684676741160_516_tl_10" n="N010"/><italic><rs type="person">Rossini</rs></italic> nahm die Dedication ihrer „Vocalisen“ an, deren
+               <lb facs="#facs_3_region_1684676741160_516_tl_11" n="N011"/>Trefflichkeit er in einem liebenswürdigen Schreiben anerkannte.
+               <lb facs="#facs_3_region_1684676741160_516_tl_12" n="N012"/>„Ich liebe die tiefen Stimmen,“ sagte er eines Tages zu
+               <lb facs="#facs_3_region_1684676741160_516_tl_13" n="N013"/>Frau <rs type="person">Marchesi</rs>, „will auch noch den Soprano giusto an¬
+               <lb facs="#facs_3_region_1684676741160_516_tl_14" n="N014"/>hören, aber die Sängerinnen, die immer in den höchsten Regionen
+               <lb facs="#facs_3_region_1684676741160_516_tl_15" n="N015"/>schweben und nicht einmal Voce di testa (Kopfstimme), son¬
+               <lb facs="#facs_3_line_1757314104102_1304" n="N016"/>dern Voce di capelli (Haarstimme) anwenden, die beleidigen
+               <lb facs="#facs_3_region_1684676741160_516_tl_18" n="N017"/>mein Ohr.“ Inmitten aller Annehmlichkeiten und Anerkennun¬
+               <lb facs="#facs_3_region_1684676741160_516_tl_19" n="N018"/>gen fühlte doch Frau <rs type="person">Marchesi</rs>, daß das aufreibende Leben in <rs type="place">Paris</rs>
+               <lb facs="#facs_3_region_1684676741160_516_tl_20" n="N019"/>ihre Gesundheit bedrohe. Die Aerzte drangen auf Luftwechsel
+               <lb facs="#facs_3_region_1684676741160_516_tl_21" n="N020"/>und ruhigere Lebensweise. So verließ denn Frau <rs type="person">Marchesi</rs>
+               <lb facs="#facs_3_region_1684676741160_516_tl_22" n="N021"/>nach vierjährigem Aufenthalte <rs type="place">Paris</rs> und willigte in den
+               <lb facs="#facs_3_region_1684676741160_516_tl_23" n="N022"/>Antrag Ferdinand <italic><rs type="person">Hiller</rs>'s</italic>, eine Stelle am <rs type="place">Köln</rs>er Con¬
+               <lb facs="#facs_3_line_1757314110886_1309" n="N023"/>servatorium anzunehmen. Wer an das reichbewegte Leben in
+               <lb facs="#facs_3_region_1684676741160_516_tl_25" n="N024"/>Großstädten gewöhnt ist, der fühlt nicht leicht Befriedigung
+               <lb facs="#facs_3_region_1684676741160_516_tl_26" n="N025"/>in kleineren Kreisen, die ihm bald — gesellschaftlich wie künst¬
+               <lb facs="#facs_3_region_1684676741160_516_tl_27" n="N026"/>lerisch — monoton zu werden drohen. Frau <rs type="person">Marchesi</rs> fand
+               <lb facs="#facs_3_region_1684676741160_516_tl_28" n="N027"/>kein Genügen in <rs type="place">Köln</rs>, wo sie während eines dreijährigen
+               <lb facs="#facs_3_region_1684676741160_516_tl_29" n="N028"/>Aufenthalts nur zwei Schülerinnen für die Bühne aus¬
+               <lb facs="#facs_3_region_1684676741160_516_tl_30" n="N029"/>gebildet hatte. Sie folgte um so lieber wiederholter Berufung
+               <lb facs="#facs_3_region_1684676741160_516_tl_31" n="N030"/>nach <rs type="place">Wien</rs>, als diese zugleich von der Nachricht einer
+               <lb facs="#facs_3_region_1684676741160_516_tl_32" n="N031"/>Reorganisirung des Conservatoriums und dessen Uebersied¬
+               <lb facs="#facs_3_region_1684676741160_516_tl_33" n="N032"/>lung in den neuen geräumigen Musikvereinspalast begleitet
+               <lb facs="#facs_3_region_1684676741160_516_tl_34" n="N033"/>war. Seither sind acht Jahre verflossen — acht Jahre an¬
+               <lb facs="#facs_3_region_1684676741160_516_tl_35" n="N034"/>gestrengter, aber erfolgreicher und vollauf anerkannter Thätig¬
+               <lb facs="#facs_3_region_1684676741160_516_tl_36" n="N035"/>keit Frau <rs type="person">Marchesi</rs>'s in <rs type="place">Wien</rs>.
+               <lb facs="#facs_3_region_1684676741160_516_tl_37" n="N036"/>Hier enden die uns vorliegenden <work>Memoiren</work> der ver¬
+               <lb facs="#facs_3_region_1684676741160_516_tl_38" n="N037"/>dienstvollen, ausgezeichneten Künstlerin, welche sich ihres
+               <lb facs="#facs_3_region_1684676741160_516_tl_39" n="N038"/>Doppel-Jubiläums in dem Bewußtsein redlich erfüllter Pflicht
+               <lb facs="#facs_3_region_1684676741160_516_tl_40" n="N039"/>und aus eigener Kraft errungener Erfolge freuen darf. Wir
+               <lb facs="#facs_3_region_1684676741160_516_tl_41" n="N040"/>haben ihren Aufzeichnungen nur den Wunsch beizufügen, es
+               <lb facs="#facs_3_region_1684676741160_516_tl_42" n="N041"/>möge deren weitere Fortsetzung noch dreimal so lang und
+               <lb facs="#facs_3_region_1684676741160_516_tl_43" n="N042"/>dreimal so glücklich ausfallen.
             </ab>
          </div>
       </body>

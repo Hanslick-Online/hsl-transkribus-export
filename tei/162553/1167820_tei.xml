@@ -21,6 +21,15 @@
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_1">
          <graphic url="47750735.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=OGMYILVTSOOTNDRBXJDUNAMZ&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="512,28 1745,28 1745,380 512,380" rendition="TextRegion" xml:id="facs_1_region_1684673250669_59">
+            <zone points="657,19 1711,19 1711,368 657,368" rendition="Line" xml:id="facs_1_line_1757999716514_8"/>
+         </zone>
+         <zone points="957,392 1294,392 1294,490 957,490" rendition="TextRegion" xml:id="facs_1_region_1684673252736_62">
+            <zone points="934,398 1284,398 1284,481 934,481" rendition="Line" xml:id="facs_1_region_1684673252736_62_tl_1"/>
+         </zone>
+         <zone points="78,487 2117,487 2117,574 78,574" rendition="TextRegion" xml:id="facs_1_region_1684673255287_65">
+            <zone points="75,475 2125,475 2125,571 75,571" rendition="Line" xml:id="facs_1_line_1757999741355_20"/>
+         </zone>
          <zone points="29,2303 749,2303 749,3407 29,3407" rendition="TextRegion" xml:id="facs_1_region_1684673271326_68">
             <zone points="192,2294 569,2294 569,2358 192,2358" rendition="Line" xml:id="facs_1_region_1684673271326_68_tl_1"/>
             <zone points="259,2347 497,2347 497,2387 259,2387" rendition="Line" xml:id="facs_1_region_1684673271326_68_tl_2"/>
@@ -45,10 +54,8 @@
             <zone points="83,2902 726,2902 726,2932 83,2932" rendition="Line" xml:id="facs_1_region_1684673271326_68_tl_21"/>
             <zone points="83,2921 726,2921 726,2956 83,2956" rendition="Line" xml:id="facs_1_region_1684673271326_68_tl_22"/>
             <zone points="29,2956 724,2956 724,2988 29,2988" rendition="Line" xml:id="facs_1_region_1684673271326_68_tl_23"/>
-            <zone points="35,2982 315,2982 315,3020 35,3020" rendition="Line" xml:id="facs_1_region_1684673271326_68_tl_24"/>
-            <zone points="307,2974 726,2974 726,3022 307,3022" rendition="Line" xml:id="facs_1_region_1684673271326_68_tl_25"/>
-            <zone points="35,3006 315,3006 315,3054 35,3054" rendition="Line" xml:id="facs_1_region_1684673271326_68_tl_26"/>
-            <zone points="307,2998 726,2998 726,3054 307,3054" rendition="Line" xml:id="facs_1_region_1684673271326_68_tl_27"/>
+            <zone points="35,2974 726,2974 726,3022 35,3022" rendition="Line" xml:id="facs_1_line_1757999785482_28"/>
+            <zone points="35,2998 726,2998 726,3054 35,3054" rendition="Line" xml:id="facs_1_line_1757999788819_32"/>
             <zone points="27,3038 726,3038 726,3070 27,3070" rendition="Line" xml:id="facs_1_region_1684673271326_68_tl_28"/>
             <zone points="29,3068 726,3068 726,3103 29,3103" rendition="Line" xml:id="facs_1_region_1684673271326_68_tl_29"/>
             <zone points="29,3095 724,3095 724,3129 29,3129" rendition="Line" xml:id="facs_1_region_1684673271326_68_tl_30"/>
@@ -60,19 +67,7 @@
             <zone points="32,3265 726,3265 726,3303 32,3303" rendition="Line" xml:id="facs_1_region_1684673271326_68_tl_36"/>
             <zone points="27,3289 734,3289 734,3335 27,3335" rendition="Line" xml:id="facs_1_region_1684673271326_68_tl_37"/>
             <zone points="29,3321 726,3321 726,3356 29,3356" rendition="Line" xml:id="facs_1_region_1684673271326_68_tl_38"/>
-            <zone points="21,3340 2163,3340 2163,3402 21,3402" rendition="Line" xml:id="facs_1_region_1684673271326_68_tl_39"/>
-         </zone>
-         <zone points="512,28 1745,28 1745,380 512,380" rendition="TextRegion" xml:id="facs_1_region_1684673250669_59">
-            <zone points="929,19 1282,19 1282,107 929,107" rendition="Line" xml:id="facs_1_region_1684673250669_59_tl_1"/>
-            <zone points="657,288 1711,288 1711,368 657,368" rendition="Line" xml:id="facs_1_region_1684673250669_59_tl_2"/>
-         </zone>
-         <zone points="957,392 1294,392 1294,490 957,490" rendition="TextRegion" xml:id="facs_1_region_1684673252736_62">
-            <zone points="934,398 1284,398 1284,481 934,481" rendition="Line" xml:id="facs_1_region_1684673252736_62_tl_1"/>
-         </zone>
-         <zone points="78,487 2117,487 2117,574 78,574" rendition="TextRegion" xml:id="facs_1_region_1684673255287_65">
-            <zone points="1941,507 2125,507 2125,566 1941,566" rendition="Line" xml:id="facs_1_region_1684673255287_65_tl_1"/>
-            <zone points="75,475 366,475 366,571 75,571" rendition="Line" xml:id="facs_1_region_1684673255287_65_tl_2"/>
-            <zone points="764,475 1415,475 1415,563 764,563" rendition="Line" xml:id="facs_1_region_1684673255287_65_tl_3"/>
+            <zone points="21,3345 750,3345 750,3402 21,3402" rendition="Line" xml:id="facs_1_line_1757999798724_37"/>
          </zone>
          <zone points="749,2225 1460,2225 1460,3393 749,3393" rendition="TextRegion" xml:id="facs_1_region_1684673273948_71">
             <zone points="742,2208 1450,2208 1450,2280 742,2280" rendition="Line" xml:id="facs_1_region_1684673273948_71_tl_1"/>
@@ -91,6 +86,7 @@
             <zone points="753,2601 1439,2601 1439,2641 753,2641" rendition="Line" xml:id="facs_1_region_1684673273948_71_tl_14"/>
             <zone points="753,2633 1439,2633 1439,2670 753,2670" rendition="Line" xml:id="facs_1_region_1684673273948_71_tl_15"/>
             <zone points="756,2662 1439,2662 1439,2705 756,2705" rendition="Line" xml:id="facs_1_region_1684673273948_71_tl_16"/>
+            <zone points="750,2692 1469,2692 1469,2729 750,2729" rendition="Line" xml:id="facs_1_line_1757999852779_57"/>
             <zone points="750,2721 1423,2721 1423,2755 750,2755" rendition="Line" xml:id="facs_1_region_1684673273948_71_tl_17"/>
             <zone points="753,2747 1423,2747 1423,2785 753,2785" rendition="Line" xml:id="facs_1_region_1684673273948_71_tl_18"/>
             <zone points="750,2777 1436,2777 1436,2814 750,2814" rendition="Line" xml:id="facs_1_region_1684673273948_71_tl_19"/>
@@ -112,6 +108,8 @@
             <zone points="750,3233 1442,3233 1442,3271 750,3271" rendition="Line" xml:id="facs_1_region_1684673273948_71_tl_35"/>
             <zone points="750,3260 1436,3260 1436,3300 750,3300" rendition="Line" xml:id="facs_1_region_1684673273948_71_tl_36"/>
             <zone points="753,3289 1436,3289 1436,3332 753,3332" rendition="Line" xml:id="facs_1_region_1684673273948_71_tl_37"/>
+            <zone points="753,3318 1466,3318 1466,3359 753,3359" rendition="Line" xml:id="facs_1_line_1757999885035_70"/>
+            <zone points="750,3342 1464,3342 1464,3399 750,3399" rendition="Line" xml:id="facs_1_line_1757999825811_46"/>
          </zone>
          <zone points="1463,2228 2169,2228 2169,3387 1463,3387" rendition="TextRegion" xml:id="facs_1_region_1684673277000_74">
             <zone points="1471,2205 2205,2205 2205,2267 1471,2267" rendition="Line" xml:id="facs_1_region_1684673277000_74_tl_1"/>
@@ -130,7 +128,7 @@
             <zone points="1468,2601 2168,2601 2168,2638 1468,2638" rendition="Line" xml:id="facs_1_region_1684673277000_74_tl_14"/>
             <zone points="1468,2627 2168,2627 2168,2665 1468,2665" rendition="Line" xml:id="facs_1_region_1684673277000_74_tl_15"/>
             <zone points="1468,2654 2179,2654 2179,2694 1468,2694" rendition="Line" xml:id="facs_1_region_1684673277000_74_tl_16"/>
-            <zone points="750,2683 2176,2683 2176,2729 750,2729" rendition="Line" xml:id="facs_1_region_1684673277000_74_tl_17"/>
+            <zone points="1469,2683 2176,2683 2176,2724 1469,2724" rendition="Line" xml:id="facs_1_line_1757999852779_56"/>
             <zone points="1468,2715 2187,2715 2187,2753 1468,2753" rendition="Line" xml:id="facs_1_region_1684673277000_74_tl_18"/>
             <zone points="1468,2745 2160,2745 2160,2782 1468,2782" rendition="Line" xml:id="facs_1_region_1684673277000_74_tl_19"/>
             <zone points="1466,2771 2205,2771 2205,2806 1466,2806" rendition="Line" xml:id="facs_1_region_1684673277000_74_tl_20"/>
@@ -152,7 +150,8 @@
             <zone points="1460,3225 2157,3225 2157,3268 1460,3268" rendition="Line" xml:id="facs_1_region_1684673277000_74_tl_36"/>
             <zone points="1466,3252 2157,3252 2157,3297 1466,3297" rendition="Line" xml:id="facs_1_region_1684673277000_74_tl_37"/>
             <zone points="1468,3287 2149,3287 2149,3329 1468,3329" rendition="Line" xml:id="facs_1_region_1684673277000_74_tl_38"/>
-            <zone points="753,3311 2157,3311 2157,3359 753,3359" rendition="Line" xml:id="facs_1_region_1684673277000_74_tl_39"/>
+            <zone points="1466,3311 2157,3311 2157,3353 1466,3353" rendition="Line" xml:id="facs_1_line_1757999885035_69"/>
+            <zone points="1464,3340 2163,3340 2163,3396 1464,3396" rendition="Line" xml:id="facs_1_line_1757999825811_45"/>
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_2">
@@ -169,18 +168,16 @@
             <zone points="16,2421 706,2421 706,2455 16,2455" rendition="Line" xml:id="facs_2_region_1684673287553_80_tl_8"/>
             <zone points="18,2450 708,2450 708,2482 18,2482" rendition="Line" xml:id="facs_2_region_1684673287553_80_tl_9"/>
             <zone points="16,2482 708,2482 708,2511 16,2511" rendition="Line" xml:id="facs_2_region_1684673287553_80_tl_10"/>
-            <zone points="7,2500 1426,2500 1426,2545 7,2545" rendition="Line" xml:id="facs_2_region_1684673287553_80_tl_11"/>
+            <zone points="7,2500 728,2500 728,2545 7,2545" rendition="Line" xml:id="facs_2_line_1757999914865_83"/>
             <zone points="11,2533 710,2533 710,2572 11,2572" rendition="Line" xml:id="facs_2_region_1684673287553_80_tl_12"/>
             <zone points="16,2565 706,2565 706,2599 16,2599" rendition="Line" xml:id="facs_2_region_1684673287553_80_tl_13"/>
-            <zone points="7,2592 1426,2592 1426,2632 7,2632" rendition="Line" xml:id="facs_2_region_1684673287553_80_tl_14"/>
+            <zone points="7,2592 729,2592 729,2631 7,2631" rendition="Line" xml:id="facs_2_line_1757999938659_92"/>
             <zone points="7,2626 693,2626 693,2660 7,2660" rendition="Line" xml:id="facs_2_region_1684673287553_80_tl_15"/>
             <zone points="11,2648 693,2648 693,2684 11,2684" rendition="Line" xml:id="facs_2_region_1684673287553_80_tl_16"/>
             <zone points="7,2680 708,2680 708,2712 7,2712" rendition="Line" xml:id="facs_2_region_1684673287553_80_tl_17"/>
             <zone points="13,2711 708,2711 708,2741 13,2741" rendition="Line" xml:id="facs_2_region_1684673287553_80_tl_18"/>
-            <zone points="16,2732 357,2732 357,2781 16,2781" rendition="Line" xml:id="facs_2_region_1684673287553_80_tl_19"/>
-            <zone points="350,2737 708,2737 708,2773 350,2773" rendition="Line" xml:id="facs_2_region_1684673287553_80_tl_20"/>
-            <zone points="149,2766 708,2766 708,2797 149,2797" rendition="Line" xml:id="facs_2_region_1684673287553_80_tl_21"/>
-            <zone points="9,2757 154,2757 154,2800 9,2800" rendition="Line" xml:id="facs_2_region_1684673287553_80_tl_22"/>
+            <zone points="16,2732 708,2732 708,2781 16,2781" rendition="Line" xml:id="facs_2_line_1757999984842_101"/>
+            <zone points="9,2757 708,2757 708,2800 9,2800" rendition="Line" xml:id="facs_2_line_1757999990369_105"/>
             <zone points="11,2793 710,2793 710,2827 11,2827" rendition="Line" xml:id="facs_2_region_1684673287553_80_tl_23"/>
             <zone points="48,2818 699,2818 699,2867 48,2867" rendition="Line" xml:id="facs_2_region_1684673287553_80_tl_24"/>
             <zone points="48,2852 711,2852 711,2892 48,2892" rendition="Line" xml:id="facs_2_region_1684673287553_80_tl_25"/>
@@ -189,31 +186,37 @@
             <zone points="7,2930 702,2930 702,2964 7,2964" rendition="Line" xml:id="facs_2_region_1684673287553_80_tl_28"/>
             <zone points="16,2958 708,2958 708,2996 16,2996" rendition="Line" xml:id="facs_2_region_1684673287553_80_tl_29"/>
             <zone points="11,2996 711,2996 711,3043 11,3043" rendition="Line" xml:id="facs_2_region_1684673287553_80_tl_30"/>
-            <zone points="52,3034 636,3034 636,3100 52,3100" rendition="Line" xml:id="facs_2_region_1684673287553_80_tl_31"/>
-            <zone points="7,3059 119,3059 119,3099 7,3099" rendition="Line" xml:id="facs_2_region_1684673287553_80_tl_32"/>
-            <zone points="63,3111 171,3111 171,3167 63,3167" rendition="Line" xml:id="facs_2_region_1684673287553_80_tl_33"/>
-            <zone points="29,3183 131,3183 131,3235 29,3235" rendition="Line" xml:id="facs_2_region_1684673287553_80_tl_34"/>
-            <zone points="13,3226 110,3226 110,3257 13,3257" rendition="Line" xml:id="facs_2_region_1684673287553_80_tl_35"/>
-            <zone points="203,3246 542,3246 542,3307 203,3307" rendition="Line" xml:id="facs_2_region_1684673287553_80_tl_36"/>
-            <zone points="435,3293 542,3293 542,3330 435,3330" rendition="Line" xml:id="facs_2_region_1684673287553_80_tl_37"/>
-            <zone points="533,3275 659,3275 659,3328 533,3328" rendition="Line" xml:id="facs_2_region_1684673287553_80_tl_38"/>
-            <zone points="237,3296 419,3296 419,3348 237,3348" rendition="Line" xml:id="facs_2_region_1684673287553_80_tl_39"/>
-            <zone points="75,3293 244,3293 244,3355 75,3355" rendition="Line" xml:id="facs_2_region_1684673287553_80_tl_40"/>
-            <zone points="436,3321 571,3321 571,3352 436,3352" rendition="Line" xml:id="facs_2_region_1684673287553_80_tl_41"/>
-            <zone points="2,3323 571,3323 571,3381 2,3381" rendition="Line" xml:id="facs_2_region_1684673287553_80_tl_42"/>
+            <zone points="68,3039 719,3039 719,3075 68,3075" rendition="Line" xml:id="facs_2_line_1758000015336_145"/>
+            <zone points="16,3065 713,3065 713,3101 16,3101" rendition="Line" xml:id="facs_2_line_1758000018089_148"/>
+            <zone points="15,3090 716,3090 716,3121 15,3121" rendition="Line" xml:id="facs_2_line_1758000022977_151"/>
+            <zone points="14,3114 719,3114 719,3145 14,3145" rendition="Line" xml:id="facs_2_line_1758000027248_154"/>
+            <zone points="17,3140 716,3140 716,3171 17,3171" rendition="Line" xml:id="facs_2_line_1758000029569_157"/>
+            <zone points="17,3160 714,3160 714,3193 17,3193" rendition="Line" xml:id="facs_2_line_1758000032129_160"/>
+            <zone points="15,3183 710,3183 710,3217 15,3217" rendition="Line" xml:id="facs_2_line_1758000034705_163"/>
+            <zone points="9,3206 719,3206 719,3233 9,3233" rendition="Line" xml:id="facs_2_line_1758000037936_166"/>
+            <zone points="15,3226 715,3226 715,3259 15,3259" rendition="Line" xml:id="facs_2_line_1758000041232_169"/>
+            <zone points="14,3253 718,3253 718,3286 14,3286" rendition="Line" xml:id="facs_2_line_1758000044425_172"/>
+            <zone points="13,3277 718,3277 718,3303 13,3303" rendition="Line" xml:id="facs_2_line_1758000048257_175"/>
+            <zone points="12,3295 717,3295 717,3327 12,3327" rendition="Line" xml:id="facs_2_line_1758000050832_178"/>
+            <zone points="19,3320 717,3320 717,3348 19,3348" rendition="Line" xml:id="facs_2_line_1758000053393_181"/>
+            <zone points="16,3342 623,3342 623,3377 16,3377" rendition="Line" xml:id="facs_2_line_1758000055969_184"/>
          </zone>
          <zone points="726,2200 1443,2200 1443,3393 726,3393" rendition="TextRegion" xml:id="facs_2_region_1684673290535_83">
-            <zone points="729,2220 2148,2220 2148,2265 729,2265" rendition="Line" xml:id="facs_2_region_1684673290535_83_tl_1"/>
+            <zone points="729,2220 1453,2220 1453,2260 729,2260" rendition="Line" xml:id="facs_2_line_1758000061794_190"/>
             <zone points="729,2254 1428,2254 1428,2285 729,2285" rendition="Line" xml:id="facs_2_region_1684673290535_83_tl_2"/>
             <zone points="736,2281 1428,2281 1428,2319 736,2319" rendition="Line" xml:id="facs_2_region_1684673290535_83_tl_3"/>
             <zone points="727,2308 1428,2308 1428,2348 727,2348" rendition="Line" xml:id="facs_2_region_1684673290535_83_tl_4"/>
+            <zone points="733,2339 1449,2339 1449,2379 733,2379" rendition="Line" xml:id="facs_2_line_1758000152281_221"/>
             <zone points="727,2373 1432,2373 1432,2407 727,2407" rendition="Line" xml:id="facs_2_region_1684673290535_83_tl_5"/>
             <zone points="729,2394 1428,2394 1428,2429 729,2429" rendition="Line" xml:id="facs_2_region_1684673290535_83_tl_6"/>
             <zone points="733,2423 1423,2423 1423,2459 733,2459" rendition="Line" xml:id="facs_2_region_1684673290535_83_tl_7"/>
             <zone points="729,2457 1428,2457 1428,2490 729,2490" rendition="Line" xml:id="facs_2_region_1684673290535_83_tl_8"/>
             <zone points="738,2481 1428,2481 1428,2515 738,2515" rendition="Line" xml:id="facs_2_region_1684673290535_83_tl_9"/>
+            <zone points="728,2504 1426,2504 1426,2543 728,2543" rendition="Line" xml:id="facs_2_line_1757999914865_82"/>
             <zone points="736,2542 1430,2542 1430,2574 736,2574" rendition="Line" xml:id="facs_2_region_1684673290535_83_tl_10"/>
             <zone points="729,2570 1428,2570 1428,2603 729,2603" rendition="Line" xml:id="facs_2_region_1684673290535_83_tl_11"/>
+            <zone points="728,2594 1426,2594 1426,2632 728,2632" rendition="Line" xml:id="facs_2_line_1757999938659_91"/>
+            <zone points="738,2627 1444,2627 1444,2660 738,2660" rendition="Line" xml:id="facs_2_line_1758000180962_231"/>
             <zone points="733,2651 1417,2651 1417,2687 733,2687" rendition="Line" xml:id="facs_2_region_1684673290535_83_tl_12"/>
             <zone points="736,2682 1417,2682 1417,2716 736,2716" rendition="Line" xml:id="facs_2_region_1684673290535_83_tl_13"/>
             <zone points="733,2712 1428,2712 1428,2743 733,2743" rendition="Line" xml:id="facs_2_region_1684673290535_83_tl_14"/>
@@ -221,10 +224,11 @@
             <zone points="733,2770 1426,2770 1426,2806 733,2806" rendition="Line" xml:id="facs_2_region_1684673290535_83_tl_16"/>
             <zone points="733,2800 1432,2800 1432,2831 733,2831" rendition="Line" xml:id="facs_2_region_1684673290535_83_tl_17"/>
             <zone points="729,2826 1428,2826 1428,2860 729,2860" rendition="Line" xml:id="facs_2_region_1684673290535_83_tl_18"/>
+            <zone points="733,2854 1449,2854 1449,2890 733,2890" rendition="Line" xml:id="facs_2_line_1758000206425_241"/>
             <zone points="733,2887 1432,2887 1432,2915 733,2915" rendition="Line" xml:id="facs_2_region_1684673290535_83_tl_19"/>
             <zone points="729,2908 1428,2908 1428,2944 729,2944" rendition="Line" xml:id="facs_2_region_1684673290535_83_tl_20"/>
             <zone points="733,2939 1428,2939 1428,2973 733,2973" rendition="Line" xml:id="facs_2_region_1684673290535_83_tl_21"/>
-            <zone points="736,2971 2132,2971 2132,3012 736,3012" rendition="Line" xml:id="facs_2_region_1684673290535_83_tl_22"/>
+            <zone points="736,2971 1448,2971 1448,3005 736,3005" rendition="Line" xml:id="facs_2_line_1758000085009_201"/>
             <zone points="733,2993 1426,2993 1426,3034 733,3034" rendition="Line" xml:id="facs_2_region_1684673290535_83_tl_23"/>
             <zone points="729,3023 1428,3023 1428,3061 729,3061" rendition="Line" xml:id="facs_2_region_1684673290535_83_tl_24"/>
             <zone points="733,3059 1424,3059 1424,3091 733,3091" rendition="Line" xml:id="facs_2_region_1684673290535_83_tl_25"/>
@@ -237,13 +241,14 @@
             <zone points="733,3253 1426,3253 1426,3293 733,3293" rendition="Line" xml:id="facs_2_region_1684673290535_83_tl_32"/>
             <zone points="733,3282 1426,3282 1426,3319 733,3319" rendition="Line" xml:id="facs_2_region_1684673290535_83_tl_33"/>
             <zone points="729,3309 1421,3309 1421,3346 729,3346" rendition="Line" xml:id="facs_2_region_1684673290535_83_tl_34"/>
-            <zone points="711,3327 2156,3327 2156,3393 711,3393" rendition="Line" xml:id="facs_2_region_1684673290535_83_tl_35"/>
+            <zone points="711,3327 1448,3327 1448,3386 711,3386" rendition="Line" xml:id="facs_2_line_1758000128569_210"/>
          </zone>
          <zone points="1449,2214 2163,2214 2163,3393 1449,3393" rendition="TextRegion" xml:id="facs_2_region_1684673293508_86">
+            <zone points="1453,2223 2148,2223 2148,2265 1453,2265" rendition="Line" xml:id="facs_2_line_1758000061794_189"/>
             <zone points="1455,2254 2148,2254 2148,2292 1455,2292" rendition="Line" xml:id="facs_2_region_1684673293508_86_tl_1"/>
             <zone points="1451,2285 2152,2285 2152,2317 1451,2317" rendition="Line" xml:id="facs_2_region_1684673293508_86_tl_2"/>
             <zone points="1451,2314 2145,2314 2145,2348 1451,2348" rendition="Line" xml:id="facs_2_region_1684673293508_86_tl_3"/>
-            <zone points="733,2339 2147,2339 2147,2385 733,2385" rendition="Line" xml:id="facs_2_region_1684673293508_86_tl_4"/>
+            <zone points="1449,2343 2147,2343 2147,2385 1449,2385" rendition="Line" xml:id="facs_2_line_1758000152281_220"/>
             <zone points="1451,2375 2154,2375 2154,2409 1451,2409" rendition="Line" xml:id="facs_2_region_1684673293508_86_tl_5"/>
             <zone points="1457,2403 2148,2403 2148,2439 1457,2439" rendition="Line" xml:id="facs_2_region_1684673293508_86_tl_6"/>
             <zone points="1451,2429 2150,2429 2150,2468 1451,2468" rendition="Line" xml:id="facs_2_region_1684673293508_86_tl_7"/>
@@ -253,7 +258,7 @@
             <zone points="1451,2543 2145,2543 2145,2578 1451,2578" rendition="Line" xml:id="facs_2_region_1684673293508_86_tl_11"/>
             <zone points="1455,2574 2148,2574 2148,2612 1455,2612" rendition="Line" xml:id="facs_2_region_1684673293508_86_tl_12"/>
             <zone points="1451,2601 2145,2601 2145,2635 1451,2635" rendition="Line" xml:id="facs_2_region_1684673293508_86_tl_13"/>
-            <zone points="738,2626 2150,2626 2150,2666 738,2666" rendition="Line" xml:id="facs_2_region_1684673293508_86_tl_14"/>
+            <zone points="1444,2626 2150,2626 2150,2666 1444,2666" rendition="Line" xml:id="facs_2_line_1758000180962_230"/>
             <zone points="1460,2662 2150,2662 2150,2691 1460,2691" rendition="Line" xml:id="facs_2_region_1684673293508_86_tl_15"/>
             <zone points="1451,2689 2152,2689 2152,2725 1451,2725" rendition="Line" xml:id="facs_2_region_1684673293508_86_tl_16"/>
             <zone points="1455,2718 2148,2718 2148,2755 1455,2755" rendition="Line" xml:id="facs_2_region_1684673293508_86_tl_17"/>
@@ -261,10 +266,11 @@
             <zone points="1455,2773 2150,2773 2150,2808 1455,2808" rendition="Line" xml:id="facs_2_region_1684673293508_86_tl_19"/>
             <zone points="1451,2802 2154,2802 2154,2838 1451,2838" rendition="Line" xml:id="facs_2_region_1684673293508_86_tl_20"/>
             <zone points="1455,2829 2150,2829 2150,2870 1455,2870" rendition="Line" xml:id="facs_2_region_1684673293508_86_tl_21"/>
-            <zone points="733,2854 2150,2854 2150,2894 733,2894" rendition="Line" xml:id="facs_2_region_1684673293508_86_tl_22"/>
+            <zone points="1449,2858 2150,2858 2150,2894 1449,2894" rendition="Line" xml:id="facs_2_line_1758000206425_240"/>
             <zone points="1451,2888 2141,2888 2141,2926 1451,2926" rendition="Line" xml:id="facs_2_region_1684673293508_86_tl_23"/>
             <zone points="1444,2915 2141,2915 2141,2953 1444,2953" rendition="Line" xml:id="facs_2_region_1684673293508_86_tl_24"/>
             <zone points="1446,2949 2148,2949 2148,2980 1446,2980" rendition="Line" xml:id="facs_2_region_1684673293508_86_tl_25"/>
+            <zone points="1448,2971 2132,2971 2132,3012 1448,3012" rendition="Line" xml:id="facs_2_line_1758000085009_200"/>
             <zone points="1455,3003 2136,3003 2136,3041 1455,3041" rendition="Line" xml:id="facs_2_region_1684673293508_86_tl_26"/>
             <zone points="1459,3036 2148,3036 2148,3066 1459,3066" rendition="Line" xml:id="facs_2_region_1684673293508_86_tl_27"/>
             <zone points="1450,3061 2148,3061 2148,3093 1450,3093" rendition="Line" xml:id="facs_2_region_1684673293508_86_tl_28"/>
@@ -277,6 +283,7 @@
             <zone points="1450,3257 2147,3257 2147,3296 1450,3296" rendition="Line" xml:id="facs_2_region_1684673293508_86_tl_35"/>
             <zone points="1446,3285 2148,3285 2148,3321 1446,3321" rendition="Line" xml:id="facs_2_region_1684673293508_86_tl_36"/>
             <zone points="1450,3316 2150,3316 2150,3350 1450,3350" rendition="Line" xml:id="facs_2_region_1684673293508_86_tl_37"/>
+            <zone points="1448,3333 2156,3333 2156,3393 1448,3393" rendition="Line" xml:id="facs_2_line_1758000128569_209"/>
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_3">
@@ -284,6 +291,7 @@
          <graphic url="https://files.transkribus.eu/Get?id=FTBWNMAZQPWOBNYSNYJFZWSB&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="6,2239 721,2239 721,3443 6,3443" rendition="TextRegion" xml:id="facs_3_region_1684673304117_92">
             <zone points="12,2248 713,2248 713,2308 12,2308" rendition="Line" xml:id="facs_3_region_1684673304117_92_tl_1"/>
+            <zone points="23,2285 730,2285 730,2319 23,2319" rendition="Line" xml:id="facs_3_line_1758000347328_277"/>
             <zone points="23,2315 706,2315 706,2352 23,2352" rendition="Line" xml:id="facs_3_region_1684673304117_92_tl_2"/>
             <zone points="16,2338 708,2338 708,2383 16,2383" rendition="Line" xml:id="facs_3_region_1684673304117_92_tl_3"/>
             <zone points="25,2371 708,2371 708,2410 25,2410" rendition="Line" xml:id="facs_3_region_1684673304117_92_tl_4"/>
@@ -294,17 +302,16 @@
             <zone points="18,2517 706,2517 706,2555 18,2555" rendition="Line" xml:id="facs_3_region_1684673304117_92_tl_9"/>
             <zone points="19,2541 703,2541 703,2580 19,2580" rendition="Line" xml:id="facs_3_region_1684673304117_92_tl_10"/>
             <zone points="19,2569 712,2569 712,2609 19,2609" rendition="Line" xml:id="facs_3_region_1684673304117_92_tl_11"/>
+            <zone points="16,2601 734,2601 734,2635 16,2635" rendition="Line" xml:id="facs_3_line_1758000369457_287"/>
             <zone points="11,2622 712,2622 712,2667 11,2667" rendition="Line" xml:id="facs_3_region_1684673304117_92_tl_12"/>
             <zone points="14,2650 706,2650 706,2694 14,2694" rendition="Line" xml:id="facs_3_region_1684673304117_92_tl_13"/>
             <zone points="14,2681 703,2681 703,2723 14,2723" rendition="Line" xml:id="facs_3_region_1684673304117_92_tl_14"/>
-            <zone points="14,2713 556,2713 556,2755 14,2755" rendition="Line" xml:id="facs_3_region_1684673304117_92_tl_15"/>
-            <zone points="549,2722 710,2722 710,2757 549,2757" rendition="Line" xml:id="facs_3_region_1684673304117_92_tl_16"/>
-            <zone points="179,2737 703,2737 703,2781 179,2781" rendition="Line" xml:id="facs_3_region_1684673304117_92_tl_17"/>
-            <zone points="16,2737 184,2737 184,2774 16,2774" rendition="Line" xml:id="facs_3_region_1684673304117_92_tl_18"/>
+            <zone points="14,2713 710,2713 710,2757 14,2757" rendition="Line" xml:id="facs_3_line_1758000301754_257"/>
+            <zone points="16,2737 703,2737 703,2781 16,2781" rendition="Line" xml:id="facs_3_line_1758000305186_261"/>
             <zone points="16,2769 703,2769 703,2808 16,2808" rendition="Line" xml:id="facs_3_region_1684673304117_92_tl_19"/>
             <zone points="14,2799 706,2799 706,2839 14,2839" rendition="Line" xml:id="facs_3_region_1684673304117_92_tl_20"/>
             <zone points="14,2830 708,2830 708,2867 14,2867" rendition="Line" xml:id="facs_3_region_1684673304117_92_tl_21"/>
-            <zone points="16,2858 1407,2858 1407,2902 16,2902" rendition="Line" xml:id="facs_3_region_1684673304117_92_tl_22"/>
+            <zone points="16,2858 728,2858 728,2892 16,2892" rendition="Line" xml:id="facs_3_line_1758000315233_267"/>
             <zone points="14,2883 706,2883 706,2923 14,2923" rendition="Line" xml:id="facs_3_region_1684673304117_92_tl_23"/>
             <zone points="19,2914 708,2914 708,2956 19,2956" rendition="Line" xml:id="facs_3_region_1684673304117_92_tl_24"/>
             <zone points="16,2941 708,2941 708,2981 16,2981" rendition="Line" xml:id="facs_3_region_1684673304117_92_tl_25"/>
@@ -327,7 +334,7 @@
          </zone>
          <zone points="726,2247 1440,2247 1440,3463 726,3463" rendition="TextRegion" xml:id="facs_3_region_1684673310750_95">
             <zone points="736,2262 1427,2262 1427,2303 736,2303" rendition="Line" xml:id="facs_3_region_1684673310750_95_tl_1"/>
-            <zone points="23,2285 1425,2285 1425,2324 23,2324" rendition="Line" xml:id="facs_3_region_1684673310750_95_tl_2"/>
+            <zone points="730,2304 1425,2304 1425,2324 730,2324" rendition="Line" xml:id="facs_3_line_1758000347328_276"/>
             <zone points="740,2322 1425,2322 1425,2362 740,2362" rendition="Line" xml:id="facs_3_region_1684673310750_95_tl_3"/>
             <zone points="736,2352 1423,2352 1423,2392 736,2392" rendition="Line" xml:id="facs_3_region_1684673310750_95_tl_4"/>
             <zone points="740,2383 1421,2383 1421,2418 740,2418" rendition="Line" xml:id="facs_3_region_1684673310750_95_tl_5"/>
@@ -338,7 +345,7 @@
             <zone points="729,2529 1423,2529 1423,2564 729,2564" rendition="Line" xml:id="facs_3_region_1684673310750_95_tl_10"/>
             <zone points="731,2553 1421,2553 1421,2587 731,2587" rendition="Line" xml:id="facs_3_region_1684673310750_95_tl_11"/>
             <zone points="740,2581 1421,2581 1421,2618 740,2618" rendition="Line" xml:id="facs_3_region_1684673310750_95_tl_12"/>
-            <zone points="16,2601 1425,2601 1425,2645 16,2645" rendition="Line" xml:id="facs_3_region_1684673310750_95_tl_13"/>
+            <zone points="734,2605 1425,2605 1425,2645 734,2645" rendition="Line" xml:id="facs_3_line_1758000369457_286"/>
             <zone points="733,2638 1420,2638 1420,2674 733,2674" rendition="Line" xml:id="facs_3_region_1684673310750_95_tl_14"/>
             <zone points="733,2667 1421,2667 1421,2706 733,2706" rendition="Line" xml:id="facs_3_region_1684673310750_95_tl_15"/>
             <zone points="736,2699 1420,2699 1420,2727 736,2727" rendition="Line" xml:id="facs_3_region_1684673310750_95_tl_16"/>
@@ -347,6 +354,7 @@
             <zone points="733,2785 1418,2785 1418,2818 733,2818" rendition="Line" xml:id="facs_3_region_1684673310750_95_tl_19"/>
             <zone points="731,2809 1423,2809 1423,2843 731,2843" rendition="Line" xml:id="facs_3_region_1684673310750_95_tl_20"/>
             <zone points="731,2836 1425,2836 1425,2874 731,2874" rendition="Line" xml:id="facs_3_region_1684673310750_95_tl_21"/>
+            <zone points="728,2880 1407,2880 1407,2902 728,2902" rendition="Line" xml:id="facs_3_line_1758000315233_266"/>
             <zone points="729,2893 1416,2893 1416,2930 729,2930" rendition="Line" xml:id="facs_3_region_1684673310750_95_tl_22"/>
             <zone points="736,2927 1420,2927 1420,2963 736,2963" rendition="Line" xml:id="facs_3_region_1684673310750_95_tl_23"/>
             <zone points="731,2953 1416,2953 1416,2986 731,2986" rendition="Line" xml:id="facs_3_region_1684673310750_95_tl_24"/>
@@ -362,11 +370,9 @@
             <zone points="731,3240 1414,3240 1414,3277 731,3277" rendition="Line" xml:id="facs_3_region_1684673310750_95_tl_34"/>
             <zone points="733,3270 1411,3270 1411,3316 733,3316" rendition="Line" xml:id="facs_3_region_1684673310750_95_tl_35"/>
             <zone points="727,3296 1260,3296 1260,3346 727,3346" rendition="Line" xml:id="facs_3_region_1684673310750_95_tl_36"/>
-            <zone points="845,3330 1037,3330 1037,3372 845,3372" rendition="Line" xml:id="facs_3_region_1684673310750_95_tl_37"/>
-            <zone points="1120,3333 1260,3333 1260,3374 1120,3374" rendition="Line" xml:id="facs_3_region_1684673310750_95_tl_38"/>
-            <zone points="845,3356 1027,3356 1027,3395 845,3395" rendition="Line" xml:id="facs_3_region_1684673310750_95_tl_39"/>
-            <zone points="1118,3356 1267,3356 1267,3396 1118,3396" rendition="Line" xml:id="facs_3_region_1684673310750_95_tl_40"/>
-            <zone points="825,3361 1264,3361 1264,3433 825,3433" rendition="Line" xml:id="facs_3_region_1684673310750_95_tl_41"/>
+            <zone points="838,3335 1303,3335 1303,3374 838,3374" rendition="Line" xml:id="facs_3_line_1758000416921_315"/>
+            <zone points="830,3359 1288,3359 1288,3398 830,3398" rendition="Line" xml:id="facs_3_line_1758000419384_318"/>
+            <zone points="839,3388 1263,3388 1263,3426 839,3426" rendition="Line" xml:id="facs_3_line_1758000421512_321"/>
          </zone>
       </surface>
    </facsimile>
@@ -374,346 +380,352 @@
       <body>
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-            <ab facs="#facs_1_region_1684673271326_68" type="">
-               <lb facs="#facs_1_region_1684673271326_68_tl_1" n="N001"/>Grillparzer und die Musik.
-               <lb facs="#facs_1_region_1684673271326_68_tl_2" n="N002"/>(Dritter und letzter Artikel.
-               <lb facs="#facs_1_region_1684673271326_68_tl_3" n="N003"/>Ed. H. Wenden wir uns zu Grillparzer's ästhetisch¬
-               <lb facs="#facs_1_region_1684673271326_68_tl_4" n="N004"/>Anschauung vom Wesen und Inhalt der Musik im All¬
-               <lb facs="#facs_1_region_1684673271326_68_tl_5" n="N005"/>gemeinen. Sie fußte, um es kurz zu fassen, auf dem Princi¬
-               <lb facs="#facs_1_region_1684673271326_68_tl_6" n="N006"/>der eingeborenen, nur eigenem Gesetze folgenden Schönhei
-               <lb facs="#facs_1_region_1684673271326_68_tl_7" n="N007"/>des musikalischen Gedankens und seiner Entwicklung. Solch¬
-               <lb facs="#facs_1_region_1684673271326_68_tl_8" n="N008"/>Schönheit dürfe der geistigen Beseelung nicht ermangeln un
-               <lb facs="#facs_1_region_1684673271326_68_tl_9" n="N009"/>schließe das Charakteristische nicht aus; doch müsse die Musi
-               <lb facs="#facs_1_region_1684673271326_68_tl_10" n="N010"/>nicht einseitig auf Letzteres ausgehen und ihren Gehalt
-               <lb facs="#facs_1_region_1684673271326_68_tl_11" n="N011"/>poetischer Bedeutsamkeit suchen. Was Grillparzer in de
-               <lb facs="#facs_1_region_1684673271326_68_tl_12" n="N012"/>modernen Richtung irrthümlich erschien und ihm antipathis
-               <lb facs="#facs_1_region_1684673271326_68_tl_13" n="N013"/>war, ist eben die Bettelei der Tonkunst bei den Schwester
-               <lb facs="#facs_1_region_1684673271326_68_tl_14" n="N014"/>künsten, das Anrufen eines fremden, nichtmusikalischen, blo
-               <lb facs="#facs_1_region_1684673271326_68_tl_15" n="N015"/>poetischen Interesses. „Die Stärke braucht, und nicht die
-               <lb facs="#facs_1_region_1684673271326_68_tl_16" n="N016"/>Schwächen!" ruft er den modernen Componisten zu, „sonst
-               <lb facs="#facs_1_region_1684673271326_68_tl_17" n="N017"/>wird die Kunst ihr Höchstes nie. Gelängs der Tonkunst je
-               <lb facs="#facs_1_region_1684673271326_68_tl_18" n="N018"/>zu sprechen — wär' sie verpfuschte Poesie." Grillparzer
-               <lb facs="#facs_1_region_1684673271326_68_tl_19" n="N019"/>wollte die Grenzen der einzelnen Künste, Poesie, Malere
-               <lb facs="#facs_1_region_1684673271326_68_tl_20" n="N020"/>Musik, rein gehalten wissen und erklärt den oft gebrauchte
-               <lb facs="#facs_1_region_1684673271326_68_tl_21" n="N021"/>tz: die Musik ist eine Poesie in Tönen, für ebenso un
-               <lb facs="#facs_1_region_1684673271326_68_tl_22" n="N022"/>er als es der entgegengesetzte sein würde: die Poesie in
-               <lb facs="#facs_1_region_1684673271326_68_tl_23" n="N023"/>eine Musik in Worten. „Der Unterschied dieser beiden Künst
-               <lb facs="#facs_1_region_1684673271326_68_tl_24" n="N024"/>liegt nicht blos in ih
-               <lb facs="#facs_1_region_1684673271326_68_tl_25" n="N025"/>ren Mitteln, er liegt in den erste
-               <lb facs="#facs_1_region_1684673271326_68_tl_26" n="N026"/>Gründen ihres Wesens.
-               <lb facs="#facs_1_region_1684673271326_68_tl_27" n="N027"/>In den eingangs erwähnten un
-               <lb facs="#facs_1_region_1684673271326_68_tl_28" n="N028"/>gedruckten Tagebuchblättern Grillparzers findet sich ein
-               <lb facs="#facs_1_region_1684673271326_68_tl_29" n="N029"/>längerer Artikel über Weber's „Freischütz", wori
-               <lb facs="#facs_1_region_1684673271326_68_tl_30" n="N030"/>Grillparzer ausführlicher als sonst seine Ideen über die Aus
-               <lb facs="#facs_1_region_1684673271326_68_tl_31" n="N031"/>gabe der Musik und ihr Verhältniß zur Dichtung ausführt.
-               <lb facs="#facs_1_region_1684673271326_68_tl_32" n="N032"/>Ich theile den merkwürdigen Aufsatz hier (mit einigen noth
-               <lb facs="#facs_1_region_1684673271326_68_tl_33" n="N033"/>wendig gewordenen Kürzungen) zum erstenmale mit:
-               <lb facs="#facs_1_region_1684673271326_68_tl_34" n="N034"/>„Der Freischütz" Oper von Maria Weber
-               <lb facs="#facs_1_region_1684673271326_68_tl_35" n="N035"/>Tonsetzer gehört offenbar ein wenig in die Classe der
-               <lb facs="#facs_1_region_1684673271326_68_tl_36" n="N036"/>jenigen, die den Unterschied zwischen Poesie und Musik
-               <lb facs="#facs_1_region_1684673271326_68_tl_37" n="N037"/>zwischen Worten und Tönen verkennen. Die Musik hat keine
-               <lb facs="#facs_1_region_1684673271326_68_tl_38" n="N038"/>Worte, das heißt willkürliche Zeichen, die eine Beden
-               <lb facs="#facs_1_region_1684673271326_68_tl_39" n="N039"/>tung erst durch das erhalten, was man damit bezeichnet, aller Tonsetzer, die Worte durchhaus, ja sogar den Modus ristischen Ausdruckes, welche ihm als ein das gesunde Werk
-            </ab>
             <ab facs="#facs_1_region_1684673250669_59" type="">
-               <lb facs="#facs_1_region_1684673250669_59_tl_1" n="N001"/>Neue
-               <lb facs="#facs_1_region_1684673250669_59_tl_2" n="N002"/>leie Presse.
+               <lb facs="#facs_1_line_1757999716514_8" n="N001"/>Neue Freie Presse
             </ab>
             <ab facs="#facs_1_region_1684673252736_62" type="">
-               <lb facs="#facs_1_region_1684673252736_62_tl_1" n="N001"/>Morgenblatt.
+               <lb facs="#facs_1_region_1684673252736_62_tl_1" n="N001"/>Morgenblatt
             </ab>
             <ab facs="#facs_1_region_1684673255287_65" type="">
-               <lb facs="#facs_1_region_1684673255287_65_tl_1" n="N001"/>1877.
-               <lb facs="#facs_1_region_1684673255287_65_tl_2" n="N002"/>Nr. 4683.
-               <lb facs="#facs_1_region_1684673255287_65_tl_3" n="N003"/>Wien, Samstag, den 8. September
+               <lb facs="#facs_1_line_1757999741355_20" n="N001"/>Nr. 4683. Wien, Samstag, den 8. September 1877
+            </ab>
+            <ab facs="#facs_1_region_1684673271326_68" type="">
+               <lb facs="#facs_1_region_1684673271326_68_tl_1" n="N001"/><rs type="person">Grillparzer</rs> und die Musik.
+               <lb facs="#facs_1_region_1684673271326_68_tl_2" n="N002"/>(Dritter und letzter Artikel.)
+               <lb facs="#facs_1_region_1684673271326_68_tl_3" n="N003"/>Ed. H. Wenden wir uns zu <rs type="person">Grillparzer</rs>'s ästhetischer
+               <lb facs="#facs_1_region_1684673271326_68_tl_4" n="N004"/>Anschauung vom Wesen und Inhalt der Musik im All¬
+               <lb facs="#facs_1_region_1684673271326_68_tl_5" n="N005"/>gemeinen. Sie fußte, um es kurz zu fassen, auf dem Princip
+               <lb facs="#facs_1_region_1684673271326_68_tl_6" n="N006"/>der eingeborenen, nur eigenem Gesetze folgenden Schönheit
+               <lb facs="#facs_1_region_1684673271326_68_tl_7" n="N007"/>des musikalischen Gedankens und seiner Entwicklung. Solche
+               <lb facs="#facs_1_region_1684673271326_68_tl_8" n="N008"/>Schönheit dürfe der geistigen Beseelung nicht ermangeln und
+               <lb facs="#facs_1_region_1684673271326_68_tl_9" n="N009"/>schließe das Charakteristische nicht aus; doch müsse die Musik
+               <lb facs="#facs_1_region_1684673271326_68_tl_10" n="N010"/>nicht einseitig auf Letzteres ausgehen und ihren Gehalt in
+               <lb facs="#facs_1_region_1684673271326_68_tl_11" n="N011"/>poetischer Bedeutsamkeit suchen. Was <rs type="person">Grillparzer</rs> in der
+               <lb facs="#facs_1_region_1684673271326_68_tl_12" n="N012"/>modernen Richtung irrthümlich erschien und ihm antipathisch
+               <lb facs="#facs_1_region_1684673271326_68_tl_13" n="N013"/>war, ist eben die Bettelei der Tonkunst bei den Schwester¬
+               <lb facs="#facs_1_region_1684673271326_68_tl_14" n="N014"/>künsten, das Anrufen eines fremden, nichtmusikalischen, blos
+               <lb facs="#facs_1_region_1684673271326_68_tl_15" n="N015"/>poetischen Interesses. „Die Stärke braucht, und nicht die
+               <lb facs="#facs_1_region_1684673271326_68_tl_16" n="N016"/>Schwächen!“ ruft er den modernen Componisten zu, „sonst
+               <lb facs="#facs_1_region_1684673271326_68_tl_17" n="N017"/>wird die Kunst ihr Höchstes nie. Geläng's der Tonkunst je
+               <lb facs="#facs_1_region_1684673271326_68_tl_18" n="N018"/>zu sprechen — wär' sie verpfuschte Poesie.“ <rs type="person">Grillparzer</rs>
+               <lb facs="#facs_1_region_1684673271326_68_tl_19" n="N019"/>wollte die Grenzen der einzelnen Künste, Poesie, Malerei,
+               <lb facs="#facs_1_region_1684673271326_68_tl_20" n="N020"/>Musik, rein gehalten wissen und erklärt den oft gebrauchten
+               <lb facs="#facs_1_region_1684673271326_68_tl_21" n="N021"/>Satz: die Musik ist eine Poesie in Tönen, für ebenso un¬
+               <lb facs="#facs_1_region_1684673271326_68_tl_22" n="N022"/>wahr, als es der entgegengesetzte sein würde: die Poesie ist
+               <lb facs="#facs_1_region_1684673271326_68_tl_23" n="N023"/>eine Musik in Worten. „Der Unterschied dieser beiden Künste
+               <lb facs="#facs_1_line_1757999785482_28" n="N024"/>liegt nicht blos in ihren Mitteln, er liegt in den ersten
+               <lb facs="#facs_1_line_1757999788819_32" n="N025"/>Gründen ihres Wesens.“ In den eingangs erwähnten un¬
+               <lb facs="#facs_1_region_1684673271326_68_tl_28" n="N026"/>gedruckten <work>Tagebuchblätter</work>n <rs type="person">Grillparzer</rs>'s findet sich ein
+               <lb facs="#facs_1_region_1684673271326_68_tl_29" n="N027"/>längerer <work>Artikel</work> über <italic><rs type="person">Weber</rs>'s</italic> „<italic><work>Freischütz</work></italic>“, worin
+               <lb facs="#facs_1_region_1684673271326_68_tl_30" n="N028"/><rs type="person">Grillparzer</rs> ausführlicher als sonst seine Ideen über die Auf¬
+               <lb facs="#facs_1_region_1684673271326_68_tl_31" n="N029"/>gabe der Musik und ihr Verhältniß zur Dichtung ausführt.
+               <lb facs="#facs_1_region_1684673271326_68_tl_32" n="N030"/>Ich theile den merkwürdigen <work>Aufsatz</work> hier (mit einigen noth¬
+               <lb facs="#facs_1_region_1684673271326_68_tl_33" n="N031"/>wendig gewordenen Kürzungen) zum erstenmale mit:
+               <lb facs="#facs_1_region_1684673271326_68_tl_34" n="N032"/>„<italic><work>Der Freischütz</work></italic>.“ <italic>Oper von Maria <rs type="person">Weber</rs></italic>.
+               <lb facs="#facs_1_region_1684673271326_68_tl_35" n="N033"/>Der Tonsetzer gehört offenbar ein wenig in die Classe der¬
+               <lb facs="#facs_1_region_1684673271326_68_tl_36" n="N034"/>jenigen, die den Unterschied zwischen Poesie und Musik,
+               <lb facs="#facs_1_region_1684673271326_68_tl_37" n="N035"/>zwischen Worten und Tönen verkennen. Die Musik hat keine
+               <lb facs="#facs_1_region_1684673271326_68_tl_38" n="N036"/>Worte, das heißt <italic>willkürliche</italic> Zeichen, die eine Bedeu¬
+               <lb facs="#facs_1_line_1757999798724_37" n="N037"/>tung erst durch das erhalten, was man damit bezeichnet.
             </ab>
             <ab facs="#facs_1_region_1684673273948_71" type="">
-               <lb facs="#facs_1_region_1684673273948_71_tl_1" n="N001"/>Der Ton ist, nebstdem daß er ein Zeichen sein kann, auch
-               <lb facs="#facs_1_region_1684673273948_71_tl_2" n="N002"/>noch eine Sache. Eine Reihe von Tönen gefällt, sowie ein
-               <lb facs="#facs_1_region_1684673273948_71_tl_3" n="N003"/>gewisse Form in den plastischen Künsten, ohne daß man no¬
+               <lb facs="#facs_1_region_1684673273948_71_tl_1" n="N001"/>Der Ton ist, nebstdem daß er ein <italic>Zeichen</italic> sein kann, auch
+               <lb facs="#facs_1_region_1684673273948_71_tl_2" n="N002"/>noch eine <italic>Sache</italic>. Eine Reihe von Tönen gefällt, sowie eine
+               <lb facs="#facs_1_region_1684673273948_71_tl_3" n="N003"/>gewisse Form in den plastischen Künsten, ohne daß man noch
                <lb facs="#facs_1_region_1684673273948_71_tl_4" n="N004"/>eine bestimmte Vorstellung damit verbunden hätte; ein Miß¬
-               <lb facs="#facs_1_region_1684673273948_71_tl_5" n="N005"/>ton mißfällt, wie das Häßliche in der Plastik, schon rei
+               <lb facs="#facs_1_region_1684673273948_71_tl_5" n="N005"/>ton mißfällt, wie das Häßliche in der Plastik, schon rein
                <lb facs="#facs_1_region_1684673273948_71_tl_6" n="N006"/>physisch, ohne weitere Verstandesbeziehung. Wenn die Wir¬
-               <lb facs="#facs_1_region_1684673273948_71_tl_7" n="N007"/>kung der Worte auf den Verstand und erst durch diesen an
-               <lb facs="#facs_1_region_1684673273948_71_tl_8" n="N008"/>das Gefühl geschieht, indeß die Sinne dabei eine nur dienend¬
-               <lb facs="#facs_1_region_1684673273948_71_tl_9" n="N009"/>Rolle spielen, so wirkt die bildende und die Tonkuns
+               <lb facs="#facs_1_region_1684673273948_71_tl_7" n="N007"/>kung der Worte auf den Verstand und erst durch diesen auf
+               <lb facs="#facs_1_region_1684673273948_71_tl_8" n="N008"/>das Gefühl geschieht, indeß die Sinne dabei eine nur dienende
+               <lb facs="#facs_1_region_1684673273948_71_tl_9" n="N009"/>Rolle spielen, so wirkt die <italic>bildende</italic> und die <italic>Tonkunst</italic>
                <lb facs="#facs_1_region_1684673273948_71_tl_10" n="N010"/>unmittelbar auf die Sinne, durch diese auf das Gefühl, und
-               <lb facs="#facs_1_region_1684673273948_71_tl_11" n="N011"/>der Verstand nimmt erst in letzter Instanz an dem Gesammt
-               <lb facs="#facs_1_region_1684673273948_71_tl_12" n="N012"/>Eindrucke theil. Diese Betrachtung hat auch in der bildender
-               <lb facs="#facs_1_region_1684673273948_71_tl_13" n="N013"/>Kunst die größten Kenner (worunter man blos Menge
-               <lb facs="#facs_1_region_1684673273948_71_tl_14" n="N014"/>Lessing und Goethe zu nennen braucht dahin geführt, di
-               <lb facs="#facs_1_region_1684673273948_71_tl_15" n="N015"/>Schönheit der Form als unerläßliches, ja als höchstes Gese
-               <lb facs="#facs_1_region_1684673273948_71_tl_16" n="N016"/>für sie aufzustellen. Was von der bildenden Kunst gilt, gil
-               <lb facs="#facs_1_region_1684673273948_71_tl_17" n="N017"/>unmittelbare Wirkung ist Sinn= und Nervenreiz
-               <lb facs="#facs_1_region_1684673273948_71_tl_18" n="N018"/>Schreitet man in der Betrachtung der Töne und ihrer V
-               <lb facs="#facs_1_region_1684673273948_71_tl_19" n="N019"/>bindungen weiter fort, so zeigt sich bald eine neue Seit
-               <lb facs="#facs_1_region_1684673273948_71_tl_20" n="N020"/>welche die zu einer schönen Kunst nothwendige Verbindung
-               <lb facs="#facs_1_region_1684673273948_71_tl_21" n="N021"/>mit dem Verstande wirklich herstellt und eine Musik al
-               <lb facs="#facs_1_region_1684673273948_71_tl_22" n="N022"/>Kunst möglich macht. Nebst dem nämlich, daß die Töne an
-               <lb facs="#facs_1_region_1684673273948_71_tl_23" n="N023"/>sich gefallen oder mißfallen, lehrt uns auch das Bewußtsein
-               <lb facs="#facs_1_region_1684673273948_71_tl_24" n="N024"/>daß durch sie besondere Gemüthszustände erweckt werden,
-               <lb facs="#facs_1_region_1684673273948_71_tl_25" n="N025"/>deren Bezeichnung sie denn auch gebraucht werden können
-               <lb facs="#facs_1_region_1684673273948_71_tl_26" n="N026"/>Freude und Wehmuth, Sehnsucht und Liebe haben ihre Töne
-               <lb facs="#facs_1_region_1684673273948_71_tl_27" n="N027"/>Doch darf man zweierlei nicht vergessen. Erstens: daß dies
-               <lb facs="#facs_1_region_1684673273948_71_tl_28" n="N028"/>Bezeichnung keine genau bestimmte, wie durch Be¬
-               <lb facs="#facs_1_region_1684673273948_71_tl_29" n="N029"/>griffe und Worte ist; zweitens: daß die ursprüng
-               <lb facs="#facs_1_region_1684673273948_71_tl_30" n="N030"/>liche, rein sinnliche Natur der Töne durch keine
-               <lb facs="#facs_1_region_1684673273948_71_tl_31" n="N031"/>später hinzukommende Erweiterung der Bedeutung ganz
-               <lb facs="#facs_1_region_1684673273948_71_tl_32" n="N032"/>aufgehoben werden kann... daß daher bei der ziem¬
-               <lb facs="#facs_1_region_1684673273948_71_tl_33" n="N033"/>lich vagen Bezeichnungsfähigkeit der Musik der nur entfern
-               <lb facs="#facs_1_region_1684673273948_71_tl_34" n="N034"/>wirkende Verstand nicht fähig ist, durch seine Billigung unan¬
-               <lb facs="#facs_1_region_1684673273948_71_tl_35" n="N035"/>genehme Eindrücke auszugleichen, welche die Sinne mit über
-               <lb facs="#facs_1_region_1684673273948_71_tl_36" n="N036"/>wiegender Gewalt empfangen haben. Was erstens die B.
-               <lb facs="#facs_1_region_1684673273948_71_tl_37" n="N037"/>zeichnungsfähigkeit der Musik betrifft, so bin ich erbötig, 5
+               <lb facs="#facs_1_region_1684673273948_71_tl_11" n="N011"/>der Verstand nimmt erst in letzter Instanz an dem Gesammt¬
+               <lb facs="#facs_1_region_1684673273948_71_tl_12" n="N012"/>Eindrucke theil. Diese Betrachtung hat auch in der bildenden
+               <lb facs="#facs_1_region_1684673273948_71_tl_13" n="N013"/>Kunst die größten Kenner (worunter man blos <rs type="person">Mengs</rs>,
+               <lb facs="#facs_1_region_1684673273948_71_tl_14" n="N014"/><rs type="person">Lessing</rs> und <rs type="person">Goethe</rs> zu nennen braucht) dahin geführt, die
+               <lb facs="#facs_1_region_1684673273948_71_tl_15" n="N015"/>Schönheit der Form als unerläßliches, ja als höchstes Gesetz
+               <lb facs="#facs_1_region_1684673273948_71_tl_16" n="N016"/>für sie aufzustellen. Was von der bildenden Kunst gilt, gilt
+               <lb facs="#facs_1_line_1757999852779_57" n="N017"/>in noch viel höherem Grade von der <italic>Musik</italic>. Ihre erste
+               <lb facs="#facs_1_region_1684673273948_71_tl_17" n="N018"/>unmittelbare Wirkung ist Sinn- und Nervenreiz . . .
+               <lb facs="#facs_1_region_1684673273948_71_tl_18" n="N019"/>Schreitet man in der Betrachtung der Töne und ihrer Ver¬
+               <lb facs="#facs_1_region_1684673273948_71_tl_19" n="N020"/>bindungen weiter fort, so zeigt sich bald eine neue Seite,
+               <lb facs="#facs_1_region_1684673273948_71_tl_20" n="N021"/>welche die zu einer schönen Kunst nothwendige Verbindung
+               <lb facs="#facs_1_region_1684673273948_71_tl_21" n="N022"/>mit dem Verstande wirklich herstellt und eine Musik als
+               <lb facs="#facs_1_region_1684673273948_71_tl_22" n="N023"/>Kunst möglich macht. Nebstdem nämlich, daß die Töne an
+               <lb facs="#facs_1_region_1684673273948_71_tl_23" n="N024"/>sich gefallen oder mißfallen, lehrt uns auch das Bewußtsein,
+               <lb facs="#facs_1_region_1684673273948_71_tl_24" n="N025"/>daß durch sie besondere Gemüthszustände erweckt werden, zu
+               <lb facs="#facs_1_region_1684673273948_71_tl_25" n="N026"/>deren Bezeichnung sie denn auch gebraucht werden können.
+               <lb facs="#facs_1_region_1684673273948_71_tl_26" n="N027"/>Freude und Wehmuth, Sehnsucht und Liebe haben ihre Töne . . .
+               <lb facs="#facs_1_region_1684673273948_71_tl_27" n="N028"/>Doch darf man zweierlei nicht vergessen. Erstens: daß diese
+               <lb facs="#facs_1_region_1684673273948_71_tl_28" n="N029"/>Bezeichnung keine genau bestimmte, wie durch Be¬
+               <lb facs="#facs_1_region_1684673273948_71_tl_29" n="N030"/>griffe und Worte ist; zweitens: daß die ursprüng¬
+               <lb facs="#facs_1_region_1684673273948_71_tl_30" n="N031"/>liche, rein sinnliche Natur der Töne durch keine
+               <lb facs="#facs_1_region_1684673273948_71_tl_31" n="N032"/>später hinzukommende Erweiterung der Bedeutung ganz
+               <lb facs="#facs_1_region_1684673273948_71_tl_32" n="N033"/>aufgehoben werden kann . . . daß daher bei der ziem¬
+               <lb facs="#facs_1_region_1684673273948_71_tl_33" n="N034"/>lich vagen Bezeichnungsfähigkeit der Musik der nur entfernt
+               <lb facs="#facs_1_region_1684673273948_71_tl_34" n="N035"/>wirkende Verstand nicht fähig ist, durch seine Billigung unan¬
+               <lb facs="#facs_1_region_1684673273948_71_tl_35" n="N036"/>genehme Eindrücke auszugleichen, welche die Sinne mit über¬
+               <lb facs="#facs_1_region_1684673273948_71_tl_36" n="N037"/>wiegender Gewalt empfangen haben. Was erstens die Be¬
+               <lb facs="#facs_1_region_1684673273948_71_tl_37" n="N038"/>zeichnungsfähigkeit der Musik betrifft, so bin ich erbötig, bei
+               <lb facs="#facs_1_line_1757999885035_70" n="N039"/>jeder beliebigen Opern-Arie <rs type="person">Mozart</rs>'s, des unstreitig größten
+               <lb facs="#facs_1_line_1757999825811_46" n="N040"/>aller Tonsetzer, die Worte durchhaus, ja sogar den Modus
             </ab>
             <ab facs="#facs_1_region_1684673277000_74" type="">
                <lb facs="#facs_1_region_1684673277000_74_tl_1" n="N001"/>der Empfindung zu ändern, ohne daß Jemand, der das
                <lb facs="#facs_1_region_1684673277000_74_tl_2" n="N002"/>Musikstück nun zum erstenmal hört, daran ein Arges haben
                <lb facs="#facs_1_region_1684673277000_74_tl_3" n="N003"/>und es weniger bewundern soll. Oder noch schlagender:
-               <lb facs="#facs_1_region_1684673277000_74_tl_4" n="N004"/>Man nehme die charakteristischeste Symphonie Beethoven's
+               <lb facs="#facs_1_region_1684673277000_74_tl_4" n="N004"/>Man nehme die charakteristischeste Symphonie <rs type="person">Beethoven</rs>'s
                <lb facs="#facs_1_region_1684673277000_74_tl_5" n="N005"/>und lasse von zehn geistreichen, in der Poesie und Musik er¬
                <lb facs="#facs_1_region_1684673277000_74_tl_6" n="N006"/>fahrenen Männern einen passenden Text daruntersetzen und
                <lb facs="#facs_1_region_1684673277000_74_tl_7" n="N007"/>erstaune dann, was für Verschiedenheiten sich da zeigen wer¬
                <lb facs="#facs_1_region_1684673277000_74_tl_8" n="N008"/>den. Ja vielmehr ist eben dies das unterscheidende Kenn¬
                <lb facs="#facs_1_region_1684673277000_74_tl_9" n="N009"/>zeichen der Musik vor allen Künsten, daß in ihr Symphonien,
-               <lb facs="#facs_1_region_1684673277000_74_tl_10" n="N010"/>Sonaten, Concerte möglich sind, Kunstwerke nämlich
-               <lb facs="#facs_1_region_1684673277000_74_tl_11" n="N011"/>die, ohne etwas Genau=Bestimmtes zu bezeichnen, rein durch
-               <lb facs="#facs_1_region_1684673277000_74_tl_12" n="N012"/>ihre innere Construction und die sie begleitenden dunklen
-               <lb facs="#facs_1_region_1684673277000_74_tl_13" n="N013"/>Gefühle gefallen. Gerade diese dunklen Gefühle sind das
+               <lb facs="#facs_1_region_1684673277000_74_tl_10" n="N010"/>Sonaten, Concerte möglich sind, Kunstwerke nämlich,
+               <lb facs="#facs_1_region_1684673277000_74_tl_11" n="N011"/>die, ohne etwas Genau-Bestimmtes zu bezeichnen, rein durch
+               <lb facs="#facs_1_region_1684673277000_74_tl_12" n="N012"/>ihre innere Construction und die sie begleitenden <italic continued="true">dunklen</italic>
+               <lb facs="#facs_1_region_1684673277000_74_tl_13" n="N013"/><italic continued="true">Gefühle</italic> gefallen. Gerade diese dunklen Gefühle sind das
                <lb facs="#facs_1_region_1684673277000_74_tl_14" n="N014"/>eigentliche Gebiet der Musik. Hierin muß ihr die Poesie
-               <lb facs="#facs_1_region_1684673277000_74_tl_15" n="N015"/>nachstehen... Alles, was höher geht und tiefer als
+               <lb facs="#facs_1_region_1684673277000_74_tl_15" n="N015"/>nachstehen . . . Alles, was höher geht und tiefer als
                <lb facs="#facs_1_region_1684673277000_74_tl_16" n="N016"/>Worte gehen können, das gehört der Musik an, da ist sie
-               <lb facs="#facs_1_region_1684673277000_74_tl_17" n="N017"/>in noch viel höherem Grade von der Musik. Ihre erste unerreicht. In allem Andern steht sie ihren Schwesterkünsten
-               <lb facs="#facs_1_region_1684673277000_74_tl_18" n="N018"/>nach ... Es folgt daraus, daß die Musik vor Allem
-               <lb facs="#facs_1_region_1684673277000_74_tl_19" n="N019"/>streben soll, das zu erreichen, was ihr erreichbar ist...
+               <lb facs="#facs_1_line_1757999852779_56" n="N017"/>unerreicht. In allem Andern steht sie ihren Schwesterkünsten
+               <lb facs="#facs_1_region_1684673277000_74_tl_18" n="N018"/>nach . . . Es folgt daraus, daß die Musik vor Allem
+               <lb facs="#facs_1_region_1684673277000_74_tl_19" n="N019"/>streben soll, das zu erreichen, was ihr erreichbar ist . . . .
                <lb facs="#facs_1_region_1684673277000_74_tl_20" n="N020"/>daß, so wie der Dichter ein Thor ist, der in seinen Versen
                <lb facs="#facs_1_region_1684673277000_74_tl_21" n="N021"/>den Musiker im Klang erreichen will, ebenso der Musiker
                <lb facs="#facs_1_region_1684673277000_74_tl_22" n="N022"/>ein Verrückter ist, der mit seinen Tönen dem Dichter an
                <lb facs="#facs_1_region_1684673277000_74_tl_23" n="N023"/>Bestimmtheit des Ausdruckes es gleichthun will; daß
-               <lb facs="#facs_1_region_1684673277000_74_tl_24" n="N024"/>Mozart der größte Tonsetzer ist und Karl Maria
-               <lb facs="#facs_1_region_1684673277000_74_tl_25" n="N025"/>Weber — nicht der größte.
-               <lb facs="#facs_1_region_1684673277000_74_tl_26" n="N026"/>Der Aufsatz bricht hier unvollendet ab. Ohne Zweifel
-               <lb facs="#facs_1_region_1684673277000_74_tl_27" n="N027"/>hätte Grillparzer in Fortsetzung desselben das glänzende
-               <lb facs="#facs_1_region_1684673277000_74_tl_28" n="N028"/>Talent Weber's und dessen auch im Reinmusikalischen
-               <lb facs="#facs_1_region_1684673277000_74_tl_29" n="N029"/>blühende reiche Erfindung anerkannt. Nur die herrschen
+               <lb facs="#facs_1_region_1684673277000_74_tl_24" n="N024"/><italic><rs type="person">Mozart</rs></italic> der größte Tonsetzer ist und <italic continued="true">Karl Maria</italic>
+               <lb facs="#facs_1_region_1684673277000_74_tl_25" n="N025"/><italic continued="true"><rs type="person">Weber</rs></italic> — nicht der größte.“
+               <lb facs="#facs_1_region_1684673277000_74_tl_26" n="N026"/>Der <work>Aufsatz</work> bricht hier unvollendet ab. Ohne Zweifel
+               <lb facs="#facs_1_region_1684673277000_74_tl_27" n="N027"/>hätte <rs type="person">Grillparzer</rs> in Fortsetzung desselben das glänzende
+               <lb facs="#facs_1_region_1684673277000_74_tl_28" n="N028"/>Talent <rs type="person">Weber</rs>'s und dessen auch im Reinmusikalischen so
+               <lb facs="#facs_1_region_1684673277000_74_tl_29" n="N029"/>blühende reiche Erfindung anerkannt. Nur die herrschende
                <lb facs="#facs_1_region_1684673277000_74_tl_30" n="N030"/>einseitige Ueberschätzung des charakteristischen Elements im
-               <lb facs="#facs_1_region_1684673277000_74_tl_31" n="N031"/>„Freischütz" mag in Grillparzer die Opposition und damit
+               <lb facs="#facs_1_region_1684673277000_74_tl_31" n="N031"/>„<work>Freischütz</work>“ mag in <rs type="person">Grillparzer</rs> die Opposition und damit
                <lb facs="#facs_1_region_1684673277000_74_tl_32" n="N032"/>das Bedürfniß geweckt haben, sich über diese Erscheinung
                <lb facs="#facs_1_region_1684673277000_74_tl_33" n="N033"/>theoretisch klar zu werden. Ich halte es für unmöglich, daß
-               <lb facs="#facs_1_region_1684673277000_74_tl_34" n="N034"/>ein Dichter wie Grillparzer, oder sagen wir ein Musiker
-               <lb facs="#facs_1_region_1684673277000_74_tl_35" n="N035"/>Grillparzer, gleichviel, sich dem Zauber des „Freischütz
-               <lb facs="#facs_1_region_1684673277000_74_tl_36" n="N036"/>verschließen konnte. Weit begreiflicher ist, daß Weber
-               <lb facs="#facs_1_region_1684673277000_74_tl_37" n="N037"/>„Euryanthe" ihm mißfiel und daß er in dieser Abneigung
-               <lb facs="#facs_1_region_1684673277000_74_tl_38" n="N038"/>mit Beethoven zusammentraf. (X. 21.) In „Euryanthe
-               <lb facs="#facs_1_region_1684673277000_74_tl_39" n="N039"/>jeder beliebigen Opern-Arie Mozart's, des unstreitig größten erblickte Grillparzer bereits jene Uebertreibung des charakte¬
+               <lb facs="#facs_1_region_1684673277000_74_tl_34" n="N034"/>ein Dichter wie <rs type="person">Grillparzer</rs>, oder sagen wir ein Musiker wie
+               <lb facs="#facs_1_region_1684673277000_74_tl_35" n="N035"/><rs type="person">Grillparzer</rs>, gleichviel, sich dem Zauber des „<work>Freischütz</work>“
+               <lb facs="#facs_1_region_1684673277000_74_tl_36" n="N036"/>verschließen konnte. Weit begreiflicher ist, daß <rs type="person">Weber</rs>'s
+               <lb facs="#facs_1_region_1684673277000_74_tl_37" n="N037"/>„<work>Euryanthe</work>“ ihm mißfiel und daß er in dieser Abneigung
+               <lb facs="#facs_1_region_1684673277000_74_tl_38" n="N038"/>mit <italic><rs type="person">Beethoven</rs></italic> zusammentraf. (X. 21.) In „<work>Euryanthe</work>“
+               <lb facs="#facs_1_line_1757999885035_69" n="N039"/>erblickte <rs type="person">Grillparzer</rs> bereits jene Uebertreibung des charakte¬
+               <lb facs="#facs_1_line_1757999825811_45" n="N040"/>ristischen Ausdruckes, welche ihm als ein das gesunde Werk
             </ab>
             <pb facs="#facs_2" n="2" xml:id="img_0002"/>
             <ab facs="#facs_2_region_1684673287553_80" type="">
                <lb facs="#facs_2_region_1684673287553_80_tl_1" n="N001"/>der Musik benagender Wurm erschien und dessen schließlichen
-               <lb facs="#facs_2_region_1684673287553_80_tl_2" n="N002"/>Sieg über das musikalisch Schöne er fürchtend voraussah
-               <lb facs="#facs_2_region_1684673287553_80_tl_3" n="N003"/>„Unsinnig“ nennt es Grillparzer, „die Musik bei der Oper
-               <lb facs="#facs_2_region_1684673287553_80_tl_4" n="N004"/>zur bloßen Sklavin der Poesie zu machen", und fährt weite¬
+               <lb facs="#facs_2_region_1684673287553_80_tl_2" n="N002"/>Sieg über das musikalisch Schöne er fürchtend voraussah.
+               <lb facs="#facs_2_region_1684673287553_80_tl_3" n="N003"/>„Unsinnig“ nennt es <rs type="person">Grillparzer</rs>, „die Musik bei der Oper
+               <lb facs="#facs_2_region_1684673287553_80_tl_4" n="N004"/>zur bloßen Sklavin der Poesie zu machen“, und fährt weiter
                <lb facs="#facs_2_region_1684673287553_80_tl_5" n="N005"/>fort: „Wäre die Musik in der Oper nur da, um das noch
-               <lb facs="#facs_2_region_1684673287553_80_tl_6" n="N006"/>einmal auszudrücken, was der Dichter schon ausgedrückt hat
-               <lb facs="#facs_2_region_1684673287553_80_tl_7" n="N007"/>dann laßt mir die Töne weg... Wer deine Kraft kennt
-               <lb facs="#facs_2_region_1684673287553_80_tl_8" n="N008"/>Melodie die du, ohne der Worterklärung eines Begriffe
-               <lb facs="#facs_2_region_1684673287553_80_tl_9" n="N009"/>zu bedürfen, unmittelbar aus dem Himmel, durch die Brus
-               <lb facs="#facs_2_region_1684673287553_80_tl_10" n="N010"/>wieder zum Himmel zurückzieht; wer deine Kraft kennt
-               <lb facs="#facs_2_region_1684673287553_80_tl_11" n="N011"/>wird die Musik nicht zur Nachtreterin der Poesie machen: liches zu hören; Grillparzers Reise=Tagebuch beschränkt sich
-               <lb facs="#facs_2_region_1684673287553_80_tl_12" n="N012"/>er mag der letzteren den Vorrang geben (und ich glaube, si¬
-               <lb facs="#facs_2_region_1684673287553_80_tl_13" n="N013"/>verdient ihn auch, wie ihn das Mannesalter verdient vo
-               <lb facs="#facs_2_region_1684673287553_80_tl_14" n="N014"/>der Kindheit), aber er wird auch der ersteren ihr eigenes, schildert er den tiefen Eindruck, den die Kirchenmusik in de
-               <lb facs="#facs_2_region_1684673287553_80_tl_15" n="N015"/>unabhängiges Reich zugestehen, beide wie Geschwister
-               <lb facs="#facs_2_region_1684673287553_80_tl_16" n="N016"/>trachten, und nicht wie Herrn und Knecht oder auch nur wie Bo
-               <lb facs="#facs_2_region_1684673287553_80_tl_17" n="N017"/>mund und Mündel." Als Grundsatz will er festgehalten wissen
-               <lb facs="#facs_2_region_1684673287553_80_tl_18" n="N018"/>„Keine Oper soll vom Gesichtspunkte der Poesie betrachte
-               <lb facs="#facs_2_region_1684673287553_80_tl_19" n="N019"/>werden — von diesem aus
-               <lb facs="#facs_2_region_1684673287553_80_tl_20" n="N020"/>ist jede dramatisch=musika¬
-               <lb facs="#facs_2_region_1684673287553_80_tl_21" n="N021"/>position Unsinn — sondern vom Gesichtspunkt¬
-               <lb facs="#facs_2_region_1684673287553_80_tl_22" n="N022"/>lische Comp
-               <lb facs="#facs_2_region_1684673287553_80_tl_23" n="N023"/>der Musik." Grillparzer macht keine Ausnahme für seine
-               <lb facs="#facs_2_region_1684673287553_80_tl_24" n="N024"/>Nelusina"; er ist weit entfernt von der Prätension, die
-               <lb facs="#facs_2_region_1684673287553_80_tl_25" n="N025"/>Operntextbuch für ein dramatisches Gedicht von
-               <lb facs="#facs_2_region_1684673287553_80_tl_26" n="N026"/>selbstständigem Werthe auszugeben, obwol es in sei
-               <lb facs="#facs_2_region_1684673287553_80_tl_27" n="N027"/>ner Behandlung des Phantastischen wie in zahl
-               <lb facs="#facs_2_region_1684673287553_80_tl_28" n="N028"/>reichen einzelnen Stellen den großen Dichter verräth.
-               <lb facs="#facs_2_region_1684673287553_80_tl_29" n="N029"/>Noch in mehreren seiner ästhetischen Fragmente behandel
-               <lb facs="#facs_2_region_1684673287553_80_tl_30" n="N030"/>Grillparzer dasselbe Thema, stets in gleichem Sinne und in
-               <lb facs="#facs_2_region_1684673287553_80_tl_31" n="N031"/>In Manche eine der eenich reichen in
-               <lb facs="#facs_2_region_1684673287553_80_tl_32" n="N032"/>ältere Op
-               <lb facs="#facs_2_region_1684673287553_80_tl_33" n="N033"/>Merkwür¬
-               <lb facs="#facs_2_region_1684673287553_80_tl_34" n="N034"/>lange
-               <lb facs="#facs_2_region_1684673287553_80_tl_35" n="N035"/>Melusina
-               <lb facs="#facs_2_region_1684673287553_80_tl_36" n="N036"/>weiten Abständen auskeinen an
-               <lb facs="#facs_2_region_1684673287553_80_tl_37" n="N037"/>nen Füße
-               <lb facs="#facs_2_region_1684673287553_80_tl_38" n="N038"/>t ende
-               <lb facs="#facs_2_region_1684673287553_80_tl_39" n="N039"/>an die fehlen:
-               <lb facs="#facs_2_region_1684673287553_80_tl_40" n="N040"/>Liebe. Das kan
-               <lb facs="#facs_2_region_1684673287553_80_tl_41" n="N041"/>mund (n
-               <lb facs="#facs_2_region_1684673287553_80_tl_42" n="N042"/>an Stilschweigen): „Und wenn ich Thätigkeit sa
+               <lb facs="#facs_2_region_1684673287553_80_tl_6" n="N006"/>einmal auszudrücken, was der Dichter schon ausgedrückt hat,
+               <lb facs="#facs_2_region_1684673287553_80_tl_7" n="N007"/>dann laßt mir die Töne weg . . . Wer deine Kraft kennt,
+               <lb facs="#facs_2_region_1684673287553_80_tl_8" n="N008"/>Melodie! die du, ohne der Worterklärung eines Begriffes
+               <lb facs="#facs_2_region_1684673287553_80_tl_9" n="N009"/>zu bedürfen, unmittelbar aus dem Himmel, durch die Brust
+               <lb facs="#facs_2_region_1684673287553_80_tl_10" n="N010"/>wieder zum Himmel zurückziehst; wer deine Kraft kennt,
+               <lb facs="#facs_2_line_1757999914865_83" n="N011"/>wird die Musik nicht zur Nachtreterin der Poesie machen:
+               <lb facs="#facs_2_region_1684673287553_80_tl_12" n="N012"/>er mag der letzteren den Vorrang geben (und ich glaube, sie
+               <lb facs="#facs_2_region_1684673287553_80_tl_13" n="N013"/>verdient ihn auch, wie ihn das Mannesalter verdient vor
+               <lb facs="#facs_2_line_1757999938659_92" n="N014"/>der Kindheit), aber er wird auch der ersteren ihr eigenes,
+               <lb facs="#facs_2_region_1684673287553_80_tl_15" n="N015"/>unabhängiges Reich zugestehen, beide wie Geschwister be¬
+               <lb facs="#facs_2_region_1684673287553_80_tl_16" n="N016"/>trachten, und nicht wie Herrn und Knecht oder auch nur wie Vor¬
+               <lb facs="#facs_2_region_1684673287553_80_tl_17" n="N017"/>mund und Mündel.“ Als Grundsatz will er festgehalten wissen:
+               <lb facs="#facs_2_region_1684673287553_80_tl_18" n="N018"/>„Keine Oper soll vom Gesichtspunkte der Poesie betrachtet
+               <lb facs="#facs_2_line_1757999984842_101" n="N019"/>werden — von diesem aus ist jede <italic>dramatisch</italic>-musika¬
+               <lb facs="#facs_2_line_1757999990369_105" n="N020"/>lische Composition Unsinn — sondern vom Gesichtspunkte
+               <lb facs="#facs_2_region_1684673287553_80_tl_23" n="N021"/>der Musik.“ <rs type="person">Grillparzer</rs> macht keine Ausnahme für seine
+               <lb facs="#facs_2_region_1684673287553_80_tl_24" n="N022"/>„<work>Melusina</work>“; er ist weit entfernt von der Prätension, die¬
+               <lb facs="#facs_2_region_1684673287553_80_tl_25" n="N023"/>ses Operntextbuch für ein dramatisches Gedicht von
+               <lb facs="#facs_2_region_1684673287553_80_tl_26" n="N024"/>selbstständigem Werthe auszugeben, obwol es in sei¬
+               <lb facs="#facs_2_region_1684673287553_80_tl_27" n="N025"/>ner Behandlung des Phantastischen wie in zahl¬
+               <lb facs="#facs_2_region_1684673287553_80_tl_28" n="N026"/>reichen einzelnen Stellen den großen Dichter verräth.*)
+               <lb facs="#facs_2_region_1684673287553_80_tl_29" n="N027"/>Noch in mehreren seiner ästhetischen Fragmente behandelt
+               <lb facs="#facs_2_region_1684673287553_80_tl_30" n="N028"/><rs type="person">Grillparzer</rs> dasselbe Thema, stets in gleichem Sinne und in
+               <lb facs="#facs_2_line_1758000015336_145" n="N029"/>*) In Manchem lehnt sich freilich <rs type="person">Grillparzer</rs>'s Libretto an
+               <lb facs="#facs_2_line_1758000018089_148" n="N030"/>ältere Opern-Traditionen. So in der ziemlich reichlichen Einführung
+               <lb facs="#facs_2_line_1758000022977_151" n="N031"/>gesprochener Prosa, dann in der typischen Figur des naseweisen Die¬
+               <lb facs="#facs_2_line_1758000027248_154" n="N032"/>ners <person_fictional>Troll</person_fictional>, den er als eine Art <person_fictional>Leporello</person_fictional> dem Ritter <person_fictional>Raimund</person_fictional> mit¬
+               <lb facs="#facs_2_line_1758000029569_157" n="N033"/>gibt. Merkwürdig ist die Aehnlichkeit einer Situation mit der ersten
+               <lb facs="#facs_2_line_1758000032129_160" n="N034"/>Venusberg-Scene in <rs type="person">Wagner</rs>'s „<work>Tannhäuser</work>“. <person_fictional>Raimund</person_fictional> liegt zu
+               <lb facs="#facs_2_line_1758000034705_163" n="N035"/><person_fictional>Melusina</person_fictional>'s Füßen in deren glänzendem Feenpalast, von singenden
+               <lb facs="#facs_2_line_1758000037936_166" n="N036"/>und tanzenden Nymphen umgeben.  Er sehnt sich fort auf die Erde.
+               <lb facs="#facs_2_line_1758000041232_169" n="N037"/><person_fictional>Melusina</person_fictional> begreift nicht diese Sehnsucht: „Ich habe dich mit Allem
+               <lb facs="#facs_2_line_1758000044425_172" n="N038"/>umgeben, was das Dasein reizend und selig macht. Freuden, die
+               <lb facs="#facs_2_line_1758000048257_175" n="N039"/>deine Erde nur in weiten Abständen aufkeimen läßt, liegen, ein un¬
+               <lb facs="#facs_2_line_1758000050832_178" n="N040"/>unterbrochener Kranz, schwellend zu deinen Füßen. Unendlich ist
+               <lb facs="#facs_2_line_1758000053393_181" n="N041"/>meine Liebe. Was kann dir fehlen?“ <italic><person_fictional>Raimund</person_fictional></italic> (nach einem kur¬
+               <lb facs="#facs_2_line_1758000055969_184" n="N042"/>zen Stillschweigen): „Und wenn ich <italic>Thätigkeit</italic> sagte?“
             </ab>
             <ab facs="#facs_2_region_1684673290535_83" type="">
-               <lb facs="#facs_2_region_1684673290535_83_tl_1" n="N001"/>derselben klaren, scharf abgrenzenden Sprache. Ich muß es Gesang in erster, ihren dramatischen Ausdruck erst in zweiten
-               <lb facs="#facs_2_region_1684673290535_83_tl_2" n="N002"/>mir versagen, noch mehr daraus anzuführen zur Charak
-               <lb facs="#facs_2_region_1684673290535_83_tl_3" n="N003"/>teristik des Kunstphilosophen Grillparzer. Wir haben ihr
-               <lb facs="#facs_2_region_1684673290535_83_tl_4" n="N004"/>schließlich noch als Musik=Kritiker kennen zu lernen
-               <lb facs="#facs_2_region_1684673290535_83_tl_5" n="N005"/>geübt, aber seinen Reise=Tagebüchern vertraute Grillparzer
-               <lb facs="#facs_2_region_1684673290535_83_tl_6" n="N006"/>Bemerkungen über Musik=Productionen und Opernvorstel
-               <lb facs="#facs_2_region_1684673290535_83_tl_7" n="N007"/>lungen an, welche sein feines, scharfes, von Anderer Me
-               <lb facs="#facs_2_region_1684673290535_83_tl_8" n="N008"/>nung stets unabhängiges Urtheil glänzend darthun. In
-               <lb facs="#facs_2_region_1684673290535_83_tl_9" n="N009"/>Italien gab es damals, wie jetzt, nichts Außerordent
-               <lb facs="#facs_2_region_1684673290535_83_tl_10" n="N010"/>auf die unbarmherzige Kritik einer einzigen elenden Opern
-               <lb facs="#facs_2_region_1684673290535_83_tl_11" n="N011"/>vorstellung in Rom: Pacinis „Isabella“. Desto beredte
-               <lb facs="#facs_2_region_1684673290535_83_tl_12" n="N012"/>Musikstoff bietet ihm Paris. In der Opéra Comique hö¬
-               <lb facs="#facs_2_region_1684673290535_83_tl_13" n="N013"/>er Dalayracks einactige Oper „Die beiden Savoyarden
-               <lb facs="#facs_2_region_1684673290535_83_tl_14" n="N014"/>Diese haben, nach Grillparzer, „zu gleicher Zeit mit der
-               <lb facs="#facs_2_region_1684673290535_83_tl_15" n="N015"/>Haarzöpfen zu gefallen aufgehört. Zugleich die niederträch¬
-               <lb facs="#facs_2_region_1684673290535_83_tl_16" n="N016"/>tigste Vorstellung. Die beiden Menschen spielten, als ob sie
-               <lb facs="#facs_2_region_1684673290535_83_tl_17" n="N017"/>aus Wien von Düport's kleiner Oper verschrieben wären,
-               <lb facs="#facs_2_region_1684673290535_83_tl_18" n="N018"/>und fangen, wie die Dienstmägde bei der Wäsche. Die
-               <lb facs="#facs_2_region_1684673290535_83_tl_19" n="N019"/>recrutirt haben. Von einem solchen Chor hat man keine
-               <lb facs="#facs_2_region_1684673290535_83_tl_20" n="N020"/>Idee. Sie trafen nie auf den Tactstreich zusammen und
-               <lb facs="#facs_2_region_1684673290535_83_tl_21" n="N021"/>thaten, als wenn in einer komischen Oper die Musik
-               <lb facs="#facs_2_region_1684673290535_83_tl_22" n="N022"/>ein Spaß wäre. Man sieht, Grillparzer wäre als das Ausstattungswesen in der Großen Oper, Halipp
-               <lb facs="#facs_2_region_1684673290535_83_tl_23" n="N023"/>Musik=Referent kaum sehr beliebt geworden bei Sän¬
-               <lb facs="#facs_2_region_1684673290535_83_tl_24" n="N024"/>gern und Opern=Directoren. Günstiger spricht er schon
-               <lb facs="#facs_2_region_1684673290535_83_tl_25" n="N025"/>über die komische Oper desselben Abends, „Sarah“, von
-               <lb facs="#facs_2_region_1684673290535_83_tl_26" n="N026"/>Grisar. „Die Chöre gingen viel besser, jedoch die schwie
-               <lb facs="#facs_2_region_1684673290535_83_tl_27" n="N027"/>rigeren Stellen ohne Genauigkeit. Das Orchester oft aus¬
-               <lb facs="#facs_2_region_1684673290535_83_tl_28" n="N028"/>gezeichnet, immer gut. Vorzüglich Hörner und Violinen.
-               <lb facs="#facs_2_region_1684673290535_83_tl_29" n="N029"/>Hier wie in allen musikalischen Berichten spricht Grillparzer
-               <lb facs="#facs_2_region_1684673290535_83_tl_30" n="N030"/>mit dem Interesse und der Sicherheit des Fachmannes. Er
-               <lb facs="#facs_2_region_1684673290535_83_tl_31" n="N031"/>geht stets auf musikalisches Detail ein und vergißt über den
-               <lb facs="#facs_2_region_1684673290535_83_tl_32" n="N032"/>Solosängern nie die Leistungen des Chors und Orchesters,
-               <lb facs="#facs_2_region_1684673290535_83_tl_33" n="N033"/>Eine zweite Eigenthümlichkeit, die Grillparzer's Opern¬
-               <lb facs="#facs_2_region_1684673290535_83_tl_34" n="N034"/>besprechungen auszeichnet, liegt darin, daß er, der Drama
-               <lb facs="#facs_2_region_1684673290535_83_tl_35" n="N035"/>tiker, von dem Spieltalent der Sänger unbeirrt, stets ihren terisirt. Aber „die Malibran vortrefflicher als jemals,
+               <lb facs="#facs_2_line_1758000061794_190" n="N001"/>derselben klaren, scharf abgrenzenden Sprache. Ich muß es
+               <lb facs="#facs_2_region_1684673290535_83_tl_2" n="N002"/>mir versagen, noch mehr daraus anzuführen zur Charak¬
+               <lb facs="#facs_2_region_1684673290535_83_tl_3" n="N003"/>teristik des Kunstphilosophen <rs type="person">Grillparzer</rs>. Wir haben ihn
+               <lb facs="#facs_2_region_1684673290535_83_tl_4" n="N004"/>schließlich noch als <italic>Musik-Kritiker</italic> kennen zu lernen.
+               <lb facs="#facs_2_line_1758000152281_221" n="N005"/>Für die Oeffentlichkeit hat er dieses Talent niemals aus¬
+               <lb facs="#facs_2_region_1684673290535_83_tl_5" n="N006"/>geübt, aber seinen <work>Reise-Tagebücher</work>n vertraute <rs type="person">Grillparzer</rs>
+               <lb facs="#facs_2_region_1684673290535_83_tl_6" n="N007"/>Bemerkungen über Musik-Productionen und Opernvorstel¬
+               <lb facs="#facs_2_region_1684673290535_83_tl_7" n="N008"/>lungen an, welche sein feines, scharfes, von Anderer Mei¬
+               <lb facs="#facs_2_region_1684673290535_83_tl_8" n="N009"/>nung stets unabhängiges Urtheil glänzend darthun. In
+               <lb facs="#facs_2_region_1684673290535_83_tl_9" n="N010"/><italic><rs type="place">Italien</rs></italic> gab es damals, wie jetzt, nichts Außerordent¬
+               <lb facs="#facs_2_line_1757999914865_82" n="N011"/>liches zu hören; <rs type="person">Grillparzer</rs>'s <work>Reise-Tagebuch</work> beschränkt sich
+               <lb facs="#facs_2_region_1684673290535_83_tl_10" n="N012"/>auf die unbarmherzige Kritik einer einzigen elenden Opern¬
+               <lb facs="#facs_2_region_1684673290535_83_tl_11" n="N013"/>vorstellung in <rs type="place">Rom</rs>: <italic><rs type="person">Pacini</rs>'s</italic> „<work>Isabella</work>“. Desto beredter
+               <lb facs="#facs_2_line_1757999938659_91" n="N014"/>schildert er den tiefen Eindruck, den die Kirchenmusik in der
+               <lb facs="#facs_2_line_1758000180962_231" n="N015"/>Sixtina während der Charwoche auf ihn macht. Ergiebigeren
+               <lb facs="#facs_2_region_1684673290535_83_tl_12" n="N016"/>Musikstoff bietet ihm <italic><rs type="place">Paris</rs></italic>. In der Opéra Comique hört
+               <lb facs="#facs_2_region_1684673290535_83_tl_13" n="N017"/>er <rs type="person">Dalayrac</rs>'s einactige Oper „<work>Die beiden Savoyarden</work>“.
+               <lb facs="#facs_2_region_1684673290535_83_tl_14" n="N018"/>Diese haben, nach <rs type="person">Grillparzer</rs>, „zu gleicher Zeit mit den
+               <lb facs="#facs_2_region_1684673290535_83_tl_15" n="N019"/>Haarzöpfen zu gefallen aufgehört. Zugleich die niederträch¬
+               <lb facs="#facs_2_region_1684673290535_83_tl_16" n="N020"/>tigste Vorstellung. Die beiden Menschen spielten, als ob sie
+               <lb facs="#facs_2_region_1684673290535_83_tl_17" n="N021"/>aus <rs type="place">Wien</rs> von <rs type="person">Düport</rs>'s kleiner Oper verschrieben wären,
+               <lb facs="#facs_2_region_1684673290535_83_tl_18" n="N022"/>und sangen, wie die Dienstmägde bei der Wäsche. Die
+               <lb facs="#facs_2_line_1758000206425_241" n="N023"/>Männer muß man aus den Billeteuren und Feuerwächtern
+               <lb facs="#facs_2_region_1684673290535_83_tl_19" n="N024"/>recrutirt haben. Von einem solchen Chor hat man keine
+               <lb facs="#facs_2_region_1684673290535_83_tl_20" n="N025"/>Idee. Sie trafen nie auf den Tactstreich zusammen und
+               <lb facs="#facs_2_region_1684673290535_83_tl_21" n="N026"/>thaten, als wenn in einer komischen Oper die Musik
+               <lb facs="#facs_2_line_1758000085009_201" n="N027"/>ein Spaß wäre“. Man sieht, <rs type="person">Grillparzer</rs> wäre als
+               <lb facs="#facs_2_region_1684673290535_83_tl_23" n="N028"/>Musik-Referent kaum sehr beliebt geworden bei Sän¬
+               <lb facs="#facs_2_region_1684673290535_83_tl_24" n="N029"/>gern und Opern-Directoren. Günstiger spricht er schon
+               <lb facs="#facs_2_region_1684673290535_83_tl_25" n="N030"/>über die komische Oper desselben Abends, „<work>Sarah</work>“, von
+               <lb facs="#facs_2_region_1684673290535_83_tl_26" n="N031"/><italic><rs type="person">Grisar</rs></italic>. „Die Chöre gingen viel besser, jedoch die schwie¬
+               <lb facs="#facs_2_region_1684673290535_83_tl_27" n="N032"/>rigeren Stellen ohne Genauigkeit. Das Orchester oft aus¬
+               <lb facs="#facs_2_region_1684673290535_83_tl_28" n="N033"/>gezeichnet, immer gut. Vorzüglich Hörner und Violinen.“
+               <lb facs="#facs_2_region_1684673290535_83_tl_29" n="N034"/>Hier wie in allen musikalischen Berichten spricht <rs type="person">Grillparzer</rs>
+               <lb facs="#facs_2_region_1684673290535_83_tl_30" n="N035"/>mit dem Interesse und der Sicherheit des Fachmannes. Er
+               <lb facs="#facs_2_region_1684673290535_83_tl_31" n="N036"/>geht stets auf musikalisches Detail ein und vergißt über den
+               <lb facs="#facs_2_region_1684673290535_83_tl_32" n="N037"/>Solosängern nie die Leistungen des Chors und Orchesters.
+               <lb facs="#facs_2_region_1684673290535_83_tl_33" n="N038"/>Eine zweite Eigenthümlichkeit, die <rs type="person">Grillparzer</rs>'s Opern¬
+               <lb facs="#facs_2_region_1684673290535_83_tl_34" n="N039"/>besprechungen auszeichnet, liegt darin, daß er, der Drama¬
+               <lb facs="#facs_2_line_1758000128569_210" n="N040"/>tiker, von dem Spieltalent der Sänger unbeirrt, stets ihren
             </ab>
             <ab facs="#facs_2_region_1684673293508_86" type="">
-               <lb facs="#facs_2_region_1684673293508_86_tl_1" n="N001"/>Linie schätzt und beurtheilt. Der Musiker in ihm ist unbe¬
-               <lb facs="#facs_2_region_1684673293508_86_tl_2" n="N002"/>stechlich, freilich oft auch unbarmherzig. In der Großen Oper
-               <lb facs="#facs_2_region_1684673293508_86_tl_3" n="N003"/>sind ihm namentlich die Männer unangenehm. Sie sind
-               <lb facs="#facs_2_region_1684673293508_86_tl_4" n="N004"/>Für die Oeffentlichkeit hat er dieses Talent niemals aus ihm, „was man dramatische Sänger nennt, das heißt schlechte
-               <lb facs="#facs_2_region_1684673293508_86_tl_5" n="N005"/>Sie verstehen sich ziemlich vortrefflich darauf, die Winkel¬
-               <lb facs="#facs_2_region_1684673293508_86_tl_6" n="N006"/>poesie eines erbärmlichen Opernbuches geltend zu machen
-               <lb facs="#facs_2_region_1684673293508_86_tl_7" n="N007"/>sind aber nicht im Stande, die musikalischen Intentionen
-               <lb facs="#facs_2_region_1684673293508_86_tl_8" n="N008"/>einer guten Composition ins Leben zu bringen. Aus einem
-               <lb facs="#facs_2_region_1684673293508_86_tl_9" n="N009"/>Chor herauszuschreien oder die Lichter auf finstere Violon¬
-               <lb facs="#facs_2_region_1684673293508_86_tl_10" n="N010"/>Hintergründe aufzusetzen, dazu sind sie ganz die Leute; die
-               <lb facs="#facs_2_region_1684673293508_86_tl_11" n="N011"/>Cantilene mag aber besorgen, wer Lust hat. Sogar der be¬
-               <lb facs="#facs_2_region_1684673293508_86_tl_12" n="N012"/>rühmte Tenor Nourrit behagt ihm nicht; seine kurze
-               <lb facs="#facs_2_region_1684673293508_86_tl_13" n="N013"/>Charakteristik lautet: „Hohe Halsstimme, ohne eigentlicher
-               <lb facs="#facs_2_region_1684673293508_86_tl_14" n="N014"/>Sixtina während der Charwoche auf ihn macht. Ergiebigeren Klang, nur wirksam, wo er schreit." In den „Hugenotten"
-               <lb facs="#facs_2_region_1684673293508_86_tl_15" n="N015"/>„wirkt der Bassist Sardou allein musikalisch, alle Anderen
-               <lb facs="#facs_2_region_1684673293508_86_tl_16" n="N016"/>sind singende Comödianten“. Den Levasseur (Marcell)
-               <lb facs="#facs_2_region_1684673293508_86_tl_17" n="N017"/>lobt Grillparzer als vorzüglichen Darsteller. „Aber es klingt
-               <lb facs="#facs_2_region_1684673293508_86_tl_18" n="N018"/>bei Allen, als ob man ein Violinstück auf einer Bratsche
-               <lb facs="#facs_2_region_1684673293508_86_tl_19" n="N019"/>spielte — rauh, unangenehm, klanglos. Ich glaube, wenn
-               <lb facs="#facs_2_region_1684673293508_86_tl_20" n="N020"/>Einer falsch sänge, man würde es nicht sehr merken. Es sind
-               <lb facs="#facs_2_region_1684673293508_86_tl_21" n="N021"/>so Communtone. Freundlicher urtheilt er über die Sängerinnen.
-               <lb facs="#facs_2_region_1684673293508_86_tl_22" n="N022"/>Männer muß man aus den Billeteuren und Feuerwächtern insbesondere die Falcon (Valentine), die er, mit Ausnahme
-               <lb facs="#facs_2_region_1684673293508_86_tl_23" n="N023"/>der Pasta, dem Besten an die Seite stellt. „Ihr Gesang the
-               <lb facs="#facs_2_region_1684673293508_86_tl_24" n="N024"/>dem Spiel, ihr Spiel dem Gesang nirgends Eintrag.
-               <lb facs="#facs_2_region_1684673293508_86_tl_25" n="N025"/>Entzückt und erstaunt ist Grillparzer eigentlich nur über
-               <lb facs="#facs_2_region_1684673293508_86_tl_26" n="N026"/>„Jüdin" ist ihm als Composition „ohne Interesse“. „Aber,
-               <lb facs="#facs_2_region_1684673293508_86_tl_27" n="N027"/>ruft er aus, „welche äußere Ausstattung! Die Decorationen
-               <lb facs="#facs_2_region_1684673293508_86_tl_28" n="N028"/>Wirklichkeiten, aber nein: Bilder. Bilder, von deren Wir¬
-               <lb facs="#facs_2_region_1684673293508_86_tl_29" n="N029"/>kung man bei uns keine Vorstellung hat. Hier zum ersten¬
-               <lb facs="#facs_2_region_1684673293508_86_tl_30" n="N030"/>male in meinem Leben habe ich ein theatralisches Arrange
-               <lb facs="#facs_2_region_1684673293508_86_tl_31" n="N031"/>ment gesehen.“ Einen weit günstigeren Eindruck empfängt ei
-               <lb facs="#facs_2_region_1684673293508_86_tl_32" n="N032"/>von Meyerbeer's „Hugenotten". Die Musik beginnt für ihr
-               <lb facs="#facs_2_region_1684673293508_86_tl_33" n="N033"/>eigentlich erst mit dem Duett im dritten Act (Valentine und
-               <lb facs="#facs_2_region_1684673293508_86_tl_34" n="N034"/>Marcell), von da an „werden die Situationen von der Musik
-               <lb facs="#facs_2_region_1684673293508_86_tl_35" n="N035"/>auf's hinreißendste unterstützt. In London entzückt ihn die
-               <lb facs="#facs_2_region_1684673293508_86_tl_36" n="N036"/>Malibran. Grillparzer hört sie in einer Oper von Balfe,
-               <lb facs="#facs_2_region_1684673293508_86_tl_37" n="N037"/>die er mit den zwei Worten „langweilig und bunt charak¬
+               <lb facs="#facs_2_line_1758000061794_189" n="N001"/>Gesang in erster, ihren dramatischen Ausdruck erst in zweiter
+               <lb facs="#facs_2_region_1684673293508_86_tl_1" n="N002"/>Linie schätzt und beurtheilt. Der Musiker in ihm ist unbe¬
+               <lb facs="#facs_2_region_1684673293508_86_tl_2" n="N003"/>stechlich, freilich oft auch unbarmherzig. In der Großen Oper
+               <lb facs="#facs_2_region_1684673293508_86_tl_3" n="N004"/>sind ihm namentlich die Männer „unangenehm“. Sie sind
+               <lb facs="#facs_2_line_1758000152281_220" n="N005"/>ihm, „was man dramatische Sänger nennt, das heißt schlechte.
+               <lb facs="#facs_2_region_1684673293508_86_tl_5" n="N006"/>Sie verstehen sich ziemlich vortrefflich darauf, die Winkel¬
+               <lb facs="#facs_2_region_1684673293508_86_tl_6" n="N007"/>poesie eines erbärmlichen Opernbuches geltend zu machen,
+               <lb facs="#facs_2_region_1684673293508_86_tl_7" n="N008"/>sind aber nicht im Stande, die musikalischen Intentionen
+               <lb facs="#facs_2_region_1684673293508_86_tl_8" n="N009"/>einer guten Composition ins Leben zu bringen. Aus einem
+               <lb facs="#facs_2_region_1684673293508_86_tl_9" n="N010"/>Chor herauszuschreien oder die Lichter auf finstere Violon-
+               <lb facs="#facs_2_region_1684673293508_86_tl_10" n="N011"/>Hintergründe aufzusetzen, dazu sind sie ganz die Leute; die
+               <lb facs="#facs_2_region_1684673293508_86_tl_11" n="N012"/>Cantilene mag aber besorgen, wer Lust hat“. Sogar der be¬
+               <lb facs="#facs_2_region_1684673293508_86_tl_12" n="N013"/>rühmte Tenor <italic><rs type="person">Nourrit</rs></italic> behagt ihm nicht; seine kurze
+               <lb facs="#facs_2_region_1684673293508_86_tl_13" n="N014"/>Charakteristik lautet: „Hohe Halsstimme, ohne eigentlichen
+               <lb facs="#facs_2_line_1758000180962_230" n="N015"/>Klang, nur wirksam, wo er schreit.“ In den „<work>Hugenotten</work>“
+               <lb facs="#facs_2_region_1684673293508_86_tl_15" n="N016"/>„wirkt der Bassist <italic><rs type="person">Sardou</rs></italic> allein musikalisch, alle Anderen
+               <lb facs="#facs_2_region_1684673293508_86_tl_16" n="N017"/>sind singende Comödianten“. Den <italic><rs type="person">Levasseur</rs></italic> (<person_fictional>Marcell</person_fictional>)
+               <lb facs="#facs_2_region_1684673293508_86_tl_17" n="N018"/>lobt <rs type="person">Grillparzer</rs> als vorzüglichen Darsteller. „Aber es klingt
+               <lb facs="#facs_2_region_1684673293508_86_tl_18" n="N019"/>bei Allen, als ob man ein Violinstück auf einer Bratsche
+               <lb facs="#facs_2_region_1684673293508_86_tl_19" n="N020"/>spielte — rauh, unangenehm, klanglos. Ich glaube, wenn
+               <lb facs="#facs_2_region_1684673293508_86_tl_20" n="N021"/>Einer falsch sänge, man würde es nicht sehr merken. Es sind
+               <lb facs="#facs_2_region_1684673293508_86_tl_21" n="N022"/>so Communtöne. Freundlicher urtheilt er über die Sängerinnen,
+               <lb facs="#facs_2_line_1758000206425_240" n="N023"/>insbesondere die <italic><rs type="person">Falcon</rs></italic> (<person_fictional>Valentine</person_fictional>), die er, mit Ausnahme
+               <lb facs="#facs_2_region_1684673293508_86_tl_23" n="N024"/>der <rs type="person">Pasta</rs>, dem Besten an die Seite stellt. „Ihr Gesang thut
+               <lb facs="#facs_2_region_1684673293508_86_tl_24" n="N025"/>dem Spiel, ihr Spiel dem Gesang nirgends Eintrag.“
+               <lb facs="#facs_2_region_1684673293508_86_tl_25" n="N026"/>Entzückt und erstaunt ist <rs type="person">Grillparzer</rs> eigentlich nur über
+               <lb facs="#facs_2_line_1758000085009_200" n="N027"/>das Ausstattungswesen in der Großen Oper, <italic><rs type="person">Halévy</rs>'s</italic>
+               <lb facs="#facs_2_region_1684673293508_86_tl_26" n="N028"/>„<work>Jüdin</work>“ ist ihm als Composition „ohne Interesse“. „Aber,“
+               <lb facs="#facs_2_region_1684673293508_86_tl_27" n="N029"/>ruft er aus, „welche äußere Ausstattung! Die Decorationen
+               <lb facs="#facs_2_region_1684673293508_86_tl_28" n="N030"/>Wirklichkeiten, aber nein: Bilder. Bilder, von deren Wir¬
+               <lb facs="#facs_2_region_1684673293508_86_tl_29" n="N031"/>kung man bei uns keine Vorstellung hat. Hier zum ersten¬
+               <lb facs="#facs_2_region_1684673293508_86_tl_30" n="N032"/>male in meinem Leben habe ich ein theatralisches Arrange¬
+               <lb facs="#facs_2_region_1684673293508_86_tl_31" n="N033"/>ment gesehen.“ Einen weit günstigeren Eindruck empfängt er
+               <lb facs="#facs_2_region_1684673293508_86_tl_32" n="N034"/>von <rs type="person">Meyerbeer</rs>'s „<work>Hugenotten</work>“. Die Musik beginnt für ihn
+               <lb facs="#facs_2_region_1684673293508_86_tl_33" n="N035"/>eigentlich erst mit dem Duett im dritten Act (<person_fictional>Valentine</person_fictional> und
+               <lb facs="#facs_2_region_1684673293508_86_tl_34" n="N036"/><person_fictional>Marcell</person_fictional>), von da an „werden die Situationen von der Musik
+               <lb facs="#facs_2_region_1684673293508_86_tl_35" n="N037"/>auf's hinreißendste unterstützt“. In <rs type="place">London</rs> entzückt ihn die
+               <lb facs="#facs_2_region_1684673293508_86_tl_36" n="N038"/><rs type="person">Malibran</rs>. <rs type="person">Grillparzer</rs> hört sie in einer Oper von <italic><rs type="person">Balfe</rs></italic>,
+               <lb facs="#facs_2_region_1684673293508_86_tl_37" n="N039"/>die er mit den zwei Worten „langweilig und bunt“ charak¬
+               <lb facs="#facs_2_line_1758000128569_209" n="N040"/>terisirt. Aber „die <italic><rs type="person">Malibran</rs></italic> vortrefflicher als jemals,
             </ab>
             <pb facs="#facs_3" n="3" xml:id="img_0003"/>
             <ab facs="#facs_3_region_1684673304117_92" type="">
                <lb facs="#facs_3_region_1684673304117_92_tl_1" n="N001"/>besonders in dem Walzer, der das Ganze höchst unschicklich
-               <lb facs="#facs_3_region_1684673304117_92_tl_2" n="N002"/>hinter sich läßt. Dieser leichte Wechsel von hohen und tiefe
-               <lb facs="#facs_3_region_1684673304117_92_tl_3" n="N003"/>Tönen in dem schnellsten Zeitmaße, diese völlig ausgebildeten
-               <lb facs="#facs_3_region_1684673304117_92_tl_4" n="N004"/>Prelltriller, dieser vollendete Geschmack im Uebergehen zu de
-               <lb facs="#facs_3_region_1684673304117_92_tl_5" n="N005"/>wiederkehrenden Anfangsmelodie, dieses Aufzubeln, diese tief
-               <lb facs="#facs_3_region_1684673304117_92_tl_6" n="N006"/>Empfindung!“ In dem Londoner Tagebuche finden sich noch
-               <lb facs="#facs_3_region_1684673304117_92_tl_7" n="N007"/>Urtheile über die Grist, Tamburini, Rubini, Ole Bull
-               <lb facs="#facs_3_region_1684673304117_92_tl_8" n="N008"/>Moscheles — treffende Bemerkungen, die ein Musik=Kritike
-               <lb facs="#facs_3_region_1684673304117_92_tl_9" n="N009"/>von Fach nicht ohne Brotneid lesen kann, die man aber in
-               <lb facs="#facs_3_region_1684673304117_92_tl_10" n="N010"/>dem Buche selbst nachschlagen möge. Ich muß meinem er
-               <lb facs="#facs_3_region_1684673304117_92_tl_11" n="N011"/>schreckend angewachsenen Aufsatze ein Ziel setzen, umsomehr, als ich
-               <lb facs="#facs_3_region_1684673304117_92_tl_12" n="N012"/>Wiener Opernkritik, die der Leser nirgends nachschlagen
-               <lb facs="#facs_3_region_1684673304117_92_tl_13" n="N013"/>kann, weil sie nirgends gedruckt ist. Es enthalten nämli=
-               <lb facs="#facs_3_region_1684673304117_92_tl_14" n="N014"/>jene mehrfach erwähnten musikalischen Tageblätter Gril
-               <lb facs="#facs_3_region_1684673304117_92_tl_15" n="N015"/>parzer's einen Aufsatz: „Aufführung der O¬
-               <lb facs="#facs_3_region_1684673304117_92_tl_16" n="N016"/>per „Robert
-               <lb facs="#facs_3_region_1684673304117_92_tl_17" n="N017"/>!“ im Theater am Kärntnerthor." Darin wir
-               <lb facs="#facs_3_region_1684673304117_92_tl_18" n="N018"/>der Teufel
-               <lb facs="#facs_3_region_1684673304117_92_tl_19" n="N019"/>diese Hoftheater=Vorstellung mit der früheren Aufführung
-               <lb facs="#facs_3_region_1684673304117_92_tl_20" n="N020"/>derselben Oper im Josephstädter Theater verglichen. Mi
-               <lb facs="#facs_3_region_1684673304117_92_tl_21" n="N021"/>Hinweglassung einiger für uns unwesentlicher Stellen laute
-               <lb facs="#facs_3_region_1684673304117_92_tl_22" n="N022"/>Grillparzers Kritik wie folgt: „Was nun vor Allem den Idee des Ballets schien mir aber dort viel richtiger au
-               <lb facs="#facs_3_region_1684673304117_92_tl_23" n="N023"/>Hebel des Ganzen, die Rolle des Bertram, betrifft, so ha
-               <lb facs="#facs_3_region_1684673304117_92_tl_24" n="N024"/>mich Herr Staudigl doppelt überrascht. Einmal hinsicht
-               <lb facs="#facs_3_region_1684673304117_92_tl_25" n="N025"/>lich des Spieles. Wenn ich mir Pock's classische Ruhe, sein
-               <lb facs="#facs_3_region_1684673304117_92_tl_26" n="N026"/>edle Haltung vor die Augen brachte, wie er, ohne die Lin
-               <lb facs="#facs_3_region_1684673304117_92_tl_27" n="N027"/>des Schönen zu verletzen, doch alle die schauerlichen Wir
-               <lb facs="#facs_3_region_1684673304117_92_tl_28" n="N028"/>kungen seiner Rolle hervorbringt und sich dadurch zum leuch
+               <lb facs="#facs_3_line_1758000347328_277" n="N002"/>schließt, den sie aber mit einer Virtuosität sang, die Alles
+               <lb facs="#facs_3_region_1684673304117_92_tl_2" n="N003"/>hinter sich läßt. Dieser leichte Wechsel von hohen und tiefen
+               <lb facs="#facs_3_region_1684673304117_92_tl_3" n="N004"/>Tönen in dem schnellsten Zeitmaße, diese völlig ausgebildeten
+               <lb facs="#facs_3_region_1684673304117_92_tl_4" n="N005"/>Prelltriller, dieser vollendete Geschmack im Uebergehen zu der
+               <lb facs="#facs_3_region_1684673304117_92_tl_5" n="N006"/>wiederkehrenden Anfangsmelodie, dieses Aufjubeln, diese tiefe
+               <lb facs="#facs_3_region_1684673304117_92_tl_6" n="N007"/>Empfindung!“ In dem <rs type="place">London</rs>er <work>Tagebuch</work>e finden sich noch
+               <lb facs="#facs_3_region_1684673304117_92_tl_7" n="N008"/>Urtheile über die <rs type="person">Grisi</rs>, <rs type="person">Tamburini</rs>, <rs type="person">Rubini</rs>, Ole <rs type="person">Bull</rs>,
+               <lb facs="#facs_3_region_1684673304117_92_tl_8" n="N009"/><rs type="person">Moscheles</rs> — treffende Bemerkungen, die ein Musik-Kritiker
+               <lb facs="#facs_3_region_1684673304117_92_tl_9" n="N010"/>von Fach nicht ohne Brotneid lesen kann, die man aber in
+               <lb facs="#facs_3_region_1684673304117_92_tl_10" n="N011"/>dem Buche selbst nachschlagen möge. Ich muß meinem er¬
+               <lb facs="#facs_3_region_1684673304117_92_tl_11" n="N012"/>schreckend angewachsenen Aufsatze ein Ziel setzen, umsomehr, als ich
+               <lb facs="#facs_3_line_1758000369457_287" n="N013"/>schließlich noch das Interessanteste mitzutheilen habe: eine
+               <lb facs="#facs_3_region_1684673304117_92_tl_12" n="N014"/><italic><rs type="place">Wien</rs>er</italic> Opernkritik, die der Leser nirgends nachschlagen
+               <lb facs="#facs_3_region_1684673304117_92_tl_13" n="N015"/>kann, weil sie nirgends gedruckt ist. Es enthalten nämlich
+               <lb facs="#facs_3_region_1684673304117_92_tl_14" n="N016"/>jene mehrfach erwähnten musikalischen Tageblätter <rs type="person" continued="true">Grill¬</rs>
+               <lb facs="#facs_3_line_1758000301754_257" n="N017"/><rs type="person" continued="true">parzer</rs>'s einen Aufsatz: „<work continued="true">Aufführung der Oper „<italic continued="true">Robert</italic></work>
+               <lb facs="#facs_3_line_1758000305186_261" n="N018"/><work continued="true"><italic continued="true">der Teufel</italic>“ im Theater am Kärntnerthor</work>.“ Darin wird
+               <lb facs="#facs_3_region_1684673304117_92_tl_19" n="N019"/>diese Hoftheater-Vorstellung mit der früheren Aufführung
+               <lb facs="#facs_3_region_1684673304117_92_tl_20" n="N020"/>derselben Oper im Josephstädter Theater verglichen. Mit
+               <lb facs="#facs_3_region_1684673304117_92_tl_21" n="N021"/>Hinweglassung einiger für uns unwesentlicher Stellen lautet
+               <lb facs="#facs_3_line_1758000315233_267" n="N022"/><rs type="person">Grillparzer</rs>'s Kritik wie folgt: „Was nun vor Allem den
+               <lb facs="#facs_3_region_1684673304117_92_tl_23" n="N023"/>Hebel des Ganzen, die Rolle des <person_fictional>Bertram</person_fictional>, betrifft, so hat
+               <lb facs="#facs_3_region_1684673304117_92_tl_24" n="N024"/>mich Herr <italic><rs type="person">Staudigl</rs></italic> doppelt überrascht. Einmal hinsicht¬
+               <lb facs="#facs_3_region_1684673304117_92_tl_25" n="N025"/>lich des Spieles. Wenn ich mir <italic><rs type="person">Pöck</rs>'s</italic> classische Ruhe, seine
+               <lb facs="#facs_3_region_1684673304117_92_tl_26" n="N026"/>edle Haltung vor die Augen brachte, wie er, ohne die Linie
+               <lb facs="#facs_3_region_1684673304117_92_tl_27" n="N027"/>des Schönen zu verletzen, doch alle die schauerlichen Wir¬
+               <lb facs="#facs_3_region_1684673304117_92_tl_28" n="N028"/>kungen seiner Rolle hervorbringt und sich dadurch zum leuch¬
                <lb facs="#facs_3_region_1684673304117_92_tl_29" n="N029"/>tenden Mittelpunkte des Ganzen machte, so mußte ich für
-               <lb facs="#facs_3_region_1684673304117_92_tl_30" n="N030"/>jeden Nachahmer verzweifeln. Herr Staudigl hat aber nicht
-               <lb facs="#facs_3_region_1684673304117_92_tl_31" n="N031"/>nachgeahmt. Die Art, wie er seine Rolle auffaßte, gehör
+               <lb facs="#facs_3_region_1684673304117_92_tl_30" n="N030"/>jeden Nachahmer verzweifeln. Herr <rs type="person">Staudigl</rs> hat aber nicht
+               <lb facs="#facs_3_region_1684673304117_92_tl_31" n="N031"/>nachgeahmt. Die Art, wie er seine Rolle auffaßte, gehört
                <lb facs="#facs_3_region_1684673304117_92_tl_32" n="N032"/>zwar einer niedern Region an; es ist die Art, wie das böse
                <lb facs="#facs_3_region_1684673304117_92_tl_33" n="N033"/>Princip gewöhnlich dargestellt zu werden pflegt. Anfangs war
                <lb facs="#facs_3_region_1684673304117_92_tl_34" n="N034"/>er sichtlich befangen und unscheinbar, später hob er sich aber
                <lb facs="#facs_3_region_1684673304117_92_tl_35" n="N035"/>und gab der Beschwörungs-Arie ein Relief, das sie in
-               <lb facs="#facs_3_region_1684673304117_92_tl_36" n="N036"/>Pöck's Darstellung nicht hatte. Die zweite Ueberraschung
+               <lb facs="#facs_3_region_1684673304117_92_tl_36" n="N036"/><italic><rs type="person">Pöck</rs>'s</italic> Darstellung nicht hatte. Die zweite Ueberraschung
                <lb facs="#facs_3_region_1684673304117_92_tl_37" n="N037"/>oder vielmehr Täuschung war sein Gesang. Wenn Niemand
-               <lb facs="#facs_3_region_1684673304117_92_tl_38" n="N038"/>in Deutschland Staudigl's Sarastro oder Orovist erreichen
-               <lb facs="#facs_3_region_1684673304117_92_tl_39" n="N039"/>wird, so dürfte dafür in halb Europa kein Gegenbild ;
-               <lb facs="#facs_3_region_1684673304117_92_tl_40" n="N040"/>Pock's metallreicher, einschmeichelnder Seelenstimme gefunden
+               <lb facs="#facs_3_region_1684673304117_92_tl_38" n="N038"/>in <rs type="place">Deutschland</rs> <rs type="person">Staudigl</rs>'s <person_fictional>Sarastro</person_fictional> oder <person_fictional>Orovist</person_fictional> erreichen
+               <lb facs="#facs_3_region_1684673304117_92_tl_39" n="N039"/>wird, so dürfte dafür in halb <rs type="place">Europa</rs> kein Gegenbild zu
+               <lb facs="#facs_3_region_1684673304117_92_tl_40" n="N040"/><rs type="person">Pöck</rs>'s metallreicher, einschmeichelnder Seelenstimme gefunden
                <lb facs="#facs_3_region_1684673304117_92_tl_41" n="N041"/>werden. Es gibt edle Naturen in der Kunstwelt wie in der
             </ab>
             <ab facs="#facs_3_region_1684673310750_95" type="">
                <lb facs="#facs_3_region_1684673310750_95_tl_1" n="N001"/>sittlichen. Man kann sie durch Bemühung theilweise über¬
-               <lb facs="#facs_3_region_1684673310750_95_tl_2" n="N002"/>schließt, den sie aber mit einer Virtuosität sang, die Alles bieten, im Ganzen aber nie erreichen. Hier war Staudig
-               <lb facs="#facs_3_region_1684673310750_95_tl_3" n="N003"/>von vornherein im Nachtheile, farb= und klanglos.... Er
-               <lb facs="#facs_3_region_1684673310750_95_tl_4" n="N004"/>schadete sich noch dadurch, daß er, um den Umfang seine
+               <lb facs="#facs_3_line_1758000347328_276" n="N002"/>bieten, im Ganzen aber nie erreichen. Hier war <rs type="person">Staudigl</rs>
+               <lb facs="#facs_3_region_1684673310750_95_tl_3" n="N003"/>von vornherein im Nachtheile, farb- und klanglos. . . . Er
+               <lb facs="#facs_3_region_1684673310750_95_tl_4" n="N004"/>schadete sich noch dadurch, daß er, um den Umfang seiner
                <lb facs="#facs_3_region_1684673310750_95_tl_5" n="N005"/>Stimme geltend zu machen, tiefe Töne hineinzog, an denen
                <lb facs="#facs_3_region_1684673310750_95_tl_6" n="N006"/>die Tiefe bemerklicher war, als der Ton. Das Duett im
-               <lb facs="#facs_3_region_1684673310750_95_tl_7" n="N007"/>dritten Act (Binder und Staudigl) sank beinahe bis zur Un¬
-               <lb facs="#facs_3_region_1684673310750_95_tl_8" n="N008"/>bedeutendheit. Die Sänger wurden zwar hervorgerufen, si¬
-               <lb facs="#facs_3_region_1684673310750_95_tl_9" n="N009"/>fanden aber wol in ihrer eigenen Brust minder günstig
-               <lb facs="#facs_3_region_1684673310750_95_tl_10" n="N010"/>Richter Breiting (Robert) vereinigt manches Gut¬
+               <lb facs="#facs_3_region_1684673310750_95_tl_7" n="N007"/>dritten Act (<rs type="person">Binder</rs> und <rs type="person">Staudigl</rs>) sank beinahe bis zur Un¬
+               <lb facs="#facs_3_region_1684673310750_95_tl_8" n="N008"/>bedeutendheit. Die Sänger wurden zwar hervorgerufen, sie
+               <lb facs="#facs_3_region_1684673310750_95_tl_9" n="N009"/>fanden aber wol in ihrer eigenen Brust minder günstige
+               <lb facs="#facs_3_region_1684673310750_95_tl_10" n="N010"/>Richter. . . . <italic><rs type="person">Breiting</rs></italic> (<person_fictional>Robert</person_fictional>) vereinigt manches Gute
                <lb facs="#facs_3_region_1684673310750_95_tl_11" n="N011"/>mit so viel Abenteuerlichem in Spiel und Gesang, daß man
                <lb facs="#facs_3_region_1684673310750_95_tl_12" n="N012"/>sich in Verlegenheit gesetzt findet. Seine Stimme ist die
-               <lb facs="#facs_3_region_1684673310750_95_tl_13" n="N013"/>schließlich noch das Interessanteste mitzutheilen habe: eine Stimme vier oder fünf verschiedener Menschen, von denen
-               <lb facs="#facs_3_region_1684673310750_95_tl_14" n="N014"/>der Eine übel singt, der Andere gut. Wenn es ihm gelingt
-               <lb facs="#facs_3_region_1684673310750_95_tl_15" n="N015"/>mit zusammengefaßter Kehle diese gewaltigen Töne zu händi¬
-               <lb facs="#facs_3_region_1684673310750_95_tl_16" n="N016"/>gen, so geräth Manches recht vorzüglich ... Der Cho¬
-               <lb facs="#facs_3_region_1684673310750_95_tl_17" n="N017"/>scheint sich in neuester Zeit vorzüglich die Stärke zur
-               <lb facs="#facs_3_region_1684673310750_95_tl_18" n="N018"/>Hauptaugenmerk gemacht zu haben, ohne zu bedenken, das
+               <lb facs="#facs_3_line_1758000369457_286" n="N013"/>Stimme vier oder fünf verschiedener Menschen, von denen
+               <lb facs="#facs_3_region_1684673310750_95_tl_14" n="N014"/>der Eine übel singt, der Andere gut. Wenn es ihm gelingt,
+               <lb facs="#facs_3_region_1684673310750_95_tl_15" n="N015"/>mit zusammengefaßter Kehle diese gewaltigen Töne zu bändi¬
+               <lb facs="#facs_3_region_1684673310750_95_tl_16" n="N016"/>gen, so geräth Manches recht vorzüglich . . . Der <italic>Chor</italic>
+               <lb facs="#facs_3_region_1684673310750_95_tl_17" n="N017"/>scheint sich in neuester Zeit vorzüglich die <italic>Stärke</italic> zum
+               <lb facs="#facs_3_region_1684673310750_95_tl_18" n="N018"/>Hauptaugenmerk gemacht zu haben, ohne zu bedenken, daß
                <lb facs="#facs_3_region_1684673310750_95_tl_19" n="N019"/>nicht alle Zuhörer mit den Ohren der Menge hören. Was
                <lb facs="#facs_3_region_1684673310750_95_tl_20" n="N020"/>das Nonnenballet betrifft, so sehen wir im Josephstädter
                <lb facs="#facs_3_region_1684673310750_95_tl_21" n="N021"/>Theater Tänzer, die Alles können, nur nicht tanzen. Die
-               <lb facs="#facs_3_region_1684673310750_95_tl_22" n="N022"/>gefaßt. Alle Bewegungen haben dort eine Beziehung auf der
-               <lb facs="#facs_3_region_1684673310750_95_tl_23" n="N023"/>Zweck, Robert zur Ergreifung des Zweiges anzulocken. Im
-               <lb facs="#facs_3_region_1684673310750_95_tl_24" n="N024"/>Kärntnerthor=Theater aber erscheinen die Tänzerinnen, führer
-               <lb facs="#facs_3_region_1684673310750_95_tl_25" n="N025"/>Nummer für Nummer vier oder fünf Erste auf, wobei sie
-               <lb facs="#facs_3_region_1684673310750_95_tl_26" n="N026"/>die Beine von sich strecken und sich um den Gang der Hand
-               <lb facs="#facs_3_region_1684673310750_95_tl_27" n="N027"/>lung nicht im mindesten bekümmern. Und all das so reizlos
-               <lb facs="#facs_3_region_1684673310750_95_tl_28" n="N028"/>so unverführerisch, daß man glaubt, Robert ergreife nur der
-               <lb facs="#facs_3_region_1684673310750_95_tl_29" n="N029"/>Zweig, um ihrer los zu werden.
-               <lb facs="#facs_3_region_1684673310750_95_tl_30" n="N030"/>Meine Aufgabe war, zu zeigen, was für ein herrlicher
-               <lb facs="#facs_3_region_1684673310750_95_tl_31" n="N031"/>Musiker in Grillparzer steckte. Daß die Lösung dieser Auf=
-               <lb facs="#facs_3_region_1684673310750_95_tl_32" n="N032"/>gabe eine leichte und lohnende gewesen, indem sie meistens
-               <lb facs="#facs_3_region_1684673310750_95_tl_33" n="N033"/>mit Grillparzer's eigenen Worten geschehen mußte, wird mi
-               <lb facs="#facs_3_region_1684673310750_95_tl_34" n="N034"/>Mancher vielleicht vorwerfen. Je kleiner mein Verdienst
-               <lb facs="#facs_3_region_1684673310750_95_tl_35" n="N035"/>desto größer war meine Freude bei dieser Arbeit, unter welch
-               <lb facs="#facs_3_region_1684673310750_95_tl_36" n="N036"/>ich Grillparzer's goldenen Spruch setzen darf:
-               <lb facs="#facs_3_region_1684673310750_95_tl_37" n="N037"/>Glücklich der Mensch
-               <lb facs="#facs_3_region_1684673310750_95_tl_38" n="N038"/>de Größe für
-               <lb facs="#facs_3_region_1684673310750_95_tl_39" n="N039"/>und sie durch Lieb¬
-               <lb facs="#facs_3_region_1684673310750_95_tl_40" n="N040"/>zu seiner eigene
-               <lb facs="#facs_3_region_1684673310750_95_tl_41" n="N041"/>Denn groß zu sein ist Wenigen vergönnt.
+               <lb facs="#facs_3_line_1758000315233_266" n="N022"/><italic>Idee</italic> des Ballets schien mir aber dort viel richtiger auf¬
+               <lb facs="#facs_3_region_1684673310750_95_tl_22" n="N023"/>gefaßt. Alle Bewegungen haben dort eine Beziehung auf den
+               <lb facs="#facs_3_region_1684673310750_95_tl_23" n="N024"/>Zweck, <person_fictional>Robert</person_fictional> zur Ergreifung des Zweiges anzulocken. Im
+               <lb facs="#facs_3_region_1684673310750_95_tl_24" n="N025"/>Kärntnerthor-Theater aber erscheinen die Tänzerinnen, führen
+               <lb facs="#facs_3_region_1684673310750_95_tl_25" n="N026"/>Nummer für Nummer vier oder fünf Erste auf, wobei sie
+               <lb facs="#facs_3_region_1684673310750_95_tl_26" n="N027"/>die Beine von sich strecken und sich um den Gang der Hand¬
+               <lb facs="#facs_3_region_1684673310750_95_tl_27" n="N028"/>lung nicht im mindesten bekümmern. Und all das so reizlos,
+               <lb facs="#facs_3_region_1684673310750_95_tl_28" n="N029"/>so unverführerisch, daß man glaubt, <person_fictional>Robert</person_fictional> ergreife nur den
+               <lb facs="#facs_3_region_1684673310750_95_tl_29" n="N030"/>Zweig, um ihrer los zu werden.“
+               <lb facs="#facs_3_region_1684673310750_95_tl_30" n="N031"/>Meine Aufgabe war, zu zeigen, was für ein herrlicher
+               <lb facs="#facs_3_region_1684673310750_95_tl_31" n="N032"/>Musiker in <rs type="person">Grillparzer</rs> steckte. Daß die Lösung dieser Auf¬
+               <lb facs="#facs_3_region_1684673310750_95_tl_32" n="N033"/>gabe eine leichte und lohnende gewesen, indem sie meistens
+               <lb facs="#facs_3_region_1684673310750_95_tl_33" n="N034"/>mit <rs type="person">Grillparzer</rs>'s eigenen Worten geschehen mußte, wird mir
+               <lb facs="#facs_3_region_1684673310750_95_tl_34" n="N035"/>Mancher vielleicht vorwerfen. Je kleiner mein Verdienst,
+               <lb facs="#facs_3_region_1684673310750_95_tl_35" n="N036"/>desto größer war meine Freude bei dieser Arbeit, unter welche
+               <lb facs="#facs_3_region_1684673310750_95_tl_36" n="N037"/>ich <rs type="person">Grillparzer</rs>'s goldenen Spruch setzen darf:
+               <lb facs="#facs_3_line_1758000416921_315" n="N038"/>Glücklich der Mensch, der fremde Größe fühlt
+               <lb facs="#facs_3_line_1758000419384_318" n="N039"/>Und sie durch Liebe macht zu seiner eigenen.
+               <lb facs="#facs_3_line_1758000421512_321" n="N040"/>Denn groß zu sein ist Wenigen vergönnt.
             </ab>
          </div>
       </body>
