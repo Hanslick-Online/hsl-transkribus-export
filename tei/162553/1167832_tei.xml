@@ -20,7 +20,7 @@
    <facsimile>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_1">
          <graphic url="47750767.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=VARAHACSTPLSLTFVUYLXCGWM&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?fileType=view&amp;id=VARAHACSTPLSLTFVUYLXCGWM" width="2479px" height="3508px"/>
          <zone points="462,44 1703,44 1703,414 462,414" rendition="TextRegion" xml:id="facs_1_region_1684670888649_1116">
             <zone points="417,48 1712,48 1712,404 417,404" rendition="Line" xml:id="facs_1_line_1758955572234_883"/>
          </zone>
@@ -150,7 +150,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_2">
          <graphic url="47750768.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=OMZUHSDMECYOJVXYFEOCMOYO&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?fileType=view&amp;id=OMZUHSDMECYOJVXYFEOCMOYO" width="2479px" height="3508px"/>
          <zone points="62,2323 782,2323 782,3443 62,3443" rendition="TextRegion" xml:id="facs_2_region_1684670914787_1138">
             <zone points="62,2335 766,2335 766,2375 62,2375" rendition="Line" xml:id="facs_2_region_1684670914787_1138_tl_1"/>
             <zone points="57,2359 768,2359 768,2400 57,2400" rendition="Line" xml:id="facs_2_region_1684670914787_1138_tl_2"/>
@@ -274,7 +274,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_3">
          <graphic url="47750769.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=LLMSYBDNRXLKJILOKREPTMUH&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?fileType=view&amp;id=LLMSYBDNRXLKJILOKREPTMUH" width="2479px" height="3508px"/>
          <zone points="57,2311 777,2311 777,3443 57,3443" rendition="TextRegion" xml:id="facs_3_region_1684670930009_1150">
             <zone points="60,2318 744,2318 744,2364 60,2364" rendition="Line" xml:id="facs_3_region_1684670930009_1150_tl_1"/>
             <zone points="61,2346 744,2346 744,2390 61,2390" rendition="Line" xml:id="facs_3_region_1684670930009_1150_tl_2"/>
@@ -373,14 +373,14 @@
                <lb facs="#facs_1_line_1758955588834_895" n="N001"/>Nr. 4843. Wien, Dienstag, den 19. Februar 1878
             </ab>
             <ab facs="#facs_1_region_1684670900904_1126" type="">
-               <lb facs="#facs_1_region_1684670900904_1126_tl_2" n="N001"/>Aus Verdi's Jugendzeit.
-               <lb facs="#facs_1_line_1758955683402_937" n="N002"/>Ed. H. Verdi's Kindheit, seine Bildungsgeschichte und
+               <lb facs="#facs_1_region_1684670900904_1126_tl_2" n="N001"/>Aus <rs type="person">Verdi</rs>'s Jugendzeit.
+               <lb facs="#facs_1_line_1758955683402_937" n="N002"/>Ed. H. <rs type="person">Verdi</rs>'s Kindheit, seine Bildungsgeschichte und
                <lb facs="#facs_1_line_1758955610493_904" n="N003"/>erste künstlerische Thätigkeit ruhten bisher unter einem nur
                <lb facs="#facs_1_region_1684670900904_1126_tl_4" n="N004"/>selten und stellenweise gelüfteten Schleier. Namentlich in
-               <lb facs="#facs_1_line_1758955636562_915" n="N005"/>Deutschland und Frankreich nahm man von dem italienischen
-               <lb facs="#facs_1_region_1684670900904_1126_tl_6" n="N006"/>Maëstro erst Notiz, als er mit „Ernani“, „Rigoletto“ und
-               <lb facs="#facs_1_region_1684670900904_1126_tl_7" n="N007"/>„Il Trovatore“ einen nicht mehr anzuzweifelnden glänzenden
-               <lb facs="#facs_1_region_1684670900904_1126_tl_8" n="N008"/>Namen sich gemacht und weit über Italien hinaus verbreitet
+               <lb facs="#facs_1_line_1758955636562_915" n="N005"/><rs type="place">Deutschland</rs> und <rs type="place">Frankreich</rs> nahm man von dem <rs type="place">italienisch</rs>en
+               <lb facs="#facs_1_region_1684670900904_1126_tl_6" n="N006"/>Maëstro erst Notiz, als er mit „<work>Ernani</work>“, „<work>Rigoletto</work>“ und
+               <lb facs="#facs_1_region_1684670900904_1126_tl_7" n="N007"/>„<work>Il Trovatore</work>“ einen nicht mehr anzuzweifelnden glänzenden
+               <lb facs="#facs_1_region_1684670900904_1126_tl_8" n="N008"/>Namen sich gemacht und weit über <rs type="place">Italien</rs> hinaus verbreitet
                <lb facs="#facs_1_region_1684670900904_1126_tl_9" n="N009"/>hatte. Die Abgeschiedenheit seiner vom großen Weltverkehr
                <lb facs="#facs_1_region_1684670900904_1126_tl_10" n="N010"/>unberührten Heimat und die ernste Schweigsamkeit des
                <lb facs="#facs_1_region_1684670900904_1126_tl_11" n="N011"/>Mannes selbst hielten gemeinsam Wache vor den kleinen
@@ -390,63 +390,63 @@
                <lb facs="#facs_1_region_1684670900904_1126_tl_15" n="N015"/>Zwei Freunde und Landsleute <italic><rs type="person">Verdi</rs>'s</italic>, <italic><rs type="person">Ghislanzoni</rs></italic>
                <lb facs="#facs_1_region_1684670900904_1126_tl_16" n="N016"/>und Ercole <italic><rs type="person">Cavalli</rs></italic>, veröffentlichten einige bisher ganz
                <lb facs="#facs_1_region_1684670900904_1126_tl_17" n="N017"/>unbekannte Daten aus seiner Jugend, und Herr Arthur
-               <lb facs="#facs_1_region_1684670900904_1126_tl_18" n="N018"/><italic><rs type="person">Pougin</rs></italic>, der rühmlich bekannte französische Musik-Historiker
-               <lb facs="#facs_1_region_1684670900904_1126_tl_19" n="N019"/>und Fortsetzer von <italic><rs type="person">Fétis</rs>'</italic> „Biographischem Lexikon“, bringt
+               <lb facs="#facs_1_region_1684670900904_1126_tl_18" n="N018"/><italic><rs type="person">Pougin</rs></italic>, der rühmlich bekannte <rs type="place">französisch</rs>e Musik-Historiker
+               <lb facs="#facs_1_region_1684670900904_1126_tl_19" n="N019"/>und Fortsetzer von <italic><rs type="person">Fétis</rs>'</italic> „<work>Biographischem Lexikon</work>“, bringt
                <lb facs="#facs_1_region_1684670900904_1126_tl_20" n="N020"/>soeben in einer längeren Reihe von Aufsätzen neue Beiträge
-               <lb facs="#facs_1_region_1684670900904_1126_tl_21" n="N021"/>zur Biographie Verdi's. In der Meinung, daß wenigstens
+               <lb facs="#facs_1_region_1684670900904_1126_tl_21" n="N021"/>zur Biographie <rs type="person">Verdi</rs>'s. In der Meinung, daß wenigstens
                <lb facs="#facs_1_region_1684670900904_1126_tl_22" n="N022"/>das Interessanteste daraus auch die Theilnahme unserer
                <lb facs="#facs_1_region_1684670900904_1126_tl_23" n="N023"/>Leser erwecken dürfte, geben wir nachstehend einige Auszüge
                <lb facs="#facs_1_region_1684670900904_1126_tl_24" n="N024"/>aus den genannten Quellen.
-               <lb facs="#facs_1_region_1684670900904_1126_tl_25" n="N025"/>Giuseppe <italic><rs type="person">Verdi</rs></italic> ist weder am 9. October 1814, noch
-               <lb facs="#facs_1_region_1684670900904_1126_tl_26" n="N026"/>in Busseto geboren, wie alle Handbücher irrthümlich angeben,
-               <lb facs="#facs_1_region_1684670900904_1126_tl_27" n="N027"/>sondern 1813 (also im selben Jahre mit Richard <italic><rs type="person">Wagner</rs></italic>),
-               <lb facs="#facs_1_region_1684670900904_1126_tl_28" n="N028"/>und zwar in dem drei Meilen von Busseto liegenden Dorfe
-               <lb facs="#facs_1_region_1684670900904_1126_tl_29" n="N029"/>Roncole, im ehemaligen Herzogthum Parma. Seine Eltern
+               <lb facs="#facs_1_region_1684670900904_1126_tl_25" n="N025"/>Giuseppe <italic><rs type="person">Verdi</rs></italic> ist weder am 9. October <date month="0" day="0" year="0">1814</date>, noch
+               <lb facs="#facs_1_region_1684670900904_1126_tl_26" n="N026"/>in <rs type="place">Busseto</rs> geboren, wie alle Handbücher irrthümlich angeben,
+               <lb facs="#facs_1_region_1684670900904_1126_tl_27" n="N027"/>sondern <date month="0" day="0" year="0">1813</date> (also im selben Jahre mit Richard <italic><rs type="person">Wagner</rs></italic>),
+               <lb facs="#facs_1_region_1684670900904_1126_tl_28" n="N028"/>und zwar in dem drei Meilen von <rs type="place">Busseto</rs> liegenden Dorfe
+               <lb facs="#facs_1_region_1684670900904_1126_tl_29" n="N029"/><rs type="place">Roncole</rs>, im ehemaligen Herzogthum <rs type="place">Parma</rs>. Seine <rs type="person">Eltern</rs>
                <lb facs="#facs_1_region_1684670900904_1126_tl_30" n="N030"/>hielten in diesem elenden Dorfe ein bescheidenes Wirthshaus,
                <lb facs="#facs_1_region_1684670900904_1126_tl_31" n="N031"/>dessen Erträgniß die Bedürfnisse der kleinen Familie nicht
                <lb facs="#facs_1_region_1684670900904_1126_tl_32" n="N032"/>zu decken vermochte. Sie errichteten deßhalb neben dieser
                <lb facs="#facs_1_region_1684670900904_1126_tl_33" n="N033"/>„Osteria“ noch einen kleinen Laden, worin sie Zucker, Kaffee,
                <lb facs="#facs_1_region_1684670900904_1126_tl_34" n="N034"/>Tabak, Liqueur u. dgl. im Detail verkauften. Jede Woche ging
-               <lb facs="#facs_1_line_1758955711363_947" n="N035"/>Carlo Verdi, der Vater, nach Busseto, um die nothwendigen
+               <lb facs="#facs_1_line_1758955711363_947" n="N035"/>Carlo <rs type="person">Verdi</rs>, der Vater, nach <rs type="place">Busseto</rs>, um die nothwendigen
             </ab>
             <ab facs="#facs_1_region_1684670903582_1129" type="">
                <lb facs="#facs_1_region_1684670903582_1129_tl_1" n="N001"/>Vorräthe einzukaufen, mit denen er zu Fuß, die beiden Körbe
                <lb facs="#facs_1_line_1758955664985_928" n="N002"/>auf den Schultern tragend, wieder heimkehrte. Von seiner
-               <lb facs="#facs_1_region_1684670903582_1129_tl_3" n="N003"/>Mutter liebevoll erzogen, war Giuseppe ein braves, schüchternes
+               <lb facs="#facs_1_region_1684670903582_1129_tl_3" n="N003"/><rs type="person">Mutter</rs> liebevoll erzogen, war <rs type="person">Giuseppe</rs> ein braves, schüchternes
                <lb facs="#facs_1_region_1684670903582_1129_tl_4" n="N004"/>und folgsames Kind, das niemals gestraft zu werden brauchte.
                <lb facs="#facs_1_line_1758955683402_936" n="N005"/>Nur wenn der Kleine den Ton einer Drehorgel hörte, war
                <lb facs="#facs_1_line_1758955610492_903" n="N006"/>er nicht zu Hause zu halten; außer sich vor Freude lief er
                <lb facs="#facs_1_region_1684670903582_1129_tl_6" n="N007"/>dem zauberischen Melodienkasten nach, so weit er konnte. Die
-               <lb facs="#facs_1_line_1758955636562_914" n="N008"/>einzige Kirche in Roncole besaß eine Orgel und einen hoch¬
-               <lb facs="#facs_1_region_1684670903582_1129_tl_7" n="N009"/>bejahrten Organisten. Die Eltern Verdi's, welche die frühe
+               <lb facs="#facs_1_line_1758955636562_914" n="N008"/>einzige Kirche in <rs type="place">Roncole</rs> besaß eine Orgel und einen hoch¬
+               <lb facs="#facs_1_region_1684670903582_1129_tl_7" n="N009"/>bejahrten Organisten. Die <rs type="person">Eltern</rs> <rs type="person">Verdi</rs>'s, welche die frühe
                <lb facs="#facs_1_region_1684670903582_1129_tl_8" n="N010"/>Musikleidenschaft ihres Knaben gewahrten, dachten daran,
                <lb facs="#facs_1_region_1684670903582_1129_tl_9" n="N011"/>daß er vielleicht eines Tages den Platz des alten Organisten
                <lb facs="#facs_1_region_1684670903582_1129_tl_10" n="N012"/>einnehmen könnte, und gaben ihn zu diesem in die Lehre.
                <lb facs="#facs_1_region_1684670903582_1129_tl_11" n="N013"/>Gleichzeitig wurde für den Kleinen ein altes wurmstichiges
                <lb facs="#facs_1_region_1684670903582_1129_tl_12" n="N014"/>Spinett gekauft, das sich im Besitz eines alten Geistlichen in
-               <lb facs="#facs_1_region_1684670903582_1129_tl_13" n="N015"/>Busseto vorfand. Nach drei Jahren Musikunterricht war
-               <lb facs="#facs_1_region_1684670903582_1129_tl_14" n="N016"/>Giuseppe schon so weit vorgeschritten, daß er den Organisten¬
-               <lb facs="#facs_1_region_1684670903582_1129_tl_15" n="N017"/>dienst in Roncole versehen konnte. Der Vater wünschte jedoch,
+               <lb facs="#facs_1_region_1684670903582_1129_tl_13" n="N015"/><rs type="place">Busseto</rs> vorfand. Nach drei Jahren Musikunterricht war
+               <lb facs="#facs_1_region_1684670903582_1129_tl_14" n="N016"/><rs type="person">Giuseppe</rs> schon so weit vorgeschritten, daß er den Organisten¬
+               <lb facs="#facs_1_region_1684670903582_1129_tl_15" n="N017"/>dienst in <rs type="place">Roncole</rs> versehen konnte. Der <rs type="person">Vater</rs> wünschte jedoch,
                <lb facs="#facs_1_region_1684670903582_1129_tl_16" n="N018"/>ihm eine bessere Erziehung, als es in dem kleinen Dorfe
-               <lb facs="#facs_1_region_1684670903582_1129_tl_17" n="N019"/>möglich war, zu geben, und schickte ihn nach Busseto, damit
+               <lb facs="#facs_1_region_1684670903582_1129_tl_17" n="N019"/>möglich war, zu geben, und schickte ihn nach <rs type="place">Busseto</rs>, damit
                <lb facs="#facs_1_region_1684670903582_1129_tl_18" n="N020"/>er eine Schule besuche. Zum Glück wohnte dort ein Freund
-               <lb facs="#facs_1_region_1684670903582_1129_tl_19" n="N021"/>des alten Verdi, ein braver Seifensieder, mit dem Spitznamen
+               <lb facs="#facs_1_region_1684670903582_1129_tl_19" n="N021"/>des alten <rs type="person">Verdi</rs>, ein braver <rs type="person">Seifensieder</rs>, mit dem Spitznamen
                <lb facs="#facs_1_region_1684670903582_1129_tl_20" n="N022"/>Pugnatta, welcher, gegen eine Entschädigung von dreißig
                <lb facs="#facs_1_region_1684670903582_1129_tl_21" n="N023"/>Centimes für den Tag, den Kleinen in Kost und
                <lb facs="#facs_1_region_1684670903582_1129_tl_22" n="N024"/>Quartier aufnahm. Mit allem Eifer besuchte dieser
                <lb facs="#facs_1_region_1684670903582_1129_tl_23" n="N025"/>die Schule, steckte immer in seinen Schulaufgaben und
                <lb facs="#facs_1_region_1684670903582_1129_tl_24" n="N026"/>nahm nur selten theil an den Spielen seiner Kameraden.
                <lb facs="#facs_1_region_1684670903582_1129_tl_25" n="N027"/>Trotzdem hatte er seine Functionen als Organist nicht eingestellt;
-               <lb facs="#facs_1_region_1684670903582_1129_tl_26" n="N028"/>alle Sonn- und Feiertage wanderte er zu Fuß nach Roncole,
+               <lb facs="#facs_1_region_1684670903582_1129_tl_26" n="N028"/>alle Sonn- und Feiertage wanderte er zu Fuß nach <rs type="place">Roncole</rs>,
                <lb facs="#facs_1_region_1684670903582_1129_tl_27" n="N029"/>um seinem Kirchendienst nachzukommen. Sein Einkommen
                <lb facs="#facs_1_region_1684670903582_1129_tl_28" n="N030"/>war klein, es erreichte — die Hochzeiten, Taufen und Be¬
                <lb facs="#facs_1_region_1684670903582_1129_tl_29" n="N031"/>gräbnisse inbegriffen — höchstens hundert Francs im Jahre.
                <lb facs="#facs_1_region_1684670903582_1129_tl_30" n="N032"/>Dazu kam jedoch, einem alten Gebrauch zufolge, der Ertrag
                <lb facs="#facs_1_region_1684670903582_1129_tl_31" n="N033"/>einer Natural-Einsammlung, die er alljährig zur Zeit der
                <lb facs="#facs_1_region_1684670903582_1129_tl_32" n="N034"/>Getreide- und Maisernte für sich machte. Bei einem dieser
-               <lb facs="#facs_1_region_1684670903582_1129_tl_33" n="N035"/>Kirchengänge von Busseto nach Roncole wäre der junge Orga¬
+               <lb facs="#facs_1_region_1684670903582_1129_tl_33" n="N035"/>Kirchengänge von <rs type="place">Busseto</rs> nach <rs type="place">Roncole</rs> wäre der junge Orga¬
                <lb facs="#facs_1_region_1684670903582_1129_tl_34" n="N036"/>nist bald auf eine seltsame Art ums Leben gekommen. Es
-               <lb facs="#facs_1_region_1684670903582_1129_tl_35" n="N037"/>war zu Weihnachten, Verdi sollte die Frühmesse spielen; in
+               <lb facs="#facs_1_region_1684670903582_1129_tl_35" n="N037"/>war zu Weihnachten, <rs type="person">Verdi</rs> sollte die Frühmesse spielen; in
                <lb facs="#facs_1_line_1758955736809_957" n="N038"/>der Finsterniß bemerkte er nicht einen mit Wasser gefüllten
             </ab>
             <ab facs="#facs_1_region_1684670906287_1132" type="">
@@ -455,129 +455,129 @@
                <lb facs="#facs_1_region_1684670906287_1132_tl_2" n="N003"/>weise kam eine Bäuerin des Weges, hörte sein Gewimmer
                <lb facs="#facs_1_region_1684670906287_1132_tl_3" n="N004"/>und lief herbei, um ihn ans Land zu ziehen. Ohne diese
                <lb facs="#facs_1_region_1684670906287_1132_tl_4" n="N005"/>hilfreiche Fee wäre der Knabe rettungslos zu Grunde ge¬
-               <lb facs="#facs_1_region_1684670906287_1132_tl_5" n="N006"/>gangen. Es war nicht zum erstenmal, daß Verdi dem Tode
-               <lb facs="#facs_1_region_1684670906287_1132_tl_6" n="N007"/>entrann. Im Jahre 1814, beim Einmarsch der Russen und
-               <lb facs="#facs_1_region_1684670906287_1132_tl_7" n="N008"/>Oesterreicher in Italien, kamen russische Soldaten auch in die
-               <lb facs="#facs_1_region_1684670906287_1132_tl_8" n="N009"/>Gegend von Roncole. Sie wütheten in grausamster Weise,
+               <lb facs="#facs_1_region_1684670906287_1132_tl_5" n="N006"/>gangen. Es war nicht zum erstenmal, daß <rs type="person">Verdi</rs> dem Tode
+               <lb facs="#facs_1_region_1684670906287_1132_tl_6" n="N007"/>entrann. Im Jahre <date month="0" day="0" year="0">1814</date>, beim Einmarsch der Russen und
+               <lb facs="#facs_1_region_1684670906287_1132_tl_7" n="N008"/>Oesterreicher in <rs type="place">Italien</rs>, kamen <rs type="place">russisch</rs>e Soldaten auch in die
+               <lb facs="#facs_1_region_1684670906287_1132_tl_8" n="N009"/>Gegend von <rs type="place">Roncole</rs>. Sie wütheten in grausamster Weise,
                <lb facs="#facs_1_region_1684670906287_1132_tl_9" n="N010"/>massacrirten die Einwohner und zündeten deren Häuser an.
-               <lb facs="#facs_1_region_1684670906287_1132_tl_10" n="N011"/>Die geängstigten Frauen von Roncole flüchteten in die Kirche,
+               <lb facs="#facs_1_region_1684670906287_1132_tl_10" n="N011"/>Die geängstigten Frauen von <rs type="place">Roncole</rs> flüchteten in die Kirche,
                <lb facs="#facs_1_region_1684670906287_1132_tl_11" n="N012"/>aber auch dahin drangen die Barbaren und befleckten den ge¬
                <lb facs="#facs_1_region_1684670906287_1132_tl_12" n="N013"/>weihten Ort mit dem Blute ihrer unschuldigen Opfer. Die
-               <lb facs="#facs_1_region_1684670906287_1132_tl_13" n="N014"/>Mutter Verdi's hatte die Geistesgegenwart, mit dem Säug¬
+               <lb facs="#facs_1_region_1684670906287_1132_tl_13" n="N014"/><rs type="person">Mutter</rs> <rs type="person">Verdi</rs>'s hatte die Geistesgegenwart, mit dem Säug¬
                <lb facs="#facs_1_region_1684670906287_1132_tl_14" n="N015"/>ling an der Brust, schnell eine schmale Treppe zu erklettern,
                <lb facs="#facs_1_region_1684670906287_1132_tl_15" n="N016"/>auf der sie unbemerkt bis auf den Glockenthurm gelangte.
                <lb facs="#facs_1_region_1684670906287_1132_tl_16" n="N017"/>Hier blieb sie versteckt, bis die Soldaten abgezogen waren,
                <lb facs="#facs_1_region_1684670906287_1132_tl_17" n="N018"/>und rettete so ihr und ihres Kindes Leben.
                <lb facs="#facs_1_region_1684670906287_1132_tl_18" n="N019"/>Nach einem wohl benützten zweijährigen Aufenthalte in
-               <lb facs="#facs_1_region_1684670906287_1132_tl_19" n="N020"/>Busseto konnte der kleine Verdi lesen, schreiben und rechnen,
+               <lb facs="#facs_1_region_1684670906287_1132_tl_19" n="N020"/><rs type="place">Busseto</rs> konnte der kleine <rs type="person">Verdi</rs> lesen, schreiben und rechnen,
                <lb facs="#facs_1_region_1684670906287_1132_tl_20" n="N021"/>ohne seine musikalischen Studien auch nur einen Augenblick
                <lb facs="#facs_1_region_1684670906287_1132_tl_21" n="N022"/>vernachlässigt zu haben. Er erhielt nun eine kleine Anstellung
-               <lb facs="#facs_1_region_1684670906287_1132_tl_22" n="N023"/>bei dem Liqueurfabrikanten Antonio <italic><rs type="person">Barezzi</rs></italic> in Busseto,
+               <lb facs="#facs_1_region_1684670906287_1132_tl_22" n="N023"/>bei dem Liqueurfabrikanten Antonio <italic><rs type="person">Barezzi</rs></italic> in <rs type="place">Busseto</rs>,
                <lb facs="#facs_1_region_1684670906287_1132_tl_23" n="N024"/>einem ausgezeichneten Manne und langjährigen Freunde
-               <lb facs="#facs_1_region_1684670906287_1132_tl_24" n="N025"/>seines Vaters. Verdi's Eintritt in dieses Haus war ein
+               <lb facs="#facs_1_region_1684670906287_1132_tl_24" n="N025"/>seines <rs type="person">Vater</rs>s. <rs type="person">Verdi</rs>'s Eintritt in dieses Haus war ein
                <lb facs="#facs_1_region_1684670906287_1132_tl_25" n="N026"/>Glück für ihn und entschied über seine Zukunft. Es wurde
                <lb facs="#facs_1_region_1684670906287_1132_tl_26" n="N027"/>ihm einer der vier Stiftungsplätze verliehen, über welche die
-               <lb facs="#facs_1_region_1684670906287_1132_tl_27" n="N028"/>Commune Busseto zu Gunsten armer Jünglinge verfügte,
+               <lb facs="#facs_1_region_1684670906287_1132_tl_27" n="N028"/>Commune <rs type="place">Busseto</rs> zu Gunsten armer Jünglinge verfügte,
                <lb facs="#facs_1_region_1684670906287_1132_tl_28" n="N029"/>die sich den Universitäts-Studien, der Musik oder der Malerei
-               <lb facs="#facs_1_region_1684670906287_1132_tl_29" n="N030"/>widmen wollten. Im Jahre 1876 hat Verdi, als berühmt
+               <lb facs="#facs_1_region_1684670906287_1132_tl_29" n="N030"/>widmen wollten. Im Jahre <date month="0" day="0" year="0">1876</date> hat <rs type="person">Verdi</rs>, als berühmt
                <lb facs="#facs_1_region_1684670906287_1132_tl_30" n="N031"/>und reich gewordener Meister, sich seiner Vaterstadt dadurch
                <lb facs="#facs_1_region_1684670906287_1132_tl_31" n="N032"/>erkenntlich gezeigt, daß er einen fünften Stiftungsplatz mit
-               <lb facs="#facs_1_region_1684670906287_1132_tl_32" n="N033"/>jährlich tausend Francs dort gründete. Barezzi war ein
+               <lb facs="#facs_1_region_1684670906287_1132_tl_32" n="N033"/>jährlich tausend Francs dort gründete. <rs type="person">Barezzi</rs> war ein
                <lb facs="#facs_1_region_1684670906287_1132_tl_33" n="N034"/>passionirter und tüchtiger Musik-Dilettant; in seinem Hause
                <lb facs="#facs_1_region_1684670906287_1132_tl_34" n="N035"/>und unter seinem Vorsitz versammelte sich regelmäßig die
                <lb facs="#facs_1_region_1684670906287_1132_tl_35" n="N036"/>„Philharmonische Gesellschaft“ des Städtchens. Gerührt von
-               <lb facs="#facs_1_region_1684670906287_1132_tl_36" n="N037"/>dem musikalischen Eifer des jungen Verdi, gestattete er diesem
-               <lb facs="#facs_1_line_1758955736809_956" n="N038"/>die Benützung seines Pianofortes, eines vorzüglichen Wiener
+               <lb facs="#facs_1_region_1684670906287_1132_tl_36" n="N037"/>dem musikalischen Eifer des jungen <rs type="person">Verdi</rs>, gestattete er diesem
+               <lb facs="#facs_1_line_1758955736809_956" n="N038"/>die Benützung seines Pianofortes, eines vorzüglichen <rs type="place">Wien</rs>er
             </ab>
             <pb facs="#facs_2" n="2" xml:id="img_0002"/>
             <ab facs="#facs_2_region_1684670914787_1138" type="">
                <lb facs="#facs_2_region_1684670914787_1138_tl_1" n="N001"/>Instrumentes von <italic><rs type="person">Fritz</rs></italic>, auf welchem auch die älteste
-               <lb facs="#facs_2_region_1684670914787_1138_tl_2" n="N002"/>Tochter fleißig übte. Hier an diesem Flügel lernte Verdi die junge
+               <lb facs="#facs_2_region_1684670914787_1138_tl_2" n="N002"/>Tochter fleißig übte. Hier an diesem Flügel lernte <rs type="person">Verdi</rs> die junge
                <lb facs="#facs_2_region_1684670914787_1138_tl_3" n="N003"/>Margarethe <italic><rs type="person">Barezzi</rs></italic> kennen, die später seine Frau wer¬
                <lb facs="#facs_2_region_1684670914787_1138_tl_4" n="N004"/>den sollte. Nun bot ihm auch der alte Componist und
                <lb facs="#facs_2_region_1684670914787_1138_tl_5" n="N005"/>Capellmeister der „Philharmonischen Gesellschaft“, <italic><rs type="person">Provesi</rs></italic>,
-               <lb facs="#facs_2_region_1684670914787_1138_tl_6" n="N006"/>seinen Unterricht an, ein Antrag, den Verdi dankbar und
+               <lb facs="#facs_2_region_1684670914787_1138_tl_6" n="N006"/>seinen Unterricht an, ein Antrag, den <rs type="person">Verdi</rs> dankbar und
                <lb facs="#facs_2_region_1684670914787_1138_tl_7" n="N007"/>freudig annahm. Mit rastlosem Eifer betrieb er seine musika¬
-               <lb facs="#facs_2_region_1684670914787_1138_tl_8" n="N008"/>lischen Studien unter Provesi, der dem sechzehnjährigen Zög¬
+               <lb facs="#facs_2_region_1684670914787_1138_tl_8" n="N008"/>lischen Studien unter <rs type="person">Provesi</rs>, der dem sechzehnjährigen Zög¬
                <lb facs="#facs_2_region_1684670914787_1138_tl_9" n="N009"/>ling bald gestattete, ihn am Dirigentenpult der Philhar¬
                <lb facs="#facs_2_region_1684670914787_1138_tl_10" n="N010"/>monischen Gesellschaft zu vertreten. Für diese Gesellschaft
-               <lb facs="#facs_2_region_1684670914787_1138_tl_11" n="N011"/>componirte Verdi eine große Anzahl von Stücken, er copirte
+               <lb facs="#facs_2_region_1684670914787_1138_tl_11" n="N011"/>componirte <rs type="person">Verdi</rs> eine große Anzahl von Stücken, er copirte
                <lb facs="#facs_2_region_1684670914787_1138_tl_12" n="N012"/>sie selbst, schrieb die Stimmen aus, studirte sie dem Orchester
                <lb facs="#facs_2_region_1684670914787_1138_tl_13" n="N013"/>ein und dirigirte sie im Concert. Gleichzeitig mußte er den
-               <lb facs="#facs_2_region_1684670914787_1138_tl_14" n="N014"/>Provesi häufig als Organist in der Kathedrale substituiren.
-               <lb facs="#facs_2_region_1684670914787_1138_tl_15" n="N015"/>Allein, wo wären in einer kleinen Stadt, wie Busseto, die
+               <lb facs="#facs_2_region_1684670914787_1138_tl_14" n="N014"/><rs type="person">Provesi</rs> häufig als Organist in der Kathedrale substituiren.
+               <lb facs="#facs_2_region_1684670914787_1138_tl_15" n="N015"/>Allein, wo wären in einer kleinen Stadt, wie <rs type="place">Busseto</rs>, die
                <lb facs="#facs_2_region_1684670914787_1138_tl_16" n="N016"/>Elemente der Anregung und Ausbildung, deren ein junger,
                <lb facs="#facs_2_region_1684670914787_1138_tl_17" n="N017"/>ehrgeizig aufstrebender Künstler bedarf? <italic><rs type="person">Barezzi</rs></italic> und
-               <lb facs="#facs_2_region_1684670914787_1138_tl_18" n="N018"/><italic><rs type="person">Provesi</rs></italic>, die beiden väterlichen Gönner Verdi's, beschlossen,
-               <lb facs="#facs_2_region_1684670914787_1138_tl_19" n="N019"/>ihn nach <italic><rs type="person">Mailand</rs></italic> zu bringen, der glänzenden musikalischen
-               <lb facs="#facs_2_region_1684670914787_1138_tl_20" n="N020"/>Metropole Ober-Italiens. Sein Stipendium wurde von der
-               <lb facs="#facs_2_region_1684670914787_1138_tl_21" n="N021"/>Stadt Busseto ausnahmsweise von jährlichen 300 auf 600
+               <lb facs="#facs_2_region_1684670914787_1138_tl_18" n="N018"/><italic><rs type="person">Provesi</rs></italic>, die beiden väterlichen Gönner <rs type="person">Verdi</rs>'s, beschlossen,
+               <lb facs="#facs_2_region_1684670914787_1138_tl_19" n="N019"/>ihn nach <italic><rs type="place">Mailand</rs></italic> zu bringen, der glänzenden musikalischen
+               <lb facs="#facs_2_region_1684670914787_1138_tl_20" n="N020"/>Metropole <rs type="place">Ober-Italien</rs>s. Sein Stipendium wurde von der
+               <lb facs="#facs_2_region_1684670914787_1138_tl_21" n="N021"/>Stadt <rs type="place">Busseto</rs> ausnahmsweise von jährlichen 300 auf 600
                <lb facs="#facs_2_region_1684670914787_1138_tl_22" n="N022"/>Francs erhöht, jedoch nur für zwei Jahre (anstatt der
                <lb facs="#facs_2_region_1684670914787_1138_tl_23" n="N023"/>systemisirten vier) bewilligt. Da dies noch immer nicht aus¬
-               <lb facs="#facs_2_region_1684670914787_1138_tl_24" n="N024"/>reichte, bestritt Barezzi aus eigener Tasche das Dringendste
-               <lb facs="#facs_2_region_1684670914787_1138_tl_25" n="N025"/>und lieh Verdi überdies eine Summe für den Aufenthalt
-               <lb facs="#facs_2_region_1684670914787_1138_tl_26" n="N026"/>und den Unterricht in Mailand.
-               <lb facs="#facs_2_region_1684670914787_1138_tl_27" n="N027"/>Kaum in Mailand angelangt, eilte Verdi ins Conser¬
+               <lb facs="#facs_2_region_1684670914787_1138_tl_24" n="N024"/>reichte, bestritt <rs type="person">Barezzi</rs> aus eigener Tasche das Dringendste
+               <lb facs="#facs_2_region_1684670914787_1138_tl_25" n="N025"/>und lieh <rs type="person">Verdi</rs> überdies eine Summe für den Aufenthalt
+               <lb facs="#facs_2_region_1684670914787_1138_tl_26" n="N026"/>und den Unterricht in <rs type="place">Mailand</rs>.
+               <lb facs="#facs_2_region_1684670914787_1138_tl_27" n="N027"/>Kaum in <rs type="place">Mailand</rs> angelangt, eilte <rs type="person">Verdi</rs> ins Conser¬
                <lb facs="#facs_2_region_1684670914787_1138_tl_28" n="N028"/>vatorium, um sich zur Aufnahmsprüfung zu melden. Di¬
                <lb facs="#facs_2_region_1684670914787_1138_tl_29" n="N029"/>rector des Conservatoriums war damals <italic continued="true">Francesco</italic>
                <lb facs="#facs_2_region_1684670914787_1138_tl_30" n="N030"/><italic continued="true"><rs type="person">Basily</rs></italic>, ein trockener, strenger Schulmeister, ohne jegliches
-               <lb facs="#facs_2_region_1684670914787_1138_tl_31" n="N031"/>künstlerisches Feuer. Er war unfähig, in Verdi das geringste
+               <lb facs="#facs_2_region_1684670914787_1138_tl_31" n="N031"/>künstlerisches Feuer. Er war unfähig, in <rs type="person">Verdi</rs> das geringste
                <lb facs="#facs_2_region_1684670914787_1138_tl_32" n="N032"/>Talent zu entdecken, und wies ihn kurzweg ab „wegen Man¬
                <lb facs="#facs_2_region_1684670914787_1138_tl_33" n="N033"/>gels an musikalischen Fähigkeiten“! Es wird ihn wol später
                <lb facs="#facs_2_region_1684670914787_1138_tl_34" n="N034"/>bitter gereut haben. Zurückgewiesen von der musikalischen
                <lb facs="#facs_2_region_1684670914787_1138_tl_35" n="N035"/>Hochschule, der anzugehören sein Stolz gewesen wäre, verlor
-               <lb facs="#facs_2_region_1684670914787_1138_tl_36" n="N036"/>Verdi doch keineswegs den Muth. Er suchte den Composi¬
+               <lb facs="#facs_2_region_1684670914787_1138_tl_36" n="N036"/><rs type="person">Verdi</rs> doch keineswegs den Muth. Er suchte den Composi¬
                <lb facs="#facs_2_region_1684670914787_1138_tl_37" n="N037"/>teur Vincenzo <italic><rs type="person">Lavigna</rs></italic>, einen ehemaligen Zögling des
-               <lb facs="#facs_2_line_1758955835883_977" n="N038"/>Conservatoriums von Neapel, auf, welcher damals eine Ca¬
+               <lb facs="#facs_2_line_1758955835883_977" n="N038"/>Conservatoriums von <rs type="place">Neapel</rs>, auf, welcher damals eine Ca¬
             </ab>
             <ab facs="#facs_2_region_1684670917420_1141" type="">
                <lb facs="#facs_2_region_1684670917420_1141_tl_1" n="N001"/>pellmeister-Stelle im Theater della Scala versah. Tüchtiger
-               <lb facs="#facs_2_region_1684670917420_1141_tl_2" n="N002"/>und geschickter Musiker, war Lavigna obendrein durch einige
-               <lb facs="#facs_2_region_1684670917420_1141_tl_3" n="N003"/>Opern vortheilhaft bekannt geworden. Verdi zeigte ihm die¬
+               <lb facs="#facs_2_region_1684670917420_1141_tl_2" n="N002"/>und geschickter Musiker, war <rs type="person">Lavigna</rs> obendrein durch einige
+               <lb facs="#facs_2_region_1684670917420_1141_tl_3" n="N003"/>Opern vortheilhaft bekannt geworden. <rs type="person">Verdi</rs> zeigte ihm die¬
                <lb facs="#facs_2_region_1684670917420_1141_tl_4" n="N004"/>selben Compositionen, die er mit so üblem Erfolge dem
-               <lb facs="#facs_2_region_1684670917420_1141_tl_5" n="N005"/>Director Basily vorgelegt hatte, und wurde sofort unter die
-               <lb facs="#facs_2_region_1684670917420_1141_tl_6" n="N006"/>Schüler Lavigna's aufgenommen. Der Lehrer hatte es nicht
-               <lb facs="#facs_2_region_1684670917420_1141_tl_7" n="N007"/>zu bereuen, denn Verdi machte rapide Fortschritte. Er wurde
-               <lb facs="#facs_2_region_1684670917420_1141_tl_8" n="N008"/>rasch bekannt und genannt in den Mailänder musikalischen
+               <lb facs="#facs_2_region_1684670917420_1141_tl_5" n="N005"/>Director <rs type="person">Basily</rs> vorgelegt hatte, und wurde sofort unter die
+               <lb facs="#facs_2_region_1684670917420_1141_tl_6" n="N006"/>Schüler <rs type="person">Lavigna</rs>'s aufgenommen. Der Lehrer hatte es nicht
+               <lb facs="#facs_2_region_1684670917420_1141_tl_7" n="N007"/>zu bereuen, denn <rs type="person">Verdi</rs> machte rapide Fortschritte. Er wurde
+               <lb facs="#facs_2_region_1684670917420_1141_tl_8" n="N008"/>rasch bekannt und genannt in den <rs type="place">Mailänd</rs>er musikalischen
                <lb facs="#facs_2_region_1684670917420_1141_tl_9" n="N009"/>Kreisen, wie folgende Episode darthut. Es existirte damals
                <lb facs="#facs_2_region_1684670917420_1141_tl_10" n="N010"/>eine Dilettanten-Gesellschaft, die „Società filodrammatica“ in
-               <lb facs="#facs_2_region_1684670917420_1141_tl_11" n="N011"/>Mailand, die jeden Freitag eine große Musik-Production
-               <lb facs="#facs_2_region_1684670917420_1141_tl_12" n="N012"/>gab. Im Laufe des Winters 1831 wollte sie „Die Schöpfung“
-               <lb facs="#facs_2_region_1684670917420_1141_tl_13" n="N013"/>von Haydn aufführen; allein der Dirigent, verwirrt von den
+               <lb facs="#facs_2_region_1684670917420_1141_tl_11" n="N011"/><rs type="place">Mailand</rs>, die jeden Freitag eine große Musik-Production
+               <lb facs="#facs_2_region_1684670917420_1141_tl_12" n="N012"/>gab. Im Laufe des Winters <date month="0" day="0" year="0">1831</date> wollte sie „<work>Die Schöpfung</work>“
+               <lb facs="#facs_2_region_1684670917420_1141_tl_13" n="N013"/>von <rs type="person">Haydn</rs> aufführen; allein der Dirigent, verwirrt von den
                <lb facs="#facs_2_region_1684670917420_1141_tl_14" n="N014"/>Schwierigkeiten der Partitur, kam nicht über die ersten Pro¬
                <lb facs="#facs_2_region_1684670917420_1141_tl_15" n="N015"/>ben hinaus. In dieser Bedrängniß äußerte der mit der
-               <lb facs="#facs_2_region_1684670917420_1141_tl_16" n="N016"/>Leitung der Chöre betraute Gesangsprofessor Masini zu den
-               <lb facs="#facs_2_region_1684670917420_1141_tl_17" n="N017"/>Directoren, er wüßte einen jungen Menschen, Namens Verdi,
+               <lb facs="#facs_2_region_1684670917420_1141_tl_16" n="N016"/>Leitung der Chöre betraute Gesangsprofessor <rs type="person">Masini</rs> zu den
+               <lb facs="#facs_2_region_1684670917420_1141_tl_17" n="N017"/>Directoren, er wüßte einen jungen Menschen, Namens <rs type="person">Verdi</rs>,
                <lb facs="#facs_2_region_1684670917420_1141_tl_18" n="N018"/>der wol im Stande wäre, sie aus der Verlegenheit zu reißen.
-               <lb facs="#facs_2_region_1684670917420_1141_tl_19" n="N019"/>Man ging auf den Vorschlag ein, und Verdi dirigirte
-               <lb facs="#facs_2_region_1684670917420_1141_tl_20" n="N020"/>„Die Schöpfung“, nachdem er drei Proben abgehalten, zu
+               <lb facs="#facs_2_region_1684670917420_1141_tl_19" n="N019"/>Man ging auf den Vorschlag ein, und <rs type="person">Verdi</rs> dirigirte
+               <lb facs="#facs_2_region_1684670917420_1141_tl_20" n="N020"/>„<work>Die Schöpfung</work>“, nachdem er drei Proben abgehalten, zu
                <lb facs="#facs_2_region_1684670917420_1141_tl_21" n="N021"/>allgemeiner Zufriedenheit und Bewunderung. Bekanntlich
                <lb facs="#facs_2_region_1684670917420_1141_tl_22" n="N022"/>hatte auch <italic><rs type="person">Rossini</rs></italic> seinen ersten größeren Erfolg der
-               <lb facs="#facs_2_region_1684670917420_1141_tl_23" n="N023"/>„Schöpfung“ von Haydn zu danken, die er als neunzehn¬
-               <lb facs="#facs_2_region_1684670917420_1141_tl_24" n="N024"/>jähriger Jüngling (1811) in Bologna dirigirte. Zu dieser
-               <lb facs="#facs_2_region_1684670917420_1141_tl_25" n="N025"/>Zeit componirte Verdi eine Menge Sachen, von denen
+               <lb facs="#facs_2_region_1684670917420_1141_tl_23" n="N023"/>„<work>Schöpfung</work>“ von <rs type="person">Haydn</rs> zu danken, die er als neunzehn¬
+               <lb facs="#facs_2_region_1684670917420_1141_tl_24" n="N024"/>jähriger Jüngling (<date month="0" day="0" year="0">1811</date>) in <rs type="place">Bologna</rs> dirigirte. Zu dieser
+               <lb facs="#facs_2_region_1684670917420_1141_tl_25" n="N025"/>Zeit componirte <rs type="person">Verdi</rs> eine Menge Sachen, von denen
                <lb facs="#facs_2_region_1684670917420_1141_tl_26" n="N026"/>jedoch nichts veröffentlicht wurde. Einen der vielen Märsche,
-               <lb facs="#facs_2_line_1758955881656_1004" n="N027"/>die Verdi für die „Philharmonische Gesellschaft“ von Busseto
+               <lb facs="#facs_2_line_1758955881656_1004" n="N027"/>die <rs type="person">Verdi</rs> für die „Philharmonische Gesellschaft“ von <rs type="place">Busseto</rs>
                <lb facs="#facs_2_region_1684670917420_1141_tl_27" n="N028"/>schrieb (meist zur Frohnleichnams-Procession), benützte er
-               <lb facs="#facs_2_region_1684670917420_1141_tl_28" n="N029"/>später als Trauermarsch in der Oper „Nabucco“; andere
-               <lb facs="#facs_2_region_1684670917420_1141_tl_29" n="N030"/>Stücke verwerthete er gleichfalls in den Opern „Nabucco“
-               <lb facs="#facs_2_region_1684670917420_1141_tl_30" n="N031"/>und „I Lombardi“.
+               <lb facs="#facs_2_region_1684670917420_1141_tl_28" n="N029"/>später als Trauermarsch in der Oper „<work>Nabucco</work>“; andere
+               <lb facs="#facs_2_region_1684670917420_1141_tl_29" n="N030"/>Stücke verwerthete er gleichfalls in den Opern „<work>Nabucco</work>“
+               <lb facs="#facs_2_region_1684670917420_1141_tl_30" n="N031"/>und „<work>I Lombardi</work>“.
                <lb facs="#facs_2_region_1684670917420_1141_tl_31" n="N032"/>Wir kommen zu einem sonderbaren, bisher unbekannt
-               <lb facs="#facs_2_region_1684670917420_1141_tl_32" n="N033"/>gebliebenen Zwischenfall aus Verdi's Jugendzeit. Im Jahre
-               <lb facs="#facs_2_region_1684670917420_1141_tl_33" n="N034"/>1833 starb, siebzigjährig, der Capellmeister Giovanni Pro¬
-               <lb facs="#facs_2_region_1684670917420_1141_tl_34" n="N035"/>vesi. Alle diejenigen, welche für die Ausbildung <italic><rs type="person">Verdi</rs>'s</italic>
+               <lb facs="#facs_2_region_1684670917420_1141_tl_32" n="N033"/>gebliebenen Zwischenfall aus <rs type="person">Verdi</rs>'s Jugendzeit. Im Jahre
+               <lb facs="#facs_2_region_1684670917420_1141_tl_33" n="N034"/><date month="0" day="0" year="0">1833</date> starb, siebzigjährig, der Capellmeister Giovanni <rs type="person" continued="true">Pro¬</rs>
+               <lb facs="#facs_2_region_1684670917420_1141_tl_34" n="N035"/><rs type="person" continued="true">vesi</rs>. Alle diejenigen, welche für die Ausbildung <italic><rs type="person">Verdi</rs>'s</italic>
                <lb facs="#facs_2_region_1684670917420_1141_tl_35" n="N036"/>thätig gewesen, hatten ihn von allem Anfang zum Nachfolger
-               <lb facs="#facs_2_region_1684670917420_1141_tl_36" n="N037"/>Provesi's ausersehen. Obwol Verdi ein höheres Ziel vor
+               <lb facs="#facs_2_region_1684670917420_1141_tl_36" n="N037"/><rs type="person">Provesi</rs>'s ausersehen. Obwol <rs type="person">Verdi</rs> ein höheres Ziel vor
                <lb facs="#facs_2_line_1758955856155_991" n="N038"/>Augen hatte, folgte er doch sofort dem Wunsche seiner Wohl¬
             </ab>
             <ab facs="#facs_2_region_1684670920149_1144" type="">
-               <lb facs="#facs_2_region_1684670920149_1144_tl_1" n="N001"/>thäter und eilte von Mailand zurück nach Busset. Die Er¬
+               <lb facs="#facs_2_region_1684670920149_1144_tl_1" n="N001"/>thäter und eilte von <rs type="place">Mailand</rs> zurück nach <rs type="place">Busset</rs>. Die Er¬
                <lb facs="#facs_2_region_1684670920149_1144_tl_2" n="N002"/>nennung zum Capellmeister und Organisten hing von dem
                <lb facs="#facs_2_region_1684670920149_1144_tl_3" n="N003"/>Conseil des Collegiatstiftes ab, das, größtentheils aus Geist¬
-               <lb facs="#facs_2_region_1684670920149_1144_tl_4" n="N004"/>lichen bestehend, gegen Verdi, als einen „profanen Mode-
+               <lb facs="#facs_2_region_1684670920149_1144_tl_4" n="N004"/>lichen bestehend, gegen <rs type="person">Verdi</rs>, als einen „profanen Mode-
                <lb facs="#facs_2_region_1684670920149_1144_tl_5" n="N005"/>Componisten“, gestimmt war. Sein Rivale war ein mittel¬
                <lb facs="#facs_2_region_1684670920149_1144_tl_6" n="N006"/>mäßiger, aber von zwei Bischöfen warm empfohlener Organist,
-               <lb facs="#facs_2_region_1684670920149_1144_tl_7" n="N007"/>Namens Ferrari. Dieser erhielt die Stelle, und Verdi, für
+               <lb facs="#facs_2_region_1684670920149_1144_tl_7" n="N007"/>Namens <rs type="person">Ferrari</rs>. Dieser erhielt die Stelle, und <rs type="person">Verdi</rs>, für
                <lb facs="#facs_2_line_1758955874842_999" n="N008"/>den die Gemeinde so viele Opfer gebracht, sah sich ab¬
                <lb facs="#facs_2_region_1684670920149_1144_tl_10" n="N009"/>gewiesen. Bei dieser Nachricht gerieth die „Philharmonische Ge¬
                <lb facs="#facs_2_region_1684670920149_1144_tl_11" n="N010"/>sellschaft“ in Wuth, und ihre Mitglieder, die so viele Jahre hin¬
@@ -587,7 +587,7 @@
                <lb facs="#facs_2_region_1684670920149_1144_tl_15" n="N014"/>in der sonst so einträchtigen, friedlichen Stadt ein kleiner
                <lb facs="#facs_2_region_1684670920149_1144_tl_16" n="N015"/>Bürgerkrieg aus, der mehrere Jahre dauerte. Das Ländchen
                <lb facs="#facs_2_region_1684670920149_1144_tl_17" n="N016"/>theilte sich in Verdianer und Ferraristen; Erstere standen
-               <lb facs="#facs_2_region_1684670920149_1144_tl_18" n="N017"/>unter der Führung von Barezzi und der „Philharmonischen
+               <lb facs="#facs_2_region_1684670920149_1144_tl_18" n="N017"/>unter der Führung von <rs type="person">Barezzi</rs> und der „Philharmonischen
                <lb facs="#facs_2_region_1684670920149_1144_tl_19" n="N018"/>Gesellschaft“ und waren von der ganzen intelligenten und
                <lb facs="#facs_2_region_1684670920149_1144_tl_20" n="N019"/>rechtschaffenen Bevölkerung unterstützt; Letztere bestanden aus
                <lb facs="#facs_2_region_1684670920149_1144_tl_21" n="N020"/>der Geistlichkeit und den „Frommen“ der Stadt. Es regnete
@@ -596,42 +596,42 @@
                <lb facs="#facs_2_region_1684670920149_1144_tl_24" n="N023"/>wirkte sogar ein Decret, durch welches der „Philharmonischen
                <lb facs="#facs_2_region_1684670920149_1144_tl_25" n="N024"/>Gesellschaft“ jede Zusammenkunft verboten wurde. Während
                <lb facs="#facs_2_region_1684670920149_1144_tl_26" n="N025"/>dieser jahrelang sich fortschleppenden Zwistigkeiten verhielt
-               <lb facs="#facs_2_region_1684670920149_1144_tl_27" n="N026"/>Verdi, welcher doch der zunächst Beleidigte war, sich ruhig
+               <lb facs="#facs_2_region_1684670920149_1144_tl_27" n="N026"/><rs type="person">Verdi</rs>, welcher doch der zunächst Beleidigte war, sich ruhig
                <lb facs="#facs_2_line_1758955881655_1003" n="N027"/>und zurückgezogen; er arbeitete fleißig und dirigirte als
-               <lb facs="#facs_2_region_1684670920149_1144_tl_29" n="N028"/>Provesi's Nachfolger die Productionen der „Philharmonischen
-               <lb facs="#facs_2_region_1684670920149_1144_tl_30" n="N029"/>Gesellschaft“, welche trotz alledem unter Barezzi's Schutz fort¬
+               <lb facs="#facs_2_region_1684670920149_1144_tl_29" n="N028"/><rs type="person">Provesi</rs>'s Nachfolger die Productionen der „Philharmonischen
+               <lb facs="#facs_2_region_1684670920149_1144_tl_30" n="N029"/>Gesellschaft“, welche trotz alledem unter <rs type="person">Barezzi</rs>'s Schutz fort¬
                <lb facs="#facs_2_region_1684670920149_1144_tl_31" n="N030"/>existirte.
-               <lb facs="#facs_2_region_1684670920149_1144_tl_32" n="N031"/>Barezzi, in dessen Haus Verdi damals wohnte, war
-               <lb facs="#facs_2_region_1684670920149_1144_tl_33" n="N032"/>Vater einer zahlreichen Familie; seine älteste Tochter, Mar¬
-               <lb facs="#facs_2_region_1684670920149_1144_tl_34" n="N033"/>garethe, zeichnete sich durch Geist und Schönheit aus. Zu¬
+               <lb facs="#facs_2_region_1684670920149_1144_tl_32" n="N031"/><rs type="person">Barezzi</rs>, in dessen Haus <rs type="person">Verdi</rs> damals wohnte, war
+               <lb facs="#facs_2_region_1684670920149_1144_tl_33" n="N032"/>Vater einer zahlreichen Familie; seine älteste Tochter, <rs type="person" continued="true">Mar¬</rs>
+               <lb facs="#facs_2_region_1684670920149_1144_tl_34" n="N033"/><rs type="person" continued="true">garethe</rs>, zeichnete sich durch Geist und Schönheit aus. Zu¬
                <lb facs="#facs_2_region_1684670920149_1144_tl_35" n="N034"/>sammen leben und einander lieben, war für die Beiden eins
-               <lb facs="#facs_2_region_1684670920149_1144_tl_36" n="N035"/>und dasselbe. Verdi hielt bei Barezzi um ihre Hand an, und
+               <lb facs="#facs_2_region_1684670920149_1144_tl_36" n="N035"/>und dasselbe. <rs type="person">Verdi</rs> hielt bei <rs type="person">Barezzi</rs> um ihre Hand an, und
                <lb facs="#facs_2_region_1684670920149_1144_tl_37" n="N036"/>dieser erwiderte, daß er niemals einen mittellosen, braven
                <lb facs="#facs_2_region_1684670920149_1144_tl_38" n="N037"/>jungen Mann zurückweisen würde, der ein Talent besitzt,
                <lb facs="#facs_2_line_1758955856154_990" n="N038"/>welches jedem Geldsack vorzuziehen sei. Der wacker Alte
             </ab>
             <pb facs="#facs_3" n="3" xml:id="img_0003"/>
             <ab facs="#facs_3_region_1684670930009_1150" type="">
-               <lb facs="#facs_3_region_1684670930009_1150_tl_1" n="N001"/>hatte sich nicht getäuscht. Im Jahre 1835 wurde die Hoch¬
-               <lb facs="#facs_3_region_1684670930009_1150_tl_2" n="N002"/>zeit des damals zweiundzwanzigjährigen Verdi gefeiert, und
+               <lb facs="#facs_3_region_1684670930009_1150_tl_1" n="N001"/>hatte sich nicht getäuscht. Im Jahre <date month="0" day="0" year="0">1835</date> wurde die Hoch¬
+               <lb facs="#facs_3_region_1684670930009_1150_tl_2" n="N002"/>zeit des damals zweiundzwanzigjährigen <rs type="person">Verdi</rs> gefeiert, und
                <lb facs="#facs_3_region_1684670930009_1150_tl_3" n="N003"/>die ganze „Philharmonische Gesellschaft“ wohnte dem von Glück
-               <lb facs="#facs_3_line_1758955912266_1021" n="N004"/>und Heiterkeit strahlenden Feste bei. In Busseto hatte Verdi
+               <lb facs="#facs_3_line_1758955912266_1021" n="N004"/>und Heiterkeit strahlenden Feste bei. In <rs type="place">Busseto</rs> hatte <rs type="person">Verdi</rs>
                <lb facs="#facs_3_region_1684670930009_1150_tl_5" n="N005"/>nicht blos als Componist und Orchester-Dirigent, sondern
                <lb facs="#facs_3_region_1684670930009_1150_tl_6" n="N006"/>auch als Virtuose geglänzt. Er war damals ein brillanter
                <lb facs="#facs_3_region_1684670930009_1150_tl_7" n="N007"/>Clavierspieler und pflegte in jedem Concerte zwei oder drei
-               <lb facs="#facs_3_region_1684670930009_1150_tl_8" n="N008"/>Clavierstücke, meist von Hummel oder Kalkbrenner, vorzutra¬
-               <lb facs="#facs_3_region_1684670930009_1150_tl_9" n="N009"/>gen. Sein Paradepferd war jedoch die „Wilhelm Tell“-
-               <lb facs="#facs_3_region_1684670930009_1150_tl_10" n="N010"/>Ouvertüre von Rossini, die er sich selbst arrangirt hatte.
-               <lb facs="#facs_3_region_1684670930009_1150_tl_11" n="N011"/>Als die drei Jahre vorüber waren, für welche Verdi
+               <lb facs="#facs_3_region_1684670930009_1150_tl_8" n="N008"/>Clavierstücke, meist von <rs type="person">Hummel</rs> oder <rs type="person">Kalkbrenner</rs>, vorzutra¬
+               <lb facs="#facs_3_region_1684670930009_1150_tl_9" n="N009"/>gen. Sein Paradepferd war jedoch die <work continued="true">„Wilhelm Tell“-</work>
+               <lb facs="#facs_3_region_1684670930009_1150_tl_10" n="N010"/><work continued="true">Ouvertüre</work> von <rs type="person">Rossini</rs>, die er sich selbst arrangirt hatte.
+               <lb facs="#facs_3_region_1684670930009_1150_tl_11" n="N011"/>Als die drei Jahre vorüber waren, für welche <rs type="person">Verdi</rs>
                <lb facs="#facs_3_region_1684670930009_1150_tl_12" n="N012"/>sich zur Leitung der „Philharmonischen Gesellschaft“ verpflichtet
-               <lb facs="#facs_3_line_1758955930313_1030" n="N013"/>hatte, fühlte Verdi, daß er nicht länger in Busseto bleiben
+               <lb facs="#facs_3_line_1758955930313_1030" n="N013"/>hatte, fühlte <rs type="person">Verdi</rs>, daß er nicht länger in <rs type="place">Busseto</rs> bleiben
                <lb facs="#facs_3_region_1684670930009_1150_tl_14" n="N014"/>könne mit einem Jahresgehalte von dreihundert Francs. Er
-               <lb facs="#facs_3_region_1684670930009_1150_tl_15" n="N015"/>verließ seine Heimat und übersiedelte mit seiner Frau und
-               <lb facs="#facs_3_region_1684670930009_1150_tl_16" n="N016"/>den ihm geborenen zwei Söhnlein nach Mailand.
-               <lb facs="#facs_3_region_1684670930009_1150_tl_17" n="N017"/>Von dem Augenblick an kannte Verdi nur Ein Ziel:
+               <lb facs="#facs_3_region_1684670930009_1150_tl_15" n="N015"/>verließ seine Heimat und übersiedelte mit seiner <rs type="person">Frau</rs> und
+               <lb facs="#facs_3_region_1684670930009_1150_tl_16" n="N016"/>den ihm geborenen zwei <rs type="person">Söhnlein</rs> nach <rs type="place">Mailand</rs>.
+               <lb facs="#facs_3_region_1684670930009_1150_tl_17" n="N017"/>Von dem Augenblick an kannte <rs type="person">Verdi</rs> nur Ein Ziel:
                <lb facs="#facs_3_region_1684670930009_1150_tl_18" n="N018"/>die Oper. Er war von einem wahren Theaterdämon besessen,
                <lb facs="#facs_3_region_1684670930009_1150_tl_19" n="N019"/>und die Folge zeigte, daß er in der Richtung seines Talentes
-               <lb facs="#facs_3_region_1684670930009_1150_tl_20" n="N020"/>sich nicht geirrt hatte. In Mailand lernte Verdi einen
+               <lb facs="#facs_3_region_1684670930009_1150_tl_20" n="N020"/>sich nicht geirrt hatte. In <rs type="place">Mailand</rs> lernte <rs type="person">Verdi</rs> einen
                <lb facs="#facs_3_region_1684670930009_1150_tl_21" n="N021"/>neunzehnjährigen Poeten kennen, der bereits mit einem
                <lb facs="#facs_3_region_1684670930009_1150_tl_22" n="N022"/>Bändchen Gedichte großen Erfolg errungen hatte. Themistokles
                <lb facs="#facs_3_region_1684670930009_1150_tl_23" n="N023"/><italic><rs type="person">Solera</rs></italic>, so hieß der junge Dichter, strebte seinerseits dar¬
@@ -639,58 +639,58 @@
                <lb facs="#facs_3_region_1684670930009_1150_tl_25" n="N025"/>jungen Leute faßten vom ersten Augenblick eine leidenschaft¬
                <lb facs="#facs_3_region_1684670930009_1150_tl_26" n="N026"/>liche Zuneigung zu einander, und ihre Freundschaft hat nie¬
                <lb facs="#facs_3_region_1684670930009_1150_tl_27" n="N027"/>mals gewankt. Nachdem sie ihre Pläne und Ansichten aus¬
-               <lb facs="#facs_3_region_1684670930009_1150_tl_28" n="N028"/>getauscht, schrieb Solera ein Operntextbuch, das Verdi so¬
+               <lb facs="#facs_3_region_1684670930009_1150_tl_28" n="N028"/>getauscht, schrieb <rs type="person">Solera</rs> ein Operntextbuch, das <rs type="person">Verdi</rs> so¬
                <lb facs="#facs_3_region_1684670930009_1150_tl_29" n="N029"/>fort componirte: „<italic><work>Oberto, conte di San Bonifacio</work></italic>“.
                <lb facs="#facs_3_region_1684670930009_1150_tl_30" n="N030"/>In weniger als Jahresfrist war das Werk beendet, einstudirt
-               <lb facs="#facs_3_region_1684670930009_1150_tl_31" n="N031"/>und mit großem Erfolg (1839) in der Scala gegeben. Der
-               <lb facs="#facs_3_region_1684670930009_1150_tl_32" n="N032"/>Impresario dieses Theaters, <italic><rs type="person">Merelli</rs></italic> (Vater), ließ Verdi
+               <lb facs="#facs_3_region_1684670930009_1150_tl_31" n="N031"/>und mit großem Erfolg (<date month="0" day="0" year="0">1839</date>) in der Scala gegeben. Der
+               <lb facs="#facs_3_region_1684670930009_1150_tl_32" n="N032"/>Impresario dieses Theaters, <italic><rs type="person">Merelli</rs></italic> (Vater), ließ <rs type="person">Verdi</rs>
                <lb facs="#facs_3_region_1684670930009_1150_tl_33" n="N033"/>sogleich einen Contract unterzeichnen, worin der junge Maëstro
                <lb facs="#facs_3_region_1684670930009_1150_tl_34" n="N034"/>sich verpflichtete, noch drei Opern für die Scala zu schreiben.
                <lb facs="#facs_3_region_1684670930009_1150_tl_35" n="N035"/>Er sollte zunächst sein Talent für das komische Fach ver¬
                <lb facs="#facs_3_region_1684670930009_1150_tl_36" n="N036"/>suchen, ein Talent, das ihm gänzlich fehlte. Den Beweis da¬
                <lb facs="#facs_3_region_1684670930009_1150_tl_37" n="N037"/>für lieferte seine komische Oper: „<italic><work>Un giorno di regno</work></italic>“,
-               <lb facs="#facs_3_region_1684670930009_1150_tl_38" n="N038"/>welche (1840) in der Scala ein eclatantes Fiasco erlebte.
-               <lb facs="#facs_3_line_1758955955299_1039" n="N039"/>Allein unter welchen furchtbaren Seelenanalen war dies
+               <lb facs="#facs_3_region_1684670930009_1150_tl_38" n="N038"/>welche (<date month="0" day="0" year="0">1840</date>) in der Scala ein eclatantes Fiasco erlebte.
+               <lb facs="#facs_3_line_1758955955299_1039" n="N039"/>Allein unter welchen furchtbaren Seelenqualen war dies
             </ab>
             <ab facs="#facs_3_region_1684670932889_1153" type="">
-               <lb facs="#facs_3_region_1684670932889_1153_tl_1" n="N001"/>Werk entstanden! Verdi's heißgeliebte junge Gattin war plötz¬
+               <lb facs="#facs_3_region_1684670932889_1153_tl_1" n="N001"/>Werk entstanden! <rs type="person">Verdi</rs>'s heißgeliebte junge <rs type="person">Gattin</rs> war plötz¬
                <lb facs="#facs_3_region_1684670932889_1153_tl_2" n="N002"/>lich an einer Gehirnentzündung erkrankt und starb nach weni¬
-               <lb facs="#facs_3_region_1684670932889_1153_tl_3" n="N003"/>gen Tagen. Halb wahnsinnig vor Schmerz, mußte Verdi
+               <lb facs="#facs_3_region_1684670932889_1153_tl_3" n="N003"/>gen Tagen. Halb wahnsinnig vor Schmerz, mußte <rs type="person">Verdi</rs>
                <lb facs="#facs_3_line_1758955912266_1020" n="N004"/>dennoch die angefangene Partitur vollenden und zur bestimm¬
                <lb facs="#facs_3_region_1684670932889_1153_tl_4" n="N005"/>ten Frist abliefern. Niedergedrückt von dem schwersten Schlag,
                <lb facs="#facs_3_region_1684670932889_1153_tl_5" n="N006"/>in Schmerz und Thränen sollte er heitere Melodien, komische
                <lb facs="#facs_3_region_1684670932889_1153_tl_6" n="N007"/>Musik schaffen! Man war ziemlich allgemein der Meinung,
-               <lb facs="#facs_3_region_1684670932889_1153_tl_7" n="N008"/>der Mißerfolg seiner Opera buffa habe Verdi vollständig ent¬
+               <lb facs="#facs_3_region_1684670932889_1153_tl_7" n="N008"/>der Mißerfolg seiner Opera buffa habe <rs type="person">Verdi</rs> vollständig ent¬
                <lb facs="#facs_3_region_1684670932889_1153_tl_8" n="N009"/>muthigt und zu dem Entschlusse gebracht, nie wieder für das
                <lb facs="#facs_3_region_1684670932889_1153_tl_9" n="N010"/>Theater zu schreiben. In Wahrheit war er als Künst¬
                <lb facs="#facs_3_region_1684670932889_1153_tl_10" n="N011"/>ler nicht leicht zu entmuthigen; ohne Zweifel hatte
-               <lb facs="#facs_3_region_1684670932889_1153_tl_11" n="N012"/>ihn nur der Schmerz um den Verlust seiner Frau
+               <lb facs="#facs_3_region_1684670932889_1153_tl_11" n="N012"/>ihn nur der Schmerz um den Verlust seiner <rs type="person">Frau</rs>
                <lb facs="#facs_3_line_1758955930313_1029" n="N013"/>in jene Abspannung und Verzagtheit gestürzt, die ihn
                <lb facs="#facs_3_region_1684670932889_1153_tl_12" n="N014"/>damals bis zur Resignation auf jede weitere Bühnenthätig¬
                <lb facs="#facs_3_region_1684670932889_1153_tl_13" n="N015"/>keit führte. Sein Ehrgeiz schien erloschen, seine Träume von
                <lb facs="#facs_3_region_1684670932889_1153_tl_14" n="N016"/>glücklicher Zukunft zerstört. Er dachte an nichts Anderes als
-               <lb facs="#facs_3_region_1684670932889_1153_tl_15" n="N017"/>ein stilles Leben in möglichster Verborgenheit. In Busseto,
-               <lb facs="#facs_3_region_1684670932889_1153_tl_16" n="N018"/>bei seinem alten Schwiegervater, wollte Verdi seine frühere
+               <lb facs="#facs_3_region_1684670932889_1153_tl_15" n="N017"/>ein stilles Leben in möglichster Verborgenheit. In <rs type="place">Busseto</rs>,
+               <lb facs="#facs_3_region_1684670932889_1153_tl_16" n="N018"/>bei seinem alten <rs type="person">Schwiegervater</rs>, wollte <rs type="person">Verdi</rs> seine frühere
                <lb facs="#facs_3_region_1684670932889_1153_tl_17" n="N019"/>bescheidene Stellung als Dirigent wieder einnehmen. Nach
-               <lb facs="#facs_3_region_1684670932889_1153_tl_18" n="N020"/>der Aufführung seiner zweiten Oper suchte er Merelli auf,
+               <lb facs="#facs_3_region_1684670932889_1153_tl_18" n="N020"/>der Aufführung seiner zweiten Oper suchte er <rs type="person">Merelli</rs> auf,
                <lb facs="#facs_3_region_1684670932889_1153_tl_19" n="N021"/>um den zwischen ihnen vereinbarten Contract zu lösen. War
-               <lb facs="#facs_3_region_1684670932889_1153_tl_20" n="N022"/>ja der Durchfall von „Un giorno di regno“ so vollständig
-               <lb facs="#facs_3_region_1684670932889_1153_tl_21" n="N023"/>gewesen, daß Verdi annehmen konnte, der Impresario werde
+               <lb facs="#facs_3_region_1684670932889_1153_tl_20" n="N022"/>ja der Durchfall von „<work>Un giorno di regno</work>“ so vollständig
+               <lb facs="#facs_3_region_1684670932889_1153_tl_21" n="N023"/>gewesen, daß <rs type="person">Verdi</rs> annehmen konnte, der Impresario werde
                <lb facs="#facs_3_region_1684670932889_1153_tl_22" n="N024"/>seinen Wünschen auf halbem Wege entgegenkommen. Es kam
-               <lb facs="#facs_3_region_1684670932889_1153_tl_23" n="N025"/>anders; Merelli hatte ein so festes Vertrauen auf Verdi's
+               <lb facs="#facs_3_region_1684670932889_1153_tl_23" n="N025"/>anders; <rs type="person">Merelli</rs> hatte ein so festes Vertrauen auf <rs type="person">Verdi</rs>'s
                <lb facs="#facs_3_region_1684670932889_1153_tl_24" n="N026"/>Zukunft, daß er ihm sein Wort durchaus nicht zurückgeben
-               <lb facs="#facs_3_region_1684670932889_1153_tl_25" n="N027"/>wollte. Umsonst versicherte ihm Verdi, daß es nicht eine
+               <lb facs="#facs_3_region_1684670932889_1153_tl_25" n="N027"/>wollte. Umsonst versicherte ihm <rs type="person">Verdi,</rs> daß es nicht eine
                <lb facs="#facs_3_region_1684670932889_1153_tl_26" n="N028"/>flüchtige Laune, sondern sein wohlüberlegter Entschluß sei,
                <lb facs="#facs_3_region_1684670932889_1153_tl_27" n="N029"/>nie mehr eine Oper zu schreiben. Erst nach wiederholtem
-               <lb facs="#facs_3_region_1684670932889_1153_tl_28" n="N030"/>Drängen und immer flehentlicheren Bitten, Merelli möge
+               <lb facs="#facs_3_region_1684670932889_1153_tl_28" n="N030"/>Drängen und immer flehentlicheren Bitten, <rs type="person">Merelli</rs> möge
                <lb facs="#facs_3_region_1684670932889_1153_tl_29" n="N031"/>ihm seine Freiheit wiedergeben, willigte dieser schweren
                <lb facs="#facs_3_region_1684670932889_1153_tl_30" n="N032"/>Herzens ein. „Nun wol,“ sagte er schließlich, „die Sache ist
                <lb facs="#facs_3_region_1684670932889_1153_tl_31" n="N033"/>abgemacht, ich entbinde dich deiner Verpflichtung. Aber er¬
                <lb facs="#facs_3_region_1684670932889_1153_tl_32" n="N034"/>innere dich stets, daß, wenn du einmal von deinem Entschlusse
                <lb facs="#facs_3_line_1758955976906_1050" n="N035"/>zurückkommen solltest, mein Theater dir immer offen stehen
                <lb facs="#facs_3_line_1758955982234_1054" n="N036"/>wird und gegen dieselben Bedingungen wie bisher.“ Sie
-               <lb facs="#facs_3_region_1684670932889_1153_tl_37" n="N037"/>drückten sich freundschaftlich die Hände, und Verdi verließ
-               <lb facs="#facs_3_region_1684670932889_1153_tl_38" n="N038"/>Mailand, um in dem Kleinleben von Busseto zu verschwin¬
+               <lb facs="#facs_3_region_1684670932889_1153_tl_37" n="N037"/>drückten sich freundschaftlich die Hände, und <rs type="person">Verdi</rs> verließ
+               <lb facs="#facs_3_region_1684670932889_1153_tl_38" n="N038"/><rs type="place">Mailand</rs>, um in dem Kleinleben von <rs type="place">Busseto</rs> zu verschwin¬
                <lb facs="#facs_3_line_1758955955299_1038" n="N039"/>den — wie er wähnte, für immer.
             </ab>
          </div>

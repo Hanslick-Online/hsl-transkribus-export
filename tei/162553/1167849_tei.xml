@@ -11,7 +11,7 @@
             <bibl>
             <title type="main">1878.06.27</title>
                <idno type="Transkribus">1167849</idno>
-            </bibl>
+            <idno type="external">NA</idno></bibl>
          </sourceDesc>
       </fileDesc>
       <profileDesc>
@@ -20,7 +20,7 @@
    <facsimile>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_1">
          <graphic url="47750837.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=JAAIOZTRBOCRCLZINTGZSRAG&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?fileType=view&amp;id=JAAIOZTRBOCRCLZINTGZSRAG" width="2479px" height="3508px"/>
          <zone points="481,19 1700,19 1700,369 481,369" rendition="TextRegion" xml:id="facs_1_region_1684669861295_656">
             <zone points="595,29 1673,29 1673,382 595,382" rendition="Line" xml:id="facs_1_line_1759641274654_13"/>
          </zone>
@@ -149,7 +149,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_2">
          <graphic url="47750838.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=WLUYUWWLIRVZFOSOXSVJJQJK&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?fileType=view&amp;id=WLUYUWWLIRVZFOSOXSVJJQJK" width="2479px" height="3508px"/>
          <zone points="105,2302 831,2302 831,3411 105,3411" rendition="TextRegion" xml:id="facs_2_region_1684669891032_678">
             <zone points="103,2283 813,2283 813,2352 103,2352" rendition="Line" xml:id="facs_2_region_1684669891032_678_tl_1"/>
             <zone points="103,2346 806,2346 806,2378 103,2378" rendition="Line" xml:id="facs_2_region_1684669891032_678_tl_2"/>
@@ -273,7 +273,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_3">
          <graphic url="47750839.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=BYOTJCAWRDXFDHYKKEEXZQGL&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?fileType=view&amp;id=BYOTJCAWRDXFDHYKKEEXZQGL" width="2479px" height="3508px"/>
          <zone points="49,2321 777,2321 777,3447 49,3447" rendition="TextRegion" xml:id="facs_3_region_1684669908071_690">
             <zone points="49,2322 739,2322 739,2366 49,2366" rendition="Line" xml:id="facs_3_region_1684669908071_690_tl_1"/>
             <zone points="53,2357 746,2357 746,2403 53,2403" rendition="Line" xml:id="facs_3_region_1684669908071_690_tl_2"/>
@@ -370,19 +370,19 @@
                <lb facs="#facs_1_line_1759641370832_26" n="N001"/>Nr. 4968. Wien, Dienstag, den 27. Juni 1878
             </ab>
             <ab facs="#facs_1_region_1684669875768_666" type="">
-               <lb facs="#facs_1_region_1684669875768_666_tl_2" n="N001"/>Musikalische Briefe aus Paris. III.
-               <lb facs="#facs_1_region_1684669875768_666_tl_3" n="N002"/>(Kammermusik, französische und fremde Orchester-Concert.)
+               <lb facs="#facs_1_region_1684669875768_666_tl_2" n="N001"/>Musikalische Briefe aus <rs type="place">Paris</rs>. III.
+               <lb facs="#facs_1_region_1684669875768_666_tl_3" n="N002"/>(Kammermusik, <rs type="place">französisch</rs>e und fremde Orchester-Concert.)
                <lb facs="#facs_1_region_1684669875768_666_tl_4" n="N003"/><italic><rs type="place">Paris</rs></italic>, 24. Juni.
                <lb facs="#facs_1_region_1684669875768_666_tl_5" n="N004"/>Ed. H. Die officiellen Weltausstellungs-Concerte
                <lb facs="#facs_1_region_1684669875768_666_tl_6" n="N005"/>schreiten mit Meilenstiefeln vorwärts — ich will nicht be¬
                <lb facs="#facs_1_line_1759641395267_36" n="N006"/>haupten in der öffentlichen Gunst. Das erste Orchester¬
                <lb facs="#facs_1_region_1684669875768_666_tl_8" n="N007"/>Concert im großen Festsaal des Trocadero besaß einen starken
                <lb facs="#facs_1_region_1684669875768_666_tl_9" n="N008"/>Magnet an der Neuheit des Saales selbst. Schon das
-               <lb facs="#facs_1_region_1684669875768_666_tl_10" n="N009"/>zweite (welches eine Ouvertüre von <italic><rs type="person">Lalò</rs></italic>, Opern- und
-               <lb facs="#facs_1_region_1684669875768_666_tl_11" n="N010"/>Balletfragmente von <italic><rs type="person">Deldevez</rs></italic> und <italic><rs type="person">Bizet</rs></italic>, eine Sym¬
-               <lb facs="#facs_1_line_1759641418919_47" n="N011"/>phonie von <italic><rs type="person">Gouvy</rs></italic> und schließlich die „Zampa“-Ouvertüre
+               <lb facs="#facs_1_region_1684669875768_666_tl_10" n="N009"/>zweite (welches eine <work>Ouvertüre</work> von <italic><rs type="person">Lalò</rs></italic>, Opern- und
+               <lb facs="#facs_1_region_1684669875768_666_tl_11" n="N010"/>Balletfragmente von <italic><rs type="person">Deldevez</rs></italic> und <italic><rs type="person">Bizet</rs></italic>, eine <work continued="true">Sym¬</work>
+               <lb facs="#facs_1_line_1759641418919_47" n="N011"/><work continued="true">phonie</work> von <italic><rs type="person">Gouvy</rs></italic> und schließlich die <work>„Zampa“-Ouvertüre</work>
                <lb facs="#facs_1_region_1684669875768_666_tl_13" n="N012"/>brachte) versammelte nur halb so viel Zuhörer. Auch die
-               <lb facs="#facs_1_region_1684669875768_666_tl_14" n="N013"/>beiden ersten Productionen französischer Kammermusik im
+               <lb facs="#facs_1_region_1684669875768_666_tl_14" n="N013"/>beiden ersten Productionen <rs type="place">französisch</rs>er Kammermusik im
                <lb facs="#facs_1_line_1759641487749_78" n="N014"/>keinen Saal (Salle des conférences) lockten nur ein mäßiges
                <lb facs="#facs_1_region_1684669875768_666_tl_15" n="N015"/>Häuflein Musikfreunde an, das gleich beim Eintritt seltsam
                <lb facs="#facs_1_line_1759641528430_93" n="N016"/>fragende Blicke austauschte. Es starren uns nämlich in
@@ -400,28 +400,28 @@
                <lb facs="#facs_1_line_1759641618982_137" n="N028"/>müthige Eindruck unauslöschlich. Das Programm beein¬
                <lb facs="#facs_1_region_1684669875768_666_tl_24" n="N029"/>trächtigte der gleiche Fehler, wie die besprochene Orchester-
                <lb facs="#facs_1_region_1684669875768_666_tl_25" n="N030"/>Production, ein Fehler, der mit jedem weiteren Concert
-               <lb facs="#facs_1_region_1684669875768_666_tl_26" n="N031"/>empfindlicher anschwillt: sein ausschließlich französischer Inhalt.
-               <lb facs="#facs_1_region_1684669875768_666_tl_27" n="N032"/>Dem Mangel an französischen Original-Symphonien suchen
+               <lb facs="#facs_1_region_1684669875768_666_tl_26" n="N031"/>empfindlicher anschwillt: sein ausschließlich <rs type="place">französisch</rs>er Inhalt.
+               <lb facs="#facs_1_region_1684669875768_666_tl_27" n="N032"/>Dem Mangel an <rs type="place">französisch</rs>en Original-Symphonien suchen
                <lb facs="#facs_1_region_1684669875768_666_tl_28" n="N033"/>die großen Orchester-Concerte durch zahlreiche Opernfragmente
                <lb facs="#facs_1_line_1759642540462_515" n="N034"/>abzuhelfen, welche natürlich im Concertsaal ihre halbe Wir¬
             </ab>
             <ab facs="#facs_1_region_1684669878715_669" type="">
                <lb facs="#facs_1_region_1684669878715_669_tl_1" n="N001"/>kung — und sie haben oft nicht mehr — einbüßen. Im
                <lb facs="#facs_1_region_1684669878715_669_tl_2" n="N002"/>kleinen Saal geht man noch einen Schritt weiter und spielt
-               <lb facs="#facs_1_region_1684669878715_669_tl_3" n="N003"/>mitunter arrangirte Orchester-Compositionen als „französische
+               <lb facs="#facs_1_region_1684669878715_669_tl_3" n="N003"/>mitunter arrangirte Orchester-Compositionen als „<rs type="place">französisch</rs>e
                <lb facs="#facs_1_region_1684669878715_669_tl_4" n="N004"/>Kammermusik“. So zum Beispiele ein Andantino aus
-               <lb facs="#facs_1_line_1759641441640_58" n="N005"/><italic><rs type="person">Lalò</rs>'s</italic> Oper „Fiesko“, für acht Instrumente arrangirt, ein
-               <lb facs="#facs_1_region_1684669878715_669_tl_6" n="N006"/>Bratschen-Concert von <italic><rs type="person">Garcin</rs></italic> etc. Die erste Kammer¬
-               <lb facs="#facs_1_region_1684669878715_669_tl_7" n="N007"/>production eröffnete ein Quintett von <italic><rs type="person">Onslow</rs></italic>, die zweite
-               <lb facs="#facs_1_line_1759641461374_67" n="N008"/>ein Quartett von <italic><rs type="person">Cherubini</rs></italic>. Mit diesen beiden Compo¬
+               <lb facs="#facs_1_line_1759641441640_58" n="N005"/><italic><rs type="person">Lalò</rs>'s</italic> Oper „<work>Fiesko</work>“, für acht Instrumente arrangirt, ein
+               <lb facs="#facs_1_region_1684669878715_669_tl_6" n="N006"/><work>Bratschen-Concert</work> von <italic><rs type="person">Garcin</rs></italic> etc. Die erste Kammer¬
+               <lb facs="#facs_1_region_1684669878715_669_tl_7" n="N007"/>production eröffnete ein <work>Quintett</work> von <italic><rs type="person">Onslow</rs></italic>, die zweite
+               <lb facs="#facs_1_line_1759641461374_67" n="N008"/>ein <work>Quartett</work> von <italic><rs type="person">Cherubini</rs></italic>. Mit diesen beiden Compo¬
                <lb facs="#facs_1_region_1684669878715_669_tl_9" n="N009"/>nisten, dem Halb-Engländer und dem acclimatisirten Italiener,
                <lb facs="#facs_1_line_1759641395267_35" n="N010"/>hatten die Franzosen ihre vornehmsten, ja einzigen Be¬
                <lb facs="#facs_1_region_1684669878715_669_tl_10" n="N011"/>rühmtheiten in der Quartettmusik ausgespielt. Alles
                <lb facs="#facs_1_region_1684669878715_669_tl_11" n="N012"/>Uebrige stammte von Meistern, die noch am Leben
                <lb facs="#facs_1_region_1684669878715_669_tl_12" n="N013"/>und, dem Augenschein nach, sogar lebendiger sind,
                <lb facs="#facs_1_region_1684669878715_669_tl_13" n="N014"/>als ihre Werke. Es blinken recht geistreiche graziöse
-               <lb facs="#facs_1_line_1759641418919_46" n="N015"/>Momente aus diesen Compositionen von Lalò, Del¬
-               <lb facs="#facs_1_region_1684669878715_669_tl_14" n="N016"/>devez, Garcin, Gouvy, Massenet, Widor, Morel, an Ge¬
+               <lb facs="#facs_1_line_1759641418919_46" n="N015"/>Momente aus diesen Compositionen von <rs type="person">Lalò</rs>, <rs type="person" continued="true">Del¬</rs>
+               <lb facs="#facs_1_region_1684669878715_669_tl_14" n="N016"/><rs type="person" continued="true">devez</rs>, <rs type="person">Garcin</rs>, <rs type="person">Gouvy</rs>, <rs type="person">Massenet</rs>, <rs type="person">Widor</rs>, <rs type="person">Morel</rs>, an Ge¬
                <lb facs="#facs_1_region_1684669878715_669_tl_15" n="N017"/>schicklichkeit fehlt es fast Keinem — aber das Alles ist nicht
                <lb facs="#facs_1_line_1759641487749_77" n="N018"/>Musik von der Quelle, sondern abgeleitete, durch Röhren ge¬
                <lb facs="#facs_1_region_1684669878715_669_tl_17" n="N019"/>führt, filtrirt. Wir bleiben durstig dabei und wollen doch
@@ -429,60 +429,60 @@
                <lb facs="#facs_1_region_1684669878715_669_tl_19" n="N021"/>musik kann nur in kleinen Dosen, zwischen anderen soliden
                <lb facs="#facs_1_region_1684669878715_669_tl_20" n="N022"/>Gerichten genossen werden, nicht aber massenhaft und aus¬
                <lb facs="#facs_1_line_1759641548717_104" n="N023"/>schließlich. Ein beliebiger Satz aus einem beliebigen Quartett
-               <lb facs="#facs_1_line_1759641651765_147" n="N024"/>von Mozart, Beethoven oder Schubert müßte wie eine
+               <lb facs="#facs_1_line_1759641651765_147" n="N024"/>von <rs type="person">Mozart</rs>, <rs type="person">Beethoven</rs> oder <rs type="person">Schubert</rs> müßte wie eine
                <lb facs="#facs_1_region_1684669878715_669_tl_22" n="N025"/>feurige Sonne über diesen bleich flackernden Lichtchen auf¬
                <lb facs="#facs_1_region_1684669878715_669_tl_23" n="N026"/>geben und einen Schrei des Jubels hervorrufen. Das fühlt
                <lb facs="#facs_1_region_1684669878715_669_tl_24" n="N027"/>am Ende jeder musikalische Mensch, und da doch schließlich
                <lb facs="#facs_1_line_1759641570694_114" n="N028"/>Einer dem Andern diese Bedrängniß eingesteht, so dürften die
-               <lb facs="#facs_1_region_1684669878715_669_tl_26" n="N029"/>officiell-französischen Concerte in ihrem langen Verlauf an
+               <lb facs="#facs_1_region_1684669878715_669_tl_26" n="N029"/>officiell-<rs type="place">französisch</rs>en Concerte in ihrem langen Verlauf an
                <lb facs="#facs_1_region_1684669878715_669_tl_27" n="N030"/>Besuch nicht zunehmen. Die Franzosen brilliren in der Oper,
                <lb facs="#facs_1_line_1759641595397_126" n="N031"/>nicht in der Instrumentalmusik, darum begehen sie ein Un¬
-               <lb facs="#facs_1_line_1759641618981_136" n="N032"/>recht gegen sich selbst, indem sie Auber, Herold, Halévy,
-               <lb facs="#facs_1_region_1684669878715_669_tl_30" n="N033"/>Gounod durch symphonische Stücke repräsentiren. Den ein¬
+               <lb facs="#facs_1_line_1759641618981_136" n="N032"/>recht gegen sich selbst, indem sie <rs type="person">Auber</rs>, <rs type="person">Herold</rs>, <rs type="person">Halévy</rs>,
+               <lb facs="#facs_1_region_1684669878715_669_tl_30" n="N033"/><rs type="person">Gounod</rs> durch symphonische Stücke repräsentiren. Den ein¬
                <lb facs="#facs_1_region_1684669878715_669_tl_31" n="N034"/>zigen Ausweg, dieser Monotonie halbwegs zu entkommen, sie
-               <lb facs="#facs_1_region_1684669878715_669_tl_32" n="N035"/>mindestens belehrend zu gestalten, hat die französische Com¬
+               <lb facs="#facs_1_region_1684669878715_669_tl_32" n="N035"/>mindestens belehrend zu gestalten, hat die <rs type="place">französisch</rs>e Com¬
                <lb facs="#facs_1_region_1684669878715_669_tl_33" n="N036"/>mission sich ganz unnöthig mit der Jahreszahl <date month="0" day="0" year="0"><italic>1830</italic></date>, dem
                <lb facs="#facs_1_region_1684669878715_669_tl_34" n="N037"/>Ausgangspunkt ihrer Concerte, abgeschnitten. Compositionen
-               <lb facs="#facs_1_line_1759642542934_518" n="N038"/>von Lully, Campra, Rameau und Rousseau, hierauf von den
+               <lb facs="#facs_1_line_1759642542934_518" n="N038"/>von <rs type="person">Lully</rs>, <rs type="person">Campra</rs>, <rs type="person">Rameau</rs> und <rs type="person">Rousseau</rs>, hierauf von den
             </ab>
             <ab facs="#facs_1_region_1684669881392_672" type="">
                <lb facs="#facs_1_region_1684669881392_672_tl_1" n="N001"/>gefeierten Tondichtern der Revolutions- und Kaiserzeit hätten,
                <lb facs="#facs_1_region_1684669881392_672_tl_2" n="N002"/>chronologisch geordnet, hohes Interesse gewährt und dem
-               <lb facs="#facs_1_region_1684669881392_672_tl_3" n="N003"/>französischen Genius keine Unehre gemacht. Ist denn der
+               <lb facs="#facs_1_region_1684669881392_672_tl_3" n="N003"/><rs type="place">französisch</rs>en Genius keine Unehre gemacht. Ist denn der
                <lb facs="#facs_1_region_1684669881392_672_tl_4" n="N004"/>historische Sinn hier ganz abhanden gekommen? Konnt er,
                <lb facs="#facs_1_line_1759641441639_57" n="N005"/>vom Concertsaal zurückgewiesen, nicht wenigstens ein Asyl
                <lb facs="#facs_1_region_1684669881392_672_tl_5" n="N006"/>im Theater finden? An den Vorbereitungen zur Weltaus¬
                <lb facs="#facs_1_region_1684669881392_672_tl_6" n="N007"/>stellung arbeitet man seit drei Jahren. Dieser Zeitraum hätte
-               <lb facs="#facs_1_line_1759641461374_66" n="N008"/>wol genügt, um einige der besten französischen Opern älterer
+               <lb facs="#facs_1_line_1759641461374_66" n="N008"/>wol genügt, um einige der besten <rs type="place">französisch</rs>en Opern älterer
                <lb facs="#facs_1_region_1684669881392_672_tl_7" n="N009"/>Epoche einzustudiren und die von der Regierung subven¬
                <lb facs="#facs_1_region_1684669881392_672_tl_8" n="N010"/>tionirten drei Opernbühnen dazu zu verhalten. Das wäre
-               <lb facs="#facs_1_region_1684669881392_672_tl_9" n="N011"/>einer Weltausstellung würdig und für den Ruhm fran¬
-               <lb facs="#facs_1_region_1684669881392_672_tl_10" n="N012"/>zösischer Musik gedeihlicher gewesen, als die lange Procession
+               <lb facs="#facs_1_region_1684669881392_672_tl_9" n="N011"/>einer Weltausstellung würdig und für den Ruhm <rs type="place" continued="true">fran¬</rs>
+               <lb facs="#facs_1_region_1684669881392_672_tl_10" n="N012"/><rs type="place" continued="true">zösisch</rs>er Musik gedeihlicher gewesen, als die lange Procession
                <lb facs="#facs_1_region_1684669881392_672_tl_11" n="N013"/>officieller Concerte. Ehedem bedurfte es gar keiner Weltaus¬
                <lb facs="#facs_1_region_1684669881392_672_tl_12" n="N014"/>stellung und keines Auftrags, um die lyrischen Theater an
                <lb facs="#facs_1_region_1684669881392_672_tl_13" n="N015"/>das ältere Repertoire zu erinnern; sie widmeten ihm in der
                <lb facs="#facs_1_region_1684669881392_672_tl_14" n="N016"/>Regel den Sonntag, und noch vor drei Jahren konnte ich in
-               <lb facs="#facs_1_region_1684669881392_672_tl_15" n="N017"/>der „Neuen Freien Presse“ über die Aufführung <italic><rs type="person">Grétry</rs></italic>'¬
+               <lb facs="#facs_1_region_1684669881392_672_tl_15" n="N017"/>der „<work>Neuen Freien Presse</work>“ über die Aufführung <italic><rs type="person">Grétry</rs></italic>'¬
                <lb facs="#facs_1_region_1684669881392_672_tl_16" n="N018"/>scher und <italic><rs type="person">Isouard</rs></italic>'scher Opern von hier berichten. Jetzt
                <lb facs="#facs_1_region_1684669881392_672_tl_17" n="N019"/>denkt weder die Opéra Comique noch das Théâtre Lyrique
                <lb facs="#facs_1_region_1684669881392_672_tl_18" n="N020"/>daran. Die Große Oper vollends hat nie daran gedacht;
-               <lb facs="#facs_1_region_1684669881392_672_tl_19" n="N021"/>sie kennt weder „Alceste“ oder „Armida“, weder „Ferdinand
-               <lb facs="#facs_1_region_1684669881392_672_tl_20" n="N022"/>Cortez“ noch die „Vestalin“, ja ihr Gedächtniß ist so kurz,
+               <lb facs="#facs_1_region_1684669881392_672_tl_19" n="N021"/>sie kennt weder „<work>Alceste</work>“ oder „<work>Armida</work>“, weder „<work continued="true">Ferdinand</work>
+               <lb facs="#facs_1_region_1684669881392_672_tl_20" n="N022"/><work continued="true">Cortez</work>“ noch die „<work>Vestalin</work>“, ja ihr Gedächtniß ist so kurz,
                <lb facs="#facs_1_region_1684669881392_672_tl_21" n="N023"/>daß sie nicht einmal <italic><rs type="person">Auber</rs>'s</italic> sich mehr erinnert. Als am
-               <lb facs="#facs_1_line_1759641651765_146" n="N024"/>29. Januar 1877, nach der Enthüllung seines Denkmals
-               <lb facs="#facs_1_region_1684669881392_672_tl_23" n="N025"/>auf dem Père-Lachaise, eine große Erinnerungsfeier für
-               <lb facs="#facs_1_region_1684669881392_672_tl_24" n="N026"/><italic><rs type="person">Auber</rs></italic> stattfand, war nicht einmal die „Stumme von Por¬
-               <lb facs="#facs_1_region_1684669881392_672_tl_25" n="N027"/>tici“ vorbereitet, die Große Oper gab nur ein Fragment und
+               <lb facs="#facs_1_line_1759641651765_146" n="N024"/>29. Januar <date month="0" day="0" year="0">1877</date>, nach der Enthüllung seines Denkmals
+               <lb facs="#facs_1_region_1684669881392_672_tl_23" n="N025"/>auf dem <rs type="place">Père-Lachaise</rs>, eine große Erinnerungsfeier für
+               <lb facs="#facs_1_region_1684669881392_672_tl_24" n="N026"/><italic><rs type="person">Auber</rs></italic> stattfand, war nicht einmal die „<work continued="true">Stumme von Por¬</work>
+               <lb facs="#facs_1_region_1684669881392_672_tl_25" n="N027"/><work continued="true">tici</work>“ vorbereitet, die Große Oper gab nur ein Fragment und
                <lb facs="#facs_1_region_1684669881392_672_tl_26" n="N028"/>dazu ein Pasticcio aus verschiedenen (auch nicht-<italic><rs type="person">Auber</rs></italic>'¬
                <lb facs="#facs_1_region_1684669881392_672_tl_27" n="N029"/>schen) Opern. Zeit genug hatte man zur Vorbereitung,
-               <lb facs="#facs_1_region_1684669881392_672_tl_28" n="N030"/>denn Auber ist bekanntlich am 13. Mai 1871, also sechsthalb
+               <lb facs="#facs_1_region_1684669881392_672_tl_28" n="N030"/>denn <rs type="person">Auber</rs> ist bekanntlich am 13. Mai <date month="0" day="0" year="0">1871</date>, also sechsthalb
                <lb facs="#facs_1_region_1684669881392_672_tl_29" n="N031"/>Jahre früher, gestorben. Es ist einfach eine Schande; die
-               <lb facs="#facs_1_region_1684669881392_672_tl_30" n="N032"/>Pariser Große Oper hat heute noch weder die „Stumme“,
-               <lb facs="#facs_1_region_1684669881392_672_tl_31" n="N033"/>noch sonst ein Werk von Auber auf dem Repertoire.
-               <lb facs="#facs_1_region_1684669881392_672_tl_32" n="N034"/>Außer der französischen Musik sollen im Trocadero-
+               <lb facs="#facs_1_region_1684669881392_672_tl_30" n="N032"/><rs type="place">Paris</rs>er Große Oper hat heute noch weder die „<work>Stumme</work>“,
+               <lb facs="#facs_1_region_1684669881392_672_tl_31" n="N033"/>noch sonst ein Werk von <rs type="person">Auber</rs> auf dem Repertoire.
+               <lb facs="#facs_1_region_1684669881392_672_tl_32" n="N034"/>Außer der <rs type="place">französisch</rs>en Musik sollen im Trocadero-
                <lb facs="#facs_1_region_1684669881392_672_tl_33" n="N035"/>Saale auch die Compositionen <italic>fremder</italic> Nationen von
-               <lb facs="#facs_1_region_1684669881392_672_tl_34" n="N036"/>eigens eingeladenen italienischen, russischen, spanischen, eng¬
-               <lb facs="#facs_1_region_1684669881392_672_tl_35" n="N037"/>lischen Orchestern in einer langen Reihe von Concerten
+               <lb facs="#facs_1_region_1684669881392_672_tl_34" n="N036"/>eigens eingeladenen <rs type="place">italienisch</rs>en, <rs type="place">russisch</rs>en, <rs type="place">spanisch</rs>en, <rs type="place" continued="true">eng¬</rs>
+               <lb facs="#facs_1_region_1684669881392_672_tl_35" n="N037"/><rs type="place" continued="true">lisch</rs>en Orchestern in einer langen Reihe von Concerten
                <lb facs="#facs_1_line_1759642545493_521" n="N038"/>repräsentirt werden. Ein anscheinend großartiger Gedanke
             </ab>
             <pb facs="#facs_2" n="2" xml:id="img_0002"/>
@@ -490,23 +490,23 @@
                <lb facs="#facs_2_region_1684669891032_678_tl_1" n="N001"/>in Wirklichkeit ein unpraktischer. Die Holländer haben mit
                <lb facs="#facs_2_region_1684669891032_678_tl_2" n="N002"/>dem Concertiren angefangen; neun Zehntel des großen Tro¬
                <lb facs="#facs_2_region_1684669891032_678_tl_3" n="N003"/>radero-Saales blieben leer. Und doch steht das Orchester
-               <lb facs="#facs_2_region_1684669891032_678_tl_4" n="N004"/>von Amsterdam im besten Rufe und fand auch hier lauter
+               <lb facs="#facs_2_region_1684669891032_678_tl_4" n="N004"/>von <rs type="place">Amsterdam</rs> im besten Rufe und fand auch hier lauter
                <lb facs="#facs_2_region_1684669891032_678_tl_5" n="N005"/>anerkennende Stimmen. Nur fand es nicht genug Leute, die
                <lb facs="#facs_2_region_1684669891032_678_tl_6" n="N006"/>eine unbezwingliche Sehnsucht nach einem Dutzend Orchester¬
-               <lb facs="#facs_2_line_1759641719862_163" n="N007"/>werke unbekannter holländischer Componisten empfunden hätten.
+               <lb facs="#facs_2_line_1759641719862_163" n="N007"/>werke unbekannter <rs type="place">holländisch</rs>er Componisten empfunden hätten.
                <lb facs="#facs_2_region_1684669891032_678_tl_8" n="N008"/>Es zeigt sich, daß die Tausende, welche hieher kommen, um
-               <lb facs="#facs_2_region_1684669891032_678_tl_9" n="N009"/>Paris und die Weltausstellung zu sehen, keineswegs auch
+               <lb facs="#facs_2_region_1684669891032_678_tl_9" n="N009"/><rs type="place">Paris</rs> und die Weltausstellung zu sehen, keineswegs auch
                <lb facs="#facs_2_region_1684669891032_678_tl_10" n="N010"/>beabsichtigen, sich wöchentlich vier- bis fünfmal in einen
                <lb facs="#facs_2_region_1684669891032_678_tl_11" n="N011"/>Concertsaal zu sperren. Musik gehört zu jeder Weltausstel¬
                <lb facs="#facs_2_region_1684669891032_678_tl_12" n="N012"/>lung ohne Frage, aber wir denken sie uns anders. Wohin
                <lb facs="#facs_2_line_1759641744422_177" n="N013"/>drängen sich am liebsten die Besucher des Marsfeldes?
-               <lb facs="#facs_2_line_1759641749246_181" n="N014"/>Rings um die ungarische „Czarda“, wenn die Zigeuner
-               <lb facs="#facs_2_region_1684669891032_678_tl_17" n="N015"/>spielen. Sogar zum marokkanischen Kaffeehause, sobald nur
-               <lb facs="#facs_2_region_1684669891032_678_tl_18" n="N016"/>der drollige Jammer des kleinen orientalischen Orchesters
-               <lb facs="#facs_2_region_1684669891032_678_tl_19" n="N017"/>laut wird. Gabe es ein freundliches Tirolerhaus auf der
+               <lb facs="#facs_2_line_1759641749246_181" n="N014"/>Rings um die <rs type="place">ungarisch</rs>e „Czarda“, wenn die Zigeuner
+               <lb facs="#facs_2_region_1684669891032_678_tl_17" n="N015"/>spielen. Sogar zum <rs type="place">marokkanisch</rs>en Kaffeehause, sobald nur
+               <lb facs="#facs_2_region_1684669891032_678_tl_18" n="N016"/>der drollige Jammer des kleinen <rs type="place">orientalisch</rs>en Orchesters
+               <lb facs="#facs_2_region_1684669891032_678_tl_19" n="N017"/>laut wird. Gabe es ein freundliches <rs type="place">Tirol</rs>erhaus auf der
                <lb facs="#facs_2_region_1684669891032_678_tl_20" n="N018"/>Ausstellung, von dessen Flur die Stimmen der trefflichen
                <lb facs="#facs_2_region_1684669891032_678_tl_21" n="N019"/><italic><rs type="person">Rainer</rs></italic>'schen Sänger erklängen, des Zudranges wäre kein
-               <lb facs="#facs_2_region_1684669891032_678_tl_22" n="N020"/>Ende. Ja, das gewöhnlichste Wiener Tanz-Orchester würde
+               <lb facs="#facs_2_region_1684669891032_678_tl_22" n="N020"/>Ende. Ja, das gewöhnlichste <rs type="place">Wien</rs>er Tanz-Orchester würde
                <lb facs="#facs_2_region_1684669891032_678_tl_23" n="N021"/>mit Walzern von <italic><rs type="person">Strauß</rs></italic> und <italic><rs type="person">Lanner</rs></italic> die ganze Aus¬
                <lb facs="#facs_2_region_1684669891032_678_tl_24" n="N022"/>stellung wunderbar beleben; die weiten, schönen Garten¬
                <lb facs="#facs_2_region_1684669891032_678_tl_25" n="N023"/>anlagen schmachten förmlich nach Musik. Dergleichen Pro¬
@@ -516,13 +516,13 @@
                <lb facs="#facs_2_region_1684669891032_678_tl_29" n="N027"/>steifen Concerte in dem riesigen Trocadero-Saale nicht
                <lb facs="#facs_2_region_1684669891032_678_tl_30" n="N028"/>ersetzen.
                <lb facs="#facs_2_region_1684669891032_678_tl_31" n="N029"/>Nach den Holländern kamen die Italiener, repräsentirt
-               <lb facs="#facs_2_region_1684669891032_678_tl_32" n="N030"/>durch das Scala-Orchester aus Mailand. Sie haben die (hier
+               <lb facs="#facs_2_region_1684669891032_678_tl_32" n="N030"/>durch das Scala-Orchester aus <rs type="place">Mailand</rs>. Sie haben die (hier
                <lb facs="#facs_2_region_1684669891032_678_tl_33" n="N031"/>unentbehrliche) Kunst der Reclame besser verstanden und zahl¬
-               <lb facs="#facs_2_region_1684669891032_678_tl_34" n="N032"/>reicheren Besuch zu Stande gebracht. Die italienische Colonie
-               <lb facs="#facs_2_region_1684669891032_678_tl_35" n="N033"/>in Paris ist sehr stark und der Applaus war es ebenfalls.
+               <lb facs="#facs_2_region_1684669891032_678_tl_34" n="N032"/>reicheren Besuch zu Stande gebracht. Die <rs type="place">italienisch</rs>e Colonie
+               <lb facs="#facs_2_region_1684669891032_678_tl_35" n="N033"/>in <rs type="place">Paris</rs> ist sehr stark und der Applaus war es ebenfalls.
                <lb facs="#facs_2_region_1684669891032_678_tl_36" n="N034"/>Aber was brachten sie uns? Symphonien, Märsche und
-               <lb facs="#facs_2_region_1684669891032_678_tl_37" n="N035"/>Ouvertüren von Foroni, Catalani, Gomez, Bozzini, Ponchielli,
-               <lb facs="#facs_2_region_1684669891032_678_tl_38" n="N036"/>Faccio, Verdi und Rossini. Ist das nicht die verkehrte Welt?
+               <lb facs="#facs_2_region_1684669891032_678_tl_37" n="N035"/>Ouvertüren von <rs type="person">Foroni</rs>, <rs type="person">Catalani</rs>, <rs type="person">Gomez</rs>, <rs type="person">Bozzini</rs>, <rs type="person">Ponchielli</rs>,
+               <lb facs="#facs_2_region_1684669891032_678_tl_38" n="N036"/><rs type="person">Faccio</rs>, <rs type="person">Verdi</rs> und <rs type="person">Rossini</rs>. Ist das nicht die verkehrte Welt?
                <lb facs="#facs_2_region_1684669891032_678_tl_39" n="N037"/>Von den Italienern wollen wir Sänger und Opern, nicht
                <lb facs="#facs_2_line_1759641765046_188" n="N038"/>aber Orchesterspieler und Symphonien. Sie sind eine musi¬
             </ab>
@@ -532,98 +532,98 @@
                <lb facs="#facs_2_region_1684669894161_681_tl_3" n="N003"/>und die Gesangs-Composition. Nun sollen nacheinander Nord¬
                <lb facs="#facs_2_line_1759641809790_207" n="N004"/>amerikaner, Spanier, Schweden und Dänen folgen mit den
                <lb facs="#facs_2_region_1684669894161_681_tl_5" n="N005"/>neuesten Instrumental-Compositionen ihrer Tondichter. Sehr
-               <lb facs="#facs_2_region_1684669894161_681_tl_6" n="N006"/>schön — aber wo bleiben Bach, Händel, Haydn, Mozart,
-               <lb facs="#facs_2_line_1759641719862_162" n="N007"/>Beethoven, Schubert, Mendelssohn, Schumann? Will man
+               <lb facs="#facs_2_region_1684669894161_681_tl_6" n="N006"/>schön — aber wo bleiben <rs type="person">Bach</rs>, <rs type="person">Händel</rs>, <rs type="person">Haydn</rs>, <rs type="person">Mozart</rs>,
+               <lb facs="#facs_2_line_1759641719862_162" n="N007"/><rs type="person">Beethoven</rs>, <rs type="person">Schubert</rs>, <rs type="person">Mendelssohn</rs>, <rs type="person">Schumann</rs>? Will man
                <lb facs="#facs_2_region_1684669894161_681_tl_7" n="N008"/>wirklich hundertundzwei Concerte (laut officiellem Programm)
                <lb facs="#facs_2_line_1759641842486_220" n="N009"/>mit musikalischer Silber- und Kupfermünze bestreiten und uns
-               <lb facs="#facs_2_region_1684669894161_681_tl_9" n="N010"/>das Gold verstecken? Ja, sagt man uns, das sind deutsche
-               <lb facs="#facs_2_region_1684669894161_681_tl_10" n="N011"/>Tondichter, für die möge Deutschland und Oesterreich sorgen!
-               <lb facs="#facs_2_region_1684669894161_681_tl_11" n="N012"/>Mit Verlaub, ihr Herren, das sind nicht deutsche Tondichter
+               <lb facs="#facs_2_region_1684669894161_681_tl_9" n="N010"/>das Gold verstecken? Ja, sagt man uns, das sind <rs type="place">deutsch</rs>e
+               <lb facs="#facs_2_region_1684669894161_681_tl_10" n="N011"/>Tondichter, für die möge <rs type="place">Deutschland</rs> und <rs type="place">Oesterreich</rs> sorgen!
+               <lb facs="#facs_2_region_1684669894161_681_tl_11" n="N012"/>Mit Verlaub, ihr Herren, das sind nicht <rs type="place">deutsch</rs>e Tondichter
                <lb facs="#facs_2_region_1684669894161_681_tl_12" n="N013"/>in eurem officiellen Sinne, das sind Tondichter der Welt,
                <lb facs="#facs_2_region_1684669894161_681_tl_13" n="N014"/>und wenn die Musik eine Universalsprache ist, so ist sie es
-               <lb facs="#facs_2_region_1684669894161_681_tl_14" n="N015"/>durch diese Sprachmeister geworden. Frankreich, als Hausherr,
+               <lb facs="#facs_2_region_1684669894161_681_tl_14" n="N015"/>durch diese Sprachmeister geworden. <rs type="place">Frankreich</rs>, als Hausherr,
                <lb facs="#facs_2_region_1684669894161_681_tl_15" n="N016"/>mußte die Perlen classischer Musik von seinem besten Orchester
-               <lb facs="#facs_2_line_1759641864325_229" n="N017"/>vortragen lassen. Daß Deutschland die Ausstellung überhaupt
+               <lb facs="#facs_2_line_1759641864325_229" n="N017"/>vortragen lassen. Daß <rs type="place">Deutschland</rs> die Ausstellung überhaupt
                <lb facs="#facs_2_region_1684669894161_681_tl_17" n="N018"/>nicht beschicken werde, das wußten die Franzosen von Anfang
                <lb facs="#facs_2_region_1684669894161_681_tl_18" n="N019"/>her, und wenn sie auf das Philharmonische Orchester von
-               <lb facs="#facs_2_region_1684669894161_681_tl_19" n="N020"/>Wien zählten, so hatten sie eben die Rechnung ohne den Wirth
-               <lb facs="#facs_2_region_1684669894161_681_tl_20" n="N021"/>gemacht. Die französischen Commissäre, welche dem musikali¬
+               <lb facs="#facs_2_region_1684669894161_681_tl_19" n="N020"/><rs type="place">Wien</rs> zählten, so hatten sie eben die Rechnung ohne den Wirth
+               <lb facs="#facs_2_region_1684669894161_681_tl_20" n="N021"/>gemacht. Die <rs type="place">französisch</rs>en Commissäre, welche dem musikali¬
                <lb facs="#facs_2_region_1684669894161_681_tl_21" n="N022"/>schen Theil der Weltausstellung eine unvergleichliche Hingebung
                <lb facs="#facs_2_region_1684669894161_681_tl_22" n="N023"/>widmen, beklagen das Ausbleiben unserer „Philharmoniker“
                <lb facs="#facs_2_region_1684669894161_681_tl_23" n="N024"/>auf das lebhafteste und wir mit ihnen. Dieses Bedauern
                <lb facs="#facs_2_region_1684669894161_681_tl_24" n="N025"/>berechtigt uns jedoch nicht, den Philharmonikern ihr Fern¬
-               <lb facs="#facs_2_region_1684669894161_681_tl_25" n="N026"/>bleiben von Paris zum Vorwurf zu machen. Sie wären „la
+               <lb facs="#facs_2_region_1684669894161_681_tl_25" n="N026"/>bleiben von <rs type="place">Paris</rs> zum Vorwurf zu machen. Sie wären „la
                <lb facs="#facs_2_region_1684669894161_681_tl_26" n="N027"/>fine fleur“ dieser Concerte gewesen, klagten mir die Franzosen.
                <lb facs="#facs_2_region_1684669894161_681_tl_27" n="N028"/>Das ist sehr liebenswürdig und nebenbei auch wahr. Die
-               <lb facs="#facs_2_region_1684669894161_681_tl_28" n="N029"/>Wiener „Philharmoniker“ sind so gewiß ein Orchester ersten
+               <lb facs="#facs_2_region_1684669894161_681_tl_28" n="N029"/><rs type="place">Wien</rs>er „Philharmoniker“ sind so gewiß ein Orchester ersten
                <lb facs="#facs_2_region_1684669894161_681_tl_29" n="N030"/>Ranges, als <italic><rs type="person">Faure</rs></italic> ein Sänger ersten Ranges ist. Aber
-               <lb facs="#facs_2_line_1759641906519_240" n="N031"/>wenn wir Herrn Faure in Wien hören wollen, müssen wir
-               <lb facs="#facs_2_region_1684669894161_681_tl_31" n="N032"/>ihn bezahlen, und — Herr Faure ist ein reicher Mann. Wir
+               <lb facs="#facs_2_line_1759641906519_240" n="N031"/>wenn wir Herrn <rs type="person">Faure</rs> in <rs type="place">Wien</rs> hören wollen, müssen wir
+               <lb facs="#facs_2_region_1684669894161_681_tl_31" n="N032"/>ihn bezahlen, und — Herr <rs type="person">Faure</rs> ist ein reicher Mann. Wir
                <lb facs="#facs_2_region_1684669894161_681_tl_32" n="N033"/>stehen vor einem angeblich delicaten Punkt, der aber um so
                <lb facs="#facs_2_region_1684669894161_681_tl_33" n="N034"/>herzhafter angefaßt werden muß. Wenn nahezu hundert
                <lb facs="#facs_2_region_1684669894161_681_tl_34" n="N035"/>Musiker, die von ihrer Kunst leben, die weite Reise nach
-               <lb facs="#facs_2_region_1684669894161_681_tl_35" n="N036"/>Paris machen und dort zwei bis drei Wochen zehren sollen,
+               <lb facs="#facs_2_region_1684669894161_681_tl_35" n="N036"/><rs type="place">Paris</rs> machen und dort zwei bis drei Wochen zehren sollen,
                <lb facs="#facs_2_region_1684669894161_681_tl_36" n="N037"/>um zur Verschönerung der Weltausstellung aufzuspielen —
                <lb facs="#facs_2_line_1759641791518_196" n="N038"/>wer entschädigt sie dafür ? Kann man billigerweise verlangen,
             </ab>
             <ab facs="#facs_2_region_1684669897767_684" type="">
                <lb facs="#facs_2_region_1684669897767_684_tl_1" n="N001"/>sie möchten dies auf ihre Kosten thun? Es war, meinen wir,
-               <lb facs="#facs_2_region_1684669897767_684_tl_2" n="N002"/>ein Versehen der französischen General-Commission, daß sie nicht
+               <lb facs="#facs_2_region_1684669897767_684_tl_2" n="N002"/>ein Versehen der <rs type="place">französisch</rs>en General-Commission, daß sie nicht
                <lb facs="#facs_2_region_1684669897767_684_tl_3" n="N003"/>für jene fremden Orchester, auf deren Mitwirkung sie Werth legte,
                <lb facs="#facs_2_line_1759641809790_206" n="N004"/>eine angemessene Reise-Entschädigung und Garantie des Concert-
-               <lb facs="#facs_2_region_1684669897767_684_tl_4" n="N005"/>Erträgnisses von vornherein bewilligte. Wir lesen in franzö¬
-               <lb facs="#facs_2_region_1684669897767_684_tl_5" n="N006"/>sischen Blättern: „Der Grund, warum kein belgisches Orchester
+               <lb facs="#facs_2_region_1684669897767_684_tl_4" n="N005"/>Erträgnisses von vornherein bewilligte. Wir lesen in <rs type="place" continued="true">franzö¬</rs>
+               <lb facs="#facs_2_region_1684669897767_684_tl_5" n="N006"/><rs type="place" continued="true">sisch</rs>en Blättern: „Der Grund, warum kein <rs type="place">belgisch</rs>es Orchester
                <lb facs="#facs_2_region_1684669897767_684_tl_6" n="N007"/>sich an der Weltausstellung betheiligt, ist lediglich ein <italic continued="true">finan¬</italic>
                <lb facs="#facs_2_region_1684669897767_684_tl_7" n="N008"/><italic continued="true">zieller</italic>.“ Wenn nun diese „Question d'argent“ die
                <lb facs="#facs_2_line_1759641842486_219" n="N009"/>Musiker des benachbarten <italic><rs type="place">Brüssel</rs></italic> von der Reise nach
-               <lb facs="#facs_2_region_1684669897767_684_tl_8" n="N010"/>Paris abhält, wie viel zwingender stellt sie sich gegen die
+               <lb facs="#facs_2_region_1684669897767_684_tl_8" n="N010"/><rs type="place">Paris</rs> abhält, wie viel zwingender stellt sie sich gegen die
                <lb facs="#facs_2_region_1684669897767_684_tl_9" n="N011"/>Musiker von <italic><rs type="place">Wien</rs></italic>! Eine Empfindlichkeit von Seiten der
                <lb facs="#facs_2_region_1684669897767_684_tl_10" n="N012"/>Franzosen kann diesfalls nicht ernst gemeint sein und ist es
                <lb facs="#facs_2_region_1684669897767_684_tl_11" n="N013"/>auch nicht. Wir könnten ja unsererseits fragen: Würde das
-               <lb facs="#facs_2_region_1684669897767_684_tl_12" n="N014"/>Pariser Conservatoriums-Orchester im Jahre 1873 zur
+               <lb facs="#facs_2_region_1684669897767_684_tl_12" n="N014"/><rs type="place">Paris</rs>er Conservatoriums-Orchester im Jahre <date month="0" day="0" year="0">1873</date> zur
                <lb facs="#facs_2_region_1684669897767_684_tl_13" n="N015"/>Weltausstellung gekommen sein, falls die Wiener es gewünscht
                <lb facs="#facs_2_region_1684669897767_684_tl_14" n="N016"/>hätten? Gewiß nicht; denn, merkwürdig genug, es hat dieses
-               <lb facs="#facs_2_line_1759641864325_228" n="N017"/>berühmte Pariser Orchester sogar seine Mitwirkung an den
+               <lb facs="#facs_2_line_1759641864325_228" n="N017"/>berühmte <rs type="place">Paris</rs>er Orchester sogar seine Mitwirkung an den
                <lb facs="#facs_2_region_1684669897767_684_tl_15" n="N018"/>Trocadero-Concerten verweigert. In der That, bei diesen
-               <lb facs="#facs_2_region_1684669897767_684_tl_16" n="N019"/>„officiellen“ Concerten fehlt das beste Orchester Frankreichs,
+               <lb facs="#facs_2_region_1684669897767_684_tl_16" n="N019"/>„officiellen“ Concerten fehlt das beste Orchester <rs type="place">Frankreich</rs>s,
                <lb facs="#facs_2_region_1684669897767_684_tl_17" n="N020"/>dasjenige, welches gerade durch seine musterhaften Aufführun¬
-               <lb facs="#facs_2_region_1684669897767_684_tl_18" n="N021"/>gen classischer Instrumental-Musik, Beethoven'scher Symphonien
+               <lb facs="#facs_2_region_1684669897767_684_tl_18" n="N021"/>gen classischer Instrumental-Musik, <rs type="person">Beethoven</rs>'scher Symphonien
                <lb facs="#facs_2_region_1684669897767_684_tl_19" n="N022"/>vor Allem, einen Weltruf genießt. Auch <italic><rs type="person">Pasdeloup</rs>'s</italic>
                <lb facs="#facs_2_region_1684669897767_684_tl_20" n="N023"/>treffliche „Concerts populaires“ bekommen die Besucher der
                <lb facs="#facs_2_region_1684669897767_684_tl_21" n="N024"/>Weltausstellung nicht zu hören. Für die Zurückhaltung des
-               <lb facs="#facs_2_region_1684669897767_684_tl_22" n="N025"/>Pariser Conservatoriums wird ein artistischer Entschuldigungs¬
+               <lb facs="#facs_2_region_1684669897767_684_tl_22" n="N025"/><rs type="place">Paris</rs>er Conservatoriums wird ein artistischer Entschuldigungs¬
                <lb facs="#facs_2_region_1684669897767_684_tl_23" n="N026"/>grund angegeben: der Festsaal des Trocadero ist zu groß
                <lb facs="#facs_2_region_1684669897767_684_tl_24" n="N027"/>für dieses aus blos 90 Personen bestehende Orchester, das
                <lb facs="#facs_2_region_1684669897767_684_tl_25" n="N028"/>seine Stärke nicht in Massenwirkungen, sondern in der feinsten
                <lb facs="#facs_2_region_1684669897767_684_tl_26" n="N029"/>Ausführung des Details hat. Dieser Ablehnungsgrund
                <lb facs="#facs_2_region_1684669897767_684_tl_27" n="N030"/>kommt, wie wir jetzt nach eigener Anschauung des Festsaales
-               <lb facs="#facs_2_line_1759641906517_239" n="N031"/>versichern können, den Wiener Philharmonikern gleichmäßig zu
+               <lb facs="#facs_2_line_1759641906517_239" n="N031"/>versichern können, den <rs type="place">Wien</rs>er Philharmonikern gleichmäßig zu
                <lb facs="#facs_2_region_1684669897767_684_tl_28" n="N032"/>statten. Selbst bei vollem Saale vermöchte unser treffliches
                <lb facs="#facs_2_region_1684669897767_684_tl_29" n="N033"/>Orchester hier nicht entfernt so künstlerisch zu wirken, wie in
-               <lb facs="#facs_2_region_1684669897767_684_tl_30" n="N034"/>Wien. Und wer garantirt auch nur den vollen Saal?
+               <lb facs="#facs_2_region_1684669897767_684_tl_30" n="N034"/><rs type="place">Wien</rs>. Und wer garantirt auch nur den vollen Saal?
                <lb facs="#facs_2_region_1684669897767_684_tl_31" n="N035"/>Eine aus allen Welttheilen zusammenströmende Touristen¬
                <lb facs="#facs_2_region_1684669897767_684_tl_32" n="N036"/>fluth ist kein Concert-Publicum wie das ständige unserer
-               <lb facs="#facs_2_region_1684669897767_684_tl_33" n="N037"/>Philharmoniker und das des Pariser-Conservatoriums. So glau¬
+               <lb facs="#facs_2_region_1684669897767_684_tl_33" n="N037"/>Philharmoniker und das des <rs type="place">Paris</rs>er Conservatoriums. So glau¬
                <lb facs="#facs_2_line_1759641791518_195" n="N038"/>ben wir, unbeirrt von unserem aufrichtigen Bedauern, die
             </ab>
             <pb facs="#facs_3" n="3" xml:id="img_0003"/>
             <ab facs="#facs_3_region_1684669908071_690" type="">
-               <lb facs="#facs_3_region_1684669908071_690_tl_1" n="N001"/>Wiener Musiker ob ihres Ausbleibens standhaft gerechtfertigt
+               <lb facs="#facs_3_region_1684669908071_690_tl_1" n="N001"/><rs type="place">Wien</rs>er Musiker ob ihres Ausbleibens standhaft gerechtfertigt
                <lb facs="#facs_3_region_1684669908071_690_tl_2" n="N002"/>zu haben, und zwar durch Darlegung der wahrhaften und
-               <lb facs="#facs_3_region_1684669908071_690_tl_3" n="N003"/>vernünftigen Gründe. Wenn die „Salzburger internationale
-               <lb facs="#facs_3_region_1684669908071_690_tl_4" n="N004"/>Mozart-Stiftung“ öffentlich erklärt, <italic>sie</italic> habe das Wiener
-               <lb facs="#facs_3_region_1684669908071_690_tl_5" n="N005"/>Philharmonie-Concert nach Paris bringen wollen, gebe den
+               <lb facs="#facs_3_region_1684669908071_690_tl_3" n="N003"/>vernünftigen Gründe. Wenn die „<rs type="place">Salzburg</rs>er internationale
+               <lb facs="#facs_3_region_1684669908071_690_tl_4" n="N004"/>Mozart-Stiftung“ öffentlich erklärt, <italic>sie</italic> habe das <rs type="place">Wien</rs>er
+               <lb facs="#facs_3_region_1684669908071_690_tl_5" n="N005"/>Philharmonie-Concert nach <rs type="place">Paris</rs> bringen wollen, gebe den
                <lb facs="#facs_3_region_1684669908071_690_tl_6" n="N006"/>Plan jedoch wegen der drohenden <italic>politischen</italic> Verhältnisse
-               <lb facs="#facs_3_region_1684669908071_690_tl_7" n="N007"/>auf (so oder ähnlich lauteten die Worte in Wiener Blättern),
+               <lb facs="#facs_3_region_1684669908071_690_tl_7" n="N007"/>auf (so oder ähnlich lauteten die Worte in <rs type="place">Wien</rs>er Blättern),
                <lb facs="#facs_3_region_1684669908071_690_tl_8" n="N008"/>so ist dies eine der kindischen Wichtigthuereien, in welchen
                <lb facs="#facs_3_region_1684669908071_690_tl_9" n="N009"/>dieser mehr wort- als thatenreiche Verein sich gefällt. Die
                <lb facs="#facs_3_region_1684669908071_690_tl_10" n="N010"/>„politischen Verhältnisse“, welche keine einzige Nation von
                <lb facs="#facs_3_line_1759641945710_254" n="N011"/>dem Besuch der Ausstellung abgeschreckt haben, dürften für
                <lb facs="#facs_3_region_1684669908071_690_tl_12" n="N012"/>die Salzburger auch noch gut genug sein.
                <lb facs="#facs_3_region_1684669908071_690_tl_13" n="N013"/>In officiellen Schriftstücken des gegenwärtigen Gouverne¬
-               <lb facs="#facs_3_region_1684669908071_690_tl_14" n="N014"/>ments findet sich gegen die Weltausstellung von 1867 der
+               <lb facs="#facs_3_region_1684669908071_690_tl_14" n="N014"/>ments findet sich gegen die Weltausstellung von <date month="0" day="0" year="0">1867</date> der
                <lb facs="#facs_3_region_1684669908071_690_tl_15" n="N015"/>Tadel ausgesprochen, daß sie die Musik zu wenig berück¬
-               <lb facs="#facs_3_region_1684669908071_690_tl_16" n="N016"/>sichtigt habe. Und doch folgte im Jahre 1867 ein Preis¬
+               <lb facs="#facs_3_region_1684669908071_690_tl_16" n="N016"/>sichtigt habe. Und doch folgte im Jahre <date month="0" day="0" year="0">1867</date> ein Preis¬
                <lb facs="#facs_3_region_1684669908071_690_tl_17" n="N017"/>singen und Preisspielen dem andern, und der Wetteifer so
                <lb facs="#facs_3_region_1684669908071_690_tl_18" n="N018"/>vieler fremder Militärbanden, Gesangvereine, Fanfaren und
                <lb facs="#facs_3_region_1684669908071_690_tl_19" n="N019"/>Harmonie-Musiken hatte etwas eigenthümlich Frisches, Lebens¬
@@ -639,11 +639,11 @@
                <lb facs="#facs_3_region_1684669908071_690_tl_28" n="N029"/>Nationen ausgestellt werden, endlich auch noch in den
                <lb facs="#facs_3_region_1684669908071_690_tl_29" n="N030"/>Nationalmusiken aller Völker! Man denke nun, welche
                <lb facs="#facs_3_region_1684669908071_690_tl_30" n="N031"/>Menge von verschiedenen Völkerschaften allein das Kaiser¬
-               <lb facs="#facs_3_region_1684669908071_690_tl_31" n="N032"/>thum Oesterreich nach Paris senden müßte, um seinen
+               <lb facs="#facs_3_region_1684669908071_690_tl_31" n="N032"/>thum <rs type="place">Oesterreich</rs> nach <rs type="place">Paris</rs> senden müßte, um seinen
                <lb facs="#facs_3_region_1684669908071_690_tl_32" n="N033"/>Reichthum an Nationalmusik auszulegen! Die Betheiligung
                <lb facs="#facs_3_region_1684669908071_690_tl_33" n="N034"/>fremder Nationalmusiken („musique pittoresques“) ist in
                <lb facs="#facs_3_line_1759642013071_279" n="N035"/>Wirklichkeit sehr schwach ausgefallen und dürfte kein Halb¬
-               <lb facs="#facs_3_region_1684669908071_690_tl_34" n="N036"/>dutzend erreichen. Die russischen Zigeuner machen Furore,
+               <lb facs="#facs_3_region_1684669908071_690_tl_34" n="N036"/>dutzend erreichen. Die <rs type="place">russisch</rs>en Zigeuner machen Furore,
                <lb facs="#facs_3_line_1759642030126_292" n="N037"/>aber sie singen im Tuilerien-Garten, im Freien, nicht im
                <lb facs="#facs_3_region_1684669908071_690_tl_35" n="N038"/>Trocadero-Saal. Desgleichen ist von einer vollständigen Ver¬
             </ab>
@@ -652,10 +652,10 @@
                <lb facs="#facs_3_region_1684669911724_693_tl_2" n="N002"/>Rede. Sie ist nicht möglich und auch nicht nothwendig in
                <lb facs="#facs_3_region_1684669911724_693_tl_3" n="N003"/>einer Weltausstellung. Sie für <italic>möglich</italic> gehalten und für
                <lb facs="#facs_3_region_1684669911724_693_tl_4" n="N004"/><italic>nothwendig</italic> erklärt zu haben, war von Anfang ein
-               <lb facs="#facs_3_region_1684669911724_693_tl_5" n="N005"/>principieller Irrthum der französischen Commission, so
+               <lb facs="#facs_3_region_1684669911724_693_tl_5" n="N005"/>principieller Irrthum der <rs type="place">französisch</rs>en Commission, so
                <lb facs="#facs_3_region_1684669911724_693_tl_6" n="N006"/>ideale Gesichtspunkte ihr auch dabei vorschweben mochten.
                <lb facs="#facs_3_region_1684669911724_693_tl_7" n="N007"/>Es läßt sich nicht jede Blüthe fremden Geistes- und Ge¬
-               <lb facs="#facs_3_region_1684669911724_693_tl_8" n="N008"/>müthslebens beliebig nach Paris transportiren. Ausstellen
+               <lb facs="#facs_3_region_1684669911724_693_tl_8" n="N008"/>müthslebens beliebig nach <rs type="place">Paris</rs> transportiren. Ausstellen
                <lb facs="#facs_3_region_1684669911724_693_tl_9" n="N009"/>lassen sich die fertigen Thatsachen der Kunst und des Kunst¬
                <lb facs="#facs_3_region_1684669911724_693_tl_10" n="N010"/>gewerbes, und sie sind hier ausgestellt: die Musik-Instru¬
                <lb facs="#facs_3_line_1759641945710_253" n="N011"/>mente und die Tondichtungen aller Culturvölker in den
@@ -663,15 +663,15 @@
                <lb facs="#facs_3_region_1684669911724_693_tl_12" n="N013"/>— das Thun, nicht blos die That — wurzelt ungleich fester
                <lb facs="#facs_3_region_1684669911724_693_tl_13" n="N014"/>im heimatlichen Boden. Da wird sie am schönsten geübt
                <lb facs="#facs_3_region_1684669911724_693_tl_14" n="N015"/>und am besten gewürdigt. Jeder musikalische Reisende wird
-               <lb facs="#facs_3_region_1684669911724_693_tl_15" n="N016"/>sich freuen, in Holland das Orchester von Amsterdam, in
-               <lb facs="#facs_3_region_1684669911724_693_tl_16" n="N017"/>Italien das von Mailand zu hören. Hier in Paris, in dem
+               <lb facs="#facs_3_region_1684669911724_693_tl_15" n="N016"/>sich freuen, in <rs type="place">Holland</rs> das Orchester von <rs type="place">Amsterdam</rs>, in
+               <lb facs="#facs_3_region_1684669911724_693_tl_16" n="N017"/><rs type="place">Italien</rs> das von <rs type="place">Mailand</rs> zu hören. Hier in <rs type="place">Paris</rs>, in dem
                <lb facs="#facs_3_region_1684669911724_693_tl_17" n="N018"/>Taumel der Weltausstellung, fehlt uns die Lust und Muße
                <lb facs="#facs_3_region_1684669911724_693_tl_18" n="N019"/>zu anhaltendem Concertbesuch. Zwei bis drei große Musik¬
                <lb facs="#facs_3_region_1684669911724_693_tl_19" n="N020"/>feste, nicht mehr, mit ganz internationalem, nur den Werth
                <lb facs="#facs_3_region_1684669911724_693_tl_20" n="N021"/>der Compositionen beachtendem Programm hätten genügt und
-               <lb facs="#facs_3_region_1684669911724_693_tl_21" n="N022"/>eindringlicher gewirkt, als dieses „wohltemperirte Clavier“
+               <lb facs="#facs_3_region_1684669911724_693_tl_21" n="N022"/>eindringlicher gewirkt, als dieses „<work>wohltemperirte Clavier</work>“
                <lb facs="#facs_3_region_1684669911724_693_tl_22" n="N023"/>von 24 Musiknationen. Wenn der bisherige Erfolg der
-               <lb facs="#facs_3_region_1684669911724_693_tl_23" n="N024"/>Pariser Ausstellungs-Concerte mehr einer getäuschten als
+               <lb facs="#facs_3_region_1684669911724_693_tl_23" n="N024"/><rs type="place">Paris</rs>er Ausstellungs-Concerte mehr einer getäuschten als
                <lb facs="#facs_3_region_1684669911724_693_tl_24" n="N025"/>einer erfüllten Hoffnung gleichsieht, so scheint mir dies weni¬
                <lb facs="#facs_3_line_1759641967437_264" n="N026"/>ger an zufälligen Mißgeschicken (wozu die zahlreichen Absagen
                <lb facs="#facs_3_region_1684669911724_693_tl_26" n="N027"/>bereits angemeldeter Orchester zählen), als vielmehr an der
@@ -679,9 +679,9 @@
                <lb facs="#facs_3_region_1684669911724_693_tl_28" n="N029"/>ist nicht gut, bei vorzugsweise industriellen Exhibitionen den
                <lb facs="#facs_3_region_1684669911724_693_tl_29" n="N030"/>Universalitäts-Gedanken zu weit zu treiben nach Seite der
                <lb facs="#facs_3_region_1684669911724_693_tl_30" n="N031"/>geistigen Production. Aus demselben Principe müßte man
-               <lb facs="#facs_3_region_1684669911724_693_tl_31" n="N032"/>verlangen, daß die besten deutschen Hoftheater hier Goethe
-               <lb facs="#facs_3_region_1684669911724_693_tl_32" n="N033"/>und Schiller aufführen sollten, italienische Schauspieler ihren
-               <lb facs="#facs_3_region_1684669911724_693_tl_33" n="N034"/>Goldoni, spanische den Calderon u. s. w. Man muß der
+               <lb facs="#facs_3_region_1684669911724_693_tl_31" n="N032"/>verlangen, daß die besten <rs type="place">deutsch</rs>en Hoftheater hier <rs type="person">Goethe</rs>
+               <lb facs="#facs_3_region_1684669911724_693_tl_32" n="N033"/>und <rs type="person">Schiller</rs> aufführen sollten, <rs type="place">italienisch</rs>e Schauspieler ihren
+               <lb facs="#facs_3_region_1684669911724_693_tl_33" n="N034"/><rs type="person">Goldoni</rs>, <rs type="place">spanisch</rs>e den <rs type="person">Calderon</rs> u. s. w. Man muß der
                <lb facs="#facs_3_line_1759642013070_278" n="N035"/>menschlichen Empfänglichkeit nicht zu viel auf Einmal zu¬
                <lb facs="#facs_3_region_1684669911724_693_tl_35" n="N036"/>muthen und noch weniger glauben, es lasse sich das ge¬
                <lb facs="#facs_3_line_1759642030125_291" n="N037"/>sammte Tonleben aller Völker in Weltausstellungsform
