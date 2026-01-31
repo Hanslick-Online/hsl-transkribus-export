@@ -21,10 +21,10 @@
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_1">
          <graphic url="47753181.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?fileType=view&amp;id=SZHJSJMLCDFKXSXTHWWAZLFJ" width="2479px" height="3508px"/>
-         <zone points="470,51 1736,51 1736,403 470,403" rendition="TextRegion" xml:id="facs_1_region_1767943976054_614" subtype="paragraph">
+         <zone points="470,51 1736,51 1736,403 470,403" rendition="TextRegion" xml:id="facs_1_region_1767943976054_614">
             <zone points="615,58 1691,58 1691,395 615,395" rendition="Line" xml:id="facs_1_line_1768201696454_582"/>
          </zone>
-         <zone points="911,415 1256,415 1256,506 911,506" rendition="TextRegion" xml:id="facs_1_region_1767943978342_617" subtype="paragraph">
+         <zone points="911,415 1256,415 1256,506 911,506" rendition="TextRegion" xml:id="facs_1_region_1767943978342_617">
             <zone points="912,435 1247,435 1247,506 912,506" rendition="Line" xml:id="facs_1_region_1767943978342_617_tl_1"/>
          </zone>
          <zone points="31,508 2124,508 2124,582 31,582" rendition="TextRegion" xml:id="facs_1_region_1767943983302_620">
@@ -330,10 +330,12 @@
       <body>
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-            <p facs="#facs_1_region_1767943976054_614">
-               <lb facs="#facs_1_line_1768201696454_582" n="N001"/>Neue Freie Presse</p>
-            <p facs="#facs_1_region_1767943978342_617">
-               <lb facs="#facs_1_region_1767943978342_617_tl_1" n="N001"/>Morgenblatt</p>
+            <ab facs="#facs_1_region_1767943976054_614" type="">
+               <lb facs="#facs_1_line_1768201696454_582" n="N001"/>Neue Freie Presse
+            </ab>
+            <ab facs="#facs_1_region_1767943978342_617" type="">
+               <lb facs="#facs_1_region_1767943978342_617_tl_1" n="N001"/>Morgenblatt
+            </ab>
             <ab facs="#facs_1_region_1767943983302_620" type="">
                <lb facs="#facs_1_line_1768201713918_595" n="N001"/>Nr. 5231. Wien, Donnerstag, den 20. März 1879
             </ab>

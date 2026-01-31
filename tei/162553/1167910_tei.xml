@@ -21,10 +21,10 @@
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_1">
          <graphic url="47753245.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?fileType=view&amp;id=RGBECTMWPVLJGNDHALWERRBS" width="2479px" height="3508px"/>
-         <zone points="452,55 1677,55 1677,417 452,417" rendition="TextRegion" xml:id="facs_1_region_1767944499795_792" subtype="paragraph">
+         <zone points="452,55 1677,55 1677,417 452,417" rendition="TextRegion" xml:id="facs_1_region_1767944499795_792">
             <zone points="460,19 1665,19 1665,396 460,396" rendition="Line" xml:id="facs_1_line_1768372447684_687"/>
          </zone>
-         <zone points="870,419 1224,419 1224,525 870,525" rendition="TextRegion" xml:id="facs_1_region_1767944501441_795" subtype="paragraph">
+         <zone points="870,419 1224,419 1224,525 870,525" rendition="TextRegion" xml:id="facs_1_region_1767944501441_795">
             <zone points="887,440 1220,440 1220,508 887,508" rendition="Line" xml:id="facs_1_region_1767944501441_795_tl_1"/>
          </zone>
          <zone points="13,528 2110,528 2110,611 13,611" rendition="TextRegion" xml:id="facs_1_region_1767944504817_798">
@@ -271,10 +271,12 @@
       <body>
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-            <p facs="#facs_1_region_1767944499795_792">
-               <lb facs="#facs_1_line_1768372447684_687" n="N001"/>Neue Freie Presse</p>
-            <p facs="#facs_1_region_1767944501441_795">
-               <lb facs="#facs_1_region_1767944501441_795_tl_1" n="N001"/>Morgenblatt</p>
+            <ab facs="#facs_1_region_1767944499795_792" type="">
+               <lb facs="#facs_1_line_1768372447684_687" n="N001"/>Neue Freie Presse
+            </ab>
+            <ab facs="#facs_1_region_1767944501441_795" type="">
+               <lb facs="#facs_1_region_1767944501441_795_tl_1" n="N001"/>Morgenblatt
+            </ab>
             <ab facs="#facs_1_region_1767944504817_798" type="">
                <lb facs="#facs_1_line_1768372462930_698" n="N001"/>Nr. 5252. Wien, Donnerstag, den 10. April 1879
             </ab>

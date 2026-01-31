@@ -21,13 +21,13 @@
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_1">
          <graphic url="47753176.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?fileType=view&amp;id=PCRZTTLFAJIRVBKOCVJDRWHS" width="2479px" height="3508px"/>
-         <zone points="460,100 1697,100 1697,441 460,441" rendition="TextRegion" xml:id="facs_1_region_1767943851287_577" subtype="paragraph">
+         <zone points="460,100 1697,100 1697,441 460,441" rendition="TextRegion" xml:id="facs_1_region_1767943851287_577">
             <zone points="625,96 1683,96 1683,437 625,437" rendition="Line" xml:id="facs_1_line_1768197080400_10"/>
          </zone>
-         <zone points="884,462 1256,462 1256,547 884,547" rendition="TextRegion" xml:id="facs_1_region_1767943854647_580" subtype="paragraph">
+         <zone points="884,462 1256,462 1256,547 884,547" rendition="TextRegion" xml:id="facs_1_region_1767943854647_580">
             <zone points="907,480 1244,480 1244,550 907,550" rendition="Line" xml:id="facs_1_region_1767943854647_580_tl_1"/>
          </zone>
-         <zone points="40,565 2117,565 2117,634 40,634" rendition="TextRegion" xml:id="facs_1_region_1767943858599_583" subtype="paragraph">
+         <zone points="40,565 2117,565 2117,634 40,634" rendition="TextRegion" xml:id="facs_1_region_1767943858599_583">
             <zone points="51,570 2109,570 2109,629 51,629" rendition="Line" xml:id="facs_1_line_1768197102546_24"/>
          </zone>
          <zone points="0,2300 715,2300 715,3490 0,3490" rendition="TextRegion" xml:id="facs_1_region_1767943870470_586">
@@ -310,12 +310,15 @@
       <body>
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-            <p facs="#facs_1_region_1767943851287_577">
-               <lb facs="#facs_1_line_1768197080400_10" n="N001"/>Neue Freie Presse</p>
-            <p facs="#facs_1_region_1767943854647_580">
-               <lb facs="#facs_1_region_1767943854647_580_tl_1" n="N001"/>Morgenblatt</p>
-            <p facs="#facs_1_region_1767943858599_583">
-               <lb facs="#facs_1_line_1768197102546_24" n="N001"/>Nr. 5224. Wien, Donnerstag, den 13. März 1879</p>
+            <ab facs="#facs_1_region_1767943851287_577" type="">
+               <lb facs="#facs_1_line_1768197080400_10" n="N001"/>Neue Freie Presse
+            </ab>
+            <ab facs="#facs_1_region_1767943854647_580" type="">
+               <lb facs="#facs_1_region_1767943854647_580_tl_1" n="N001"/>Morgenblatt
+            </ab>
+            <ab facs="#facs_1_region_1767943858599_583" type="">
+               <lb facs="#facs_1_line_1768197102546_24" n="N001"/>Nr. 5224. Wien, Donnerstag, den 13. März 1879
+            </ab>
             <ab facs="#facs_1_region_1767943870470_586" type="">
                <lb facs="#facs_1_region_1767943870470_586_tl_1" n="N001"/>Concerte.
                <lb facs="#facs_1_region_1767943870470_586_tl_2" n="N002"/>Ed. H. Unter den Reliquien <italic><rs type="person">Herbeck</rs>'s</italic> hat sich ein
