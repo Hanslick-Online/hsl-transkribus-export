@@ -20,23 +20,20 @@
    <facsimile>
       <surface ulx="0" uly="0" lrx="4550" lry="7208" xml:id="facs_1">
          <graphic url="64411649.jpg" width="4550px" height="7208px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=TFZRVASQHRUNQJPPXWBTGCBC&amp;fileType=view" width="4550px" height="7208px"/>
+         <graphic url="https://files.transkribus.eu/Get?fileType=view&amp;id=TFZRVASQHRUNQJPPXWBTGCBC" width="4550px" height="7208px"/>
          <zone points="983,155 3462,155 3462,827 983,827" rendition="TextRegion" xml:id="facs_1_region_1706947870098_517">
-            <zone points="1841,140 2542,140 2542,307 1841,307" rendition="Line" xml:id="facs_1_region_1706947870098_517_tl_1"/>
-            <zone points="986,384 3427,384 3427,810 986,810" rendition="Line" xml:id="facs_1_region_1706947870098_517_tl_2"/>
+            <zone points="986,140 3427,140 3427,810 986,810" rendition="Line" xml:id="facs_1_l"/>
          </zone>
          <zone points="1864,889 2547,889 2547,1033 1864,1033" rendition="TextRegion" xml:id="facs_1_region_1706947872594_520">
             <zone points="1866,874 2514,874 2514,1053 1866,1053" rendition="Line" xml:id="facs_1_region_1706947872594_520_tl_1"/>
          </zone>
          <zone points="32,1080 4340,1080 4340,1214 32,1214" rendition="TextRegion" xml:id="facs_1_region_1706947876794_523">
-            <zone points="3942,1014 4337,1014 4337,1187 3942,1187" rendition="Line" xml:id="facs_1_region_1706947876794_523_tl_1"/>
-            <zone points="1583,1014 2846,1014 2846,1196 1583,1196" rendition="Line" xml:id="facs_1_region_1706947876794_523_tl_2"/>
-            <zone points="103,1108 685,1108 685,1205 103,1205" rendition="Line" xml:id="facs_1_region_1706947876794_523_tl_3"/>
+            <zone points="103,1014 4337,1014 4337,1205 103,1205" rendition="Line" xml:id="facs_1_l_2"/>
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="4550" lry="7208" xml:id="facs_2">
          <graphic url="64411652.jpg" width="4550px" height="7208px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=YPUTJOKSTMARWYNDUJNIVCYT&amp;fileType=view" width="4550px" height="7208px"/>
+         <graphic url="https://files.transkribus.eu/Get?fileType=view&amp;id=YPUTJOKSTMARWYNDUJNIVCYT" width="4550px" height="7208px"/>
          <zone points="56,1771 1524,1771 1524,3340 56,3340" rendition="TextRegion" xml:id="facs_2_region_1706947893154_529">
             <zone points="172,1752 1389,1752 1389,1872 172,1872" rendition="Line" xml:id="facs_2_region_1706947893154_529_tl_1"/>
             <zone points="62,1825 1386,1825 1386,1897 62,1897" rendition="Line" xml:id="facs_2_region_1706947893154_529_tl_2"/>
@@ -58,8 +55,7 @@
             <zone points="67,2690 1504,2690 1504,2757 67,2757" rendition="Line" xml:id="facs_2_region_1706947893154_529_tl_18"/>
             <zone points="67,2733 1493,2733 1493,2800 67,2800" rendition="Line" xml:id="facs_2_region_1706947893154_529_tl_19"/>
             <zone points="67,2799 1489,2799 1489,2862 67,2862" rendition="Line" xml:id="facs_2_region_1706947893154_529_tl_20"/>
-            <zone points="247,2855 1475,2855 1475,2918 247,2918" rendition="Line" xml:id="facs_2_region_1706947893154_529_tl_21"/>
-            <zone points="49,2846 252,2846 252,2915 49,2915" rendition="Line" xml:id="facs_2_region_1706947893154_529_tl_22"/>
+            <zone points="49,2846 1475,2846 1475,2918 49,2918" rendition="Line" xml:id="facs_2_l"/>
             <zone points="62,2898 1493,2898 1493,2964 62,2964" rendition="Line" xml:id="facs_2_region_1706947893154_529_tl_23"/>
             <zone points="62,2958 1504,2958 1504,3016 62,3016" rendition="Line" xml:id="facs_2_region_1706947893154_529_tl_24"/>
             <zone points="49,3007 1504,3007 1504,3067 49,3067" rendition="Line" xml:id="facs_2_region_1706947893154_529_tl_25"/>
@@ -76,49 +72,45 @@
          <div>
             <pb facs="#facs_1" n="1" xml:id="img_0001"/>
             <ab facs="#facs_1_region_1706947870098_517" type="">
-               <lb facs="#facs_1_region_1706947870098_517_tl_1" n="N001"/>Neue
-               <lb facs="#facs_1_region_1706947870098_517_tl_2" n="N002"/>Freie Presse.
+               <lb facs="#facs_1_l" n="N001"/>Neue Freie Presse
             </ab>
             <ab facs="#facs_1_region_1706947872594_520" type="">
-               <lb facs="#facs_1_region_1706947872594_520_tl_1" n="N001"/>Morgenblatt.
+               <lb facs="#facs_1_region_1706947872594_520_tl_1" n="N001"/>Morgenblatt
             </ab>
             <ab facs="#facs_1_region_1706947876794_523" type="">
-               <lb facs="#facs_1_region_1706947876794_523_tl_1" n="N001"/>1884.
-               <lb facs="#facs_1_region_1706947876794_523_tl_2" n="N002"/>Wien, Freitag, den 25. Januar
-               <lb facs="#facs_1_region_1706947876794_523_tl_3" n="N003"/>Nr. 6973.
+               <lb facs="#facs_1_l_2" n="N001"/>Nr. 6973. Wien, Freitag, den 25. Januar 1884
             </ab>
             <pb facs="#facs_2" n="2" xml:id="img_0002"/>
             <ab facs="#facs_2_region_1706947893154_529" type="">
-               <lb facs="#facs_2_region_1706947893154_529_tl_1" n="N001"/>Ed. II. Der richtige Geburtstag Auber's.
-               <lb facs="#facs_2_region_1706947893154_529_tl_2" n="N002"/>alle Wiener Journale veröffentlichen die Notiz, es werd
-               <lb facs="#facs_2_region_1706947893154_529_tl_3" n="N003"/>29. d. im Hofoperntheater zur Feier des hundertsten Geburts
-               <lb facs="#facs_2_region_1706947893154_529_tl_4" n="N004"/>tages Auber's" dessen „Stumme von Portici" aufgeführt wer¬
-               <lb facs="#facs_2_region_1706947893154_529_tl_5" n="N005"/>den. Eine musterhafte Vorstellung dieser lange hier ausgeset
-               <lb facs="#facs_2_region_1706947893154_529_tl_6" n="N006"/>Oper wird uns jederzeit, also auch am 29. d., sehr willkom¬
-               <lb facs="#facs_2_region_1706947893154_529_tl_7" n="N007"/>sein, aber eine „Jubiläums=Feier" ist sie keineswegs Diese hät¬
-               <lb facs="#facs_2_region_1706947893154_529_tl_8" n="N008"/>bereits vor zwei Jahren stattfinden müssen, denn Auber ist an
-               <lb facs="#facs_2_region_1706947893154_529_tl_9" n="N009"/>29. Januar 1782 geboren. Schon Fétis hat in seiner „Bio
-               <lb facs="#facs_2_region_1706947893154_529_tl_10" n="N010"/>graphie des Musiciens (1860) dieses ihm von Auber's Vater
+               <lb facs="#facs_2_region_1706947893154_529_tl_1" n="N001"/>Ed. H. [Der richtige Geburtstag <rs type="person">Auber</rs>'s.] Fast
+               <lb facs="#facs_2_region_1706947893154_529_tl_2" n="N002"/>alle <rs type="place">Wien</rs>er Journale veröffentlichen die Notiz, es werde am
+               <lb facs="#facs_2_region_1706947893154_529_tl_3" n="N003"/>29. d. im Hofoperntheater „zur Feier des hundertsten Geburts¬
+               <lb facs="#facs_2_region_1706947893154_529_tl_4" n="N004"/>tages <italic><rs type="person">Auber</rs>'s</italic>“ dessen „<work>Stumme von Portici</work>“ aufgeführt wer¬
+               <lb facs="#facs_2_region_1706947893154_529_tl_5" n="N005"/>den. Eine musterhafte Vorstellung dieser lange hier ausgesetzten
+               <lb facs="#facs_2_region_1706947893154_529_tl_6" n="N006"/>Oper wird uns jederzeit, also auch am 29. d., sehr willkommen
+               <lb facs="#facs_2_region_1706947893154_529_tl_7" n="N007"/>sein, aber eine „Jubiläums-Feier“ ist sie keineswegs Diese hätte
+               <lb facs="#facs_2_region_1706947893154_529_tl_8" n="N008"/>bereits vor zwei Jahren stattfinden müssen, denn <rs type="person">Auber</rs> ist am
+               <lb facs="#facs_2_region_1706947893154_529_tl_9" n="N009"/>29. Januar <italic>1782</italic> geboren. Schon <italic><rs type="person">Fétis</rs></italic> hat in seiner „<work continued="true">Bio¬</work>
+               <lb facs="#facs_2_region_1706947893154_529_tl_10" n="N010"/><work continued="true">graphie des Musiciens</work>“ (<date>1860</date>) dieses ihm von <rs type="person">Auber</rs>'s <rs type="person">Vater</rs>
                <lb facs="#facs_2_region_1706947893154_529_tl_11" n="N011"/>authentisch mitgetheilte Datum festgestellt. Bei Gelegenheit von
-               <lb facs="#facs_2_region_1706947893154_529_tl_12" n="N012"/>Auber's Hinscheiden (+ 12. Mai 1871) ist auch der Taufschei¬
-               <lb facs="#facs_2_region_1706947893154_529_tl_13" n="N013"/>desselben aus den Kirchenbüchern seines Geburtsortes Caen in
-               <lb facs="#facs_2_region_1706947893154_529_tl_14" n="N014"/>der Normandie wortgetreu veröffentlicht worden, welcher nicht den
-               <lb facs="#facs_2_region_1706947893154_529_tl_15" n="N015"/>geringsten Zweifel über Auber's Geburtsjahr 1782 zuläßt. In
-               <lb facs="#facs_2_region_1706947893154_529_tl_16" n="N016"/>ganz Frankreich, auch in mehreren deutschen Hauptstädten, i
-               <lb facs="#facs_2_region_1706947893154_529_tl_17" n="N017"/>hatsächlich der 29. Januar 1882 durch festliche Aufführungen
-               <lb facs="#facs_2_region_1706947893154_529_tl_18" n="N018"/>seiner Opern gefeiert worden; in Carn überdies durch die Ent¬
-               <lb facs="#facs_2_region_1706947893154_529_tl_19" n="N019"/>hüllung der Statue Auber's. Von diesen Festlichkeiten war seiner
-               <lb facs="#facs_2_region_1706947893154_529_tl_20" n="N020"/>zeit in allen Blättern ausführlich zu lesen und in dem Musik
-               <lb facs="#facs_2_region_1706947893154_529_tl_21" n="N021"/>in der „Neuen Freien Presse“ vom 31. Januar 188.
-               <lb facs="#facs_2_region_1706947893154_529_tl_22" n="N022"/>Feuilleto
-               <lb facs="#facs_2_region_1706947893154_529_tl_23" n="N023"/>das lebhafteste Bedauern ausgesprochen, daß das Wiener Hof=
-               <lb facs="#facs_2_region_1706947893154_529_tl_24" n="N024"/>operntheater von dem hundertjährigen Geburtstage Auber's
-               <lb facs="#facs_2_region_1706947893154_529_tl_25" n="N025"/>ebensowenig Notiz genommen habe, wie am 15. December 1875
-               <lb facs="#facs_2_region_1706947893154_529_tl_26" n="N026"/>von der Säcularfeier Boteldieus. Beiläufig bemerkt ist die
-               <lb facs="#facs_2_region_1706947893154_529_tl_27" n="N027"/>gestern von einem Wiener Journale gebrachte Notiz, daß in dieses
-               <lb facs="#facs_2_region_1706947893154_529_tl_28" n="N028"/>Jahr auch der hundertste Geburtstag Spontinis falle, ebens¬
-               <lb facs="#facs_2_region_1706947893154_529_tl_29" n="N029"/>unrichtig wie die „bevorstehende Säcularfeier" Auber's, de
-               <lb facs="#facs_2_region_1706947893154_529_tl_30" n="N030"/>Spontini am 14. November 1774 geboren wurde.
+               <lb facs="#facs_2_region_1706947893154_529_tl_12" n="N012"/><rs type="person">Auber</rs>'s Hinscheiden († 12. Mai <date>1871</date>) ist auch der Taufschein
+               <lb facs="#facs_2_region_1706947893154_529_tl_13" n="N013"/>desselben aus den Kirchenbüchern seines Geburtsortes <rs type="place">Caën</rs> in
+               <lb facs="#facs_2_region_1706947893154_529_tl_14" n="N014"/>der <rs type="place">Normandie</rs> wortgetreu veröffentlicht worden, welcher nicht den
+               <lb facs="#facs_2_region_1706947893154_529_tl_15" n="N015"/>geringsten Zweifel über <rs type="person">Auber</rs>'s Geburtsjahr <date>1782</date> zuläßt. In
+               <lb facs="#facs_2_region_1706947893154_529_tl_16" n="N016"/>ganz <rs type="place">Frankreich</rs>, auch in mehreren <rs type="place">deutsch</rs>en Hauptstädten, ist
+               <lb facs="#facs_2_region_1706947893154_529_tl_17" n="N017"/>thatsächlich der 29. Januar <date>1882</date> durch festliche Aufführungen
+               <lb facs="#facs_2_region_1706947893154_529_tl_18" n="N018"/>seiner Opern gefeiert worden; in <rs type="place">Caën</rs> überdies durch die Ent¬
+               <lb facs="#facs_2_region_1706947893154_529_tl_19" n="N019"/>hüllung der Statue <rs type="person">Auber</rs>'s. Von diesen Festlichkeiten war seiner¬
+               <lb facs="#facs_2_region_1706947893154_529_tl_20" n="N020"/>zeit in allen Blättern ausführlich zu lesen und in dem Musik-
+               <lb facs="#facs_2_l" n="N021"/><work>Feuilleton</work> der „<work>Neuen Freien Presse</work>“ vom 31. Januar <date>1882</date>
+               <lb facs="#facs_2_region_1706947893154_529_tl_23" n="N022"/>das lebhafteste Bedauern ausgesprochen, daß das <rs type="place">Wien</rs>er Hof¬
+               <lb facs="#facs_2_region_1706947893154_529_tl_24" n="N023"/>operntheater von dem hundertjährigen Geburtstage <italic><rs type="person">Auber</rs>'s</italic>
+               <lb facs="#facs_2_region_1706947893154_529_tl_25" n="N024"/>ebensowenig Notiz genommen habe, wie am 15. December <date>1875</date>
+               <lb facs="#facs_2_region_1706947893154_529_tl_26" n="N025"/>von der Säcularfeier <italic><rs type="person">Boïeldieu</rs>'s</italic>. Beiläufig bemerkt ist die
+               <lb facs="#facs_2_region_1706947893154_529_tl_27" n="N026"/>gestern von einem <rs type="place">Wien</rs>er Journale gebrachte Notiz, daß in dieses
+               <lb facs="#facs_2_region_1706947893154_529_tl_28" n="N027"/>Jahr auch der hundertste Geburtstag <rs type="person">Spontini</rs>'s falle, ebenso
+               <lb facs="#facs_2_region_1706947893154_529_tl_29" n="N028"/>unrichtig wie die „bevorstehende Säcularfeier" <italic><rs type="person">Auber</rs>'s</italic>, da
+               <lb facs="#facs_2_region_1706947893154_529_tl_30" n="N029"/><rs type="person">Spontini</rs> am 14. November <date>1774</date> geboren wurde.
             </ab>
          </div>
       </body>
